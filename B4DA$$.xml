@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <?xml-model href="schema1.rnc" type="application/relax-ng-compact-syntax"?>
-<album ref="B4.DA.$$">
-    <title ref="SaveTheChildren">Save The Children</title>
-    <song ref="SaveTheChildren" feature="none">
+<album ref="B4.DA.$$" source="">
+    <song title="SaveTheChildren" feature="none" production="StatikSelektah">
         <stanza type="verse">
             <li>It's all a hidden history, and mysteries</li>
             <li>I see vividly, hysteria</li>
@@ -77,8 +76,7 @@
             <li>Save the chil</li>
         </stanza>
     </song>
-    <title ref="Greenbax">Greenbax (Introlude)</title>
-    <song ref="Greenbax" feature="none">
+    <song title="Greenbax" feature="none" production="">
         <stanza type="verse">
             <li>I’m from the broke land</li>
             <li>You could get smoked, man</li>
@@ -95,8 +93,7 @@
             <li>I get you sproused, let it out, look who’s spazzin’ now</li>
         </stanza>
     </song>
-    <title ref="PaperTrail$">Paper Trail$</title>
-    <song ref="PaperTrail$" feature="none">
+    <song title="PaperTrail$" feature="none" production="">
         <stanza type="hook">
             <li>Before the money, there was love</li>
             <li>But before the money, it was tough</li>
@@ -169,8 +166,7 @@
             <li>It's a shame this ain't enough, yo</li>
         </stanza>
     </song>
-    <title ref="PieceOfMind">Piece Of Mind</title>
-    <song ref="PieceOfMind" feature="none">
+    <song title="PieceOfMind" feature="none" production="">
         <stanza type="skit">
             <li>Hello?</li>
             <li>Yeah I hear you bro, I hear you</li>
@@ -181,7 +177,6 @@
             <li>Yo yo you hear it bro?</li>
             <li>Yeah</li>
         </stanza>
-
         <stanza type="intro">
             <li>Yeah</li>
             <li>Alright listen, listen</li>
@@ -269,8 +264,7 @@
             <li>Oh you heard that shit!</li>
         </stanza>
     </song>
-    <title ref="BigDusty">Big Dusty</title>
-    <song ref="BigDusty" feature="none">
+    <song title="BigDusty" feature="none" production="">
         <stanza type="hook">
             <li>Check my style, check, check, check it out</li>
             <li>Check my style, check, check, check it out</li>
@@ -314,8 +308,9 @@
             <li>Jack, jack, jack it out</li>
             <li>(Check, check, it out)</li>
         </stanza>
-        <stanza type="verse"><li>I stand juxtaposed to all my Pro's, realest illest niggas I know</li>
-                <li>See these foes biting the flows, they even jooks the pose</li>
+        <stanza type="verse">
+            <li>I stand juxtaposed to all my Pro's, realest illest niggas I know</li>
+            <li>See these foes biting the flows, they even jooks the pose</li>
             <li>I guess my CD really shaking the coast</li>
             <li>Cause this really be the year that I feast, capisce?</li>
             <li>Nothing defeats the beast, I speak my piece</li>
@@ -362,8 +357,7 @@
             <li>Check my style, check, check, check it out</li>
         </stanza>
     </song>
-    <title ref="HazeusView">Hazeus View</title>
-    <song ref="HazeusView" feature="none">
+    <song title="HazeusView" feature="none" production="">
         <stanza type="intro">
             <li>Will I see you through my Hazeus View?</li>
             <li>Will I see you through my Hazeus View?</li>
@@ -435,8 +429,7 @@
             <li>Hey Jesus will I ever get to see you through my Hazeus View?</li>
         </stanza>
     </song>
-    <title ref="LikeMe">Like Me</title>
-    <song ref="LikeMe" feature="BJtheChicagoKid">
+    <song title="LikeMe" feature="BJtheChicagoKid" production="">
         <stanza type="intro" artist="JoeyBada$$">
             <li>One time what's the word</li>
             <li>What's the word</li>
@@ -539,8 +532,7 @@
             like me</li><li>Hope for a nigga like me</li>
             <li>Just pray there's hope for a nigga like me</li></stanza>
     </song>
-    <title ref="BellyOfTheBeast">Belly Of The Beast</title>
-    <song ref="BellyOfTheBeast" feature="Chronixx">
+    <song title="BellyOfTheBeast" feature="Chronixx" production="">
         <stanza type="intro">
             <li>Dangerous, dangerous</li>
             <li>These niggas can't hang with us hang with us</li>
@@ -614,8 +606,8 @@
             <li>Deeper and deeper</li>
         </stanza>
     </song>
-    <title ref="No.99">No. 99</title>
-    <song ref="No.99" feature="none">
+
+    <song title="No.99" feature="none" production="">
         <stanza type="hook">
             <li>What's my name? What's my name?</li>
             <li>Badmon</li>
@@ -704,8 +696,7 @@
             <li>Lick a shot one time</li>
         </stanza>
     </song>
-    <title ref="ChristConscious">Christ Conscious</title>
-    <song ref="ChristConscious" feature="none">
+    <song title="ChristConscious" feature="none" production="">
         <stanza type="intro"><li>Mother, mothersucker, yeah, oh, this is what you want, huh?</li>
                 <li>Microphone checker, yo, yo, yo</li></stanza>
         <stanza type="verse">
@@ -754,8 +745,7 @@
 
         <stanza type="outro"><li>Niggas know, niggas, niggas, niggas know</li></stanza>
     </song>
-    <title ref="OnandOn">On and On</title>
-    <song ref="OnandOn" feature="MaverickSabre DyemondLewis">
+    <song title="OnandOn" feature="MaverickSabre DyemondLewis" production="">
         <stanza type="intro" artist="JoeyBada$$"><li>Mama I just booked a first class ticket to my
             destiny by the way</li> <li>Yeah</li></stanza>
         <stanza type="bridge" artist="MaverickSabre">
@@ -852,8 +842,7 @@
             <li>One day we will fly away (Fly away, fly away)</li>
         </stanza>
     </song>
-    <title ref="Escape120">Escape 120</title>
-    <song ref="Escape120" feature="Raury">
+    <song title="Escape120" feature="Raury" production="">
         <stanza type="hook" artist="JoeyBada$$">
             <li>An ode to the worst of my days</li>
             <li>I've been working away</li>
@@ -955,8 +944,7 @@
             <li>With me, one day, one day, one day, one day, one day</li>
         </stanza>
     </song>
-    <title ref="BlackBeetles">Black Beetles</title>
-    <song ref="BlackBeetles" feature="none">
+    <song title="BlackBeetles" feature="none" production="">
         <stanza type="hook">
             <li>Low on self-esteem, fools been out for me</li>
             <li>Someones watching me, this world ain't proper</li>
@@ -1013,8 +1001,7 @@
             <li>Be thinking I could be dead</li>
         </stanza>
     </song>
-    <title ref="OCB">O.C.B.</title>
-    <song ref="OCB" feature="none">
+    <song title="OCB" feature="none" production="">
         <stanza type="hook">
             <li>These are the only child blues</li>
             <li>The only child blues</li>
@@ -1102,8 +1089,7 @@
             <li>You don't have to</li>
         </stanza>
     </song>
-    <title ref="CurryChicken">Curry Chicken</title>
-    <song ref="CurryChicken" feature="none">
+    <song title="CurryChicken" feature="none" production="">
         <stanza type="skit">
             <li>Like "Oh he's broke! I told you he was broke!</li>
             <li>I told you he ain't got no money", or you know this and that or whatever
@@ -1182,8 +1168,7 @@
             <li>Break it down</li>
         </stanza>
     </song>
-    <title ref="RunUpOnYa">Run Up On Ya</title>
-    <song ref="RunUpOnYa" feature="ActionBronson ElleVarner">
+    <song title="RunUpOnYa" feature="ActionBronson ElleVarner" production="">
         <stanza type="intro" artist="JoeyBada$$">
             <li>Yeah, run up on ya bitch like</li>
             <li>Probably run up on ya bitch like</li>
@@ -1283,8 +1268,7 @@
             <li>Driving me crazy</li>
         </stanza>
     </song>
-    <title ref="TeachMe">Teach Me</title>
-    <song ref="TeachMe" feature="Kieza">
+    <song title="TeachMe" feature="Kieza" production="">
         <stanza type="bridge" artist="">
             <li>Won't you teach me how to dance, how to dance</li>
             <li>Won't you teach me how to dance, teach how to dance</li>
@@ -1324,7 +1308,8 @@
             <li>Oooooh, oooooohhhhhh,</li>
             <li>oooohhhhh, oooooooohhhhh</li>
         </stanza>
-        <stanza type="verse" artist="JoeyBada$$"><li>Okay now life's like, life's like, just like a
+        <stanza type="verse" artist="JoeyBada$$">
+            <li>Okay now life's like, life's like, just like a
             salsa, salsa</li> <li>You taste the spice right? Spice right?</li>
             <li>We need some water, water</li>
             <li>Lately been caught up, caught up, these steps need order, order</li>
