@@ -1,0 +1,10 @@
+start = album
+album = element album {ref,(title, song)+}
+ref = attribute ref {text}
+title = element title {mixed {ref}}
+song = element song {ref, feature,(stanza)+}
+feature = attribute feature {text}
+stanza = element stanza {type, artist?, li+}
+type = attribute type {text}
+artist = attribute artist {text}
+li = element li {text}
