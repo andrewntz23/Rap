@@ -1,423 +1,426 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<mixtape title="1999">
-<source>http://genius.com/albums/Joey-bada/1999</source>
-<access_date>2/2/2015</access_date>
-<track title="Summer_Knights">
-<producer>Chuck Strangers</producer>
-<stanza>[Intro: Joey Bada$$]
-And that’s all people wanna see truthfully
-Don't stop it Pat, just keep it runnin'</stanza>
+<album type="mixtape">
+<meta>
+    <albumTitle>1999</albumTitle>
+    <source>http://genius.com/albums/Joey-bada/1999</source>
+    <year>2012</year>
+    <accessDate>2/2/2015</accessDate>
+</meta>
+<song title="Summer_Knights" feature="none" production="ChuckStrangers">
+<stanza type="Intro" speaker="JoeyBada$$">
+<li>And that’s all people wanna see truthfully</li>
+<li>Don't stop it Pat, just keep it runnin'</li></stanza>
 
-<stanza>[Verse 1: Joey Bada$$]
-It's been a minute since they seen a style with no gimmicks
-Clouds is they limits cause we in 'em, eyes low
-Squinted, more L's but we winning, acting like it's
-Hard to find women when I'm in these hard-to-find linens
-Remember those days it was hard to find a living
-But now we got ends, and it's only the beginning
-Big pimpin', fooling dimes, rob 'em for they innocence
-Cake like Entenmann's, flow sweet like cinnamon
-He a child, but they treat him like a bigger man
-Cause when the pen in his hand, they big 'em up like he Jigga man
-Know you see him in the mirror fam, the ones who say
-You ain't hot be your biggest fan like, "Nigga, damn."
-Before he got popular, he been the man
-With your chick in the cam, rolling through an Instagram
-Got a whiff of grands, now everybody say they distant fam
-Know the haters still jelly, but fuck it though; it's the jam
-It's the fuckin' jam</stanza></track>
+<stanza type="verse" speaker="JoeyBada$$">
+<li>It's been a minute since they seen a style with no gimmicks</li>
+<li>Clouds is they limits cause we in 'em, eyes low</li>
+<li>Squinted, more L's but we winning, acting like it's</li>
+<li>Hard to find women when I'm in these hard-to-find linens</li>
+<li>Remember those days it was hard to find a living</li>
+<li>But now we got ends, and it's only the beginning</li>
+<li>Big pimpin', fooling dimes, rob 'em for they innocence</li>
+<li>Cake like Entenmann's, flow sweet like cinnamon</li>
+<li>He a child, but they treat him like a bigger man</li>
+<li>Cause when the pen in his hand, they big 'em up like he Jigga man</li>
+<li>Know you see him in the mirror fam, the ones who say</li>
+<li>You ain't hot be your biggest fan like, "Nigga, damn."</li>
+<li>Before he got popular, he been the man</li>
+<li>With your chick in the cam, rolling through an Instagram</li>
+<li>Got a whiff of grands, now everybody say they distant fam</li>
+<li>Know the haters still jelly, but fuck it though; it's the jam</li>
+<li>It's the fuckin' jam</li></stanza></song>
 <track title="Waves"> 
 <producer>Freddie Joachim</producer>
-<stanza>[Intro]
-Yeah
-You remember back in the days when niggas used to rock waves and shit?
-When like... Yo, I had the fucking 360s, my nigga
-Like, nobody in the hood was fucking with my shit
-And that's real shit</stanza>
+<stanza type="intro" speaker="JoeyBada$$">
+<li>Yeah</li>
+<li>You remember back in the days when niggas used to rock waves and shit?</li>
+<li>When like... Yo, I had the fucking 360s, my nigga</li>
+<li>Like, nobody in the hood was fucking with my shit</li>
+<li>And that's real shit</li></stanza>
 
-<stanza>[Verse 1]
-Since 9-5, momma been working nine-five
-And I know the landlord fed up with our lies
-So we pray to the Gods, the Jahs, and the Allahs
-To keep us safe and watch our lives
-Cause all we tryna do is do good
-Put on my hood when I walk through hoods
-Cause these niggas these days is loco
-You'll get it in ya vocals if you ain't a local
-Yeah, that's why I'm tryna go global
-Yeah, that's why I'm tryna be a mogul
-And I’m hopeful that me spittin it soulful will have me in the Daily Postal
-Flying coastal eatin tofu
-Like I told you I know niggas who trash rappin
-Worried bout the trendin fashions rather than ascendin' passion
-They want me send em tracks but I just send em laughter
-Right after I start laughin, they start askin “what happened?"
-But back to the chapter
-Momma told me follow dreams, should never have to ask her, to
-So that’s what I do, became an MC master
-Since then it’s been a disaster for you and your favorite rapper
-Go ahead ask em "Who is Joey Bad?"
-Watch em gasp, asthma, damn it’s so sad
-He paused the chatter cause he know he rather back up
-Than to admit the kid is hotter than magma
-But fuck it, you gotta give credit where it's due
-Cause you ain't gon' like the karma when it's set up on you
-It can get you on your medical, fuck you up in the decimals
-Or get you 2 to 3 for residue found it your retinue
-And they told me not to be so complex
-Dumb it down to accomplish articles in Complex
-And The Source, alfredo of course
-There I go again, steppin out of line, runnin' off course
-I heard reports that it's like sexual intercourse
-With your thoughts when I talk about the shoes in which I walk
-For it is not faux, nor false that this kid from the north, speaks with forced supports of reinforced assaults
-I'm sure by now you can assume he never lost
-Unless with some form of divorce, or a corpse
-Born boss no days off, child labor
-Let me see those in favor to spin that back like tornadoes</stanza>
+<stanza type="verse" speaker="JoeyBada$$">
+<li>Since <pattern group="a">9-5</pattern>, momma been working <pattern group="a" type="">nine-five</pattern></li>
+<li>And I know the landlord fed up with <pattern group="a" type="">our lies</pattern></li>
+<li>So we pray to the Gods, the Jahs, and the Allahs</li>
+<li>To keep us safe and watch our lives</li>
+<li>Cause all we tryna do is do good</li>
+<li>Put on my hood when I walk through hoods</li>
+<li>Cause these niggas these days is loco</li>
+<li>You'll get it in ya vocals if you ain't a local</li>
+<li>Yeah, that's why I'm tryna go global</li>
+<li>Yeah, that's why I'm tryna be a mogul</li>
+<li>And I’m hopeful that me spittin it soulful will have me in the Daily Postal</li>
+<li>Flying coastal eatin tofu</li>
+<li>Like I told you I know niggas who trash rappin</li>
+<li>Worried bout the trendin fashions rather than ascendin' passion</li>
+<li>They want me send em tracks but I just send em laughter</li>
+<li>Right after I start laughin, they start askin “what happened?"</li>
+<li>But back to the chapter</li>
+<li>Momma told me follow dreams, should never have to ask her, to</li>
+<li>So that’s what I do, became an MC master</li>
+<li>Since then it’s been a disaster for you and your favorite rapper</li>
+<li>Go ahead ask em "Who is Joey Bad?"</li>
+<li>Watch em gasp, asthma, damn it’s so sad</li>
+<li>He paused the chatter cause he know he rather back up</li>
+<li>Than to admit the kid is hotter than magma</li>
+<li>But fuck it, you gotta give credit where it's due</li>
+<li>Cause you ain't gon' like the karma when it's set up on you</li>
+<li>It can get you on your medical, fuck you up in the decimals</li>
+<li>Or get you 2 to 3 for residue found it your retinue</li>
+<li>And they told me not to be so complex</li>
+<li>Dumb it down to accomplish articles in Complex</li>
+<li>And The Source, alfredo of course</li>
+<li>There I go again, steppin out of line, runnin' off course</li>
+<li>I heard reports that it's like sexual intercourse</li>
+<li>With your thoughts when I talk about the shoes in which I walk</li>
+<li>For it is not faux, nor false that this kid from the north, speaks with forced supports of reinforced assaults</li>
+<li>I'm sure by now you can assume he never lost</li>
+<li>Unless with some form of divorce, or a corpse</li>
+<li>Born boss no days off, child labor</li>
+<li>Let me see those in favor to spin that back like tornadoes</li></stanza>
 
-<stanza>[Interlude: 2Pac Speaking]
-What the rap audience ain't ready for is a real person: You know what I wanna say: a real N-I-G-G-A. 
-I'm coming at 'em a hundred percent real; I ain't compromising anything. 
-Anybody that talk about me, got problems, you know what I'm sayin'? 
-It's gonna be straight-up, like if I was a street person. 
-That's how I'm comin' at the whole world, and I'm being real about it and I'mma grow with my music    </stanza>
+<stanza type="interlude" speaker="2pac">
+<li>What the rap audience ain't ready for is a real person: You know what I wanna say: a real N-I-G-G-A. </li>
+<li>I'm coming at 'em a hundred percent real; I ain't compromising anything. </li>
+<li>Anybody that talk about me, got problems, you know what I'm sayin'? </li>
+<li>It's gonna be straight-up, like if I was a street person. </li>
+<li>That's how I'm comin' at the whole world, and I'm being real about it and I'mma grow with my music    </li></stanza>
 
 <stanza>[Verse 2]
-But it's far from over
-Won't stop 'til I meet Hova and my momma's in a Rover
-Til I'm an owner of the world's finest motors
-I blow like supernovas in your daughter's room on a poster
-Known as history's biggest musical composer
-No disrespect to Bob Mar, but yeah, another stoner
-Marijuana my odor, and when I get older
-Hope my spermatozoa from my scrotum intercepts an ovum
-Like 3 times, have 3 kids, I hope
-Me and wife can show em not to make the same mistakes you know that we did
-I hope they acknowledge the knowledge cuz yeah, they 'gon need it
-Cuz when my parents tried to tell me, I just wouldn't receive it
-Couldn't believe it, 'til I saw with my own pupils
-Felt bad when I learned that their advice was truly useful
-But fuck it, only made us as human beings more mutual
-Even though over time, my punishments they grew more crucial
-Should use the word brutal, cuz my parents mad strict
-Hope one day I'll attract the likes of even Madlib
-Go gold on mad shit and hear my songs mastered
-Until then, all I can do is imagine
+<li>But it's far from over</li>
+<li>Won't stop 'til I meet Hova and my momma's in a Rover</li>
+<li>Til I'm an owner of the world's finest motors</li>
+<li>I blow like supernovas in your daughter's room on a poster</li>
+<li>Known as history's biggest musical composer</li>
+<li>No disrespect to Bob Mar, but yeah, another stoner</li>
+<li>Marijuana my odor, and when I get older</li>
+<li>Hope my spermatozoa from my scrotum intercepts an ovum</li>
+<li>Like 3 times, have 3 kids, I hope</li>
+<li>Me and wife can show em not to make the same mistakes you know that we did</li>
+<li>I hope they acknowledge the knowledge cuz yeah, they 'gon need it</li>
+<li>Cuz when my parents tried to tell me, I just wouldn't receive it</li>
+<li>Couldn't believe it, 'til I saw with my own pupils</li>
+<li>Felt bad when I learned that their advice was truly useful</li>
+<li>But fuck it, only made us as human beings more mutual</li>
+<li>Even though over time, my punishments they grew more crucial</li>
+<li>Should use the word brutal, cuz my parents mad strict</li>
+<li>Hope one day I'll attract the likes of even Madlib</li>
+<li>Go gold on mad shit and hear my songs mastered</li>
+<li>Until then, all I can do is imagine</li>
 
-Imagine
+<li>Imagine</li>
 
-I'mma make it all happen</stanza></track>
+<li>I'mma make it all happen</li></stanza></track>
 
 <track title="Fromdatomb$">  
 <producer>Chuck Strangers</producer>
 <dj>statik selektah</dj>
 <stanza>[Intro]
-(Go Brooklyn)
-Said what it's like?
-Joey Bad and Chuck Strangers
-Leave niggas endangered
-It's the real, yo what's the word word?
-Pass the herbs
-Check</stanza>
+<li>(Go Brooklyn)</li>
+<li>Said what it's like?</li>
+<li>Joey Bad and Chuck Strangers</li>
+<li>Leave niggas endangered</li>
+<li>It's the real, yo what's the word word?</li>
+<li>Pass the herbs</li>
+<li>Check</li></stanza>
 <stanza>[Verse 1: Joey Bada$$]
-My man Dirty had the buddha just to put me in my right mind
-I rhyme stoned, drop jewels and bright lines
-Sight dimes wit' slight closed eyes, I'm slight soba
-Ma you ain't that girl at giving throat so bye
-F it I'm bi-po-la, took shorty to the backroom
-Play charades, she actin like a vacuum
-Showed her to the door before the afternoon
-She fell hard on the floor, so you know that she'll be back soon
-Fake MC's get their reps ruined
-Young villain hop up on the track then the track doomed
-Click-clack-boom, resurrecting Boom-Bap from the tombs
-Raps dope like crack in cocoons
-Back in this mood, back on the move
-It's the motherfucking real, nigga chill act cool
-Pay respect to the cat Drew
-And I'm way too blessed to be throwing shots at you</stanza>
+<li>My man Dirty had the buddha just to put me in my right mind</li>
+<li>I rhyme stoned, drop jewels and bright lines</li>
+<li>Sight dimes wit' slight closed eyes, I'm slight soba</li>
+<li>Ma you ain't that girl at giving throat so bye</li>
+<li>F it I'm bi-po-la, took shorty to the backroom</li>
+<li>Play charades, she actin like a vacuum</li>
+<li>Showed her to the door before the afternoon</li>
+<li>She fell hard on the floor, so you know that she'll be back soon</li>
+<li>Fake MC's get their reps ruined</li>
+<li>Young villain hop up on the track then the track doomed</li>
+<li>Click-clack-boom, resurrecting Boom-Bap from the tombs</li>
+<li>Raps dope like crack in cocoons</li>
+<li>Back in this mood, back on the move</li>
+<li>It's the motherfucking real, nigga chill act cool</li>
+<li>Pay respect to the cat Drew</li>
+<li>And I'm way too blessed to be throwing shots at you</li></stanza>
 
 <stanza>[Hook: Rokamouth]
-Big ups to Brooklyn, home of the realest
-Big ups to Brooklyn, home of the era</stanza>
+<li>Big ups to Brooklyn, home of the realest</li>
+<li>Big ups to Brooklyn, home of the era</li></stanza>
 <stanza>[Verse 2: Chuck Strangers]
-I'm tryna find my own lane, in this freeway of life
-Just remember home boy there ain't no free way to life
-My nigga it's gon cost you, try not to lose your soul
-To the rims, hoes, and gold
-Cause once the devil grab hold, that nigga ain't letting go
-And I'm far from religious, I just know right and wrong
-I know how to write these songs, I know how to light these bongs
-I know how to rip thongs and I'm pretty good at beer pong
-Nigga, I'm so crazy, nigga I'm loco
-Gassed up like Sunoco, press the pedal through the floor
-Bitch we out the door, Vroom vroom skuuurrt
-Bitch love don't live here no more
-Cause her weave look faker than her Louie bag
-Weak chick I tried to bag, had the nerve to turn me down
-Heard this song and turned around
-Now she want me to unzip her pants
-But I'm gone, bitch missed her chance
+<li>I'm tryna find my own lane, in this freeway of life</li>
+<li>Just remember home boy there ain't no free way to life</li>
+<li>My nigga it's gon cost you, try not to lose your soul</li>
+<li>To the rims, hoes, and gold</li>
+<li>Cause once the devil grab hold, that nigga ain't letting go</li>
+<li>And I'm far from religious, I just know right and wrong</li>
+<li>I know how to write these songs, I know how to light these bongs</li>
+<li>I know how to rip thongs and I'm pretty good at beer pong</li>
+<li>Nigga, I'm so crazy, nigga I'm loco</li>
+<li>Gassed up like Sunoco, press the pedal through the floor</li>
+<li>Bitch we out the door, Vroom vroom skuuurrt</li>
+<li>Bitch love don't live here no more</li>
+<li>Cause her weave look faker than her Louie bag</li>
+<li>Weak chick I tried to bag, had the nerve to turn me down</li>
+<li>Heard this song and turned around</li>
+<li>Now she want me to unzip her pants</li>
+<li>But I'm gone, bitch missed her chance</li>
 </stanza>
 <stanza>[Hook] (x2)</stanza>
 
 <stanza>[Verse 3 : Joey Bada$$]
-I got sick of class, started making classics
-Now all I really do is get the grass lit and bust asses
-I'm sure to blow like bust acid
-Puff, assist like Maravich, a true Maverick
-And I average above average on an average day
-Doing bad shit bet you still can’t pass this
-And his teacher still pass him
-Though they adolescents be addin' rappin' sessions over addin' lessons
-Like fuck trigonometry, I’m trying to multiply monopolies
-Subtract some homies then divide the cheese
-Divide legs just to isosceles so my eyes can see through the E
-Shit on you hypotheses
-Hypocrisy after essence like apostrophes
-You can’t stand here unless you pay a posture fee
-Part the cheese, head out the spot and leave
-A pile of G's for apology</stanza></track>
+<li>I got sick of class, started making classics</li>
+<li>Now all I really do is get the grass lit and bust asses</li>
+<li>I'm sure to blow like bust acid</li>
+<li>Puff, assist like Maravich, a true Maverick</li>
+<li>And I average above average on an average day</li>
+<li>Doing bad shit bet you still can’t pass this</li>
+<li>And his teacher still pass him</li>
+<li>Though they adolescents be addin' rappin' sessions over addin' lessons</li>
+<li>Like fuck trigonometry, I’m trying to multiply monopolies</li>
+<li>Subtract some homies then divide the cheese</li>
+<li>Divide legs just to isosceles so my eyes can see through the E</li>
+<li>Shit on you hypotheses</li>
+<li>Hypocrisy after essence like apostrophes</li>
+<li>You can’t stand here unless you pay a posture fee</li>
+<li>Part the cheese, head out the spot and leave</li>
+<li>A pile of G's for apology</li></stanza></track>
 
 <track title="Survival_Tactics">    
 <producer>Vin Skully</producer>
 
 <stanza>[Intro]
-It's either, them or you
-It's sort of like, survival you know. Survival of the fittest you know
-You do what you do to stay alive</stanza>
+<li>It's either, them or you</li>
+<li>It's sort of like, survival you know. Survival of the fittest you know</li>
+<li>You do what you do to stay alive</li></stanza>
 
 <stanza>[Verse 1: Joey]
-Niggas don't want war I'm a martian with an army of spartans
-Sparring with a knife in a missile fight
-Get your intel right, your intelligence is irrelevant
-But it's definite I spit more than speech impediments
-Brooklyn's the residence, the best and it's evident
-We got them niggas P-E-Nuts, like they elephants
-Throw 'em in a trunk if they hate though
-We don't give a fuck as long as we collect our pay, so
-Ya'll collect pesos, ya money ain't right here
-I got them girls next to the wood like they light year, I'm right chea
-Tryna get a buzz, tryna pollinate
-STEEZ got that presidential shit out to inaugurate
-My P.E conglomerates bout to P-E-E on any wanna B-E, weak MC
-Air 'em out or leave 'em empty congratulate the semi-auto
-Fire flame spitter like komodo
-No time for fake people, they be simmin' like Kimora
-I'm the empor-ah in search of the adora, my heart go
-Ba boom Ba boom Ba boom boom
-It's panic like Dora when shots blast
-See I was raised that way, I'm from the place where they raise that K
-Like every day in every way and every where you go, just ain't safe
-The only thing that I can say, to you is pray
-Cause when niggas start equippin', and throw the clip in
-Your blood drippin', and got you slippin'
-Another victim, don't know whats hit them – through his spinal
-Just another man who defeated by survival
-That's your biggest rival, in your whole life
-These bars you can't handle you better hold tight
-They sayin' I'm the best, I'm like you're so right
-Still ain't got enough shine to last the whole night, nigga</stanza>
+<li>Niggas don't want war I'm a martian with an army of spartans</li>
+<li>Sparring with a knife in a missile fight</li>
+<li>Get your intel right, your intelligence is irrelevant</li>
+<li>But it's definite I spit more than speech impediments</li>
+<li>Brooklyn's the residence, the best and it's evident</li>
+<li>We got them niggas P-E-Nuts, like they elephants</li>
+<li>Throw 'em in a trunk if they hate though</li>
+<li>We don't give a fuck as long as we collect our pay, so</li>
+<li>Ya'll collect pesos, ya money ain't right here</li>
+<li>I got them girls next to the wood like they light year, I'm right chea</li>
+<li>Tryna get a buzz, tryna pollinate</li>
+<li>STEEZ got that presidential shit out to inaugurate</li>
+<li>My P.E conglomerates bout to P-E-E on any wanna B-E, weak MC</li>
+<li>Air 'em out or leave 'em empty congratulate the semi-auto</li>
+<li>Fire flame spitter like komodo</li>
+<li>No time for fake people, they be simmin' like Kimora</li>
+<li>I'm the empor-ah in search of the adora, my heart go</li>
+<li>Ba boom Ba boom Ba boom boom</li>
+<li>It's panic like Dora when shots blast</li>
+<li>See I was raised that way, I'm from the place where they raise that K</li>
+<li>Like every day in every way and every where you go, just ain't safe</li>
+<li>The only thing that I can say, to you is pray</li>
+<li>Cause when niggas start equippin', and throw the clip in</li>
+<li>Your blood drippin', and got you slippin'</li>
+<li>Another victim, don't know whats hit them – through his spinal</li>
+<li>Just another man who defeated by survival</li>
+<li>That's your biggest rival, in your whole life</li>
+<li>These bars you can't handle you better hold tight</li>
+<li>They sayin' I'm the best, I'm like you're so right</li>
+<li>Still ain't got enough shine to last the whole night, nigga</li></stanza>
 
 <stanza>[Interlude]
-Yo, fuck the police nigga
-Fuck every ass corrupt politician on Wall Street
-P.E, Public Enemy, Assassinate us, bitch
-Fuck that, fuck everything son
-Fuck government, Fuck, listenin' and shit
+<li>Yo, fuck the police nigga</li>
+<li>Fuck every ass corrupt politician on Wall Street</li>
+<li>P.E, Public Enemy, Assassinate us, bitch</li>
+<li>Fuck that, fuck everything son</li>
+<li>Fuck government, Fuck, listenin' and shit</li>
 
-You want fuckin' energy? Dickheads</stanza>
+<li>You want fuckin' energy? Dickheads</li></stanza>
 
 <stanza>[Verse 2: Capital STEEZ]
-It's like 6 milli ways to die my nigga choose one
-Doomsday comin' start investin' in a few guns
-New gats, booby traps, and bazooka straps
-Better play your cards right, no booster packs
-Everybody claim they used to rap
-But these ain't even punchlines no more, I'm abusing tracks
-Leaving instrumentals blue and black
-I'm in Marty McFly mode, so tell em' that the future's back
-Riding on hoverboards, wiping out motherboards
-Stopped spitting fire cause my motherfuckin lung is scorched
-King Arthur when he swung his sword
-A king author I ain't even use a pen in like a month or four
-I had a hard time writing lyrics
-Now I'm way over heads, science fiction
-You can try and get it, my man the flyest with it
-With a mind of fine of interest for your finest interests
-They say hard work pays off
-Well tell the Based God don't quit his day job
-Cause P.E's about to take off
-With protons and electrons homie that's an A-bomb
-Fuckin' ridiculous
-Finger to the president screamin' "fuck censorship!"
-If Obama got that president election
-Then them P.E. boys bout to make an intervention
-Fuck what I once said, I want the blood shed
-Cause now-a-days for respect you gotta pump lead
-I guess Columbine was listenin' to Chaka Khan
-And Pokémon wasn't gettin' recognized at Comic-Con
-It's like we've been content with losin'
-And half our students fallen victim to the institution
-Jobs are scarce since the Scientific Revolution
-And little kids are shootin' Uzi's cause its given to 'em
-Little weapon, code name: Smith and Wesson
-And you'll be quick to catch a bullet like an interception
-If your man’s tryna disrespect it
-Send a message and it's over in a millisecond - nigga</stanza></track>
+<li>It's like 6 milli ways to die my nigga choose one</li>
+<li>Doomsday comin' start investin' in a few guns</li>
+<li>New gats, booby traps, and bazooka straps</li>
+<li>Better play your cards right, no booster packs</li>
+<li>Everybody claim they used to rap</li>
+<li>But these ain't even punchlines no more, I'm abusing tracks</li>
+<li>Leaving instrumentals blue and black</li>
+<li>I'm in Marty McFly mode, so tell em' that the future's back</li>
+<li>Riding on hoverboards, wiping out motherboards</li>
+<li>Stopped spitting fire cause my motherfuckin lung is scorched</li>
+<li>King Arthur when he swung his sword</li>
+<li>A king author I ain't even use a pen in like a month or four</li>
+<li>I had a hard time writing lyrics</li>
+<li>Now I'm way over heads, science fiction</li>
+<li>You can try and get it, my man the flyest with it</li>
+<li>With a mind of fine of interest for your finest interests</li>
+<li>They say hard work pays off</li>
+<li>Well tell the Based God don't quit his day job</li>
+<li>Cause P.E's about to take off</li>
+<li>With protons and electrons homie that's an A-bomb</li>
+<li>Fuckin' ridiculous</li>
+<li>Finger to the president screamin' "fuck censorship!"</li>
+<li>If Obama got that president election</li>
+<li>Then them P.E. boys bout to make an intervention</li>
+<li>Fuck what I once said, I want the blood shed</li>
+<li>Cause now-a-days for respect you gotta pump lead</li>
+<li>I guess Columbine was listenin' to Chaka Khan</li>
+<li>And Pokémon wasn't gettin' recognized at Comic-Con</li>
+<li>It's like we've been content with losin'</li>
+<li>And half our students fallen victim to the institution</li>
+<li>Jobs are scarce since the Scientific Revolution</li>
+<li>And little kids are shootin' Uzi's cause its given to 'em</li>
+<li>Little weapon, code name: Smith and Wesson</li>
+<li>And you'll be quick to catch a bullet like an interception</li>
+<li>If your man’s tryna disrespect it</li>
+<li>Send a message and it's over in a millisecond - nigga</li></stanza></track>
 
 <track title="Killuminati">    
 <producer>Knxwledge</producer>
 
 <stanza>[Intro (Sample)]
-Yes, Strawberries</stanza>
+<li>Yes, Strawberries</li></stanza>
 
 <stanza>[Verse 1: Joey Bada$$]
-I'm a beast with these flows
-Two birds, one stoned, you get geese’d when trees rolled
-They say I'm evil cause I trained my ego to see gold
-Cause he know, seagulls couldn't see these goals, please
-It's the return of the beast coast
-No cash flashed, but the cheese still make teeth show
-Incognito, is how you move on the strip
-What you trynna be Vito? Well there's rules to this shit
-Don't get clapped, ya'll ain't real spitters, ya'll lips chapped
-Better watch it, Mr. Nicewatch, don't risk that
-I got a 6 pack of bare skill that I spill like that
-And everybody know (That shit crack!)
-Ya'll niggas softspoken, down below choking
-The type to drop the soap when you soakin' in front of most men
-There's makes sense why you want beef, well this frozen
-It's nuts for you screwed in the tool, and can't hold em
-Better shoot yourself Plaxico, because I'm next to go
-The Progressive flows from New York to New Mexico
-My lyrical span is what the fans is demandin'
-Step into my box and that's exactly what'chu stand in
-Ain't no half steppin' around me
-And you gotta drown a fish before you clown me
-The young cop killer, I'm dat ill, so doc' will ya
-Give me two shots for 2Pac killer....nigga</stanza>
+<li>I'm a beast with these flows</li>
+<li>Two birds, one stoned, you get geese’d when trees rolled</li>
+<li>They say I'm evil cause I trained my ego to see gold</li>
+<li>Cause he know, seagulls couldn't see these goals, please</li>
+<li>It's the return of the beast coast</li>
+<li>No cash flashed, but the cheese still make teeth show</li>
+<li>Incognito, is how you move on the strip</li>
+<li>What you trynna be Vito? Well there's rules to this shit</li>
+<li>Don't get clapped, ya'll ain't real spitters, ya'll lips chapped</li>
+<li>Better watch it, Mr. Nicewatch, don't risk that</li>
+<li>I got a 6 pack of bare skill that I spill like that</li>
+<li>And everybody know (That shit crack!)</li>
+<li>Ya'll niggas softspoken, down below choking</li>
+<li>The type to drop the soap when you soakin' in front of most men</li>
+<li>There's makes sense why you want beef, well this frozen</li>
+<li>It's nuts for you screwed in the tool, and can't hold em</li>
+<li>Better shoot yourself Plaxico, because I'm next to go</li>
+<li>The Progressive flows from New York to New Mexico</li>
+<li>My lyrical span is what the fans is demandin'</li>
+<li>Step into my box and that's exactly what'chu stand in</li>
+<li>Ain't no half steppin' around me</li>
+<li>And you gotta drown a fish before you clown me</li>
+<li>The young cop killer, I'm dat ill, so doc' will ya</li>
+<li>Give me two shots for 2Pac killer....nigga</li></stanza>
 
 <stanza>[Verse 2:Capital STEEZ]
-Soul searchin' 'till my flows are perfect
-I ain't trynna be a slave to grow old from workin'
-Sorry BADA$$, you lucky that I peeped it second
-Tell them niggas keep it steppin' with they beat selection
-Check the melodies, it's so heavenly
-That shit'll get your hipster move with no 7D's
-Audi-opium, can I bust soliloquies
-Got that shit mix and mastered both remedies
-Grab a spoonful, we sturrin' up a pot
-And you know we gotta serve it while it's hot
-I'm flowin' like a volcano and drippin' verses off the top
-Dirty cops still swervin' on the block
-Lookin' for black kids, that spittin' up acid
-It's in my jeans so don't worry what my pants is
-Get with the script it's that ignorant shit
-And they bound to get sick of us quick but I ain't sealin' my lips
-It's a shift, I know you feel it man
-We blowin' up like a ceiling fan
-Droppin' off jewels like Killa Cam's man
-When it comes to kickin' verses I'm Mr. Van Damme
-Crushin' strawberries it's a jam
-So throw up both hands if you can
-Ironic how I'm killin' this shit, until they bury me
-My volume is going in depth with longevity
-Stupids</stanza></track>
+<li>Soul searchin' 'till my flows are perfect</li>
+<li>I ain't trynna be a slave to grow old from workin'</li>
+<li>Sorry BADA$$, you lucky that I peeped it second</li>
+<li>Tell them niggas keep it steppin' with they beat selection</li>
+<li>Check the melodies, it's so heavenly</li>
+<li>That shit'll get your hipster move with no 7D's</li>
+<li>Audi-opium, can I bust soliloquies</li>
+<li>Got that shit mix and mastered both remedies</li>
+<li>Grab a spoonful, we sturrin' up a pot</li>
+<li>And you know we gotta serve it while it's hot</li>
+<li>I'm flowin' like a volcano and drippin' verses off the top</li>
+<li>Dirty cops still swervin' on the block</li>
+<li>Lookin' for black kids, that spittin' up acid</li>
+<li>It's in my jeans so don't worry what my pants is</li>
+<li>Get with the script it's that ignorant shit</li>
+<li>And they bound to get sick of us quick but I ain't sealin' my lips</li>
+<li>It's a shift, I know you feel it man</li>
+<li>We blowin' up like a ceiling fan</li>
+<li>Droppin' off jewels like Killa Cam's man</li>
+<li>When it comes to kickin' verses I'm Mr. Van Damme</li>
+<li>Crushin' strawberries it's a jam</li>
+<li>So throw up both hands if you can</li>
+<li>Ironic how I'm killin' this shit, until they bury me</li>
+<li>My volume is going in depth with longevity</li>
+<li>Stupids</li></stanza></track>
 <track title="Hardknock">
 <producer>Lewis Parker</producer>
 <stanza>[Intro: Joey BadA$$]
-Check it, word word
-What's the word word
-Yeah, check!</stanza>
+<li>Check it, word word</li>
+<li>What's the word word</li>
+<li>Yeah, check!</li></stanza>
 
 <stanza>[Verse 1: Joey BadA$$]
-Just got word from my mans on the island, he said he needed guidance
-Niggas on the streets is wilin', he look to God but can't find him
-So he demand silence from the glaring sirens
-The sympathy symphony, only thing playing is the banned violence
-No lying niggas just won't let go the iron
-They wanna burn your molecules until you let go ions
-Treat beef like they let go lions
-So don't eye 'em they get the wrong message, wrong methods
-Put you on that long stretcher
-Too much pressure, God bless ya when the semi wet'cha
-They told me "more dress-up" I'm giving too many lectures
-And I'm putting in too many effort in my nouns and verbs
-Like "they gon' catch up" fuck what you must heard!
-But I done puffed enough herb
-To be listening to young birds and dumb nerds
-I got enough shit on my mind
-So I don't need to be stressing and shine, it's fine</stanza>
+<li>Just got word from my mans on the island, he said he needed guidance</li>
+<li>Niggas on the streets is wilin', he look to God but can't find him</li>
+<li>So he demand silence from the glaring sirens</li>
+<li>The sympathy symphony, only thing playing is the banned violence</li>
+<li>No lying niggas just won't let go the iron</li>
+<li>They wanna burn your molecules until you let go ions</li>
+<li>Treat beef like they let go lions</li>
+<li>So don't eye 'em they get the wrong message, wrong methods</li>
+<li>Put you on that long stretcher</li>
+<li>Too much pressure, God bless ya when the semi wet'cha</li>
+<li>They told me "more dress-up" I'm giving too many lectures</li>
+<li>And I'm putting in too many effort in my nouns and verbs</li>
+<li>Like "they gon' catch up" fuck what you must heard!</li>
+<li>But I done puffed enough herb</li>
+<li>To be listening to young birds and dumb nerds</li>
+<li>I got enough shit on my mind</li>
+<li>So I don't need to be stressing and shine, it's fine</li></stanza>
 
 <stanza>[Hook: Joey BadA$$]
-One day I'm tryna have a wife and kids
-So I just can't live my life like this
-And I ain't tryna learn what lifeless is
-So I just can't live my life like this
-I want the gold chains and diamond rings
-But I just can't live my life like this
-And sometimes I just wanna light this spliff
-But I just can't live my life like this</stanza>
+<li>One day I'm tryna have a wife and kids</li>
+<li>So I just can't live my life like this</li>
+<li>And I ain't tryna learn what lifeless is</li>
+<li>So I just can't live my life like this</li>
+<li>I want the gold chains and diamond rings</li>
+<li>But I just can't live my life like this</li>
+<li>And sometimes I just wanna light this spliff</li>
+<li>But I just can't live my life like this</li></stanza>
 
 <stanza>[Verse 2: CJ Fly]
-Got a collect call from up top
-My cousin called me and what not
-The motto never changed it’s still fuck cops
-We went from having lunch in our lunchbox
-Our lungs was hot whenever we'd puff pot
-We'd touch blocks and end up having to duck shots
-But fuck dot, ain’t trying live that life no more
-My mind corrupted but my heart is still pure
-Gotta be brave can’t be afraid
-Braids and waves never matter when you catch the fade
-Trapped in a maze and your faith is your only escape
-Fuck a priest’s opinion, knock the hinges off of Heaven’s gates
-Trying to share my cells with my mate, not share a cell with mates
-Wrecking shit with my recklessness
-The L get lit that’s when I start second guessing shit
-Thinking ‘bout Ty and then I reminisce
-What you thought you niggas could’ve fuck me over
-Never nigga guess again
-I’m street so cross me like pedestrians
-And that’s gon' be the end of it, straight revoking your membership</stanza>
+<li>Got a collect call from up top</li>
+<li>My cousin called me and what not</li>
+<li>The motto never changed it’s still fuck cops</li>
+<li>We went from having lunch in our lunchbox</li>
+<li>Our lungs was hot whenever we'd puff pot</li>
+<li>We'd touch blocks and end up having to duck shots</li>
+<li>But fuck dot, ain’t trying live that life no more</li>
+<li>My mind corrupted but my heart is still pure</li>
+<li>Gotta be brave can’t be afraid</li>
+<li>Braids and waves never matter when you catch the fade</li>
+<li>Trapped in a maze and your faith is your only escape</li>
+<li>Fuck a priest’s opinion, knock the hinges off of Heaven’s gates</li>
+<li>Trying to share my cells with my mate, not share a cell with mates</li>
+<li>Wrecking shit with my recklessness</li>
+<li>The L get lit that’s when I start second guessing shit</li>
+<li>Thinking ‘bout Ty and then I reminisce</li>
+<li>What you thought you niggas could’ve fuck me over</li>
+<li>Never nigga guess again</li>
+<li>I’m street so cross me like pedestrians</li>
+<li>And that’s gon' be the end of it, straight revoking your membership</li></stanza>
 
 <stanza>[Hook: CJ Fly]</stanza>
 
 <stanza>[Verse 3: Joey BadA$$]
-Niggas wanna know what I’m about, I’m bout blowing loud
-On the block sporty, Glock 40 in a politician mouth
-I take the competition out commission with my composition
-Who the kid spitting behind the bars like a con position
-Gotta give ‘em time to listen, they’ll soon bump to it
-They’ll like me, I kick it like Nike they’ll soon adjust to it
-But if you hate I know you must do it
-I ain’t mad at you I keep my attitude on "screw it a million bucks should do it"
-I’m out for presidents to represent me
-Yo chick keep messaging me, who the bestest MC? They be mentioning me
-Too hot, I be molesting the beat, fuck math
-Teachers should teach us to get Smith and Wesson’s off of the street
-So first class be a lesson for me
-Fuck what you teaching for some regents, I'm flying over regions
-Reaching, all time highs where Jesus can’t reach us
-Step to me and get the recipe to make you rest in peace
-This is for my niggas, killers, hundred dollar billers
-On the block in the rock spot, Glock cocked watching out for cops
-All about their cheddar, young guns know nothing that’s better
-Like fuck a prison letter, those Beretta’s led us to the lettuce
-Relish fetishes, menaces want the senator’s percentages
-If you ain't prejudice you still a nemesis
-Smoking on the Clematis, get open like a present is
-Now your presence is on the premises for them presidents
-My city be the genesis for where they think the terror is
-They linking terrorists from the Stuy to Lincoln Terraces
-Stay on that reckless shit, they leave you left for the dead
-Kids don’t play they’ll erase your head in a race for the bread
-Children on the corners slinging some regs, popping some meds
-Jakes be so deep in cover they be chasing the feds
-I be back stage gripping haze breaking my leg
-My folks was making the best when they was naked in bed, muthafucka</stanza>
+<li>Niggas wanna know what I’m about, I’m bout blowing loud</li>
+<li>On the block sporty, Glock 40 in a politician mouth</li>
+<li>I take the competition out commission with my composition</li>
+<li>Who the kid spitting behind the bars like a con position</li>
+<li>Gotta give ‘em time to listen, they’ll soon bump to it</li>
+<li>They’ll like me, I kick it like Nike they’ll soon adjust to it</li>
+<li>But if you hate I know you must do it</li>
+<li>I ain’t mad at you I keep my attitude on "screw it a million bucks should do it"</li>
+<li>I’m out for presidents to represent me</li>
+<li>Yo chick keep messaging me, who the bestest MC? They be mentioning me</li>
+<li>Too hot, I be molesting the beat, fuck math</li>
+<li>Teachers should teach us to get Smith and Wesson’s off of the street</li>
+<li>So first class be a lesson for me</li>
+<li>Fuck what you teaching for some regents, I'm flying over regions</li>
+<li>Reaching, all time highs where Jesus can’t reach us</li>
+<li>Step to me and get the recipe to make you rest in peace</li>
+<li>This is for my niggas, killers, hundred dollar billers</li>
+<li>On the block in the rock spot, Glock cocked watching out for cops</li>
+<li>All about their cheddar, young guns know nothing that’s better</li>
+<li>Like fuck a prison letter, those Beretta’s led us to the lettuce</li>
+<li>Relish fetishes, menaces want the senator’s percentages</li>
+<li>If you ain't prejudice you still a nemesis</li>
+<li>Smoking on the Clematis, get open like a present is</li>
+<li>Now your presence is on the premises for them presidents</li>
+<li>My city be the genesis for where they think the terror is</li>
+<li>They linking terrorists from the Stuy to Lincoln Terraces</li>
+<li>Stay on that reckless shit, they leave you left for the dead</li>
+<li>Kids don’t play they’ll erase your head in a race for the bread</li>
+<li>Children on the corners slinging some regs, popping some meds</li>
+<li>Jakes be so deep in cover they be chasing the feds</li>
+<li>I be back stage gripping haze breaking my leg</li>
+<li>My folks was making the best when they was naked in bed, muthafucka</li></stanza>
 
 <stanza>[Hook: Joey BadA$$]</stanza></track>
 
@@ -425,57 +428,57 @@ My folks was making the best when they was naked in bed, muthafucka</stanza>
 <producer>MF Doom</producer>
 
 <stanza>[Intro: Sample]
-Say Brain, what do you wanna do tonight?
-The same thing we do every night Pinky
-Try to take over the world
+<li>Say Brain, what do you wanna do tonight?</li>
+<li>The same thing we do every night Pinky</li>
+<li>Try to take over the world</li>
 
-(Joey) Who the fuck is this Joey Bada$$ nigga son?</stanza>
+<li>(Joey) Who the fuck is this Joey Bada$$ nigga son?</li></stanza>
 
 <stanza>[Hook]
-Aye yo who the fuck passed you the mic
-And said that you could flow?
-Point 'em out bitch I wanna know
-Who the fuck passed you the mic?
+<li>Aye yo who the fuck passed you the mic</li>
+<li>And said that you could flow?</li>
+<li>Point 'em out bitch I wanna know</li>
+<li>Who the fuck passed you the mic?</li>
 
-Check!    </stanza>
+<li>Check!    </li></stanza>
 
 <stanza>[Verse 1]
-Puffin' on stramonium
-Underground like potholes but going fossil
-These bars like art in the Smithsonian
-These flows is for custodians, homeless men, horny OBGYN dudes
-Browsing my laptop lookin' at red fallopian tube
-They like "Yo Joey you rude"
-I'm like "If only you knew I'm only in school for cosmology
-That's why I act as lonely as you"
-You see I'm wise behind my years and my peers
-So my voice over the snares is the only way they hear
-What I got behind my membrane, but I've been smoking chem strains
-So lately I've been having hard times with remembering
-But be patient, my studies prove Egyptians ancient
-Cause I believe that we could be like Neo in the Matrix
-But fuck it, I'm erratic, momma lock me in the attic please
-Til I draw enough static in my somatic anatomy
-And come out imputed with fusions of Blueprints and Illmatics
-I’ve been going raw, this just how I feel rappin'
-We gave y'all sur' tactics, so y'all can’t even gas us
-We taught you how to be prepared but still attacking the masses
-Y'all better get y'all caskets cause we ‘bout to annihilate
-(The New Babylon Era) My empire gate’s in the Empire State
-I’m on the higer platform, look at the way they clap for ‘em
-Never fuck with phony men cause I don’t like my back torn
-Nigga ask kwon - this that top ramen' you ain’t used to
-Keep it neutral to scruple and tell ‘em no beef like noodles!!
+<li>Puffin' on stramonium</li>
+<li>Underground like potholes but going fossil</li>
+<li>These bars like art in the Smithsonian</li>
+<li>These flows is for custodians, homeless men, horny OBGYN dudes</li>
+<li>Browsing my laptop lookin' at red fallopian tube</li>
+<li>They like "Yo Joey you rude"</li>
+<li>I'm like "If only you knew I'm only in school for cosmology</li>
+<li>That's why I act as lonely as you"</li>
+<li>You see I'm wise behind my years and my peers</li>
+<li>So my voice over the snares is the only way they hear</li>
+<li>What I got behind my membrane, but I've been smoking chem strains</li>
+<li>So lately I've been having hard times with remembering</li>
+<li>But be patient, my studies prove Egyptians ancient</li>
+<li>Cause I believe that we could be like Neo in the Matrix</li>
+<li>But fuck it, I'm erratic, momma lock me in the attic please</li>
+<li>Til I draw enough static in my somatic anatomy</li>
+<li>And come out imputed with fusions of Blueprints and Illmatics</li>
+<li>I’ve been going raw, this just how I feel rappin'</li>
+<li>We gave y'all sur' tactics, so y'all can’t even gas us</li>
+<li>We taught you how to be prepared but still attacking the masses</li>
+<li>Y'all better get y'all caskets cause we ‘bout to annihilate</li>
+<li>(The New Babylon Era) My empire gate’s in the Empire State</li>
+<li>I’m on the higer platform, look at the way they clap for ‘em</li>
+<li>Never fuck with phony men cause I don’t like my back torn</li>
+<li>Nigga ask kwon - this that top ramen' you ain’t used to</li>
+<li>Keep it neutral to scruple and tell ‘em no beef like noodles!!</li>
 
-Keep it neutral, just so you can scruple
+<li>Keep it neutral, just so you can scruple</li>
 </stanza>
 
 <stanza>[Bridge]
-I tell ‘em no beef like noodles
-It’s world domination, (nation) you’re tuned into my station
-Always got a doobie and a motherfucking eighth lit
-Always got the trees, so what the fuck you mean
-I ain’t about to rise to the top with my fucking team
+<li>I tell ‘em no beef like noodles</li>
+<li>It’s world domination, (nation) you’re tuned into my station</li>
+<li>Always got a doobie and a motherfucking eighth lit</li>
+<li>Always got the trees, so what the fuck you mean</li>
+<li>I ain’t about to rise to the top with my fucking team</li>
 </stanza>
 <stanza>[Hook 2x]</stanza></track>
 
@@ -484,176 +487,176 @@ I ain’t about to rise to the top with my fucking team
 <stanza>Yeah</stanza>
 
 <stanza>[Verse 1]
-Another love song gone wrong
-Should've known you were a woo, like Based God in Wonton
-But I didn't, and I ain't even tripping
-Another foul ball but I'm still glad I hit it
-Cause a lot of niggas didn't you know - the coulda shoulda type
-Like "Oh, it was slight too tight, come on, I would've piped
-But our schedules contradicted we're always tied down"
-Ay pipe down, the first night ya boy layed the pipe down
-Took off the night gown and, pulled out the slinky
-She screamed "Joey spank me!"
-And after that she even thanked me, swanky!
-One time for my nigga Dymes
-Lord knows we be kicking rhymes 'til the end of time
-But, back to the topic, oh yeah I'm pissed off
-I'm still tripped off and wondering why my shorty dipped off
-I ain't gonna front a nigga do miss her lip gloss
-Now she sucks the next nigga dick off and my dick soft
-So tell me what the fuck I'm 'posed to do
-And you know it ain't too easy getting over you
-I sent them postcards so you know it's true
-I promise that I wouldn't get emotional
-And I'm not, so stop it
-Why you front like you don't miss my whole cockpit down yo esophagus
-Screaming daddy stop it, ripping out your tracks
-Chipped nail polishing in the scratches on my back like
-Did you forget about the time we had the sticky rolled
-And I tried to suck your titty-hole for milk for my cheerios
-Did you forget about the video when you first came
-I hit that spot twice and since then you haven't been the same
-But now I heard you fucking with some new man
-Can't remember his name but my first impression, "What a lame"
-Lorraine said she seen him at a bowling lane
-Walking out the bathroom kinda strange with his shoulder stained
-Faggot, 6 months, and I'm still at it
-You'll probably never hear this track but I still wrapped it
-I guess I'm still attracted to you being here
-I swear I can't imagine you would not even care
-Whole thing played out like magic and it’s kinda weird
-It's like I did a trick and you won't reappear
-It ain't fair, I need you back sometimes I get scared
-But I'm a player, ain't gonna let you see my tears</stanza>
+<li>Another love song gone wrong</li>
+<li>Should've known you were a woo, like Based God in Wonton</li>
+<li>But I didn't, and I ain't even tripping</li>
+<li>Another foul ball but I'm still glad I hit it</li>
+<li>Cause a lot of niggas didn't you know - the coulda shoulda type</li>
+<li>Like "Oh, it was slight too tight, come on, I would've piped</li>
+<li>But our schedules contradicted we're always tied down"</li>
+<li>Ay pipe down, the first night ya boy layed the pipe down</li>
+<li>Took off the night gown and, pulled out the slinky</li>
+<li>She screamed "Joey spank me!"</li>
+<li>And after that she even thanked me, swanky!</li>
+<li>One time for my nigga Dymes</li>
+<li>Lord knows we be kicking rhymes 'til the end of time</li>
+<li>But, back to the topic, oh yeah I'm pissed off</li>
+<li>I'm still tripped off and wondering why my shorty dipped off</li>
+<li>I ain't gonna front a nigga do miss her lip gloss</li>
+<li>Now she sucks the next nigga dick off and my dick soft</li>
+<li>So tell me what the fuck I'm 'posed to do</li>
+<li>And you know it ain't too easy getting over you</li>
+<li>I sent them postcards so you know it's true</li>
+<li>I promise that I wouldn't get emotional</li>
+<li>And I'm not, so stop it</li>
+<li>Why you front like you don't miss my whole cockpit down yo esophagus</li>
+<li>Screaming daddy stop it, ripping out your tracks</li>
+<li>Chipped nail polishing in the scratches on my back like</li>
+<li>Did you forget about the time we had the sticky rolled</li>
+<li>And I tried to suck your titty-hole for milk for my cheerios</li>
+<li>Did you forget about the video when you first came</li>
+<li>I hit that spot twice and since then you haven't been the same</li>
+<li>But now I heard you fucking with some new man</li>
+<li>Can't remember his name but my first impression, "What a lame"</li>
+<li>Lorraine said she seen him at a bowling lane</li>
+<li>Walking out the bathroom kinda strange with his shoulder stained</li>
+<li>Faggot, 6 months, and I'm still at it</li>
+<li>You'll probably never hear this track but I still wrapped it</li>
+<li>I guess I'm still attracted to you being here</li>
+<li>I swear I can't imagine you would not even care</li>
+<li>Whole thing played out like magic and it’s kinda weird</li>
+<li>It's like I did a trick and you won't reappear</li>
+<li>It ain't fair, I need you back sometimes I get scared</li>
+<li>But I'm a player, ain't gonna let you see my tears</li></stanza>
 
 <stanza>[Bridge]
-Cause I'm a player, ain't gonna let you see my tears
-Cause I'm a player, ain't gonna let you see my tears
-Cause I'm a player, ain't gonna let you see my tears
-Cause I'm a player</stanza>
+<li>Cause I'm a player, ain't gonna let you see my tears</li>
+<li>Cause I'm a player, ain't gonna let you see my tears</li>
+<li>Cause I'm a player, ain't gonna let you see my tears</li>
+<li>Cause I'm a player</li></stanza>
 
 <stanza>[Hook]
-I couldn't see it coming down my eye
-So I had to make the song cry
-I couldn't see it coming down my eye
-So I gotta to make the song cry
-I couldn't see it coming down my eye
-So I had to make the song cry
-I couldn't see it coming down my eye
-So I gotta to make the song cry
-Yeah</stanza></track>
+<li>I couldn't see it coming down my eye</li>
+<li>So I had to make the song cry</li>
+<li>I couldn't see it coming down my eye</li>
+<li>So I gotta to make the song cry</li>
+<li>I couldn't see it coming down my eye</li>
+<li>So I had to make the song cry</li>
+<li>I couldn't see it coming down my eye</li>
+<li>So I gotta to make the song cry</li>
+<li>Yeah</li></stanza></track>
 
 <track title="Funky_Ho'$">
 <producer>Lord Finesse</producer>
 <stanza>[Intro]
-Aight fuck that, word word
-Lord Finnesse, Jayo its been my jail since a day old but they know
-Yea this ones for the ladies
-Who be tryna have my baby</stanza>
+<li>Aight fuck that, word word</li>
+<li>Lord Finnesse, Jayo its been my jail since a day old but they know</li>
+<li>Yea this ones for the ladies</li>
+<li>Who be tryna have my baby</li></stanza>
 
 <stanza>[Verse 1]
-Ayo word to my mother
-Two things I never do is leave the crib without some rubbers
-Or tell a funky ho I love her
-These broads be trying to get a brother caught up in a sticky situation
-Missing menstruation cycles
-They all psycho ask Michael
-Before you give her dough for billie jeans and them nice clothes
-Like whoa don't let them trap you on the tight rope
-Spike holes in the condom to form a zygote overnight
-Ask Kwon he know what it's like
-He wore a hat but it exploded twice
-But fuck a bad bitch I do this rap shit and put it over life
-On the coldest nights son shine like a solar strike
-And I swear I got the weirdest cases
-Pipe chicks in the weirdest places from rooftops to staircases
-Like get a load of their faces
-Face it if you fear hate it you get put into this clear space</stanza>
+<li>Ayo word to my mother</li>
+<li>Two things I never do is leave the crib without some rubbers</li>
+<li>Or tell a funky ho I love her</li>
+<li>These broads be trying to get a brother caught up in a sticky situation</li>
+<li>Missing menstruation cycles</li>
+<li>They all psycho ask Michael</li>
+<li>Before you give her dough for billie jeans and them nice clothes</li>
+<li>Like whoa don't let them trap you on the tight rope</li>
+<li>Spike holes in the condom to form a zygote overnight</li>
+<li>Ask Kwon he know what it's like</li>
+<li>He wore a hat but it exploded twice</li>
+<li>But fuck a bad bitch I do this rap shit and put it over life</li>
+<li>On the coldest nights son shine like a solar strike</li>
+<li>And I swear I got the weirdest cases</li>
+<li>Pipe chicks in the weirdest places from rooftops to staircases</li>
+<li>Like get a load of their faces</li>
+<li>Face it if you fear hate it you get put into this clear space</li></stanza>
 
 <stanza>[Hook x8]
-I dont trust these bitches they would never catch me slippin'</stanza>
+<li>I dont trust these bitches they would never catch me slippin'</li></stanza>
 
 <stanza>[Verse 2]
-Hey yo, I’m attached too, to the cash rules, 'bout to go nuts
-Niggas get their attitudes to these cash you
-Who you know that cool that they drip swagoo
-And I’m here to stay like tattoos on statues
-Check your mirror nigga that’s the second time I passed you
-Eating my gas fume, got me thinking like who gassed you
-Your girl got gas too
-She let me tackle for a Dutch and a Snapple
-And that's who you decide to put on shackles
-I’m that dude, fuck values, pump up the volume
-All up in the cut, no alcohol just mad booze
-Tryin to find a pad to bring her back to
-Like a tadpole, I'm that folk, got bad chicks that I feel bad for
-Losing to they back bones, looking at my cock tip
-Down to do all all no matter what the synopsis is
-All it takes is some exotic piff
-They all unconscious topless exposing they crotch and shit</stanza>
+<li>Hey yo, I’m attached too, to the cash rules, 'bout to go nuts</li>
+<li>Niggas get their attitudes to these cash you</li>
+<li>Who you know that cool that they drip swagoo</li>
+<li>And I’m here to stay like tattoos on statues</li>
+<li>Check your mirror nigga that’s the second time I passed you</li>
+<li>Eating my gas fume, got me thinking like who gassed you</li>
+<li>Your girl got gas too</li>
+<li>She let me tackle for a Dutch and a Snapple</li>
+<li>And that's who you decide to put on shackles</li>
+<li>I’m that dude, fuck values, pump up the volume</li>
+<li>All up in the cut, no alcohol just mad booze</li>
+<li>Tryin to find a pad to bring her back to</li>
+<li>Like a tadpole, I'm that folk, got bad chicks that I feel bad for</li>
+<li>Losing to they back bones, looking at my cock tip</li>
+<li>Down to do all all no matter what the synopsis is</li>
+<li>All it takes is some exotic piff</li>
+<li>They all unconscious topless exposing they crotch and shit</li></stanza>
 
 <stanza>[Hook x8]</stanza>
 
 <stanza>[Outro]
-Ey yo It’s PE leaving no hope for these hoes
-We leaving no hopes for these hoes
-My nigga Jay Steez leaving no hope for these hoes
-Leaving no hope for these hoes
-My nigga A-La $ole leaving no hope for these hoes
-Leaving no hope for these hoes
-My nigga Kirk Knight leaving no hole for these hoes
-Leaving no hole for these hoes
-My nigga CJ Fly leaving no hope for these hoes
-Leaving no hope for these hoes
-My nigga Pow P leaving no hope for these hoes
-Leaving no hope for these hoes
-My nigga Jay Lee leaving no hope for these hoes
-Leaving no hope for these hoes
-My nigga Dyem Lewis leaving no hope for these hoes
-Leaving no hope for these hoes</stanza></track>
+<li>Ey yo It’s PE leaving no hope for these hoes</li>
+<li>We leaving no hopes for these hoes</li>
+<li>My nigga Jay Steez leaving no hope for these hoes</li>
+<li>Leaving no hope for these hoes</li>
+<li>My nigga A-La $ole leaving no hope for these hoes</li>
+<li>Leaving no hope for these hoes</li>
+<li>My nigga Kirk Knight leaving no hole for these hoes</li>
+<li>Leaving no hole for these hoes</li>
+<li>My nigga CJ Fly leaving no hope for these hoes</li>
+<li>Leaving no hope for these hoes</li>
+<li>My nigga Pow P leaving no hope for these hoes</li>
+<li>Leaving no hope for these hoes</li>
+<li>My nigga Jay Lee leaving no hope for these hoes</li>
+<li>Leaving no hope for these hoes</li>
+<li>My nigga Dyem Lewis leaving no hope for these hoes</li>
+<li>Leaving no hope for these hoes</li></stanza></track>
 
 <track title="Daily_Routine">
 <producer>Chuck Strangers</producer>
 <stanza>[Verse 1]
-From the block to the top, Buddha baggies in the sock
-Only thing that changed now is we ain't runnin' out of stock
-Used to beg mom dukes for lunch money
-Honeys used to run from me when pockets was dust bunnies
-Now what's funny is we done came up and conquered
-Even the future lookin' bonkers from Compton to Yonkers
-Though them gangstas grill, I tell 'em keep that drama away
-Don't fuck with thieves, I like Jay so who sponsorin' the tape
-They launchin' out strays, I'm tryin' not to get sprayed
-Whether a spitter or a quitter behind the trigger, approaching his prey
-His eyes bigger, won't stop to consider
-What's right or wrong, because it's hard liquor that's inside his liver</stanza>
+<li>From the block to the top, Buddha baggies in the sock</li>
+<li>Only thing that changed now is we ain't runnin' out of stock</li>
+<li>Used to beg mom dukes for lunch money</li>
+<li>Honeys used to run from me when pockets was dust bunnies</li>
+<li>Now what's funny is we done came up and conquered</li>
+<li>Even the future lookin' bonkers from Compton to Yonkers</li>
+<li>Though them gangstas grill, I tell 'em keep that drama away</li>
+<li>Don't fuck with thieves, I like Jay so who sponsorin' the tape</li>
+<li>They launchin' out strays, I'm tryin' not to get sprayed</li>
+<li>Whether a spitter or a quitter behind the trigger, approaching his prey</li>
+<li>His eyes bigger, won't stop to consider</li>
+<li>What's right or wrong, because it's hard liquor that's inside his liver</li></stanza>
 
 <stanza>[Hook]
-But that's just daily routine
-The streets are cooped fiends
-Whether the hoops or the booth, niggas shoot dreams
-Better choose the right scheme
-Cause you could think you're cool with your nice things
-But get wiped clean for ice creams when the lights beam</stanza>
+<li>But that's just daily routine</li>
+<li>The streets are cooped fiends</li>
+<li>Whether the hoops or the booth, niggas shoot dreams</li>
+<li>Better choose the right scheme</li>
+<li>Cause you could think you're cool with your nice things</li>
+<li>But get wiped clean for ice creams when the lights beam</li></stanza>
 
 <stanza>[Verse 2]
-Traded in my Nikes for a new mic
-I guess it's safe to say he sold soul for his new life
-Like they were tryna blind us, but we know the true designer
-They didn't wanna see us find the diviners
-So now we hit the vines up day and night
-On the regular, I know my momma prayin' like
-She want me reach my aims in life, but just stay in sight
-So I'm shootin' for my dreams, hit the booth and it boost my esteem
-The Pro Era crew recruitin' in them fiends by the boat load
-Nigga caught a wave and now he surfin' coastal
-They don't feel the name but they say the music dope though
-Fuck it, that's how it's supposed to go, these bloggers too emotional
-They'll be postin' you until labels start inter-scopin' you
-By then, it's wild late and I'll be chillin' where I lay
-Cause I'd rather see the top than to be livin' where I lay
-Imbalances in my Kundalini, they tryna put two through my beanie
-Wish you well, tryin' to poof a genie</stanza>
+<li>Traded in my Nikes for a new mic</li>
+<li>I guess it's safe to say he sold soul for his new life</li>
+<li>Like they were tryna blind us, but we know the true designer</li>
+<li>They didn't wanna see us find the diviners</li>
+<li>So now we hit the vines up day and night</li>
+<li>On the regular, I know my momma prayin' like</li>
+<li>She want me reach my aims in life, but just stay in sight</li>
+<li>So I'm shootin' for my dreams, hit the booth and it boost my esteem</li>
+<li>The Pro Era crew recruitin' in them fiends by the boat load</li>
+<li>Nigga caught a wave and now he surfin' coastal</li>
+<li>They don't feel the name but they say the music dope though</li>
+<li>Fuck it, that's how it's supposed to go, these bloggers too emotional</li>
+<li>They'll be postin' you until labels start inter-scopin' you</li>
+<li>By then, it's wild late and I'll be chillin' where I lay</li>
+<li>Cause I'd rather see the top than to be livin' where I lay</li>
+<li>Imbalances in my Kundalini, they tryna put two through my beanie</li>
+<li>Wish you well, tryin' to poof a genie</li></stanza>
 
 <stanza>[Hook x4]</stanza></track>
 
@@ -661,252 +664,252 @@ Wish you well, tryin' to poof a genie</stanza>
 <producer>J Dilla</producer>
 
 <stanza>[Intro]
-Free Max B
-Owww (owwwwwww)
-Uh uh (uh uh) x3
-It's like (it's like)</stanza>
+<li>Free Max B</li>
+<li>Owww (owwwwwww)</li>
+<li>Uh uh (uh uh) x3</li>
+<li>It's like (it's like)</li></stanza>
 
 <stanza>[Verse 1: Joey BADA$$]
-Sometimes I feel alienated
-Because I'm not up in the stadium playing or on the radio sayin'
-"Fuck 'em broads we don't love 'em we degradin' 'em!"
-But always find my self back at the bacchanalian
-Blood vessels poppin' out my craniums
-Niggas askin' when the tape gon' drop but I got nothin' to say to them
-Because I been slacking the skill, although my passion is real
-I'm too caught up catching a feel when I should be cashin' a mil
-It's something bout me being younger that affected my hunger
-Got older in number, realized I can't count on these hundreds
-To determine my elation
-Pursuit of happiness I keep pacin', these motherfuckas racist
-These ain't fair races, they just let the fear erase us
-Adopted by the slums, son of guns this is how they raised us
-Yo son we gotta raise up, don't let them just array us
-'Til we raisins in the sun
-So we gotta wake up</stanza>
+<li>Sometimes I feel alienated</li>
+<li>Because I'm not up in the stadium playing or on the radio sayin'</li>
+<li>"Fuck 'em broads we don't love 'em we degradin' 'em!"</li>
+<li>But always find my self back at the bacchanalian</li>
+<li>Blood vessels poppin' out my craniums</li>
+<li>Niggas askin' when the tape gon' drop but I got nothin' to say to them</li>
+<li>Because I been slacking the skill, although my passion is real</li>
+<li>I'm too caught up catching a feel when I should be cashin' a mil</li>
+<li>It's something bout me being younger that affected my hunger</li>
+<li>Got older in number, realized I can't count on these hundreds</li>
+<li>To determine my elation</li>
+<li>Pursuit of happiness I keep pacin', these motherfuckas racist</li>
+<li>These ain't fair races, they just let the fear erase us</li>
+<li>Adopted by the slums, son of guns this is how they raised us</li>
+<li>Yo son we gotta raise up, don't let them just array us</li>
+<li>'Til we raisins in the sun</li>
+<li>So we gotta wake up</li></stanza>
 
 <stanza>[Hook: T'nah Apex]
-Cause they always be behind in the cut
-Always in the skies watchin' stars when they up
-So don't you confide into the evil and corrupt
-This is urgent, Apex on the vertex, tonight we're serving serpents
+<li>Cause they always be behind in the cut</li>
+<li>Always in the skies watchin' stars when they up</li>
+<li>So don't you confide into the evil and corrupt</li>
+<li>This is urgent, Apex on the vertex, tonight we're serving serpents</li>
 
-Cause they always be behind in the cut
-Always in the skies watchin' stars when they up
-So don't you confide into the evil and corrupt
-This is urgent</stanza>
+<li>Cause they always be behind in the cut</li>
+<li>Always in the skies watchin' stars when they up</li>
+<li>So don't you confide into the evil and corrupt</li>
+<li>This is urgent</li></stanza>
 
 <stanza>[Verse 2: Joey BADA$$]
-Got a whole bunch of shit up on my plate now
-Thinkin' like in the man garden it's a snake now
-Cause I don't know who to believe or who to deceive
-Got me thinkin' I
-Sold my soul and ain't received a receipt but I won't proceed to retreat
-Jigga told me watch your throne seat
-And now I sees it and in respect to BIG, I gotta Cease it
-And I hope he see me cause these niggas don't want beef with my talents
-They ain't fit for this green, they just caesar salad
-You think because you avid they just gonna let you have it
-It's a lot to learn and that my nigga need to ask us
-It's the axis of the earth at the birth
-I found a new balance
-And now I walk on water just like I knew balance just like a relative
-Marijuana sedatives got me thinkin' I should put a bomb right where the senate is
-Cause they corruptin' the youth, we ain't inductin' the truth
-Lookin' at the president like yo it must be nothin' to you</stanza>
+<li>Got a whole bunch of shit up on my plate now</li>
+<li>Thinkin' like in the man garden it's a snake now</li>
+<li>Cause I don't know who to believe or who to deceive</li>
+<li>Got me thinkin' I</li>
+<li>Sold my soul and ain't received a receipt but I won't proceed to retreat</li>
+<li>Jigga told me watch your throne seat</li>
+<li>And now I sees it and in respect to BIG, I gotta Cease it</li>
+<li>And I hope he see me cause these niggas don't want beef with my talents</li>
+<li>They ain't fit for this green, they just caesar salad</li>
+<li>You think because you avid they just gonna let you have it</li>
+<li>It's a lot to learn and that my nigga need to ask us</li>
+<li>It's the axis of the earth at the birth</li>
+<li>I found a new balance</li>
+<li>And now I walk on water just like I knew balance just like a relative</li>
+<li>Marijuana sedatives got me thinkin' I should put a bomb right where the senate is</li>
+<li>Cause they corruptin' the youth, we ain't inductin' the truth</li>
+<li>Lookin' at the president like yo it must be nothin' to you</li></stanza>
 
 <stanza>[Hook: T'nah Apex]</stanza>
 
 <stanza>[Verse 3: Joey BADA$$]
-I passed the dutch to the left and it started to make sense
-It's funny how I see it more straight when I'm bent
-You've been warned on the risk it takes to take to sit on top
-Been on clock cause you could see that I been on watch
-Shit don't stop, 'til you make the sacrifices
-Trade in whats priceless to ices and devices
-When the light switch I shift like I'm typin'
-Livin' in the era where Christ is the crisis
-The lifeless in the trance actin like yo mans
-Bitch niggas only know that transactions is the plans
-But the mic is in my hands so I valor the booth
-The blacker the berry is the more sour the fruit
-They ejectin' us to make us cowards to the power of truth
-Became flowers from roots and now we just move in cahoots
-I move from the stoop and put my foot right down on the asphalt
-Every night I ask lord if this what I asked for</stanza>
+<li>I passed the dutch to the left and it started to make sense</li>
+<li>It's funny how I see it more straight when I'm bent</li>
+<li>You've been warned on the risk it takes to take to sit on top</li>
+<li>Been on clock cause you could see that I been on watch</li>
+<li>Shit don't stop, 'til you make the sacrifices</li>
+<li>Trade in whats priceless to ices and devices</li>
+<li>When the light switch I shift like I'm typin'</li>
+<li>Livin' in the era where Christ is the crisis</li>
+<li>The lifeless in the trance actin like yo mans</li>
+<li>Bitch niggas only know that transactions is the plans</li>
+<li>But the mic is in my hands so I valor the booth</li>
+<li>The blacker the berry is the more sour the fruit</li>
+<li>They ejectin' us to make us cowards to the power of truth</li>
+<li>Became flowers from roots and now we just move in cahoots</li>
+<li>I move from the stoop and put my foot right down on the asphalt</li>
+<li>Every night I ask lord if this what I asked for</li></stanza>
 
 <stanza>[Hook: T'nah Apex]</stanza></track>
 
 <track title="Don't_Front">
 <producer>Statik Selektah</producer>
 <stanza>[Intro]
-Yo, what's the word word
-Pass the herbs
-Pass the herbs, pass the herbs
-Had to learn, had to learn (had To learn)
-We just had to burn</stanza>
+<li>Yo, what's the word word</li>
+<li>Pass the herbs</li>
+<li>Pass the herbs, pass the herbs</li>
+<li>Had to learn, had to learn (had To learn)</li>
+<li>We just had to burn</li></stanza>
 
 <stanza>[Verse 1: Joey Bada$$]
-It all started with this special herb
-Then after that it came to sexual words
-I'm meeting shorty up to patch her a verse
-She played Bonnie and I collide with a vibe when I'm inside the walls
-I cut my shorties on the side cause I decide that she all
-Mine's, I keep her in my eyes at all times
-Not because I don't trust her I just, can't get enough of her
-On the phone late until her mom dukes be cussing her
-She played the hustler and I'm like mad customers
-Man swear I'm in love and ain't afraid to admit it
-Be blowing up her line, man I swear I'm addicted, but
-It's all cool cause when in love we all fools
-They say men lie and women lay naked that's all foolin'
-Numbers don't matter after the first night
-Right, so what the fuck is love at the first sight
-If you ask me, another stupid analogy
-Made to cover flaws in the female anatomy</stanza>
+<li>It all started with this special herb</li>
+<li>Then after that it came to sexual words</li>
+<li>I'm meeting shorty up to patch her a verse</li>
+<li>She played Bonnie and I collide with a vibe when I'm inside the walls</li>
+<li>I cut my shorties on the side cause I decide that she all</li>
+<li>Mine's, I keep her in my eyes at all times</li>
+<li>Not because I don't trust her I just, can't get enough of her</li>
+<li>On the phone late until her mom dukes be cussing her</li>
+<li>She played the hustler and I'm like mad customers</li>
+<li>Man swear I'm in love and ain't afraid to admit it</li>
+<li>Be blowing up her line, man I swear I'm addicted, but</li>
+<li>It's all cool cause when in love we all fools</li>
+<li>They say men lie and women lay naked that's all foolin'</li>
+<li>Numbers don't matter after the first night</li>
+<li>Right, so what the fuck is love at the first sight</li>
+<li>If you ask me, another stupid analogy</li>
+<li>Made to cover flaws in the female anatomy</li></stanza>
 
 <stanza>[Hook]
-But I'm a keep gradually telling these bitches
-Don't front, (don't front), don't front, (don't front)
-Don't front, (don- don't front), don't front though
-I got some weed and some fronto
-(Don't front)
-And you know I always hunt hoes
-I tell 'em leave but don't walk through the front door
-Now don't front, (don't front), don't front, (don't front)
-Check, (don- don- don't front)</stanza>
+<li>But I'm a keep gradually telling these bitches</li>
+<li>Don't front, (don't front), don't front, (don't front)</li>
+<li>Don't front, (don- don't front), don't front though</li>
+<li>I got some weed and some fronto</li>
+<li>(Don't front)</li>
+<li>And you know I always hunt hoes</li>
+<li>I tell 'em leave but don't walk through the front door</li>
+<li>Now don't front, (don't front), don't front, (don't front)</li>
+<li>Check, (don- don- don't front)</li></stanza>
 
 <stanza>[Verse 2: CJ Fly]
-It's like a massacre when mass occur
-I got a massive urge but I had to learn
-Heard you had it on lock so I pass the word
-I stash the herb, sit back observe
-That she make me feel good is all I ask of her
-In the clouds who would've known, We would've crash and burn
-I prayed long and hard, hoping things will last with her
-I ain't mad at her
-But I really wish that it ain't have to hurt
-Let's be blunt we're best buds
-Both knew our role this is more than just a crush
-I used to pick her up longing for our lips to touch
-But now I rarely even see her
-In everybody hood not even the law enforcement can keep up
-She ain't want no one to know, so I kept it on the low
-Any time that we would kick it, I make sure I had some toe
-I thought I knew her better than anyone would know
-Bagged her at her friends, but home were I would take her
-Didn't know that she was a ho, that only wanted my paper
-Whenever I was with her, my mind would just relax
-Could've been the hot topic cause I swore we were a match and
-I admit it girl you fine as hell
-Don't know your perfume but you exert the finest smells
-You tryna find her then follow her trail
-She left a few old lovers inside of a jail
-That's all a part of the tale</stanza>
+<li>It's like a massacre when mass occur</li>
+<li>I got a massive urge but I had to learn</li>
+<li>Heard you had it on lock so I pass the word</li>
+<li>I stash the herb, sit back observe</li>
+<li>That she make me feel good is all I ask of her</li>
+<li>In the clouds who would've known, We would've crash and burn</li>
+<li>I prayed long and hard, hoping things will last with her</li>
+<li>I ain't mad at her</li>
+<li>But I really wish that it ain't have to hurt</li>
+<li>Let's be blunt we're best buds</li>
+<li>Both knew our role this is more than just a crush</li>
+<li>I used to pick her up longing for our lips to touch</li>
+<li>But now I rarely even see her</li>
+<li>In everybody hood not even the law enforcement can keep up</li>
+<li>She ain't want no one to know, so I kept it on the low</li>
+<li>Any time that we would kick it, I make sure I had some toe</li>
+<li>I thought I knew her better than anyone would know</li>
+<li>Bagged her at her friends, but home were I would take her</li>
+<li>Didn't know that she was a ho, that only wanted my paper</li>
+<li>Whenever I was with her, my mind would just relax</li>
+<li>Could've been the hot topic cause I swore we were a match and</li>
+<li>I admit it girl you fine as hell</li>
+<li>Don't know your perfume but you exert the finest smells</li>
+<li>You tryna find her then follow her trail</li>
+<li>She left a few old lovers inside of a jail</li>
+<li>That's all a part of the tale</li></stanza>
 
 <stanza>[Hook]</stanza>
 
 <stanza>[Verse 3: Joey Bada$$]
-Hey yo don't tell me be patient with no doctor prescription
-Emotionless positions and provocative visions
-Should've known you missed a note like the octave was switching
-Remember hate the game but she's spotting some glitches
-It's a simulation yeah, stimulation
-Take off your shirt, let me feel manipulative
-My heart like the Himalayas but yeah I got a slay her
-I'm crushing on you sweetheart but yeah I'm a player
-Sort of like Isaiah so baby let me coach you
-And I know I'm not the first jerk to approach you
-So this ain't nothing new to you, nothing unusual
-Nothing you ain't used to so my nothing is useable</stanza>
+<li>Hey yo don't tell me be patient with no doctor prescription</li>
+<li>Emotionless positions and provocative visions</li>
+<li>Should've known you missed a note like the octave was switching</li>
+<li>Remember hate the game but she's spotting some glitches</li>
+<li>It's a simulation yeah, stimulation</li>
+<li>Take off your shirt, let me feel manipulative</li>
+<li>My heart like the Himalayas but yeah I got a slay her</li>
+<li>I'm crushing on you sweetheart but yeah I'm a player</li>
+<li>Sort of like Isaiah so baby let me coach you</li>
+<li>And I know I'm not the first jerk to approach you</li>
+<li>So this ain't nothing new to you, nothing unusual</li>
+<li>Nothing you ain't used to so my nothing is useable</li></stanza>
 
 <stanza>[Verse 4: CJ Fly]
-We all try when you go bye, we all high
-Truth is I'm never home and I'm cold if that's where the heart lies
-So label me as heartless, it's not that I don't care
-I just learned to use my heart less, gain sanity and lost stress
-It put me in a state that just started taking a toll on me
-Kept the secrets you told me, emotions I would hold beneath
-Always kept the L so I know defeat
-Said everything will feel much better soon as you know I leave
-Not sure if it's the meds that made you think I'm mediocre
-I was still body with a glove on, you know I'm a cold ma
-I'm in animal pause, but you got an Ark
-When it flooded, used to always feel like Noah</stanza>
+<li>We all try when you go bye, we all high</li>
+<li>Truth is I'm never home and I'm cold if that's where the heart lies</li>
+<li>So label me as heartless, it's not that I don't care</li>
+<li>I just learned to use my heart less, gain sanity and lost stress</li>
+<li>It put me in a state that just started taking a toll on me</li>
+<li>Kept the secrets you told me, emotions I would hold beneath</li>
+<li>Always kept the L so I know defeat</li>
+<li>Said everything will feel much better soon as you know I leave</li>
+<li>Not sure if it's the meds that made you think I'm mediocre</li>
+<li>I was still body with a glove on, you know I'm a cold ma</li>
+<li>I'm in animal pause, but you got an Ark</li>
+<li>When it flooded, used to always feel like Noah</li></stanza>
 
 <stanza>[Verse 5: Joey Bada$$]
-And I know I know her
-Had these kind of skills I had to show her
-So I told her I'm the nigga she see on the posters
-Came back through and I put it in the holster
-Just had to teach her one time
-Put it down, don't really give a fuck though
-Don't front
-And tell your bitch don't front though
-Don't front</stanza></track>
+<li>And I know I know her</li>
+<li>Had these kind of skills I had to show her</li>
+<li>So I told her I'm the nigga she see on the posters</li>
+<li>Came back through and I put it in the holster</li>
+<li>Just had to teach her one time</li>
+<li>Put it down, don't really give a fuck though</li>
+<li>Don't front</li>
+<li>And tell your bitch don't front though</li>
+<li>Don't front</li></stanza></track>
 
 <track title="Righteous_Minds">
 <producer>Bruce Leekix</producer>
 <stanza>[Verse 1]
-I never knew the world could be this mad
-Only vision I had of sex was Color Me Badd
-And I never knew the world could be this cold
-Only time a nigga die, he was playing a role
-But now niggas get their souls stole' so often
-They only thing they offer dreamers is a wake and a coffin
-From NY, to Compton, down to Austin
-She said that orifice morph into abortions without precaution
-Problem with our people, there's too many wanna-be Jordan
-Too many forces thinking they could make a fortune scorin'
-Too many wanna-be actors instead of achieving their masters
-At least a bachelors but no, too many wanna-be rappers
-That's just statistics, don't mistake me for hypocrites
-Like niggas in the White House supplying Wite-Out
-On Jim Crow Laws, you probably missed it
-Hard to be persistent when you're tryin' to fight for your existence</stanza>
+<li>I never knew the world could be this mad</li>
+<li>Only vision I had of sex was Color Me Badd</li>
+<li>And I never knew the world could be this cold</li>
+<li>Only time a nigga die, he was playing a role</li>
+<li>But now niggas get their souls stole' so often</li>
+<li>They only thing they offer dreamers is a wake and a coffin</li>
+<li>From NY, to Compton, down to Austin</li>
+<li>She said that orifice morph into abortions without precaution</li>
+<li>Problem with our people, there's too many wanna-be Jordan</li>
+<li>Too many forces thinking they could make a fortune scorin'</li>
+<li>Too many wanna-be actors instead of achieving their masters</li>
+<li>At least a bachelors but no, too many wanna-be rappers</li>
+<li>That's just statistics, don't mistake me for hypocrites</li>
+<li>Like niggas in the White House supplying Wite-Out</li>
+<li>On Jim Crow Laws, you probably missed it</li>
+<li>Hard to be persistent when you're tryin' to fight for your existence</li></stanza>
 
 <stanza>[Hook x2]
-It ain't easy livin' life like this
-When you tryin' to be righteous but know a nigga might just
-Leave you lifeless for prices, or high tech devices
-So keep that TEC-9 or meet your crisis
-It really ain't easy livin' life like this
-When you tryin' to be righteous but know a nigga might just
-Leave you lifeless for prices, or high tech devices
-So keep that TEC-9 or meet your crisis</stanza>
+<li>It ain't easy livin' life like this</li>
+<li>When you tryin' to be righteous but know a nigga might just</li>
+<li>Leave you lifeless for prices, or high tech devices</li>
+<li>So keep that TEC-9 or meet your crisis</li>
+<li>It really ain't easy livin' life like this</li>
+<li>When you tryin' to be righteous but know a nigga might just</li>
+<li>Leave you lifeless for prices, or high tech devices</li>
+<li>So keep that TEC-9 or meet your crisis</li></stanza>
 
 <stanza>[Verse 2]
-Person mad nervous, you surrender to sterling
-Look them in the eye, If looks made you die, you know you merk ‘em
-Right there, plus his hide is like, right here
-So you know that if you would fight fair then you'd have him like, quite scared
-But don't forget the TEC held high by your right ear
-So listen loud and clear: you don't wanna lose your life, dear
-And don’t you show a slight tear or let 'em sight fear
-Just let 'em disappear the night air, yea with your Nike Airs
-Ride by the crackheads, left alone in the apartment
-Mothers be jobless, so they make dollars shaking it topless, and
-Daddy been gone said he, took off like ostrich
-Since he gain knowledge, I’m keeping it with the synopsis, and
-Shit like that make you wish you were adopted
-To escape the pain, you join a gang and get intoxicated
-Have no shame, nothing wrong with some Mary Jane
-The only thing is you do it again, and again, and again, and again
-And again, and again, and again...</stanza>
+<li>Person mad nervous, you surrender to sterling</li>
+<li>Look them in the eye, If looks made you die, you know you merk ‘em</li>
+<li>Right there, plus his hide is like, right here</li>
+<li>So you know that if you would fight fair then you'd have him like, quite scared</li>
+<li>But don't forget the TEC held high by your right ear</li>
+<li>So listen loud and clear: you don't wanna lose your life, dear</li>
+<li>And don’t you show a slight tear or let 'em sight fear</li>
+<li>Just let 'em disappear the night air, yea with your Nike Airs</li>
+<li>Ride by the crackheads, left alone in the apartment</li>
+<li>Mothers be jobless, so they make dollars shaking it topless, and</li>
+<li>Daddy been gone said he, took off like ostrich</li>
+<li>Since he gain knowledge, I’m keeping it with the synopsis, and</li>
+<li>Shit like that make you wish you were adopted</li>
+<li>To escape the pain, you join a gang and get intoxicated</li>
+<li>Have no shame, nothing wrong with some Mary Jane</li>
+<li>The only thing is you do it again, and again, and again, and again</li>
+<li>And again, and again, and again...</li></stanza>
 
 <stanza>[Hook x2]</stanza>
 
 <stanza>[Interlude: Belly scene]</stanza>
 
 <stanza>[Verse 3]
-Imagine me fed up, a go-getter, for mo' cheddar
-Po' never, blow Berettas ‘cause I know no better
-No Era, no STEEZ, no Kirk, no Lee
-No school, no OG, no talent, no me
-What if I just ain't act right?
-What if I pack crack white with my sack tight, join the gat fight?
-The click-clack type, slide in the vipe with the black stripe
-And give my friends the back knife, ‘cause "That's life, nigga"</stanza>
+<li>Imagine me fed up, a go-getter, for mo' cheddar</li>
+<li>Po' never, blow Berettas ‘cause I know no better</li>
+<li>No Era, no STEEZ, no Kirk, no Lee</li>
+<li>No school, no OG, no talent, no me</li>
+<li>What if I just ain't act right?</li>
+<li>What if I pack crack white with my sack tight, join the gat fight?</li>
+<li>The click-clack type, slide in the vipe with the black stripe</li>
+<li>And give my friends the back knife, ‘cause "That's life, nigga"</li></stanza>
 
 <stanza>[Hook x2]</stanza></track>
 
@@ -915,307 +918,306 @@ And give my friends the back knife, ‘cause "That's life, nigga"</stanza>
 <stanza>[Intro]</stanza>
 
 <stanza>[Verse 1: Joey BADA$$]
-Let's get down tonight
-I think I might blow a whole pound tonight
-So shorty hit me with the spot and if it sound alright
-Then you know I'm in the house
-Let a nigga run his mouth
-It's going down on sight
-I'm always down to fight
-Ain't duff a nigga in the while, no bluff
-Ain't no chuch when you're living in the wild
-I was hidden in the crowd
-Rippin' on some loud
-'Till I seen the sucka nigga dick-lickin' on my style
-Wow must've been the material linen
-Whole night kept him in my peripheral vision
-All I gotta say is the word and imperials get him
-Word to my pops I know niggas known for serial killin'
-But back to the women
-They tryna catch me slippin'
-So I gotta pack a mags to stop venereal venoms
-From entering my system
-If it ain't my moms or my 'sis then
-I put'em in the system</stanza>
+<li>Let's get down tonight</li>
+<li>I think I might blow a whole pound tonight</li>
+<li>So shorty hit me with the spot and if it sound alright</li>
+<li>Then you know I'm in the house</li>
+<li>Let a nigga run his mouth</li>
+<li>It's going down on sight</li>
+<li>I'm always down to fight</li>
+<li>Ain't duff a nigga in the while, no bluff</li>
+<li>Ain't no chuch when you're living in the wild</li>
+<li>I was hidden in the crowd</li>
+<li>Rippin' on some loud</li>
+<li>'Till I seen the sucka nigga dick-lickin' on my style</li>
+<li>Wow must've been the material linen</li>
+<li>Whole night kept him in my peripheral vision</li>
+<li>All I gotta say is the word and imperials get him</li>
+<li>Word to my pops I know niggas known for serial killin'</li>
+<li>But back to the women</li>
+<li>They tryna catch me slippin'</li>
+<li>So I gotta pack a mags to stop venereal venoms</li>
+<li>From entering my system</li>
+<li>If it ain't my moms or my 'sis then</li>
+<li>I put'em in the system</li></stanza>
 
 <stanza>[Hook: Joey BADA$$]
-So tell me where it's at and I'm in the spot (so what you wanna do)
-I said so tell me where it's at and I'm in the spot (we got a lot to come true)
-I said so tell me where it's at and I'm in the spot (so what you wanna do)
-So tell me where it's at and I'm in the spot (we got a lot to come true)
-I said so tell me where it's at and I'm in the spot (so what you wanna do)
-Tell me where it's at and I'm in that spot (we got a lot to come true)
-Let me know x4</stanza>
+<li>So tell me where it's at and I'm in the spot (so what you wanna do)</li>
+<li>I said so tell me where it's at and I'm in the spot (we got a lot to come true)</li>
+<li>I said so tell me where it's at and I'm in the spot (so what you wanna do)</li>
+<li>So tell me where it's at and I'm in the spot (we got a lot to come true)</li>
+<li>I said so tell me where it's at and I'm in the spot (so what you wanna do)</li>
+<li>Tell me where it's at and I'm in that spot (we got a lot to come true)</li>
+<li>Let me know x4</li></stanza>
 
 <stanza>[Verse 2: Joey BADA$$]
-Yo let me tell you what I'm living like
-Same shit just a different night
-Super bad chicks and they all up in my kryptonite
-'Bout to get down
-I'm tryna get up in the tight
-So roll the endo right
-And I can show you what them bitches like
-They just wanna come and have fun
-Told this little hun she could come
-But don't touch my funds
-I might get crazy
-I might bust a gun
-So just give me some more
-And I might bust her son
-Might bust and run
-They said love will come knockin' at my door
-Well I guess lust must've wrung
-The dutch touch the lungs and it was on
-Had her beggin' for the dawn 'till the crack of dawn
-Then I passed it off to Kwon
-I said it gotta be the swank if it ain't the rank
-Cause some pull hoes like ?
-Hold up
-Let me pull ove'
-Told her to hop in then put it back and drove
-And hit it out-park like Al Pujols</stanza>
+<li>Yo let me tell you what I'm living like</li>
+<li>Same shit just a different night</li>
+<li>Super bad chicks and they all up in my kryptonite</li>
+<li>'Bout to get down</li>
+<li>I'm tryna get up in the tight</li>
+<li>So roll the endo right</li>
+<li>And I can show you what them bitches like</li>
+<li>They just wanna come and have fun</li>
+<li>Told this little hun she could come</li>
+<li>But don't touch my funds</li>
+<li>I might get crazy</li>
+<li>I might bust a gun</li>
+<li>So just give me some more</li>
+<li>And I might bust her son</li>
+<li>Might bust and run</li>
+<li>They said love will come knockin' at my door</li>
+<li>Well I guess lust must've wrung</li>
+<li>The dutch touch the lungs and it was on</li>
+<li>Had her beggin' for the dawn 'till the crack of dawn</li>
+<li>Then I passed it off to Kwon</li>
+<li>I said it gotta be the swank if it ain't the rank</li>
+<li>Cause some pull hoes like ?</li>
+<li>Hold up</li>
+<li>Let me pull ove'</li>
+<li>Told her to hop in then put it back and drove</li>
+<li>And hit it out-park like Al Pujols</li></stanza>
 
 <stanza>[Hook: Joey BADA$$ and Kirk Knight]</stanza>
 
 <stanza>[Verse 3: Kirk Knight]
-She's so enticing
-Derogatory thoughts when I'm sighting
-Slangs to get her wet
-And i heard you're overflowing, I could test the waters like sea man, and i heard you like semen, see man
-Well let me slide through I know you're feelin' the kid
-Cause these nonchalant lines is lettin' me in
-Cause on contrast
-I could see us lovebirds it's in plain sight
-And am I right cause I heard you like the international lovin'
-On a higher scale
-When I mean scale I do it well
-Let me go deeper feel like I'm doing it well
-Word on the street you acting like a bastard
-Can I be you daddy?
-You can hop up in my caddy
-And I heard you got the fatty
-Yeah cellurite
-Just remember it's amazing how I come up on the track
-So duck and weave
-And please believe
-My side effect is shakin' knees
-Damn here I go again with the suggestive themes</stanza>
+<li>She's so enticing</li>
+<li>Derogatory thoughts when I'm sighting</li>
+<li>Slangs to get her wet</li>
+<li>And i heard you're overflowing, I could test the waters like sea man, and i heard you like semen, see man</li>
+<li>Well let me slide through I know you're feelin' the kid</li>
+<li>Cause these nonchalant lines is lettin' me in</li>
+<li>Cause on contrast</li>
+<li>I could see us lovebirds it's in plain sight</li>
+<li>And am I right cause I heard you like the international lovin'</li>
+<li>On a higher scale</li>
+<li>When I mean scale I do it well</li>
+<li>Let me go deeper feel like I'm doing it well</li>
+<li>Word on the street you acting like a bastard</li>
+<li>Can I be you daddy?</li>
+<li>You can hop up in my caddy</li>
+<li>And I heard you got the fatty</li>
+<li>Yeah cellurite</li>
+<li>Just remember it's amazing how I come up on the track</li>
+<li>So duck and weave</li>
+<li>And please believe</li>
+<li>My side effect is shakin' knees</li>
+<li>Damn here I go again with the suggestive themes</li></stanza>
 
 <stanza>[Hook: Joey BADA$$ and Kirk Knight]</stanza></track>
 
 <track title="Suspect">
 <producer>Chuck Strangers</producer>
 <stanza>[Hook]
-Suspect niggas don't come outside
-You might get your wig pushed back tonight
-Said I deserve my respect
-Brains don't matter if your wig get split on some third eye shit
-Suspect niggas don't come outside
-You might get your wig pushed back tonight
-I deserve my respect
-Brains don't matter if your wig get split on some third eye shit</stanza>
+<li>Suspect niggas don't come outside</li>
+<li>You might get your wig pushed back tonight</li>
+<li>Said I deserve my respect</li>
+<li>Brains don't matter if your wig get split on some third eye shit</li>
+<li>Suspect niggas don't come outside</li>
+<li>You might get your wig pushed back tonight</li>
+<li>I deserve my respect</li>
+<li>Brains don't matter if your wig get split on some third eye shit</li></stanza>
 
 <stanza>[Verse 1: Capital STEEZ]
-Started blazing and star gazing
-See how you can reach your farthest aspirations
-It's like holy matrimony in The Matrix
-It ain't shit, they just call it a strange shift
-Cold feet cause I'm on thin ice
-It's alright besides the fact I want it all in one night
-Like, you can't skip steps is the best
-Even though the vets hold a .47 with a vest
-Now that's a wise investment
-Or a concept to try and hide divine intentions
-It's like, let em hate, stay calm and meditate
-When life has the lemons it's time to eliminate
-More sour than lemonade, anyways
-Different days, different highs, different haze
-Kama Sutra with miss Mary Jane
-And the karma suits her, she a vibrant thang</stanza>
+<li>Started blazing and star gazing</li>
+<li>See how you can reach your farthest aspirations</li>
+<li>It's like holy matrimony in The Matrix</li>
+<li>It ain't shit, they just call it a strange shift</li>
+<li>Cold feet cause I'm on thin ice</li>
+<li>It's alright besides the fact I want it all in one night</li>
+<li>Like, you can't skip steps is the best</li>
+<li>Even though the vets hold a .47 with a vest</li>
+<li>Now that's a wise investment</li>
+<li>Or a concept to try and hide divine intentions</li>
+<li>It's like, let em hate, stay calm and meditate</li>
+<li>When life has the lemons it's time to eliminate</li>
+<li>More sour than lemonade, anyways</li>
+<li>Different days, different highs, different haze</li>
+<li>Kama Sutra with miss Mary Jane</li>
+<li>And the karma suits her, she a vibrant thang</li></stanza>
 
 <stanza>[Hook]</stanza>
 
 <stanza>[Verse 2: CJ Fly]
-You niggas is suspect and I'm just a ruffneck
-That wasn't breaking pencil tips when I would bust lead
-I puff meds and leave chumps fed and punks dead
-Her cunt wet she getting rough sex no sunset
-I like a chick with a buck tooth yeah it could get fucked too
-We keep one eye open they sus too
-Never tell em my government make any covenant bitches be loving it
-Say not to put a glove on it some funny shit
-You must've thought I was a dummy Miss
-I feed lines to felines just to get up in their tummies quick
-Yeah you got tricks but I got five more
-So any game you try to play you better know I got the high score
-You better settle down cause you not on my level now
-The Pros is semi-circle they can tell the world you get around
-Some niggas clowns what's the shit about
-They used to doubt now they see us sprout and I'm out</stanza>
+<li>You niggas is suspect and I'm just a ruffneck</li>
+<li>That wasn't breaking pencil tips when I would bust lead</li>
+<li>I puff meds and leave chumps fed and punks dead</li>
+<li>Her cunt wet she getting rough sex no sunset</li>
+<li>I like a chick with a buck tooth yeah it could get fucked too</li>
+<li>We keep one eye open they sus too</li>
+<li>Never tell em my government make any covenant bitches be loving it</li>
+<li>Say not to put a glove on it some funny shit</li>
+<li>You must've thought I was a dummy Miss</li>
+<li>I feed lines to felines just to get up in their tummies quick</li>
+<li>Yeah you got tricks but I got five more</li>
+<li>So any game you try to play you better know I got the high score</li>
+<li>You better settle down cause you not on my level now</li>
+<li>The Pros is semi-circle they can tell the world you get around</li>
+<li>Some niggas clowns what's the shit about</li>
+<li>They used to doubt now they see us sprout and I'm out</li></stanza>
 
 <stanza>[Hook]</stanza>
 
 <stanza>[Verse 3: Chuck Strangers]
-When I was thirteen I was bad, rapping about guns we never had
-Now we smoke raws with filter tips, old homies talking shit
-Said you was best of mine but you stay plotting on that dime
-Thought cause we was cool before that we gon' take yo ass on tour fuck nah
-This my chance to get it
-How you entitled to my shine, nigga you ain't help me get it
-Now these niggas see me getting it, check the statements on my debit
-My profile get requested but I never hit accept
-Hit the sour to the chest, I reflect
-When I was fourteen, up late, eyes glued to the sampler screen
-Eyes beam, cause we can make it better
-Smoking on that Jack Herer, welcome to the Progressive Era</stanza>
+<li>When I was thirteen I was bad, rapping about guns we never had</li>
+<li>Now we smoke raws with filter tips, old homies talking shit</li>
+<li>Said you was best of mine but you stay plotting on that dime</li>
+<li>Thought cause we was cool before that we gon' take yo ass on tour fuck nah</li>
+<li>This my chance to get it</li>
+<li>How you entitled to my shine, nigga you ain't help me get it</li>
+<li>Now these niggas see me getting it, check the statements on my debit</li>
+<li>My profile get requested but I never hit accept</li>
+<li>Hit the sour to the chest, I reflect</li>
+<li>When I was fourteen, up late, eyes glued to the sampler screen</li>
+<li>Eyes beam, cause we can make it better</li>
+<li>Smoking on that Jack Herer, welcome to the Progressive Era</li></stanza>
 
 <stanza>[Hook]</stanza>
 
 <stanza>[Verse 4: Dyemond Lewis]
-And brains don't matter
-But tell me what really matters when you pissed off at the world
-Like you got a crazy bladder and
-Momma always said that shit don't come on silver platters
-So I gather my thoughts
-And make use of all these synonyms
-Cause I could never swallow the truth
-Like it's cinnamon
-Excuse me if I'm militant the sinning men in my hood
-Could leave a nigga quivering like goddamn
-Deliver him the venom and his liver is corrupting all his ligaments
-Now he's at a standstill so tell me if he'll live again
-The fire in his heart, still seem to be simmering
-Now take that little simmer and turn it into adrenaline
-Penicillin could not stop the drive he be giving em like
-Mad fours (Fords) and fast forward let's get to the part where his records
-Could 'ford him a couple Fords like Lord
-Ain't he gifted, Christmas just doesn't fit him
-I need my own holiday and by the way
-I'mma possibly own Monopoly and all McDonald's property
-Cause I won't live in poverty like</stanza>
+<li>And brains don't matter</li>
+<li>But tell me what really matters when you pissed off at the world</li>
+<li>Like you got a crazy bladder and</li>
+<li>Momma always said that shit don't come on silver platters</li>
+<li>So I gather my thoughts</li>
+<li>And make use of all these synonyms</li>
+<li>Cause I could never swallow the truth</li>
+<li>Like it's cinnamon</li>
+<li>Excuse me if I'm militant the sinning men in my hood</li>
+<li>Could leave a nigga quivering like goddamn</li>
+<li>Deliver him the venom and his liver is corrupting all his ligaments</li>
+<li>Now he's at a standstill so tell me if he'll live again</li>
+<li>The fire in his heart, still seem to be simmering</li>
+<li>Now take that little simmer and turn it into adrenaline</li>
+<li>Penicillin could not stop the drive he be giving em like</li>
+<li>Mad fours (Fords) and fast forward let's get to the part where his records</li>
+<li>Could 'ford him a couple Fords like Lord</li>
+<li>Ain't he gifted, Christmas just doesn't fit him</li>
+<li>I need my own holiday and by the way</li>
+<li>I'mma possibly own Monopoly and all McDonald's property</li>
+<li>Cause I won't live in poverty like</li></stanza>
 
 <stanza>[Hook]</stanza>
 
 <stanza>[Verse 5: NYCk Caution]
-In the clouds come and find me son, I'm flier than Hermione
-Homie tripping got em sounding like Hansen in the nineties
-Charlie Manson your whole body cause that damage in your party
-Can you manage what I'm dishing out, go get your wishing count
-You sell me something then I flip that amount
-I just switched that account, get that profit then I'm out yeah
-They all wonder but it's Nyck bitch don't doubt
-Rip your lips off your mouth
-Man I'm violent ring the siren with these bars I'm reciting
-Cars with no license
-Hard man, I'm feeling like a spartan with a trident damn
-Picture perfect, bet I'll make that picture worth it
-I'll be doubling my spot, no Louisiana purchase
-So declare that, with my hair back
-You want a fair one, catch a fair smack
-I hunt up on my prey
-So pray I ain't hunting on your ass today, like be afraid</stanza>
+<li>In the clouds come and find me son, I'm flier than Hermione</li>
+<li>Homie tripping got em sounding like Hansen in the nineties</li>
+<li>Charlie Manson your whole body cause that damage in your party</li>
+<li>Can you manage what I'm dishing out, go get your wishing count</li>
+<li>You sell me something then I flip that amount</li>
+<li>I just switched that account, get that profit then I'm out yeah</li>
+<li>They all wonder but it's Nyck bitch don't doubt</li>
+<li>Rip your lips off your mouth</li>
+<li>Man I'm violent ring the siren with these bars I'm reciting</li>
+<li>Cars with no license</li>
+<li>Hard man, I'm feeling like a spartan with a trident damn</li>
+<li>Picture perfect, bet I'll make that picture worth it</li>
+<li>I'll be doubling my spot, no Louisiana purchase</li>
+<li>So declare that, with my hair back</li>
+<li>You want a fair one, catch a fair smack</li>
+<li>I hunt up on my prey</li>
+<li>So pray I ain't hunting on your ass today, like be afraid</li></stanza>
 
 <stanza>[Hook]</stanza>
 
 <stanza>[Verse 6: Kirk Knight]
-Cool cuts flow, the deli can't touch this
-Slipping like fishes, choking when you hit the cypher
-And I ain't talking weed smoke but I let the weed blow
-Anything just let the leaves know, oh
-Sucka's fuck around, get clapped where you rest at
-Nigga saying you cracking, fire break you imagination ask your lady
-It's assassin when I come up on the track
-It's a curse that I always try to find sex in these verses
-But I got your attention, it's part of my ascension
-But if I keep toking this strain is gonna leave me stranded
-In this dimension, or to mention
-Niggas is snitching, might charge me with battery
-But fuck that cause piss was never in your anatomy
-So don't try to lie on a nigga that got mine on my third eye shit</stanza>
+<li>Cool cuts flow, the deli can't touch this</li>
+<li>Slipping like fishes, choking when you hit the cypher</li>
+<li>And I ain't talking weed smoke but I let the weed blow</li>
+<li>Anything just let the leaves know, oh</li>
+<li>Sucka's fuck around, get clapped where you rest at</li>
+<li>Nigga saying you cracking, fire break you imagination ask your lady</li>
+<li>It's assassin when I come up on the track</li>
+<li>It's a curse that I always try to find sex in these verses</li>
+<li>But I got your attention, it's part of my ascension</li>
+<li>But if I keep toking this strain is gonna leave me stranded</li>
+<li>In this dimension, or to mention</li>
+<li>Niggas is snitching, might charge me with battery</li>
+<li>But fuck that cause piss was never in your anatomy</li>
+<li>So don't try to lie on a nigga that got mine on my third eye shit</li></stanza>
 
 <stanza>[Hook]</stanza>
 
 <stanza>[Verse 7: Rokamouth]
-Man I'm on my higher degrees without my masters
-I could use my words to urge into disasters
-Niggas wanna know how my wheels keep on spinning
-And they see we getting love cause they see the pros is winning
-Cause we giving love back so they peeping how we fitting
-Ain't gonna have no sus nigga stepping to me
-I like to keep my chakras open so respect my G
-I got the bush going in, repping FPT
-So sus niggas watch your back pros next to me
-I got Chuck on the team to collect the green
-And show these suspect niggas what it mean to scheme
-Another Apex predator crushing your dreams
-Gonna get your wig pushed back between my cream
-Taking all you sus niggas throw you out the scene
-I'm taking all you sus niggas throw you out the scene
-Taking all you sus niggas throw you out the scene</stanza>
+<li>Man I'm on my higher degrees without my masters</li>
+<li>I could use my words to urge into disasters</li>
+<li>Niggas wanna know how my wheels keep on spinning</li>
+<li>And they see we getting love cause they see the pros is winning</li>
+<li>Cause we giving love back so they peeping how we fitting</li>
+<li>Ain't gonna have no sus nigga stepping to me</li>
+<li>I like to keep my chakras open so respect my G</li>
+<li>I got the bush going in, repping FPT</li>
+<li>So sus niggas watch your back pros next to me</li>
+<li>I got Chuck on the team to collect the green</li>
+<li>And show these suspect niggas what it mean to scheme</li>
+<li>Another Apex predator crushing your dreams</li>
+<li>Gonna get your wig pushed back between my cream</li>
+<li>Taking all you sus niggas throw you out the scene</li>
+<li>I'm taking all you sus niggas throw you out the scene</li>
+<li>Taking all you sus niggas throw you out the scene</li></stanza>
 
 <stanza>[Hook]</stanza>
 
 <stanza>[Verse 8: T'nah Apex]
-The P the R the O the Dette
-Never am I vexed, I'm always calm, cool, collect
-Unless you disrespect, I wreck you verbally
-So expect the worst from me, I beck you with my intellect
-You best be circumspect check, made you making all the wrong moves
-Do I intimidate you or more infuriate you
-Cause I annihilate all who participating for the gold
-Lovers I decapitate with everything I say, see
-Come sneak a peak and, tell me what you peeping
-Then struggle to say it ain't greatness that you seeing
-It is what here sits in the midst of us, yeah it's quite mysterious
-No you're not delirious, I'm serious it's clear to us
-Add some crystals gonna see gold then platinum
-Seen it on some tarots before, so I know how it is all gonna go down
-Gotta go more uptown, more in the cloud
-Cause didn't ya know by now, I'm skyline bound
-And my time's now, I don't graze ground, I'm new in your town
-So assume what you please but you don't know me
-Say what you please but you don't know T'nah</stanza>
+<li>The P the R the O the Dette</li>
+<li>Never am I vexed, I'm always calm, cool, collect</li>
+<li>Unless you disrespect, I wreck you verbally</li>
+<li>So expect the worst from me, I beck you with my intellect</li>
+<li>You best be circumspect check, made you making all the wrong moves</li>
+<li>Do I intimidate you or more infuriate you</li>
+<li>Cause I annihilate all who participating for the gold</li>
+<li>Lovers I decapitate with everything I say, see</li>
+<li>Come sneak a peak and, tell me what you peeping</li>
+<li>Then struggle to say it ain't greatness that you seeing</li>
+<li>It is what here sits in the midst of us, yeah it's quite mysterious</li>
+<li>No you're not delirious, I'm serious it's clear to us</li>
+<li>Add some crystals gonna see gold then platinum</li>
+<li>Seen it on some tarots before, so I know how it is all gonna go down</li>
+<li>Gotta go more uptown, more in the cloud</li>
+<li>Cause didn't ya know by now, I'm skyline bound</li>
+<li>And my time's now, I don't graze ground, I'm new in your town</li>
+<li>So assume what you please but you don't know me</li>
+<li>Say what you please but you don't know T'nah</li></stanza>
 
 <stanza>[Hook]</stanza>
 
 <stanza>[Verse 9: Dessy Hinds]
-Who that mofo who came to show boat just cause he float like no other
-Style smooth as butter and slick like lubricant rubbers
-So going in on tracks ain't a real test, the real quest
-Is making real tracks with feelings, people ain't feel yet
-Dessy be that suspect for subjects for all the records
-Set in for all the records, I spit in a split of seconds
-So you can't reckon that I wasn't checking for beats unpleasant
-I eat up a track and hit your producer up for seconds
-Remember I'm the face so lace me in the line
-The bars that I could line up could probably bump the fine up
-Define what never can judge, rap is in my blood
-So much, my capularies adapted a sanctuary
-From the 5th of January, every punchline turned into crunch time
-Was cutting records more times than my school's lunch line
-So if this hits mine, go ahead and pop your wrist fine
-Been spitting dirty, the vocals recording spit shine</stanza>
+<li>Who that mofo who came to show boat just cause he float like no other</li>
+<li>Style smooth as butter and slick like lubricant rubbers</li>
+<li>So going in on tracks ain't a real test, the real quest</li>
+<li>Is making real tracks with feelings, people ain't feel yet</li>
+<li>Dessy be that suspect for subjects for all the records</li>
+<li>Set in for all the records, I spit in a split of seconds</li>
+<li>So you can't reckon that I wasn't checking for beats unpleasant</li>
+<li>I eat up a track and hit your producer up for seconds</li>
+<li>Remember I'm the face so lace me in the line</li>
+<li>The bars that I could line up could probably bump the fine up</li>
+<li>Define what never can judge, rap is in my blood</li>
+<li>So much, my capularies adapted a sanctuary</li>
+<li>From the 5th of January, every punchline turned into crunch time</li>
+<li>Was cutting records more times than my school's lunch line</li>
+<li>So if this hits mine, go ahead and pop your wrist fine</li>
+<li>Been spitting dirty, the vocals recording spit shine</li></stanza>
 
 <stanza>[Hook]</stanza>
 
 <stanza>[Verse 10: Joey Bada$$]
-'Til the day I die, I'll be puffing lye, fuck the world, fuck it dry
-Tell them government spies I won't cover my eyes
-Won't cower, won't move cause I don't move like a coward
-Knowledge is power and the flower of life is (s)ours
-Get as high as ours, maybe you could see the towers
-Scour your dirty mind and maybe you unleash the power
-We all got the potential in our body and soul, probably you know
-I found mines right through the pencil, started bodying flows but fuck that
-This be the preview of primeval hip-hop retrieval
-I hold illegal like them coppers hold weasels to squeal
-This one for my people, headed to the top, no redo
-Thinking up evil but see no evil just be knievel
-I ain't ask to be this good, they just made me better
-They told me cheese at the cams and they made me cheddar
-And the green only made me clever
-See God made three Bigs, two Pacs, but he only made one error
-The Era</stanza>
+<li>'Til the day I die, I'll be puffing lye, fuck the world, fuck it dry</li>
+<li>Tell them government spies I won't cover my eyes</li>
+<li>Won't cower, won't move cause I don't move like a coward</li>
+<li>Knowledge is power and the flower of life is (s)ours</li>
+<li>Get as high as ours, maybe you could see the towers</li>
+<li>Scour your dirty mind and maybe you unleash the power</li>
+<li>We all got the potential in our body and soul, probably you know</li>
+<li>I found mines right through the pencil, started bodying flows but fuck that</li>
+<li>This be the preview of primeval hip-hop retrieval</li>
+<li>I hold illegal like them coppers hold weasels to squeal</li>
+<li>This one for my people, headed to the top, no redo</li>
+<li>Thinking up evil but see no evil just be knievel</li>
+<li>I ain't ask to be this good, they just made me better</li>
+<li>They told me cheese at the cams and they made me cheddar</li>
+<li>And the green only made me clever</li>
+<li>See God made three Bigs, two Pacs, but he only made one error</li>
+<li>The Era</li></stanza>
 
-<stanza>[Hook: Pro Era]</stanza></track>
-</mixtape>
+<stanza>[Hook: Pro Era]</stanza></track></album>
