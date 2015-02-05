@@ -4,7 +4,12 @@ let $info := (
      doc("Summer Knights.xml") ,
      doc("Rejex.xml")
 )
-let $features := distinct-values($info//stanza/@artist[./string() != ''])
-for $feature in $features
-order by $feature
-return concat('"', $feature, '" | ')
+let $speakers := distinct-values($info//stanza/@speaker[./string() != ''])
+for $speaker in $speakers
+order by $speaker
+return concat('"', $speaker, '" | ')
+
+(:unless I'm mistaken, @artist is going to be replaced with 
+ an attribute @speaker. Updated to fit that. (If I was mistaken,
+ can fix quickly)
+:)
