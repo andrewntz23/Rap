@@ -6,8 +6,8 @@
     <year>2012</year>
     <accessDate>2/2/2015</accessDate>
 </meta>
-<song title="Summer_Knights" feature="none" production="ChuckStrangers">
-<stanza type="Intro" speaker="JoeyBada$$">
+<song title="SummerKnights" feature="none" production="ChuckStrangers">
+<stanza type="intro" speaker="JoeyBada$$">
 <li>And that’s all people wanna see truthfully</li>
 <li>Don't stop it Pat, just keep it runnin'</li></stanza>
 
@@ -29,36 +29,37 @@
 <li>Got a whiff of grands, now everybody say they distant fam</li>
 <li>Know the haters still jelly, but fuck it though; it's the jam</li>
 <li>It's the fuckin' jam</li></stanza></song>
-<track title="Waves"> 
-<producer>Freddie Joachim</producer>
+<song title="Waves" feature="none" production="FreddieJoachim">
 <stanza type="intro" speaker="JoeyBada$$">
 <li>Yeah</li>
-<li>You remember back in the days when niggas used to rock waves and shit?</li>
+<li>You remember back in the <group label="a" num="1" internalRhyme="2">days</group> when niggas used to rock <group label="a" num="2" internalRhyme="1">waves</group> and <group label="a" num="3" repetition="45">shit</group>?</li>
 <li>When like... Yo, I had the fucking 360s, my nigga</li>
-<li>Like, nobody in the hood was fucking with my shit</li>
-<li>And that's real shit</li></stanza>
+<li>Like, nobody in the hood was fucking with my <group label="a" num="4" repetition="35">shit</group></li>
+<li>And that's real <group label="a" num="5" repetition="34">shit</group></li></stanza>
 
 <stanza type="verse" speaker="JoeyBada$$">
-<li>Since <pattern group="a">9-5</pattern>, momma been working <pattern group="a" type="">nine-five</pattern></li>
-<li>And I know the landlord fed up with <pattern group="a" type="">our lies</pattern></li>
-<li>So we pray to the Gods, the Jahs, and the Allahs</li>
-<li>To keep us safe and watch our lives</li>
-<li>Cause all we tryna do is do good</li>
-<li>Put on my hood when I walk through hoods</li>
-<li>Cause these niggas these days is loco</li>
-<li>You'll get it in ya vocals if you ain't a local</li>
-<li>Yeah, that's why I'm tryna go global</li>
-<li>Yeah, that's why I'm tryna be a mogul</li>
-<li>And I’m hopeful that me spittin it soulful will have me in the Daily Postal</li>
-<li>Flying coastal eatin tofu</li>
-<li>Like I told you I know niggas who trash rappin</li>
-<li>Worried bout the trendin fashions rather than ascendin' passion</li>
-<li>They want me send em tracks but I just send em laughter</li>
-<li>Right after I start laughin, they start askin “what happened?"</li>
-<li>But back to the chapter</li>
-<li>Momma told me follow dreams, should never have to ask her, to</li>
-<li>So that’s what I do, became an MC master</li>
-<li>Since then it’s been a disaster for you and your favorite rapper</li>
+<li>Since <group label="b" num="1" repetition="2">9-5</group>, momma been working <group label="b" num="2" repetition="2 ">nine-five</group></li>
+<li>And I know the landlord fed up with <group label="b" num="3" assimilation="710">our lies</group></li>
+<li>So we <group label="b" num="4" slantRhyme="8">pray</group> to the <group label="b" num="5" assonance="67">Gods</group>, the <group label="b" num="6" assonance="57" slantRhyme="9">Jahs</group>, and the <group label="b" num="7" assonance="56" assimilation="310">Allahs</group></li>
+<li>To keep us <group label="b" num="8" slantRhyme="4">safe</group> and <group label="b" num="9" slantRhyme="6">watch</group> <group label="b" num="10" assimilation="37">our lives</group></li>
+<li>Cause all we tryna do is do <group label="c" num="1" rhyme="2">good</group></li>
+<li>Put on my <group label="c" num="2" rhyme="1">hood</group> when I walk through hoods</li>
+<li>Cause these niggas these days is <group label="d" num="1" assimilation="3" alliteration="3">loco</group></li>
+<li>You'll get it in ya <group label="d" num="2" internalRhyme="3">vocals</group> if you ain't a <group label="d" num="3" assimilation="2" internalRhyme="2" rhyme="5710" alliteration="1">local</group></li>
+<li><group label="d" num="4" repetition="6">Yeah, that's why I'm tryna</group> go <group label="d" num="5" rhyme="3710">global</group></li>
+<li><group label="d" num="6" repetition="4">Yeah, that's why I'm tryna</group> be a <group label="d" num="7" rhyme="3510">mogul</group></li>
+<li>And I’m <group label="d" num="8" internalRhyme="9" slantRhyme="11">hopeful</group> that me spittin it <group label="d" num="9" internalRhyme="8">soulful</group> will have me in the Daily <group label="d" num="10" rhyme="357">Postal</group></li>
+<li>Flying <group label="d" num="11" slantRhyme="8" assonance="12">coastal</group> eatin <group label="d" num="12" assonance="11" assimilation="13">tofu</group></li>
+<li>Like I <group label="d" num="13" assimilation="12">told you</group> I know niggas who <group label="e" num="1" assimilation="23">trash rappin</group></li>
+<li>Worried bout the <group label="e" num="2" assimilation="13">trendin fashions</group> rather than <group label="e" num="3" assimilation="12">ascendin' passion</group></li>
+<li>They want me <group label="e" num="4" repetition="5">send em</group> tracks but I just <group label="e" num="5" repetition="4">send em</group> <group label="e" num="6" slantRhyme="713">laughter</group></li>
+<li>Right <group label="e" num="7" rhyme="613">after</group> I <group label="e" num="8" repetition="10">start</group> <group label="e" num="9" internalRhyme="1112">laughin</group>, they <group label="e" num="10" repetition="8">start</group> <group label="e" num="11" internalRhyme="912">askin</group> “<group label="e" num="12" internalRhyme="911">what happened</group>?"</li>
+<li>But  back to the <group label="e" num="13" rhyme="67">chapter</group></li>
+<li>Momma told me follow dreams, should <group label="e" num="14" internalRhyme="15">never</group> have to ask <group label="e" num="15" internalRhyme="14">her</group>, <group label="e" num="16" rhyme="17">to</group></li>
+<li>So that’s what I <group label="e" num="17" rhyme="16">do</group>, became an MC <group label="e" num="18" rhyme="1920">master</group></li>
+<li>Since then it’s been a <group label="e" num="19" rhyme="1820">disaster</group> for you and your favorite <group label="e" num="20" rhyme="1819">rapper</group></li>
+    
+    
 <li>Go ahead ask em "Who is Joey Bad?"</li>
 <li>Watch em gasp, asthma, damn it’s so sad</li>
 <li>He paused the chatter cause he know he rather back up</li>
@@ -86,7 +87,7 @@
 <li>It's gonna be straight-up, like if I was a street person. </li>
 <li>That's how I'm comin' at the whole world, and I'm being real about it and I'mma grow with my music    </li></stanza>
 
-<stanza>[Verse 2]
+<stanza type="verse" speaker="JoeyBada$$">[Verse 2]
 <li>But it's far from over</li>
 <li>Won't stop 'til I meet Hova and my momma's in a Rover</li>
 <li>Til I'm an owner of the world's finest motors</li>
@@ -110,12 +111,10 @@
 
 <li>Imagine</li>
 
-<li>I'mma make it all happen</li></stanza></track>
+<li>I'mma make it all happen</li></stanza></song>
 
-<track title="Fromdatomb$">  
-<producer>Chuck Strangers</producer>
-<dj>statik selektah</dj>
-<stanza>[Intro]
+<song title="Fromdatomb$" feature="Rokamouth ChuckStrangers" production="ChuckStrangers" dj="StatikSelektah">
+<stanza type="intro" speaker="JoeyBada$$">
 <li>(Go Brooklyn)</li>
 <li>Said what it's like?</li>
 <li>Joey Bad and Chuck Strangers</li>
@@ -123,7 +122,7 @@
 <li>It's the real, yo what's the word word?</li>
 <li>Pass the herbs</li>
 <li>Check</li></stanza>
-<stanza>[Verse 1: Joey Bada$$]
+<stanza type="verse" speaker="JoeyBada$$">
 <li>My man Dirty had the buddha just to put me in my right mind</li>
 <li>I rhyme stoned, drop jewels and bright lines</li>
 <li>Sight dimes wit' slight closed eyes, I'm slight soba</li>
@@ -141,10 +140,10 @@
 <li>Pay respect to the cat Drew</li>
 <li>And I'm way too blessed to be throwing shots at you</li></stanza>
 
-<stanza>[Hook: Rokamouth]
+<stanza type="hook" speaker="Rokamouth">
 <li>Big ups to Brooklyn, home of the realest</li>
 <li>Big ups to Brooklyn, home of the era</li></stanza>
-<stanza>[Verse 2: Chuck Strangers]
+<stanza type="verse" speaker="ChuckStrangers">
 <li>I'm tryna find my own lane, in this freeway of life</li>
 <li>Just remember home boy there ain't no free way to life</li>
 <li>My nigga it's gon cost you, try not to lose your soul</li>
@@ -163,9 +162,13 @@
 <li>Now she want me to unzip her pants</li>
 <li>But I'm gone, bitch missed her chance</li>
 </stanza>
-<stanza>[Hook] (x2)</stanza>
+<stanza type="hook" speaker="Rokamouth">
+<li>Big ups to Brooklyn, home of the realest</li>
+<li>Big ups to Brooklyn, home of the era</li>
+<li>Big ups to Brooklyn, home of the realest</li>
+<li>Big ups to Brooklyn, home of the era</li></stanza>
 
-<stanza>[Verse 3 : Joey Bada$$]
+<stanza type="verse" speaker="JoeyBada$$">
 <li>I got sick of class, started making classics</li>
 <li>Now all I really do is get the grass lit and bust asses</li>
 <li>I'm sure to blow like bust acid</li>
@@ -181,17 +184,16 @@
 <li>Hypocrisy after essence like apostrophes</li>
 <li>You can’t stand here unless you pay a posture fee</li>
 <li>Part the cheese, head out the spot and leave</li>
-<li>A pile of G's for apology</li></stanza></track>
+<li>A pile of G's for apology</li></stanza></song>
 
-<track title="Survival_Tactics">    
-<producer>Vin Skully</producer>
+<song title="SurvivalTactics" feature="CapitalSTEEZ" production="VinSkully">    
 
-<stanza>[Intro]
+<stanza type="intro" speaker="UnknownSoldier">
 <li>It's either, them or you</li>
 <li>It's sort of like, survival you know. Survival of the fittest you know</li>
 <li>You do what you do to stay alive</li></stanza>
 
-<stanza>[Verse 1: Joey]
+<stanza type="verse" speaker="JoeyBada$$">
 <li>Niggas don't want war I'm a martian with an army of spartans</li>
 <li>Sparring with a knife in a missile fight</li>
 <li>Get your intel right, your intelligence is irrelevant</li>
@@ -223,7 +225,7 @@
 <li>They sayin' I'm the best, I'm like you're so right</li>
 <li>Still ain't got enough shine to last the whole night, nigga</li></stanza>
 
-<stanza>[Interlude]
+<stanza type="interlude" speaker="Unknown CapitalSTEEZ">[Interlude]
 <li>Yo, fuck the police nigga</li>
 <li>Fuck every ass corrupt politician on Wall Street</li>
 <li>P.E, Public Enemy, Assassinate us, bitch</li>
@@ -232,7 +234,7 @@
 
 <li>You want fuckin' energy? Dickheads</li></stanza>
 
-<stanza>[Verse 2: Capital STEEZ]
+<stanza type="verse" speaker="CapitalSTEEZ">
 <li>It's like 6 milli ways to die my nigga choose one</li>
 <li>Doomsday comin' start investin' in a few guns</li>
 <li>New gats, booby traps, and bazooka straps</li>
@@ -268,15 +270,14 @@
 <li>Little weapon, code name: Smith and Wesson</li>
 <li>And you'll be quick to catch a bullet like an interception</li>
 <li>If your man’s tryna disrespect it</li>
-<li>Send a message and it's over in a millisecond - nigga</li></stanza></track>
+<li>Send a message and it's over in a millisecond - nigga</li></stanza></song>
 
-<track title="Killuminati">    
-<producer>Knxwledge</producer>
+<song title="Killuminati" feature="CapitalSTEEZ" production="Knxwledge">
 
-<stanza>[Intro (Sample)]
+<stanza type="intro" speaker="Unknown">
 <li>Yes, Strawberries</li></stanza>
 
-<stanza>[Verse 1: Joey Bada$$]
+<stanza type="verse" speaker="JoeyBada$$">
 <li>I'm a beast with these flows</li>
 <li>Two birds, one stoned, you get geese’d when trees rolled</li>
 <li>They say I'm evil cause I trained my ego to see gold</li>
@@ -302,7 +303,7 @@
 <li>The young cop killer, I'm dat ill, so doc' will ya</li>
 <li>Give me two shots for 2Pac killer....nigga</li></stanza>
 
-<stanza>[Verse 2:Capital STEEZ]
+<stanza type="verse" speaker="CapitalSTEEZ">
 <li>Soul searchin' 'till my flows are perfect</li>
 <li>I ain't trynna be a slave to grow old from workin'</li>
 <li>Sorry BADA$$, you lucky that I peeped it second</li>
@@ -327,15 +328,14 @@
 <li>So throw up both hands if you can</li>
 <li>Ironic how I'm killin' this shit, until they bury me</li>
 <li>My volume is going in depth with longevity</li>
-<li>Stupids</li></stanza></track>
-<track title="Hardknock">
-<producer>Lewis Parker</producer>
-<stanza>[Intro: Joey BadA$$]
+<li>Stupids</li></stanza></song>
+<song title="Hardknock" feature="CJFly" production="LewisParker">
+<stanza type="intro" speaker="JoeyBada$$">
 <li>Check it, word word</li>
 <li>What's the word word</li>
 <li>Yeah, check!</li></stanza>
 
-<stanza>[Verse 1: Joey BadA$$]
+<stanza type="verse" speaker="JoeyBada$$">
 <li>Just got word from my mans on the island, he said he needed guidance</li>
 <li>Niggas on the streets is wilin', he look to God but can't find him</li>
 <li>So he demand silence from the glaring sirens</li>
@@ -354,7 +354,7 @@
 <li>I got enough shit on my mind</li>
 <li>So I don't need to be stressing and shine, it's fine</li></stanza>
 
-<stanza>[Hook: Joey BadA$$]
+<stanza type="hook" speaker="JoeyBada$$">
 <li>One day I'm tryna have a wife and kids</li>
 <li>So I just can't live my life like this</li>
 <li>And I ain't tryna learn what lifeless is</li>
@@ -364,7 +364,7 @@
 <li>And sometimes I just wanna light this spliff</li>
 <li>But I just can't live my life like this</li></stanza>
 
-<stanza>[Verse 2: CJ Fly]
+<stanza type="verse" speaker="CJFly">
 <li>Got a collect call from up top</li>
 <li>My cousin called me and what not</li>
 <li>The motto never changed it’s still fuck cops</li>
@@ -386,9 +386,17 @@
 <li>I’m street so cross me like pedestrians</li>
 <li>And that’s gon' be the end of it, straight revoking your membership</li></stanza>
 
-<stanza>[Hook: CJ Fly]</stanza>
+<stanza type="hook" speaker="CJFly">
+<li>One day I'm tryna have a wife and kids</li>
+<li>So I just can't live my life like this</li>
+<li>And I ain't tryna learn what lifeless is</li>
+<li>So I just can't live my life like this</li>
+<li>I want the gold chains and diamond rings</li>
+<li>But I just can't live my life like this</li>
+<li>And sometimes I just wanna light this spliff</li>
+<li>But I just can't live my life like this</li></stanza>
 
-<stanza>[Verse 3: Joey BadA$$]
+<stanza type="verse" speaker="JoeyBada$$">
 <li>Niggas wanna know what I’m about, I’m bout blowing loud</li>
 <li>On the block sporty, Glock 40 in a politician mouth</li>
 <li>I take the competition out commission with my composition</li>
@@ -422,19 +430,26 @@
 <li>I be back stage gripping haze breaking my leg</li>
 <li>My folks was making the best when they was naked in bed, muthafucka</li></stanza>
 
-<stanza>[Hook: Joey BadA$$]</stanza></track>
+<stanza type="hook" speaker="JoeyBada$$">
+<li>One day I'm tryna have a wife and kids</li>
+<li>So I just can't live my life like this</li>
+<li>And I ain't tryna learn what lifeless is</li>
+<li>So I just can't live my life like this</li>
+<li>I want the gold chains and diamond rings</li>
+<li>But I just can't live my life like this</li>
+<li>And sometimes I just wanna light this spliff</li>
+<li>But I just can't live my life like this</li></stanza></song>
 
-<track title="World_Domination">    
-<producer>MF Doom</producer>
+<song title="WorldDomination" feature="none" production="MFDoom">
 
-<stanza>[Intro: Sample]
+<stanza type="intro" speaker="Pinky JoeyBada$$">
 <li>Say Brain, what do you wanna do tonight?</li>
 <li>The same thing we do every night Pinky</li>
 <li>Try to take over the world</li>
 
-<li>(Joey) Who the fuck is this Joey Bada$$ nigga son?</li></stanza>
+<li>Who the fuck is this Joey Bada$$ nigga son?</li></stanza>
 
-<stanza>[Hook]
+<stanza type="hook" speaker="unknown">
 <li>Aye yo who the fuck passed you the mic</li>
 <li>And said that you could flow?</li>
 <li>Point 'em out bitch I wanna know</li>
@@ -442,7 +457,7 @@
 
 <li>Check!    </li></stanza>
 
-<stanza>[Verse 1]
+<stanza type="verse" speaker="JoeyBada$$">
 <li>Puffin' on stramonium</li>
 <li>Underground like potholes but going fossil</li>
 <li>These bars like art in the Smithsonian</li>
@@ -473,20 +488,26 @@
 <li>Keep it neutral, just so you can scruple</li>
 </stanza>
 
-<stanza>[Bridge]
+<stanza type="bridge" speaker="JoeyBada$$">
 <li>I tell ‘em no beef like noodles</li>
 <li>It’s world domination, (nation) you’re tuned into my station</li>
 <li>Always got a doobie and a motherfucking eighth lit</li>
 <li>Always got the trees, so what the fuck you mean</li>
 <li>I ain’t about to rise to the top with my fucking team</li>
 </stanza>
-<stanza>[Hook 2x]</stanza></track>
+<stanza type="hook" speaker="unknown">
+<li>Aye yo who the fuck passed you the mic</li>
+<li>And said that you could flow?</li>
+<li>Point 'em out bitch I wanna know</li>
+<li>Who the fuck passed you the mic?</li><li>Aye yo who the fuck passed you the mic</li>
+<li>And said that you could flow?</li>
+<li>Point 'em out bitch I wanna know</li>
+<li>Who the fuck passed you the mic?</li></stanza></song>
 
-<track title="Pennyroyal">
-<producer>MF Doom</producer>
-<stanza>Yeah</stanza>
+<song title="Pennyroyal" feature="none" production="MFDoom">
+<stanza type="intro" speaker="JoeyBada$$">Yeah</stanza>
 
-<stanza>[Verse 1]
+<stanza type="verse" speaker="JoeyBada$$">
 <li>Another love song gone wrong</li>
 <li>Should've known you were a woo, like Based God in Wonton</li>
 <li>But I didn't, and I ain't even tripping</li>
@@ -529,13 +550,13 @@
 <li>It ain't fair, I need you back sometimes I get scared</li>
 <li>But I'm a player, ain't gonna let you see my tears</li></stanza>
 
-<stanza>[Bridge]
+<stanza type="bridge" speaker="JoeyBada$$">
 <li>Cause I'm a player, ain't gonna let you see my tears</li>
 <li>Cause I'm a player, ain't gonna let you see my tears</li>
 <li>Cause I'm a player, ain't gonna let you see my tears</li>
 <li>Cause I'm a player</li></stanza>
 
-<stanza>[Hook]
+<stanza type="hook" speaker="JoeyBada$$">
 <li>I couldn't see it coming down my eye</li>
 <li>So I had to make the song cry</li>
 <li>I couldn't see it coming down my eye</li>
@@ -544,17 +565,16 @@
 <li>So I had to make the song cry</li>
 <li>I couldn't see it coming down my eye</li>
 <li>So I gotta to make the song cry</li>
-<li>Yeah</li></stanza></track>
+<li>Yeah</li></stanza></song>
 
-<track title="Funky_Ho'$">
-<producer>Lord Finesse</producer>
-<stanza>[Intro]
+<song title="FunkyHo'$" feature="none" production="LordFinesse">
+<stanza type="intro" speaker="JoeyBada$$">
 <li>Aight fuck that, word word</li>
 <li>Lord Finnesse, Jayo its been my jail since a day old but they know</li>
 <li>Yea this ones for the ladies</li>
 <li>Who be tryna have my baby</li></stanza>
 
-<stanza>[Verse 1]
+<stanza type="verse" speaker="JoeyBada$$">
 <li>Ayo word to my mother</li>
 <li>Two things I never do is leave the crib without some rubbers</li>
 <li>Or tell a funky ho I love her</li>
@@ -573,10 +593,17 @@
 <li>Like get a load of their faces</li>
 <li>Face it if you fear hate it you get put into this clear space</li></stanza>
 
-<stanza>[Hook x8]
+<stanza type="hook" speaker="JoeyBada$$">
+<li>I dont trust these bitches they would never catch me slippin'</li>
+<li>I dont trust these bitches they would never catch me slippin'</li>
+<li>I dont trust these bitches they would never catch me slippin'</li>
+<li>I dont trust these bitches they would never catch me slippin'</li>
+<li>I dont trust these bitches they would never catch me slippin'</li>
+<li>I dont trust these bitches they would never catch me slippin'</li>
+<li>I dont trust these bitches they would never catch me slippin'</li>
 <li>I dont trust these bitches they would never catch me slippin'</li></stanza>
 
-<stanza>[Verse 2]
+<stanza type="verse" speaker="JoeyBada$$">
 <li>Hey yo, I’m attached too, to the cash rules, 'bout to go nuts</li>
 <li>Niggas get their attitudes to these cash you</li>
 <li>Who you know that cool that they drip swagoo</li>
@@ -595,12 +622,20 @@
 <li>All it takes is some exotic piff</li>
 <li>They all unconscious topless exposing they crotch and shit</li></stanza>
 
-<stanza>[Hook x8]</stanza>
+<stanza type="hook" speaker="JoeyBada$$">
+<li>I dont trust these bitches they would never catch me slippin'</li>
+<li>I dont trust these bitches they would never catch me slippin'</li>
+<li>I dont trust these bitches they would never catch me slippin'</li>
+<li>I dont trust these bitches they would never catch me slippin'</li>
+<li>I dont trust these bitches they would never catch me slippin'</li>
+<li>I dont trust these bitches they would never catch me slippin'</li>
+<li>I dont trust these bitches they would never catch me slippin'</li>
+<li>I dont trust these bitches they would never catch me slippin'</li></stanza>
 
-<stanza>[Outro]
+<stanza type="outro" speaker="JoeyBada$$">
 <li>Ey yo It’s PE leaving no hope for these hoes</li>
 <li>We leaving no hopes for these hoes</li>
-<li>My nigga Jay Steez leaving no hope for these hoes</li>
+<li>My nigga Jay STEEZ leaving no hope for these hoes</li>
 <li>Leaving no hope for these hoes</li>
 <li>My nigga A-La $ole leaving no hope for these hoes</li>
 <li>Leaving no hope for these hoes</li>
@@ -613,11 +648,10 @@
 <li>My nigga Jay Lee leaving no hope for these hoes</li>
 <li>Leaving no hope for these hoes</li>
 <li>My nigga Dyem Lewis leaving no hope for these hoes</li>
-<li>Leaving no hope for these hoes</li></stanza></track>
+<li>Leaving no hope for these hoes</li></stanza></song>
 
-<track title="Daily_Routine">
-<producer>Chuck Strangers</producer>
-<stanza>[Verse 1]
+<song title="DailyRoutine" feature="none" production="ChuckStrangers">
+<stanza type="verse" speaker="JoeyBada$$">
 <li>From the block to the top, Buddha baggies in the sock</li>
 <li>Only thing that changed now is we ain't runnin' out of stock</li>
 <li>Used to beg mom dukes for lunch money</li>
@@ -631,7 +665,7 @@
 <li>His eyes bigger, won't stop to consider</li>
 <li>What's right or wrong, because it's hard liquor that's inside his liver</li></stanza>
 
-<stanza>[Hook]
+<stanza type="hook" speaker="JoeyBada$$">
 <li>But that's just daily routine</li>
 <li>The streets are cooped fiends</li>
 <li>Whether the hoops or the booth, niggas shoot dreams</li>
@@ -639,7 +673,7 @@
 <li>Cause you could think you're cool with your nice things</li>
 <li>But get wiped clean for ice creams when the lights beam</li></stanza>
 
-<stanza>[Verse 2]
+<stanza type="verse" speaker="JoeyBada$$">
 <li>Traded in my Nikes for a new mic</li>
 <li>I guess it's safe to say he sold soul for his new life</li>
 <li>Like they were tryna blind us, but we know the true designer</li>
@@ -658,18 +692,41 @@
 <li>Imbalances in my Kundalini, they tryna put two through my beanie</li>
 <li>Wish you well, tryin' to poof a genie</li></stanza>
 
-<stanza>[Hook x4]</stanza></track>
+<stanza type="hook" speaker="JoeyBada$$">
+<li>But that's just daily routine</li>
+<li>The streets are cooped fiends</li>
+<li>Whether the hoops or the booth, niggas shoot dreams</li>
+<li>Better choose the right scheme</li>
+<li>Cause you could think you're cool with your nice things</li>
+<li>But get wiped clean for ice creams when the lights beam</li>
+<li>But that's just daily routine</li>
+<li>The streets are cooped fiends</li>
+<li>Whether the hoops or the booth, niggas shoot dreams</li>
+<li>Better choose the right scheme</li>
+<li>Cause you could think you're cool with your nice things</li>
+<li>But get wiped clean for ice creams when the lights beam</li>
+<li>But that's just daily routine</li>
+<li>The streets are cooped fiends</li>
+<li>Whether the hoops or the booth, niggas shoot dreams</li>
+<li>Better choose the right scheme</li>
+<li>Cause you could think you're cool with your nice things</li>
+<li>But get wiped clean for ice creams when the lights beam</li>
+<li>But that's just daily routine</li>
+<li>The streets are cooped fiends</li>
+<li>Whether the hoops or the booth, niggas shoot dreams</li>
+<li>Better choose the right scheme</li>
+<li>Cause you could think you're cool with your nice things</li>
+<li>But get wiped clean for ice creams when the lights beam</li></stanza></song>
 
-<track title="Snakes">
-<producer>J Dilla</producer>
+<song title="Snakes" feature="T'nahApex" production="JDilla">
 
-<stanza>[Intro]
+<stanza type="intro" speaker="JoeyBada$$">
 <li>Free Max B</li>
 <li>Owww (owwwwwww)</li>
 <li>Uh uh (uh uh) x3</li>
 <li>It's like (it's like)</li></stanza>
 
-<stanza>[Verse 1: Joey BADA$$]
+<stanza type="verse" speaker="JoeyBada$$">
 <li>Sometimes I feel alienated</li>
 <li>Because I'm not up in the stadium playing or on the radio sayin'</li>
 <li>"Fuck 'em broads we don't love 'em we degradin' 'em!"</li>
@@ -688,7 +745,7 @@
 <li>'Til we raisins in the sun</li>
 <li>So we gotta wake up</li></stanza>
 
-<stanza>[Hook: T'nah Apex]
+<stanza type="hook" speaker="T'nahApex">
 <li>Cause they always be behind in the cut</li>
 <li>Always in the skies watchin' stars when they up</li>
 <li>So don't you confide into the evil and corrupt</li>
@@ -699,7 +756,7 @@
 <li>So don't you confide into the evil and corrupt</li>
 <li>This is urgent</li></stanza>
 
-<stanza>[Verse 2: Joey BADA$$]
+<stanza type="verse" speaker="JoeyBada$$">
 <li>Got a whole bunch of shit up on my plate now</li>
 <li>Thinkin' like in the man garden it's a snake now</li>
 <li>Cause I don't know who to believe or who to deceive</li>
@@ -718,9 +775,18 @@
 <li>Cause they corruptin' the youth, we ain't inductin' the truth</li>
 <li>Lookin' at the president like yo it must be nothin' to you</li></stanza>
 
-<stanza>[Hook: T'nah Apex]</stanza>
+<stanza type="hook" speaker="T'nahApex">
+<li>Cause they always be behind in the cut</li>
+<li>Always in the skies watchin' stars when they up</li>
+<li>So don't you confide into the evil and corrupt</li>
+<li>This is urgent, Apex on the vertex, tonight we're serving serpents</li>
 
-<stanza>[Verse 3: Joey BADA$$]
+<li>Cause they always be behind in the cut</li>
+<li>Always in the skies watchin' stars when they up</li>
+<li>So don't you confide into the evil and corrupt</li>
+<li>This is urgent</li></stanza>
+
+<stanza type="verse" speaker="JoeyBada$$">
 <li>I passed the dutch to the left and it started to make sense</li>
 <li>It's funny how I see it more straight when I'm bent</li>
 <li>You've been warned on the risk it takes to take to sit on top</li>
@@ -738,18 +804,26 @@
 <li>I move from the stoop and put my foot right down on the asphalt</li>
 <li>Every night I ask lord if this what I asked for</li></stanza>
 
-<stanza>[Hook: T'nah Apex]</stanza></track>
+<stanza type="hook" speaker="T'nahApex">
+<li>Cause they always be behind in the cut</li>
+<li>Always in the skies watchin' stars when they up</li>
+<li>So don't you confide into the evil and corrupt</li>
+<li>This is urgent, Apex on the vertex, tonight we're serving serpents</li>
 
-<track title="Don't_Front">
-<producer>Statik Selektah</producer>
-<stanza>[Intro]
+<li>Cause they always be behind in the cut</li>
+<li>Always in the skies watchin' stars when they up</li>
+<li>So don't you confide into the evil and corrupt</li>
+<li>This is urgent</li></stanza></song>
+
+<song title="Don'tFront" feature="CJFly" production="StatikSelektah">
+<stanza type="intro" speaker="JoeyBada$$">
 <li>Yo, what's the word word</li>
 <li>Pass the herbs</li>
 <li>Pass the herbs, pass the herbs</li>
 <li>Had to learn, had to learn (had To learn)</li>
 <li>We just had to burn</li></stanza>
 
-<stanza>[Verse 1: Joey Bada$$]
+<stanza type="verse" speaker="JoeyBada$$">
 <li>It all started with this special herb</li>
 <li>Then after that it came to sexual words</li>
 <li>I'm meeting shorty up to patch her a verse</li>
@@ -768,7 +842,7 @@
 <li>If you ask me, another stupid analogy</li>
 <li>Made to cover flaws in the female anatomy</li></stanza>
 
-<stanza>[Hook]
+<stanza type="hook" speaker="JoeyBada$$ CJFly">
 <li>But I'm a keep gradually telling these bitches</li>
 <li>Don't front, (don't front), don't front, (don't front)</li>
 <li>Don't front, (don- don't front), don't front though</li>
@@ -779,7 +853,7 @@
 <li>Now don't front, (don't front), don't front, (don't front)</li>
 <li>Check, (don- don- don't front)</li></stanza>
 
-<stanza>[Verse 2: CJ Fly]
+<stanza type="verse" speaker="CJFly">
 <li>It's like a massacre when mass occur</li>
 <li>I got a massive urge but I had to learn</li>
 <li>Heard you had it on lock so I pass the word</li>
@@ -807,9 +881,18 @@
 <li>She left a few old lovers inside of a jail</li>
 <li>That's all a part of the tale</li></stanza>
 
-<stanza>[Hook]</stanza>
+<stanza type="hook" speaker="JoeyBada$$ CJFly">
+<li>But I'm a keep gradually telling these bitches</li>
+<li>Don't front, (don't front), don't front, (don't front)</li>
+<li>Don't front, (don- don't front), don't front though</li>
+<li>I got some weed and some fronto</li>
+<li>(Don't front)</li>
+<li>And you know I always hunt hoes</li>
+<li>I tell 'em leave but don't walk through the front door</li>
+<li>Now don't front, (don't front), don't front, (don't front)</li>
+<li>Check, (don- don- don't front)</li></stanza>
 
-<stanza>[Verse 3: Joey Bada$$]
+<stanza type="verse" speaker="JoeyBada$$">
 <li>Hey yo don't tell me be patient with no doctor prescription</li>
 <li>Emotionless positions and provocative visions</li>
 <li>Should've known you missed a note like the octave was switching</li>
@@ -823,7 +906,7 @@
 <li>So this ain't nothing new to you, nothing unusual</li>
 <li>Nothing you ain't used to so my nothing is useable</li></stanza>
 
-<stanza>[Verse 4: CJ Fly]
+<stanza type="verse" speaker="CJFly">
 <li>We all try when you go bye, we all high</li>
 <li>Truth is I'm never home and I'm cold if that's where the heart lies</li>
 <li>So label me as heartless, it's not that I don't care</li>
@@ -837,7 +920,7 @@
 <li>I'm in animal pause, but you got an Ark</li>
 <li>When it flooded, used to always feel like Noah</li></stanza>
 
-<stanza>[Verse 5: Joey Bada$$]
+<stanza type="verse" speaker="JoeyBada$$">
 <li>And I know I know her</li>
 <li>Had these kind of skills I had to show her</li>
 <li>So I told her I'm the nigga she see on the posters</li>
@@ -846,11 +929,10 @@
 <li>Put it down, don't really give a fuck though</li>
 <li>Don't front</li>
 <li>And tell your bitch don't front though</li>
-<li>Don't front</li></stanza></track>
+<li>Don't front</li></stanza></song>
 
-<track title="Righteous_Minds">
-<producer>Bruce Leekix</producer>
-<stanza>[Verse 1]
+<song title="RighteousMinds" feature="none" production="BruceLeekix">
+<stanza type="verse" speaker="JoeyBada$$">
 <li>I never knew the world could be this mad</li>
 <li>Only vision I had of sex was Color Me Badd</li>
 <li>And I never knew the world could be this cold</li>
@@ -868,7 +950,15 @@
 <li>On Jim Crow Laws, you probably missed it</li>
 <li>Hard to be persistent when you're tryin' to fight for your existence</li></stanza>
 
-<stanza>[Hook x2]
+<stanza type="hook" speaker="JoeyBada$$">
+<li>It ain't easy livin' life like this</li>
+<li>When you tryin' to be righteous but know a nigga might just</li>
+<li>Leave you lifeless for prices, or high tech devices</li>
+<li>So keep that TEC-9 or meet your crisis</li>
+<li>It really ain't easy livin' life like this</li>
+<li>When you tryin' to be righteous but know a nigga might just</li>
+<li>Leave you lifeless for prices, or high tech devices</li>
+<li>So keep that TEC-9 or meet your crisis</li>
 <li>It ain't easy livin' life like this</li>
 <li>When you tryin' to be righteous but know a nigga might just</li>
 <li>Leave you lifeless for prices, or high tech devices</li>
@@ -878,7 +968,7 @@
 <li>Leave you lifeless for prices, or high tech devices</li>
 <li>So keep that TEC-9 or meet your crisis</li></stanza>
 
-<stanza>[Verse 2]
+<stanza type="verse" speaker="JoeyBada$$">
 <li>Person mad nervous, you surrender to sterling</li>
 <li>Look them in the eye, If looks made you die, you know you merk ‘em</li>
 <li>Right there, plus his hide is like, right here</li>
@@ -897,11 +987,27 @@
 <li>The only thing is you do it again, and again, and again, and again</li>
 <li>And again, and again, and again...</li></stanza>
 
-<stanza>[Hook x2]</stanza>
+<stanza type="hook" speaker="JoeyBada$$">
+<li>It ain't easy livin' life like this</li>
+<li>When you tryin' to be righteous but know a nigga might just</li>
+<li>Leave you lifeless for prices, or high tech devices</li>
+<li>So keep that TEC-9 or meet your crisis</li>
+<li>It really ain't easy livin' life like this</li>
+<li>When you tryin' to be righteous but know a nigga might just</li>
+<li>Leave you lifeless for prices, or high tech devices</li>
+<li>So keep that TEC-9 or meet your crisis</li>
+<li>It ain't easy livin' life like this</li>
+<li>When you tryin' to be righteous but know a nigga might just</li>
+<li>Leave you lifeless for prices, or high tech devices</li>
+<li>So keep that TEC-9 or meet your crisis</li>
+<li>It really ain't easy livin' life like this</li>
+<li>When you tryin' to be righteous but know a nigga might just</li>
+<li>Leave you lifeless for prices, or high tech devices</li>
+<li>So keep that TEC-9 or meet your crisis</li></stanza>
 
-<stanza>[Interlude: Belly scene]</stanza>
+<stanza type="interlude" speaker="Nas Youngster"> Scene from Belly </stanza>
 
-<stanza>[Verse 3]
+<stanza type="verse" speaker="JoeyBada$$">
 <li>Imagine me fed up, a go-getter, for mo' cheddar</li>
 <li>Po' never, blow Berettas ‘cause I know no better</li>
 <li>No Era, no STEEZ, no Kirk, no Lee</li>
@@ -911,13 +1017,37 @@
 <li>The click-clack type, slide in the vipe with the black stripe</li>
 <li>And give my friends the back knife, ‘cause "That's life, nigga"</li></stanza>
 
-<stanza>[Hook x2]</stanza></track>
+<stanza type="hook" speaker="JoeyBada$$">
+<li>It ain't easy livin' life like this</li>
+<li>When you tryin' to be righteous but know a nigga might just</li>
+<li>Leave you lifeless for prices, or high tech devices</li>
+<li>So keep that TEC-9 or meet your crisis</li>
+<li>It really ain't easy livin' life like this</li>
+<li>When you tryin' to be righteous but know a nigga might just</li>
+<li>Leave you lifeless for prices, or high tech devices</li>
+<li>So keep that TEC-9 or meet your crisis</li>
+<li>It ain't easy livin' life like this</li>
+<li>When you tryin' to be righteous but know a nigga might just</li>
+<li>Leave you lifeless for prices, or high tech devices</li>
+<li>So keep that TEC-9 or meet your crisis</li>
+<li>It really ain't easy livin' life like this</li>
+<li>When you tryin' to be righteous but know a nigga might just</li>
+<li>Leave you lifeless for prices, or high tech devices</li>
+<li>So keep that TEC-9 or meet your crisis</li></stanza></song>
 
-<track title="Where_It'$_At">
-<producer>J Dilla</producer>
-<stanza>[Intro]</stanza>
+<song title="WhereIt'$At" feature="KirkKnight" production="JDilla">
+<stanza type="intro" speaker="JoeyBada$$">
+<li>Ay what it is one time what up</li>
+<li>Ay what it is one time what up</li>
+<li>Ay what it is two time what up</li>
+<li>Two time two time what up</li>
+<li>Ay what it is one time what up</li>
+<li>Lemme know</li>
+<li>Lemme know</li>
+<li>Lemme know</li>
+<li>Lemme know</li></stanza>
 
-<stanza>[Verse 1: Joey BADA$$]
+<stanza type="verse" speaker="JoeyBada$$">
 <li>Let's get down tonight</li>
 <li>I think I might blow a whole pound tonight</li>
 <li>So shorty hit me with the spot and if it sound alright</li>
@@ -941,16 +1071,19 @@
 <li>If it ain't my moms or my 'sis then</li>
 <li>I put'em in the system</li></stanza>
 
-<stanza>[Hook: Joey BADA$$]
+<stanza type="hook" speaker="JoeyBada$$">
 <li>So tell me where it's at and I'm in the spot (so what you wanna do)</li>
 <li>I said so tell me where it's at and I'm in the spot (we got a lot to come true)</li>
 <li>I said so tell me where it's at and I'm in the spot (so what you wanna do)</li>
 <li>So tell me where it's at and I'm in the spot (we got a lot to come true)</li>
 <li>I said so tell me where it's at and I'm in the spot (so what you wanna do)</li>
 <li>Tell me where it's at and I'm in that spot (we got a lot to come true)</li>
-<li>Let me know x4</li></stanza>
+<li>Let me know </li>
+<li>Let me know </li>
+<li>Let me now</li>
+<li>Let me know</li></stanza>
 
-<stanza>[Verse 2: Joey BADA$$]
+<stanza type="verse" speaker="JoeyBada$$">
 <li>Yo let me tell you what I'm living like</li>
 <li>Same shit just a different night</li>
 <li>Super bad chicks and they all up in my kryptonite</li>
@@ -978,9 +1111,19 @@
 <li>Told her to hop in then put it back and drove</li>
 <li>And hit it out-park like Al Pujols</li></stanza>
 
-<stanza>[Hook: Joey BADA$$ and Kirk Knight]</stanza>
+<stanza type="hook" speaker="JoeyBada$$ KirkKnight">
+<li>So tell me where it's at and I'm in the spot (so what you wanna do)</li>
+<li>I said so tell me where it's at and I'm in the spot (we got a lot to come true)</li>
+<li>I said so tell me where it's at and I'm in the spot (so what you wanna do)</li>
+<li>So tell me where it's at and I'm in the spot (we got a lot to come true)</li>
+<li>I said so tell me where it's at and I'm in the spot (so what you wanna do)</li>
+<li>Tell me where it's at and I'm in that spot (we got a lot to come true)</li>
+<li>Let me know </li>
+<li>Let me know </li>
+<li>Let me now</li>
+<li>Let me know</li></stanza>
 
-<stanza>[Verse 3: Kirk Knight]
+<stanza type="verse" speaker="KirkKnight">
 <li>She's so enticing</li>
 <li>Derogatory thoughts when I'm sighting</li>
 <li>Slangs to get her wet</li>
@@ -1004,11 +1147,20 @@
 <li>My side effect is shakin' knees</li>
 <li>Damn here I go again with the suggestive themes</li></stanza>
 
-<stanza>[Hook: Joey BADA$$ and Kirk Knight]</stanza></track>
+<stanza type="hook" speaker="JoeyBada$$ KirkKnight">
+<li>So tell me where it's at and I'm in the spot (so what you wanna do)</li>
+<li>I said so tell me where it's at and I'm in the spot (we got a lot to come true)</li>
+<li>I said so tell me where it's at and I'm in the spot (so what you wanna do)</li>
+<li>So tell me where it's at and I'm in the spot (we got a lot to come true)</li>
+<li>I said so tell me where it's at and I'm in the spot (so what you wanna do)</li>
+<li>Tell me where it's at and I'm in that spot (we got a lot to come true)</li>
+<li>Let me know </li>
+<li>Let me know </li>
+<li>Let me now</li>
+<li>Let me know</li></stanza></song>
 
-<track title="Suspect">
-<producer>Chuck Strangers</producer>
-<stanza>[Hook]
+<song title="Suspect" feature="ProEra" production="ChuckStrangers">
+<stanza type="hook" speaker="ProEra">
 <li>Suspect niggas don't come outside</li>
 <li>You might get your wig pushed back tonight</li>
 <li>Said I deserve my respect</li>
@@ -1018,7 +1170,7 @@
 <li>I deserve my respect</li>
 <li>Brains don't matter if your wig get split on some third eye shit</li></stanza>
 
-<stanza>[Verse 1: Capital STEEZ]
+<stanza type="verse" speaker="CapitalSTEEZ">
 <li>Started blazing and star gazing</li>
 <li>See how you can reach your farthest aspirations</li>
 <li>It's like holy matrimony in The Matrix</li>
@@ -1036,9 +1188,16 @@
 <li>Kama Sutra with miss Mary Jane</li>
 <li>And the karma suits her, she a vibrant thang</li></stanza>
 
-<stanza>[Hook]</stanza>
+<stanza type="hook" speaker="ProEra"><li>Suspect niggas don't come outside</li>
+<li>You might get your wig pushed back tonight</li>
+<li>Said I deserve my respect</li>
+<li>Brains don't matter if your wig get split on some third eye shit</li>
+<li>Suspect niggas don't come outside</li>
+<li>You might get your wig pushed back tonight</li>
+<li>I deserve my respect</li>
+<li>Brains don't matter if your wig get split on some third eye shit</li></stanza>
 
-<stanza>[Verse 2: CJ Fly]
+<stanza type="verse" speaker="CJFly">
 <li>You niggas is suspect and I'm just a ruffneck</li>
 <li>That wasn't breaking pencil tips when I would bust lead</li>
 <li>I puff meds and leave chumps fed and punks dead</li>
@@ -1056,9 +1215,16 @@
 <li>Some niggas clowns what's the shit about</li>
 <li>They used to doubt now they see us sprout and I'm out</li></stanza>
 
-<stanza>[Hook]</stanza>
+<stanza type="hook" speaker="ProEra"><li>Suspect niggas don't come outside</li>
+<li>You might get your wig pushed back tonight</li>
+<li>Said I deserve my respect</li>
+<li>Brains don't matter if your wig get split on some third eye shit</li>
+<li>Suspect niggas don't come outside</li>
+<li>You might get your wig pushed back tonight</li>
+<li>I deserve my respect</li>
+<li>Brains don't matter if your wig get split on some third eye shit</li></stanza>
 
-<stanza>[Verse 3: Chuck Strangers]
+<stanza type="verse" speaker="ChuckStrangers">[Verse 3: Chuck Strangers]
 <li>When I was thirteen I was bad, rapping about guns we never had</li>
 <li>Now we smoke raws with filter tips, old homies talking shit</li>
 <li>Said you was best of mine but you stay plotting on that dime</li>
@@ -1072,9 +1238,16 @@
 <li>Eyes beam, cause we can make it better</li>
 <li>Smoking on that Jack Herer, welcome to the Progressive Era</li></stanza>
 
-<stanza>[Hook]</stanza>
+<stanza type="hook" speaker="ProEra"><li>Suspect niggas don't come outside</li>
+<li>You might get your wig pushed back tonight</li>
+<li>Said I deserve my respect</li>
+<li>Brains don't matter if your wig get split on some third eye shit</li>
+<li>Suspect niggas don't come outside</li>
+<li>You might get your wig pushed back tonight</li>
+<li>I deserve my respect</li>
+<li>Brains don't matter if your wig get split on some third eye shit</li></stanza>
 
-<stanza>[Verse 4: Dyemond Lewis]
+<stanza type="verse" speaker="DyemondLewis">
 <li>And brains don't matter</li>
 <li>But tell me what really matters when you pissed off at the world</li>
 <li>Like you got a crazy bladder and</li>
@@ -1097,9 +1270,16 @@
 <li>I'mma possibly own Monopoly and all McDonald's property</li>
 <li>Cause I won't live in poverty like</li></stanza>
 
-<stanza>[Hook]</stanza>
+<stanza type="hook" speaker="ProEra"><li>Suspect niggas don't come outside</li>
+<li>You might get your wig pushed back tonight</li>
+<li>Said I deserve my respect</li>
+<li>Brains don't matter if your wig get split on some third eye shit</li>
+<li>Suspect niggas don't come outside</li>
+<li>You might get your wig pushed back tonight</li>
+<li>I deserve my respect</li>
+<li>Brains don't matter if your wig get split on some third eye shit</li></stanza>
 
-<stanza>[Verse 5: NYCk Caution]
+<stanza type="verse" speaker="NYCkCaution">
 <li>In the clouds come and find me son, I'm flier than Hermione</li>
 <li>Homie tripping got em sounding like Hansen in the nineties</li>
 <li>Charlie Manson your whole body cause that damage in your party</li>
@@ -1118,9 +1298,16 @@
 <li>I hunt up on my prey</li>
 <li>So pray I ain't hunting on your ass today, like be afraid</li></stanza>
 
-<stanza>[Hook]</stanza>
+<stanza type="hook" speaker="ProEra"><li>Suspect niggas don't come outside</li>
+<li>You might get your wig pushed back tonight</li>
+<li>Said I deserve my respect</li>
+<li>Brains don't matter if your wig get split on some third eye shit</li>
+<li>Suspect niggas don't come outside</li>
+<li>You might get your wig pushed back tonight</li>
+<li>I deserve my respect</li>
+<li>Brains don't matter if your wig get split on some third eye shit</li></stanza>
 
-<stanza>[Verse 6: Kirk Knight]
+<stanza type="verse" speaker="KirkKnight">
 <li>Cool cuts flow, the deli can't touch this</li>
 <li>Slipping like fishes, choking when you hit the cypher</li>
 <li>And I ain't talking weed smoke but I let the weed blow</li>
@@ -1136,9 +1323,16 @@
 <li>But fuck that cause piss was never in your anatomy</li>
 <li>So don't try to lie on a nigga that got mine on my third eye shit</li></stanza>
 
-<stanza>[Hook]</stanza>
+<stanza type="hook" speaker="ProEra"><li>Suspect niggas don't come outside</li>
+<li>You might get your wig pushed back tonight</li>
+<li>Said I deserve my respect</li>
+<li>Brains don't matter if your wig get split on some third eye shit</li>
+<li>Suspect niggas don't come outside</li>
+<li>You might get your wig pushed back tonight</li>
+<li>I deserve my respect</li>
+<li>Brains don't matter if your wig get split on some third eye shit</li></stanza>
 
-<stanza>[Verse 7: Rokamouth]
+<stanza type="verse" speaker="Rokamouth">
 <li>Man I'm on my higher degrees without my masters</li>
 <li>I could use my words to urge into disasters</li>
 <li>Niggas wanna know how my wheels keep on spinning</li>
@@ -1156,9 +1350,16 @@
 <li>I'm taking all you sus niggas throw you out the scene</li>
 <li>Taking all you sus niggas throw you out the scene</li></stanza>
 
-<stanza>[Hook]</stanza>
+<stanza type="hook" speaker="ProEra"><li>Suspect niggas don't come outside</li>
+<li>You might get your wig pushed back tonight</li>
+<li>Said I deserve my respect</li>
+<li>Brains don't matter if your wig get split on some third eye shit</li>
+<li>Suspect niggas don't come outside</li>
+<li>You might get your wig pushed back tonight</li>
+<li>I deserve my respect</li>
+<li>Brains don't matter if your wig get split on some third eye shit</li></stanza>
 
-<stanza>[Verse 8: T'nah Apex]
+<stanza type="verse" speaker="T'nahApex">
 <li>The P the R the O the Dette</li>
 <li>Never am I vexed, I'm always calm, cool, collect</li>
 <li>Unless you disrespect, I wreck you verbally</li>
@@ -1179,9 +1380,16 @@
 <li>So assume what you please but you don't know me</li>
 <li>Say what you please but you don't know T'nah</li></stanza>
 
-<stanza>[Hook]</stanza>
+<stanza type="hook" speaker="ProEra"><li>Suspect niggas don't come outside</li>
+<li>You might get your wig pushed back tonight</li>
+<li>Said I deserve my respect</li>
+<li>Brains don't matter if your wig get split on some third eye shit</li>
+<li>Suspect niggas don't come outside</li>
+<li>You might get your wig pushed back tonight</li>
+<li>I deserve my respect</li>
+<li>Brains don't matter if your wig get split on some third eye shit</li></stanza>
 
-<stanza>[Verse 9: Dessy Hinds]
+<stanza type="verse" speaker="DessyHinds">
 <li>Who that mofo who came to show boat just cause he float like no other</li>
 <li>Style smooth as butter and slick like lubricant rubbers</li>
 <li>So going in on tracks ain't a real test, the real quest</li>
@@ -1199,9 +1407,16 @@
 <li>So if this hits mine, go ahead and pop your wrist fine</li>
 <li>Been spitting dirty, the vocals recording spit shine</li></stanza>
 
-<stanza>[Hook]</stanza>
+<stanza type="hook" speaker="ProEra"><li>Suspect niggas don't come outside</li>
+<li>You might get your wig pushed back tonight</li>
+<li>Said I deserve my respect</li>
+<li>Brains don't matter if your wig get split on some third eye shit</li>
+<li>Suspect niggas don't come outside</li>
+<li>You might get your wig pushed back tonight</li>
+<li>I deserve my respect</li>
+<li>Brains don't matter if your wig get split on some third eye shit</li></stanza>
 
-<stanza>[Verse 10: Joey Bada$$]
+<stanza type="verse" speaker="JoeyBada$$">
 <li>'Til the day I die, I'll be puffing lye, fuck the world, fuck it dry</li>
 <li>Tell them government spies I won't cover my eyes</li>
 <li>Won't cower, won't move cause I don't move like a coward</li>
@@ -1220,4 +1435,11 @@
 <li>See God made three Bigs, two Pacs, but he only made one error</li>
 <li>The Era</li></stanza>
 
-<stanza>[Hook: Pro Era]</stanza></track></album>
+<stanza type="hook" speaker="ProEra"><li>Suspect niggas don't come outside</li>
+<li>You might get your wig pushed back tonight</li>
+<li>Said I deserve my respect</li>
+<li>Brains don't matter if your wig get split on some third eye shit</li>
+<li>Suspect niggas don't come outside</li>
+<li>You might get your wig pushed back tonight</li>
+<li>I deserve my respect</li>
+<li>Brains don't matter if your wig get split on some third eye shit</li></stanza></song></album>
