@@ -1,0 +1,39 @@
+body {
+    background: url('NY-Skyline-2.jpg') no-repeat center center fixed;
+    background-size: cover;
+}
+.headfont {
+    font-family: 'Rock Salt', cursive;
+    font-size:x-large;
+    color: white;
+    text-align: center;
+    margin: 5px auto;
+}
+.bodyfont {
+    font-family: 'Slabo 27px', serif;
+    color: white;
+    text-align: center;
+    margin: 0px
+}
+.intro {
+    padding: 60px;
+    background-color: rgba(71,71,71,0.7);
+    border-radius: 10px;
+    width: 600px;
+    margin: 100px auto;
+}
+.bio {
+    background-color: rgba(71,71,71,0.6);
+    border-radius: 10px;
+    display: inline-block;
+    padding: 7px;
+    width: 200px;
+    height: 375px;
+    margin: 10px;
+}
+.social {
+    display: inline-block;
+    width: 35px;
+    height: auto;
+    margin: 5px;
+}
