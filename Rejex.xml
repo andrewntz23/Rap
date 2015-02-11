@@ -1,781 +1,775 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<album>Rejex
-    <artist>Joey Bada$$</artist>
-    <song track="1">
-        <title>Intro</title>
-        <productionCredit>Chuck Strangers</productionCredit>
+<?xml-model href="schema1.rnc" type="application/relax-ng-compact-syntax"?>
+<album type="mixtape">
+    <meta>
+        <albumTitle>Rejex</albumTitle>
+        <source>genius.com</source>
+        <year>2014</year>
+        <accessDate>2/04/2015</accessDate>
+    </meta>
+    <song title="Intro" feature="" production="ChuckStrangers">
         <content>
-            <verse type="intro">
-            <line li="1">Back when rappers was really rappers</line>
-            <line li="2">Pass the herbs, pass the herbs</line>
-            <line li="3">Pass the herbs, pass the herbs</line>
-            <line li="4">Pass the herbs, pass the herbs</line>
-            <line li="5">Pass the herbs, pass the herbs</line></verse>
-            
-            <verse type="verse 1">
-            <line li="6">It's been a minute since they seen a style with no gimmicks</line>
-            <line li="7">Clouds'll stay limits cuz we in em'</line>
-            <line li="8">Eyes low, squinting, more L's but we winning</line>
-            <line li="9">Acting like it's hard to find women when I'm in these hard to find linens</line>
-            <line li="10">Remeber those days it was hard to find a living</line>
-            <line li="11">But now we got ends and its only the beginning</line>
-            <line li="12">Big pimpin', foolin' dimes rob em' for they innocence</line>
-            <line li="13">Cake like Entenmann's, flow sweet like cinnamon</line>
-            <line li="14">He a child but they treat him like the bigger man</line>
-            <line li="15">Cuz when the pen in his hand they big him up like he Jigga Man</line>
-            <line li="16">Know you see em' in the mirror fam</line>
-            <line li="17">The ones who say you ain't hot be your biggest fan, like nigga damn</line>
-            <line li="18">Before he got popular he been da' man</line>
-            <line li="19">With yo' chick, in the can, rollin' thru an instant gram</line>
-            <line li="20">Got a whiff a' grands now everybody say they distant fam</line>
-            <line li="21">Know the haters still jelly but fuck it though, it's the jam...</line></verse>
+            <stanza speaker="JoeyBada$$" type="intro">
+                <li>Back when rappers was really rappers</li>
+                <li>Pass the herbs, pass the herbs</li>
+                <li>Pass the herbs, pass the herbs</li>
+                <li>Pass the herbs, pass the herbs</li>
+                <li>Pass the herbs, pass the herbs</li></stanza>
+            <stanza speaker="JoeyBada$$" type="verse 1">
+                <li>It's been a minute since they seen a style with no gimmicks</li>
+                <li>Clouds'll stay limits cuz we in em'</li>
+                <li>Eyes low, squinting, more L's but we winning</li>
+                <li>Acting like it's hard to find women when I'm in these hard to find
+                    linens</li>
+                <li>Remeber those days it was hard to find a living</li>
+                <li>But now we got ends and its only the beginning</li>
+                <li>Big pimpin', foolin' dimes rob em' for they innocence</li>
+                <li>Cake like Entenmann's, flow sweet like cinnamon</li>
+                <li>He a child but they treat him like the bigger man</li>
+                <li>Cuz when the pen in his hand they big him up like he Jigga Man</li>
+                <li>Know you see em' in the mirror fam</li>
+                <li>The ones who say you ain't hot be your biggest fan, like nigga
+                    damn</li>
+                <li>Before he got popular he been da' man</li>
+                <li>With yo' chick, in the can, rollin' thru an instant gram</li>
+                <li>Got a whiff a' grands now everybody say they distant fam</li>
+                <li>Know the haters still jelly but fuck it though, it's the
+                jam...</li></stanza>
         </content>
     </song>
     <song track="2">
         <title>Blooming Blossoms (Flowers Pt. 1)</title>
         <productionCredit>Madlib</productionCredit>
         <content>
-            <verse type="verse 1"><line li="1">Now</line>
-            <line li="2">If I ain't know no better</line>
-            <line li="3">I could have been sucked right up into the setup</line>
-            <line li="4">But I kept my head up</line>
-            <line li="5">And every time I fell I would get up</line>
-            <line li="6">See I don't need no nines and Berettas</line>
-            <line li="7">I kill with the lines and the letters with the verbs and the nouns</line>
-            <line li="8">Just a kid trying get his sound heard around</line>
-            <line li="9">Jump into cyphers and keep the old timers astounded</line>
-            <line li="10">They said he was the best in the surroundance</line>
-            <line li="11">Cause everyone around him was drownin'</line>
-            <line li="12">In the fair one, no one son could pound him</line>
-            <line li="13">With the lyrics, you pray you hear it</line>
-            <line li="14">They say his bad hood couldn’t match his good spirit</line>
-            <line li="15">And one day his mom and dad will be cheerin' to his grammy nomination</line>
-            <line li="16">And proclamation to his world domination</line>
-            <line li="17">Inauguration into greatness</line>
-            <line li="18">From making rations to cakin'</line>
-            <line li="19">2 AM and he be up like attic</line>
-            <line li="20">He's an addict, alarm clock pop, he back at it</line>
-            <line li="21">Barely got any sleep</line>
-            <line li="22">But, he gotta eat</line>
-            <line li="23">Cause ain't shit cheap and his soul/sole torned out of feet</line>
-            <line li="24">He got dreams, but don't plan on sleeping until he reach 'em</line>
-            <line li="25">Until you out feastin', paying houses where you sleep in</line>
-            <line li="26">Until his album ready and his fans get it leaking just for sneak peaks and</line>
-            <line li="27">Until then, his home is the booth</line>
-            <line li="28">He spittin' to the plaque it's poof off his tooth</line>
-            <line li="29">Like Hocus Pocus</line>
-            <line li="30">Or word he's too focused</line>
-            <line li="31">You should quote it</line>
-            <line li="32">His goal is the denial that he wrote it</line>
-            <line li="33">Flowin' like oceans and menstruals</line>
-            <line li="34">Ink from the pen, lies within my credentials</line>
-            <line li="35">They told me that I could be mental</line>
-            <line li="36">But mommma always said that I was special</line>
-            <line li="37">Haters tell me I should stop</line>
-            <line li="38">My enemies tryin' see me in the box</line>
-            <line li="39">So the streets tell me to cop a Glock and pop it</line>
-            <line li="40">But something down deep tells me I'm the next prophet</line>
-            <line li="41">Like the new Muhammad or the new Marcus Garvey</line>
-            <line li="42">Or probably, it makes sense why I'm so heavily guarded</line>
-            <line li="43">Wait, no, please restart it</line>
-            <line li="44">I'm heavenly guarded, it's the golden child and for a while</line>
-            <line li="45">God been looking down with a smile</line>
-            <line li="46">Watchin' me prosper</line>
-            <line li="47">Attackin' with the raps and then conquer</line>
-            <line li="48">The junior Frank Sinatra, rapping out the Opera</line>
-            <line li="49">You should spectate in the booth with a suit and binoculars</line>
-            <line li="50">Like nigga its a honor, it's motherfuckin' honor</line></verse>
+            <stanza speaker="" type="verse 1"><li>Now</li>
+                <li>If I ain't know no better</li>
+                <li>I could have been sucked right up into the setup</li>
+                <li>But I kept my head up</li>
+                <li>And every time I fell I would get up</li>
+                <li>See I don't need no nines and Berettas</li>
+                <li>I kill with the lines and the letters with the verbs and the
+                    nouns</li>
+                <li>Just a kid trying get his sound heard around</li>
+                <li>Jump into cyphers and keep the old timers astounded</li>
+                <li>They said he was the best in the surroundance</li>
+                <li>Cause everyone around him was drownin'</li>
+                <li>In the fair one, no one son could pound him</li>
+                <li>With the lyrics, you pray you hear it</li>
+                <li>They say his bad hood couldn’t match his good spirit</li>
+                <li>And one day his mom and dad will be cheerin' to his grammy
+                    nomination</li>
+                <li>And proclamation to his world domination</li>
+                <li>Inauguration into greatness</li>
+                <li>From making rations to cakin'</li>
+                <li>2 AM and he be up like attic</li>
+                <li>He's an addict, alarm clock pop, he back at it</li>
+                <li>Barely got any sleep</li>
+                <li>But, he gotta eat</li>
+                <li>Cause ain't shit cheap and his soul/sole torned out of feet</li>
+                <li>He got dreams, but don't plan on sleeping until he reach 'em</li>
+                <li>Until you out feastin', paying houses where you sleep in</li>
+                <li>Until his album ready and his fans get it leaking just for sneak peaks
+                    and</li>
+                <li>Until then, his home is the booth</li>
+                <li>He spittin' to the plaque it's poof off his tooth</li>
+                <li>Like Hocus Pocus</li>
+                <li>Or word he's too focused</li>
+                <li>You should quote it</li>
+                <li>His goal is the denial that he wrote it</li>
+                <li>Flowin' like oceans and menstruals</li>
+                <li>Ink from the pen, lies within my credentials</li>
+                <li>They told me that I could be mental</li>
+                <li>But mommma always said that I was special</li>
+                <li>Haters tell me I should stop</li>
+                <li>My enemies tryin' see me in the box</li>
+                <li>So the streets tell me to cop a Glock and pop it</li>
+                <li>But something down deep tells me I'm the next prophet</li>
+                <li>Like the new Muhammad or the new Marcus Garvey</li>
+                <li>Or probably, it makes sense why I'm so heavily guarded</li>
+                <li>Wait, no, please restart it</li>
+                <li>I'm heavenly guarded, it's the golden child and for a while</li>
+                <li>God been looking down with a smile</li>
+                <li>Watchin' me prosper</li>
+                <li>Attackin' with the raps and then conquer</li>
+                <li>The junior Frank Sinatra, rapping out the Opera</li>
+                <li>You should spectate in the booth with a suit and binoculars</li>
+                <li>Like nigga its a honor, it's motherfuckin' honor</li></stanza>
         </content>
     </song>
     <song track="3">
         <title>Catharsis</title>
         <productionCredit>Madlib</productionCredit>
         <content>
-            <verse type="verse 1"><line li="1">Vigorous, the illest realest lyricist</line>
-            <line li="2">I'm sick like syphilis</line>
-            <line li="3">Got a certificate for killing shit</line>
-            <line li="4">And any innocent who witnesses the fucking incident</line>
-            <line li="5">Got a team of militants</line>
-            <line li="6">Punch lines, crunch ligaments</line>
-            <line li="7">This is Mr. Bada$$, the young villain</line>
-            <line li="8">Hide the children and hide the women</line>
-            <line li="9">There's no slides when you're caught slippin' so be cautious</line>
-            <line li="10">A homie keeps a gorgeous twelve gauge</line>
-            <line li="11">So if you run your mouth, your jaw gone</line>
-            <line li="12">The double entendre, monster</line>
-            <line li="13">Niggas thank me, say I'm number one in the rankings</line>
-            <line li="14">I tell 'em it's an honor</line>
-            <line li="15">Cause these niggas faking and they nada</line>
-            <line li="16">Fuckin' stupid Malagas, part of the Espana</line>
-            <line li="17">I sip on Coladas and feel your chick tatas</line>
-            <line li="18">'till I bust like pinatas</line>
-            <line li="19">Only true Shotta, come kill 'em with the Patois</line>
-            <line li="20">Same time, met the gal, and up for dagga, that's word to Spragga</line>
-            <line li="21">I'm a young Wayne, I'm going insane, Liu Kang</line>
-            <line li="22">Super Saiyan whenever the loops be playing</line>
-            <line li="23">Only be a kid, but yo, see if the youth's playin'</line>
-            <line li="24">When the doobs flamed, I get enlightened 'til I be in Zeus' lane</line>
-            <line li="25">Find that quite amusing, I bone her like museum</line>
-            <line li="26">Sit back, relax, and watch her bring it back, Boomerang</line>
-            <line li="27">Now bring that back like poo stains in your new jeans</line>
-            <line li="28">No need to be too ashamed</line>
-            <line li="29">If you didn't get that the first time like new names</line>
-            <line li="30">In my city, I be Bruce Wayne</line>
-            <line li="31">Yup, cause when I get put on</line>
-            <line li="32">I got them like new J's</line>
-            <line li="33">He say, she say, who say that I'm not the next young Lupe</line>
-            <line li="34">The one-handed shit you got to say, to you, touche</line>
-            <line li="35">I'm the type to pull a dyke and only hit it on Tuesday</line>
-            <line li="36">You the cunt though, When I come you feel like it be Doomsday</line>
-            <line li="37">Cause the flow is Apocalypse</line>
-            <line li="38">You say them niggas ill</line>
-            <line li="39">But they still ain't even shocking us</line>
-            <line li="40">Yo, who the fuck is stopping us?</line>
-            <line li="41">A bunch of nice niggas with aim like who blocking us?</line>
-            <line li="42">BK where we stay, but you can still see the Pac in us</line>
-            <line li="43">Oh, no disrespect to Diddy</line>
-            <line li="44">Don't mean to be sadity</line>
-            <line li="45">But I plan to conquer my city like yo, it's no Biggie</line>
-            <line li="46">No really, it's no biggy and 50 can't bother</line>
-            <line li="47">In a few years I plan to outshine Mr. Shawn Carter</line>
-            <line li="48">Look at the war I done started</line>
-            <line li="49">Notice the cartharsis revealed by the appeal of this young artist</line></verse>
+            <stanza speaker="" type="verse 1"><li>Vigorous, the illest realest lyricist</li>
+                <li>I'm sick like syphilis</li>
+                <li>Got a certificate for killing shit</li>
+                <li>And any innocent who witnesses the fucking incident</li>
+                <li>Got a team of militants</li>
+                <li>Punch lines, crunch ligaments</li>
+                <li>This is Mr. Bada$$, the young villain</li>
+                <li>Hide the children and hide the women</li>
+                <li>There's no slides when you're caught slippin' so be cautious</li>
+                <li>A homie keeps a gorgeous twelve gauge</li>
+                <li>So if you run your mouth, your jaw gone</li>
+                <li>The double entendre, monster</li>
+                <li>Niggas thank me, say I'm number one in the rankings</li>
+                <li>I tell 'em it's an honor</li>
+                <li>Cause these niggas faking and they nada</li>
+                <li>Fuckin' stupid Malagas, part of the Espana</li>
+                <li>I sip on Coladas and feel your chick tatas</li>
+                <li>'till I bust like pinatas</li>
+                <li>Only true Shotta, come kill 'em with the Patois</li>
+                <li>Same time, met the gal, and up for dagga, that's word to
+                    Spragga</li>
+                <li>I'm a young Wayne, I'm going insane, Liu Kang</li>
+                <li>Super Saiyan whenever the loops be playing</li>
+                <li>Only be a kid, but yo, see if the youth's playin'</li>
+                <li>When the doobs flamed, I get enlightened 'til I be in Zeus'
+                    lane</li>
+                <li>Find that quite amusing, I bone her like museum</li>
+                <li>Sit back, relax, and watch her bring it back, Boomerang</li>
+                <li>Now bring that back like poo stains in your new jeans</li>
+                <li>No need to be too ashamed</li>
+                <li>If you didn't get that the first time like new names</li>
+                <li>In my city, I be Bruce Wayne</li>
+                <li>Yup, cause when I get put on</li>
+                <li>I got them like new J's</li>
+                <li>He say, she say, who say that I'm not the next young Lupe</li>
+                <li>The one-handed shit you got to say, to you, touche</li>
+                <li>I'm the type to pull a dyke and only hit it on Tuesday</li>
+                <li>You the cunt though, When I come you feel like it be Doomsday</li>
+                <li>Cause the flow is Apocalypse</li>
+                <li>You say them niggas ill</li>
+                <li>But they still ain't even shocking us</li>
+                <li>Yo, who the fuck is stopping us?</li>
+                <li>A bunch of nice niggas with aim like who blocking us?</li>
+                <li>BK where we stay, but you can still see the Pac in us</li>
+                <li>Oh, no disrespect to Diddy</li>
+                <li>Don't mean to be sadity</li>
+                <li>But I plan to conquer my city like yo, it's no Biggie</li>
+                <li>No really, it's no biggy and 50 can't bother</li>
+                <li>In a few years I plan to outshine Mr. Shawn Carter</li>
+                <li>Look at the war I done started</li>
+                <li>Notice the cartharsis revealed by the appeal of this young
+                    artist</li></stanza>
         </content>
     </song>
     <song track="4">
         <title>Indubitable</title>
         <productionCredit>Lord Finesse</productionCredit>
         <content>
-            <verse type="verse 1"><line li="1">I'm Indubitable, spitting Pharmaceuticals</line>
-            <line li="2">All I do is win, ties are simply unsuitable</line>
-            <line li="3">Bitches on my cuticles, I changed the game like oodables?</line>
-            <line li="4">The Davey Jones of rap is back, the bodies in my cubicle</line>
-            <line li="5">Ever since a toddler, I had them call me father</line>
-            <line li="6">Since ye' high, I got booty like prostate doctor</line>
-            <line li="7">Mom want me be doctor, I be rhymin' like pasta</line>
-            <line li="8">Eat them like they pasta, headed straight up, posture</line>
-            <line li="9">Niggas can never knock the, hustling</line>
-            <line li="10">Bitches on my balls, never fumbling</line>
-            <line li="11">Nigga in fact they be doubling</line>
-            <line li="12">But the hunnies get the smothering, never loving them</line>
-            <line li="13">I never sleep, Got the heavy bags, struggling</line>
-            <line li="14">They run from him when he approach, they call him the hero</line>
-            <line li="15">All he need is thee cloak, cause murder what he wrote</line>
-            <line li="16">And fuck guns, don't need those</line>
-            <line li="17">Everything is done to the Max, no Keeble</line>
-            <line li="18">Circle tighter than Speedo, I'm the Don like Cheadle</line>
-            <line li="19">I'm flyer than eagle, I get the cheeks like pillows</line>
-            <line li="20">Uh, I swear niggas they bout it, they bout shit</line>
-            <line li="21">You'd be in good shape if ran like your mouth did</line>
-            <line li="22">Ya'll lower than mouse shit, I'm higher than mountains</line>
-            <line li="23">Keep false announcing, have you running like fountain</line>
-            <line li="24">They ain't amounting to the money I'm counting</line>
-            <line li="25">In a few year my accountants need accountants</line>
-            <line li="26">Uh, everything y'all do is counters to me</line>
-            <line li="27">Stupid nigga kinda seem you were counting on me</line>
-            <line li="28">But I, bet you ain't trying to encounter with me</line>
-            <line li="29">Nuh uh, I'm piranha, you some flounder to me</line>
-            <line li="30">And the word on the grapevine, I'm going up great heights</line>
-            <line li="31">Joey got enough line to capture a great white</line>
-            <line li="32">I get more shine than late night, I'm beast who ain't ate right</line>
-            <line li="33">Back up on my mojo, I'll show you what apes like</line>
-            <line li="34">Nigga it's JoJo, They on my pogo, no homo</line>
-            <line li="35">I ride the beat like the man on my polo</line>
-            <line li="36">Ya'll some bozos, I'm underage, but pour more though</line>
-            <line li="37">That Roso got me moving slow-mo</line>
-            <line li="38">I'm taking photos with your ho-ho</line>
-            <line li="39">Chris Cringlely gifted, I'm ill with the writtens</line>
-            <line li="40">Got my finger to the world, Fuck it a fist then</line>
-            <line li="41">Sit back and look at what you been missin', nigga</line></verse>
+            <stanza speaker="" type="verse 1"><li>I'm Indubitable, spitting Pharmaceuticals</li>
+                <li>All I do is win, ties are simply unsuitable</li>
+                <li>Bitches on my cuticles, I changed the game like oodables?</li>
+                <li>The Davey Jones of rap is back, the bodies in my cubicle</li>
+                <li>Ever since a toddler, I had them call me father</li>
+                <li>Since ye' high, I got booty like prostate doctor</li>
+                <li>Mom want me be doctor, I be rhymin' like pasta</li>
+                <li>Eat them like they pasta, headed straight up, posture</li>
+                <li>Niggas can never knock the, hustling</li>
+                <li>Bitches on my balls, never fumbling</li>
+                <li>Nigga in fact they be doubling</li>
+                <li>But the hunnies get the smothering, never loving them</li>
+                <li>I never sleep, Got the heavy bags, struggling</li>
+                <li>They run from him when he approach, they call him the hero</li>
+                <li>All he need is thee cloak, cause murder what he wrote</li>
+                <li>And fuck guns, don't need those</li>
+                <li>Everything is done to the Max, no Keeble</li>
+                <li>Circle tighter than Speedo, I'm the Don like Cheadle</li>
+                <li>I'm flyer than eagle, I get the cheeks like pillows</li>
+                <li>Uh, I swear niggas they bout it, they bout shit</li>
+                <li>You'd be in good shape if ran like your mouth did</li>
+                <li>Ya'll lower than mouse shit, I'm higher than mountains</li>
+                <li>Keep false announcing, have you running like fountain</li>
+                <li>They ain't amounting to the money I'm counting</li>
+                <li>In a few year my accountants need accountants</li>
+                <li>Uh, everything y'all do is counters to me</li>
+                <li>Stupid nigga kinda seem you were counting on me</li>
+                <li>But I, bet you ain't trying to encounter with me</li>
+                <li>Nuh uh, I'm piranha, you some flounder to me</li>
+                <li>And the word on the grapevine, I'm going up great heights</li>
+                <li>Joey got enough line to capture a great white</li>
+                <li>I get more shine than late night, I'm beast who ain't ate right</li>
+                <li>Back up on my mojo, I'll show you what apes like</li>
+                <li>Nigga it's JoJo, They on my pogo, no homo</li>
+                <li>I ride the beat like the man on my polo</li>
+                <li>Ya'll some bozos, I'm underage, but pour more though</li>
+                <li>That Roso got me moving slow-mo</li>
+                <li>I'm taking photos with your ho-ho</li>
+                <li>Chris Cringlely gifted, I'm ill with the writtens</li>
+                <li>Got my finger to the world, Fuck it a fist then</li>
+                <li>Sit back and look at what you been missin', nigga</li></stanza>
         </content>
     </song>
     <song track="5">
         <title>OG Killuminati</title>
         <productionCredit>Knxwledge</productionCredit>
         <content>
-            <verse type="intro">
-            <line li="1">Yes, Strawberries!</line></verse>
-            
-            <verse type="verse 1">
-            <line li="1">I'm a beast with these flows</line>
-            <line li="2">Two birds, one stoned, you get geese’d when trees rolled</line>
-            <line li="3">They say I'm evil cause I trained my ego to see gold</line>
-            <line li="4">Cause he know, seagulls couldn't see these goals, please</line>
-            <line li="5">It's the return of the beast coast</line>
-            <line li="6">No cash flashed, but the cheese still make teeth show</line>
-            <line li="7">Incognito, is how you move on the strip</line>
-            <line li="8">What you trynna be Vito? Well there's rules to this shit</line>
-            <line li="9">Don't get clapped, ya'll ain't real spitters, ya'll lips chapped</line>
-            <line li="10">Better watch it, Mr. Nicewatch, don't risk that</line>
-            <line li="11">I got a 6 pack of bare skill that I spill like that</line>
-            <line li="12">And everybody know (That shit crack!)</line>
-            <line li="13">Ya'll niggas softspoken, down below choking</line>
-            <line li="14">The type to drop the soap when you soakin' in front of most men</line>
-            <line li="15">There's makes sense why you want beef, well this frozen</line>
-            <line li="16">It's nuts for you screwed in the tool, and can't hold em</line>
-            <line li="17">Better shoot yourself Plaxico, because I'm next to go</line>
-            <line li="18">The Progressive flows from New York to New Mexico</line>
-            <line li="19">My lyrical span is what the fans is demandin'</line>
-            <line li="20">Step into my box and that's exactly what'chu stand in</line>
-            <line li="21">Ain't no half steppin' around me</line>
-            <line li="22">And you gotta drown a fish before you clown me</line>
-            <line li="23">The young cop killer, I'm dat ill, so doc' will ya</line>
-            <line li="24">Give me two shots for 2Pac killer....nigga</line></verse>
+            <stanza speaker="" type="intro">
+                <li>Yes, Strawberries!</li></stanza>
+            <stanza speaker="" type="verse 1">
+                <li>I'm a beast with these flows</li>
+                <li>Two birds, one stoned, you get geese’d when trees rolled</li>
+                <li>They say I'm evil cause I trained my ego to see gold</li>
+                <li>Cause he know, seagulls couldn't see these goals, please</li>
+                <li>It's the return of the beast coast</li>
+                <li>No cash flashed, but the cheese still make teeth show</li>
+                <li>Incognito, is how you move on the strip</li>
+                <li>What you trynna be Vito? Well there's rules to this shit</li>
+                <li>Don't get clapped, ya'll ain't real spitters, ya'll lips chapped</li>
+                <li>Better watch it, Mr. Nicewatch, don't risk that</li>
+                <li>I got a 6 pack of bare skill that I spill like that</li>
+                <li>And everybody know (That shit crack!)</li>
+                <li>Ya'll niggas softspoken, down below choking</li>
+                <li>The type to drop the soap when you soakin' in front of most men</li>
+                <li>There's makes sense why you want beef, well this frozen</li>
+                <li>It's nuts for you screwed in the tool, and can't hold em</li>
+                <li>Better shoot yourself Plaxico, because I'm next to go</li>
+                <li>The Progressive flows from New York to New Mexico</li>
+                <li>My lyrical span is what the fans is demandin'</li>
+                <li>Step into my box and that's exactly what'chu stand in</li>
+                <li>Ain't no half steppin' around me</li>
+                <li>And you gotta drown a fish before you clown me</li>
+                <li>The young cop killer, I'm dat ill, so doc' will ya</li>
+                <li>Give me two shots for 2Pac killer....nigga</li></stanza>
         </content>
     </song>
     <song track="6">
         <title>PantiE Raid</title>
         <productionCredit>Stuyvesant</productionCredit>
         <content>
-            <verse type="verse 1">
-            <line li="1">Now age ain't nothing but a digit</line>
-            <line li="2">So baby if you're with it, we can kick it</line>
-            <line li="3">And get lifted off the Sour and the piff</line>
-            <line li="4">And start whispering, and start kissing</line>
-            <line li="5">Your red bottoms knocking on my Pippens</line>
-            <line li="6">Tell me if you dig it, so we can get a dick in</line>
-            <line li="7">Life, she be bitching, so get it while you live it</line>
-            <line li="8">And stop fronting, you need to quit it</line>
-            <line li="9">I swear I'mma hit it, I just need you to pitch it</line>
-            <line li="10">So hollar if you're with it</line>
-            <line li="11">She tried to play me, She said that I'm only a baby</line>
-            <line li="12">She said she gets crazy, it'll probably amaze me</line>
-            <line li="13">She said that she too much, she don't think that I'm enough</line>
-            <line li="14">I got a smooth style, but she like to do it rough</line>
-            <line li="15">She caught me slippin', I wasn't trippin'</line>
-            <line li="16">Cause it ain't a joke how I be ripping up the kitten</line>
-            <line li="17">I told her listen, Lord knows that I'm a good Christian</line>
-            <line li="18">But we can do it in the tub or we can do it in the kitchen</line>
-            <line li="19">She started gigglin', She thinks I'm kiddin'</line>
-            <line li="20">I was on a mission, blowing double o's, always get the women</line>
-            <line li="21">I know she peep the fits, I told her read my lips</line>
-            <line li="22">Said we can do it like that or like this</line>
-            <line li="23">Cut the light switch</line>
-            <line li="24">Close your eyes, let the music intervene</line>
-            <line li="25">We can play some Marvin Gaye or a little Al Green</line>
-            <line li="26">We can listen to some Prince while I kiss up on your lips</line>
-            <line li="27">Or get right with Betty Wright, turn it up, that's my shit</line></verse>
-            
-            <verse type="hook">
-            <line li="28">This one is a pantie dropper, this shit is a pantie dropper</line>
-            <line li="29">This when her pantie dropping, this shit is a pantie dropper</line>
-            <line li="30">This one is a pantie dropper, this shit is a pantie dropper</line>
-            
-            <line li="31">This shit is a pantie dropper, this one is a pantie dropper</line>
-            <line li="32">This shit be pantie dropping, this one is a pantie dropper</line>
-            <line li="33">This shit is a pantie dropper, this one is a pantie dropper</line></verse>
-            
-            <verse type="outro">
-            <line li="34">Pussy is the greatest invention of the man upstairs</line>
-            <line li="35">Now you can see him in heaven putting it together</line>
-            <line li="36">You know the nigga was up there "Jesus, I got somn'</line>
-            <line li="37">Nigga wait till you see it"</line></verse>
+            <stanza speaker="" type="verse 1">
+                <li>Now age ain't nothing but a digit</li>
+                <li>So baby if you're with it, we can kick it</li>
+                <li>And get lifted off the Sour and the piff</li>
+                <li>And start whispering, and start kissing</li>
+                <li>Your red bottoms knocking on my Pippens</li>
+                <li>Tell me if you dig it, so we can get a dick in</li>
+                <li>Life, she be bitching, so get it while you live it</li>
+                <li>And stop fronting, you need to quit it</li>
+                <li>I swear I'mma hit it, I just need you to pitch it</li>
+                <li>So hollar if you're with it</li>
+                <li>She tried to play me, She said that I'm only a baby</li>
+                <li>She said she gets crazy, it'll probably amaze me</li>
+                <li>She said that she too much, she don't think that I'm enough</li>
+                <li>I got a smooth style, but she like to do it rough</li>
+                <li>She caught me slippin', I wasn't trippin'</li>
+                <li>Cause it ain't a joke how I be ripping up the kitten</li>
+                <li>I told her listen, Lord knows that I'm a good Christian</li>
+                <li>But we can do it in the tub or we can do it in the kitchen</li>
+                <li>She started gigglin', She thinks I'm kiddin'</li>
+                <li>I was on a mission, blowing double o's, always get the women</li>
+                <li>I know she peep the fits, I told her read my lips</li>
+                <li>Said we can do it like that or like this</li>
+                <li>Cut the light switch</li>
+                <li>Close your eyes, let the music intervene</li>
+                <li>We can play some Marvin Gaye or a little Al Green</li>
+                <li>We can listen to some Prince while I kiss up on your lips</li>
+                <li>Or get right with Betty Wright, turn it up, that's my
+                shit</li></stanza>
+            <stanza speaker="" type="hook">
+                <li>This one is a pantie dropper, this shit is a pantie dropper</li>
+                <li>This when her pantie dropping, this shit is a pantie dropper</li>
+                <li>This one is a pantie dropper, this shit is a pantie dropper</li>
+                <li>This shit is a pantie dropper, this one is a pantie dropper</li>
+                <li>This shit be pantie dropping, this one is a pantie dropper</li>
+                <li>This shit is a pantie dropper, this one is a pantie
+                dropper</li></stanza>
+            <stanza speaker="" type="outro">
+                <li>Pussy is the greatest invention of the man upstairs</li>
+                <li>Now you can see him in heaven putting it together</li>
+                <li>You know the nigga was up there "Jesus, I got somn'</li>
+                <li>Nigga wait till you see it"</li></stanza>
         </content>
     </song>
     <song track="7">
         <title>That Gushy</title>
         <productionCredit>9th Wonder</productionCredit>
         <content>
-            <verse type="verse 1">
-            <line li="1">Now you already know why I'm here girl</line>
-            <line li="2">Come here girl, let me lick up in ear girl</line>
-            <line li="3">You say you got a man, well I don't care girl</line>
-            <line li="4">Cause I'm right here, he way over there girl</line>
-            <line li="5">You ain't even got to do shit</line>
-            <line li="6">Two minutes, and already spot your juices</line>
-            <line li="7">And that's just how I do this</line>
-            <line li="8">Sex game stupid, she thought that I was cupid</line>
-            <line li="9">And don't you fight it, I know you know you like it</line>
-            <line li="10">Cause when the light flick, I creep inside your private</line>
-            <line li="11">Talk, Victoria's Secret</line>
-            <line li="12">She see the polo draws, she start to debriefing</line>
-            <line li="13">She say she want the treatment right</line>
-            <line li="14">I kiss up on her neck and hold the cleavage tight</line>
-            <line li="15">Till it's evening time, we been at it all day</line>
-            <line li="16">If your ex's ain't do it as good, they all gay</line>
-            <line li="17">You can hit me always, I be free and all day</line>
-            <line li="18">Treat that cookie like a rookie, I just want more play</line>
-            <line li="19">Who taught you ? I know it ain't Yeezy</line>
-            <line li="20">Ain't trying to say you sleazy but this was too easy</line>
-            <line li="21">He a mogul and I'm a local, but in the bed I really go loco</line>
-            <line li="22">Let's take a photo, put it in slo-mo</line>
-            <line li="23">And come get up on this poco</line></verse>
-            
-            <verse type="hook">
-            <line li="24">Just give it to me</line>
-            <line li="25">I want ya, I need ya (I'm Sayin Girl)</line>
-            <line li="26">Just give it to me</line>
-            <line li="27">I want ya, I need ya (Aye C'mere Girl)</line>
-            <line li="28">Just give it to me</line>
-            <line li="29">I want ya, I need ya</line>
-            <line li="30">Just give it to me</line>
-            
-            <line li="31">Give me that funk, that gushy stuff</line>
-            <line li="32">Give me that funk, that gush</line></verse>
-            
-            <verse type="verse 2">
-            <line li="33">Round 2, say the word if you can't take it</line>
-            <line li="34">And I understand you into breaking</line>
-            <line li="35">But no can do</line>
-            <line li="36">Hey I 4x2, now come blow my flute</line>
-            <line li="37">You know you look so cute, when you down there</line>
-            <line li="38">Little to the right, yea around there</line>
-            <line li="39">Perfect, I'm glad we past flirting</line>
-            <line li="40">Before you wasn't certain when I was lifting up your skirt and</line>
-            <line li="41">But now you squirting, at the same time I'm bursting</line>
-            <line li="42">You look good on twitter but even better in person</line>
-            <line li="43">I wanna take the time out to say that it was worth it</line>
-            <line li="44">Your trip from NYC to out here in Burston, I mean Boston</line>
-            <line li="45">I'm a MAC like your lip gloss is</line>
-            <line li="46">Girl you so fine I wonder what the cost is</line>
-            <line li="47">A Dime ? I'd give that ass a Milli</line>
-            <line li="48">Coochie got the power, neutrons on my jimmy</line>
-            <line li="49">Know you thought I was a kiddy and know that I wouldn't last</line>
-            <line li="50">You'd thought it be a quickie, you probably even laughed, well</line>
-            <line li="51">I bet you regret that you said it</line>
-            <line li="52">I can tell I'm the bestest by how wet your bed is</line>
-            <line li="53">She told me "Shut Up" and just let it ride</line>
-            <line li="54">I'm like girl that shit fat how much you let it slide?</line>
-            <line li="55">She sighed and replied "It was only like 5"</line>
-            <line li="56">I'm like "Fuck it, girl just close your eyes" and</line></verse>
-            
-            <verse type="hook">
-            <line li="57">Just give it to me</line>
-            <line li="58">I want ya, I need ya (I'm Sayin Girl)</line>
-            <line li="59">Just give it to me</line>
-            <line li="60">I want ya, I need ya (Aye C'mere Girl)</line>
-            <line li="61">Just give it to me</line>
-            <line li="62">I want ya, I need ya</line>
-            <line li="63">Just give it to me</line>
-            
-            <line li="64">Give me that funk, that gushy stuff</line>
-            <line li="65">Give me that funk, that gush</line></verse>
+            <stanza speaker="" type="verse 1">
+                <li>Now you already know why I'm here girl</li>
+                <li>Come here girl, let me lick up in ear girl</li>
+                <li>You say you got a man, well I don't care girl</li>
+                <li>Cause I'm right here, he way over there girl</li>
+                <li>You ain't even got to do shit</li>
+                <li>Two minutes, and already spot your juices</li>
+                <li>And that's just how I do this</li>
+                <li>Sex game stupid, she thought that I was cupid</li>
+                <li>And don't you fight it, I know you know you like it</li>
+                <li>Cause when the light flick, I creep inside your private</li>
+                <li>Talk, Victoria's Secret</li>
+                <li>She see the polo draws, she start to debriefing</li>
+                <li>She say she want the treatment right</li>
+                <li>I kiss up on her neck and hold the cleavage tight</li>
+                <li>Till it's evening time, we been at it all day</li>
+                <li>If your ex's ain't do it as good, they all gay</li>
+                <li>You can hit me always, I be free and all day</li>
+                <li>Treat that cookie like a rookie, I just want more play</li>
+                <li>Who taught you ? I know it ain't Yeezy</li>
+                <li>Ain't trying to say you sleazy but this was too easy</li>
+                <li>He a mogul and I'm a local, but in the bed I really go loco</li>
+                <li>Let's take a photo, put it in slo-mo</li>
+                <li>And come get up on this poco</li></stanza>
+            <stanza speaker="" type="hook">
+                <li>Just give it to me</li>
+                <li>I want ya, I need ya (I'm Sayin Girl)</li>
+                <li>Just give it to me</li>
+                <li>I want ya, I need ya (Aye C'mere Girl)</li>
+                <li>Just give it to me</li>
+                <li>I want ya, I need ya</li>
+                <li>Just give it to me</li>
+                <li>Give me that funk, that gushy stuff</li>
+                <li>Give me that funk, that gush</li></stanza>
+            <stanza speaker="" type="verse 2">
+                <li>Round 2, say the word if you can't take it</li>
+                <li>And I understand you into breaking</li>
+                <li>But no can do</li>
+                <li>Hey I 4x2, now come blow my flute</li>
+                <li>You know you look so cute, when you down there</li>
+                <li>Little to the right, yea around there</li>
+                <li>Perfect, I'm glad we past flirting</li>
+                <li>Before you wasn't certain when I was lifting up your skirt and</li>
+                <li>But now you squirting, at the same time I'm bursting</li>
+                <li>You look good on twitter but even better in person</li>
+                <li>I wanna take the time out to say that it was worth it</li>
+                <li>Your trip from NYC to out here in Burston, I mean Boston</li>
+                <li>I'm a MAC like your lip gloss is</li>
+                <li>Girl you so fine I wonder what the cost is</li>
+                <li>A Dime ? I'd give that ass a Milli</li>
+                <li>Coochie got the power, neutrons on my jimmy</li>
+                <li>Know you thought I was a kiddy and know that I wouldn't last</li>
+                <li>You'd thought it be a quickie, you probably even laughed, well</li>
+                <li>I bet you regret that you said it</li>
+                <li>I can tell I'm the bestest by how wet your bed is</li>
+                <li>She told me "Shut Up" and just let it ride</li>
+                <li>I'm like girl that shit fat how much you let it slide?</li>
+                <li>She sighed and replied "It was only like 5"</li>
+                <li>I'm like "Fuck it, girl just close your eyes" and</li></stanza>
+            <stanza speaker="" type="hook">
+                <li>Just give it to me</li>
+                <li>I want ya, I need ya (I'm Sayin Girl)</li>
+                <li>Just give it to me</li>
+                <li>I want ya, I need ya (Aye C'mere Girl)</li>
+                <li>Just give it to me</li>
+                <li>I want ya, I need ya</li>
+                <li>Just give it to me</li>
+                <li>Give me that funk, that gushy stuff</li>
+                <li>Give me that funk, that gush</li></stanza>
         </content>
     </song>
     <song track="8">
         <title>Fantom</title>
         <productionCredit>Kirk Knight</productionCredit>
         <content>
-            <verse type="intro">
-            <line li="1">The force will be with you always</line>
-            <line li="2">Yo, Nicki can't even rap</line></verse>
-            
-            <verse type="verse 1">
-            <line li="3">You could catch me on the Kawasaki, evadin' paparazzi</line>
-            <line li="4">I was spotted with a hotty, gettin' blumpkin in a porter-potty</line>
-            <line li="5">Feelin' like the man, but nose still snotty</line>
-            <line li="6">And she knows I got hoes, but still want me to body (the kitty)</line>
-            <line li="7">I'm not kiddin', nor am I lyin'</line>
-            <line li="8">Should've known I'd be achieving 'til I'm dyin'</line>
-            <line li="9">You know I'm not buyin' shit, keep supplyin' dick</line>
-            <line li="10">Quit all that cryin' shit, and stop denyin' it</line>
-            <line li="11">She like, "I usually don't do this"</line>
-            <line li="12">I said, "You're foolish, I heard you did it to like half of the students"</line>
-            <line li="13">I checked her quick, I threw her down, she intercepted it</line>
-            <line li="14">And I ejected it, she swallowed and digested it. I jetted quick</line>
-            <line li="15">No time for a marriage, baby in a carriage</line>
-            <line li="16">I'm all about my cabbage, something like a rabbit</line>
-            <line li="17">I'm trying to feed my ear a few carats but they ain't tryin' have it</line>
-            <line li="18">They rather, see me die before they see me fly</line>
-            <line li="19">With diamond supply fly and the jeans blue dye</line>
-            <line li="20">That's over heads like rainbows</line>
-            <line li="21">We ain't no hoes, you dodo birds, 4-0 verbs, you porno nerds</line>
-            <line li="22">I got my own religion so fuck what your pastor sayin'</line>
-            <line li="23">Hard shit up in your hands like you're masturbatin</line>
-            <line li="24">It's the pre-ejaculation squad, we be raping ya'll, duct-taping then taping ya'll</line>
-            <line li="25">Just for evidence, send it to your residence</line>
-            <line li="26">A bunch of fucking rebelists who never learned they etiquette</line>
-            <line li="27">Bitch</line></verse>
+            <stanza speaker="" type="intro">
+                <li>The force will be with you always</li>
+                <li>Yo, Nicki can't even rap</li></stanza>
+            <stanza speaker="" type="verse 1">
+                <li>You could catch me on the Kawasaki, evadin' paparazzi</li>
+                <li>I was spotted with a hotty, gettin' blumpkin in a porter-potty</li>
+                <li>Feelin' like the man, but nose still snotty</li>
+                <li>And she knows I got hoes, but still want me to body (the kitty)</li>
+                <li>I'm not kiddin', nor am I lyin'</li>
+                <li>Should've known I'd be achieving 'til I'm dyin'</li>
+                <li>You know I'm not buyin' shit, keep supplyin' dick</li>
+                <li>Quit all that cryin' shit, and stop denyin' it</li>
+                <li>She like, "I usually don't do this"</li>
+                <li>I said, "You're foolish, I heard you did it to like half of the
+                    students"</li>
+                <li>I checked her quick, I threw her down, she intercepted it</li>
+                <li>And I ejected it, she swallowed and digested it. I jetted quick</li>
+                <li>No time for a marriage, baby in a carriage</li>
+                <li>I'm all about my cabbage, something like a rabbit</li>
+                <li>I'm trying to feed my ear a few carats but they ain't tryin' have
+                    it</li>
+                <li>They rather, see me die before they see me fly</li>
+                <li>With diamond supply fly and the jeans blue dye</li>
+                <li>That's over heads like rainbows</li>
+                <li>We ain't no hoes, you dodo birds, 4-0 verbs, you porno nerds</li>
+                <li>I got my own religion so fuck what your pastor sayin'</li>
+                <li>Hard shit up in your hands like you're masturbatin</li>
+                <li>It's the pre-ejaculation squad, we be raping ya'll, duct-taping then
+                    taping ya'll</li>
+                <li>Just for evidence, send it to your residence</li>
+                <li>A bunch of fucking rebelists who never learned they etiquette</li>
+                <li>Bitch</li></stanza>
         </content>
     </song>
     <song track="9">
         <title>Silent Knight</title>
         <productionCredit>Kirk Knight</productionCredit>
         <content>
-            <verse type="intro">
-            <line li="1">The force will be with you....always</line></verse>
-            
-            <verse type="hook">
-            <line li="2">She left and broke my heart like twice</line>
-            <line li="3">(twice twice twice twice)</line>
-            <line li="4">Now everything is dark and it's fucking up my life</line>
-            <line li="5">(life life life)</line>
-            <line li="6">And I just wanna make it right</line>
-            <line li="7">(right right right)</line>
-            <line li="8">But I won't make it through the night</line>
-            <line li="9">(night night night)</line></verse>
-            
-            <verse type="verse 1">
-            <line li="10">Cause suicide is painless, so I'm about to aim this</line>
-            <line li="11">Weapon of steel right to my brain and just bang it</line>
-            <line li="12">32 in the clip but one is in the chamber</line>
-            <line li="13">Click clack, hope it freeze me from my anger</line>
-            <line li="14">If you don't plan on staying, I'm saying</line>
-            <line li="15">I'm better off just laying</line>
-            <line li="16">Six feet deep underneath the fucking pavement</line>
-            <line li="17">At least you work the grave-shift for treating me like ape shit</line>
-            <line li="18">I even wrote you love songs but money was your language</line>
-            <line li="19">Just look at all the damage that you did</line>
-            <line li="20">Chuckin' up the deuces to the suicidal vital motherfucking nuisance</line>
-            <line li="21">I knew it, and now I'm about to lose it</line>
-            <line li="22">Blood splatter on the wall recognize what you did</line></verse>
-            
-            <verse type="hook">
-            <line li="23">She left and broke my heart like twice</line>
-            <line li="24">(twice twice twice twice)</line>
-            <line li="25">Now everything is dark and it's fucking up my life</line>
-            <line li="26">(life life life)</line>
-            <line li="27">And I just wanna make it right</line>
-            <line li="28">(right right right)</line>
-            <line li="29">But I won't make it through the night</line>
-            <line li="30">(night night night)</line></verse>
-            
-            <verse type="verse 2">
-            <line li="31">I mean I just don't understand</line>
-            <line li="32">Thought I was the better man</line>
-            <line li="33">And we had a fucking plan just to make it all work out</line>
-            <line li="34">Turned out, you not the one for me and it wasn't meant to be</line>
-            <line li="35">But I still can't see, need to face reality</line>
-            <line li="36">Cause your everything i wanted, a goddess</line>
-            <line li="37">I said that on your behalf just trying to be modest</line>
-            <line li="38">To be honest, but if I can't have you nobody can</line>
-            <line li="39">Let me see you with another man and it's done for him</line>
-            <line li="40">Call me fucking crazy but baby</line>
-            <line li="41">How you gon' play me? I mean, have you seen me lately?</line>
-            <line li="42">Went from elated to a swayze, ghostin'</line>
-            <line li="43">Taking my life the only escape from you potion</line></verse>
-            
-            <verse type="hook">
-            <line li="44">She left and broke my heart like twice</line>
-            <line li="45">(twice twice twice twice)</line>
-            <line li="46">Now everything is dark and it's fucking up my life</line>
-            <line li="47">(life life life)</line>
-            <line li="48">And I just wanna make it right</line>
-            <line li="49">(right right right)</line>
-            <line li="50">But I won't make it through the night</line>
-            <line li="51">(night night night)</line></verse>
-            
-            <verse type="verse 3">
-            <line li="52">Cause homicide is painful, bitch you should be thankful</line>
-            <line li="53">I turned that fucking anal licking nigga into an angel</line>
-            <line li="54">Fuck you mad at me for? Because I put the C4 in the car</line>
-            <line li="55">And blew that motherfucker up, swerving off the Detour</line>
-            <line li="56">Well hee haw, boo hoo; Now it's just we two</line>
-            <line li="57">What you propose that we do?</line>
-            <line li="58">(You hate me bitch?) Well me too</line>
-            <line li="59">You turned me to a reject, dejected</line>
-            <line li="60">But that presidental keeps me free stressing, I should be elected</line>
-            <line li="61">I bet I'll win but I'm lost without you</line>
-            <line li="62">Me minus her wonder what I'd amount to</line>
-            <line li="63">Perhaps the suicidal bridal nigga I am currently</line>
-            <line li="64">She ain't with my loving, she just only wanted currency</line></verse>
-            
-            <verse type="hook">
-            <line li="65">She left and broke my heart like twice</line>
-            <line li="66">(twice twice twice twice)</line>
-            <line li="67">Now everything is dark and it's fucking up my life</line>
-            <line li="68">(life life life)</line>
-            <line li="69">And I just wanna make it right</line>
-            <line li="70">(right right right)</line>
-            <line li="71">But I won't make it through the night</line>
-            <line li="72">(night night night)</line></verse>
+            <stanza speaker="" type="intro">
+                <li>The force will be with you....always</li></stanza>
+            <stanza speaker="" type="hook">
+                <li>She left and broke my heart like twice</li>
+                <li>(twice twice twice twice)</li>
+                <li>Now everything is dark and it's fucking up my life</li>
+                <li>(life life life)</li>
+                <li>And I just wanna make it right</li>
+                <li>(right right right)</li>
+                <li>But I won't make it through the night</li>
+                <li>(night night night)</li></stanza>
+            <stanza speaker="" type="verse 1">
+                <li>Cause suicide is painless, so I'm about to aim this</li>
+                <li>Weapon of steel right to my brain and just bang it</li>
+                <li>32 in the clip but one is in the chamber</li>
+                <li>Click clack, hope it freeze me from my anger</li>
+                <li>If you don't plan on staying, I'm saying</li>
+                <li>I'm better off just laying</li>
+                <li>Six feet deep underneath the fucking pavement</li>
+                <li>At least you work the grave-shift for treating me like ape shit</li>
+                <li>I even wrote you love songs but money was your language</li>
+                <li>Just look at all the damage that you did</li>
+                <li>Chuckin' up the deuces to the suicidal vital motherfucking
+                    nuisance</li>
+                <li>I knew it, and now I'm about to lose it</li>
+                <li>Blood splatter on the wall recognize what you did</li></stanza>
+            <stanza speaker="" type="hook">
+                <li>She left and broke my heart like twice</li>
+                <li>(twice twice twice twice)</li>
+                <li>Now everything is dark and it's fucking up my life</li>
+                <li>(life life life)</li>
+                <li>And I just wanna make it right</li>
+                <li>(right right right)</li>
+                <li>But I won't make it through the night</li>
+                <li>(night night night)</li></stanza>
+            <stanza speaker="" type="verse 2">
+                <li>I mean I just don't understand</li>
+                <li>Thought I was the better man</li>
+                <li>And we had a fucking plan just to make it all work out</li>
+                <li>Turned out, you not the one for me and it wasn't meant to be</li>
+                <li>But I still can't see, need to face reality</li>
+                <li>Cause your everything i wanted, a goddess</li>
+                <li>I said that on your behalf just trying to be modest</li>
+                <li>To be honest, but if I can't have you nobody can</li>
+                <li>Let me see you with another man and it's done for him</li>
+                <li>Call me fucking crazy but baby</li>
+                <li>How you gon' play me? I mean, have you seen me lately?</li>
+                <li>Went from elated to a swayze, ghostin'</li>
+                <li>Taking my life the only escape from you potion</li></stanza>
+            <stanza speaker="" type="hook">
+                <li>She left and broke my heart like twice</li>
+                <li>(twice twice twice twice)</li>
+                <li>Now everything is dark and it's fucking up my life</li>
+                <li>(life life life)</li>
+                <li>And I just wanna make it right</li>
+                <li>(right right right)</li>
+                <li>But I won't make it through the night</li>
+                <li>(night night night)</li></stanza>
+            <stanza speaker="" type="verse 3">
+                <li>Cause homicide is painful, bitch you should be thankful</li>
+                <li>I turned that fucking anal licking nigga into an angel</li>
+                <li>Fuck you mad at me for? Because I put the C4 in the car</li>
+                <li>And blew that motherfucker up, swerving off the Detour</li>
+                <li>Well hee haw, boo hoo; Now it's just we two</li>
+                <li>What you propose that we do?</li>
+                <li>(You hate me bitch?) Well me too</li>
+                <li>You turned me to a reject, dejected</li>
+                <li>But that presidental keeps me free stressing, I should be
+                    elected</li>
+                <li>I bet I'll win but I'm lost without you</li>
+                <li>Me minus her wonder what I'd amount to</li>
+                <li>Perhaps the suicidal bridal nigga I am currently</li>
+                <li>She ain't with my loving, she just only wanted
+                currency</li></stanza>
+            <stanza speaker="" type="hook">
+                <li>She left and broke my heart like twice</li>
+                <li>(twice twice twice twice)</li>
+                <li>Now everything is dark and it's fucking up my life</li>
+                <li>(life life life)</li>
+                <li>And I just wanna make it right</li>
+                <li>(right right right)</li>
+                <li>But I won't make it through the night</li>
+                <li>(night night night)</li></stanza>
         </content>
     </song>
     <song track="10">
         <title>Oh, Deer (Beddar Daze)</title>
         <productionCredit>MF DOOM</productionCredit>
         <content>
-            <verse type="verse 1">
-            <line li="1">I see you sitting on the top, in your better phase</line>
-            <line li="2">Say, how it feel it feel to be the best and the most paid?</line>
-            <line li="3">How it feel to be the most praised?</line>
-            <line li="4">Known to blow the most Haze</line>
-            <line li="5">Known to have chicks who go both ways and still down to blow J</line>
-            <line li="6">Remember from rags to riches, being mad ambitious</line>
-            <line li="7">Screaming "Fuck love" cause you was always mad at bitches</line>
-            <line li="8">When getting money was the fucking motto</line>
-            <line li="9">From the place they put potatoes on their nozzles just to silence hollows</line>
-            <line li="10">Shit, you probably went passed that, probably still chiefing blunts</line>
-            <line li="11">As a matter of fact, you probably don't even pass that</line>
-            <line li="12">You probably in the back of a black bach, splitting down the dutch</line>
-            <line li="13">With a dime chick in the tail flap, but her head is up</line>
-            <line li="14">I see where the hoes at, but where the bros at?</line>
-            <line li="15">Call ? and ?, hey, where's your iPhone 44 at?</line>
-            <line li="16">Or did you end up like most cats who split a lot of cheese together?</line>
-            <line li="17">The more cheddar, the more better, ya'll won't be friends forever</line>
-            <line li="18">And I know it's probably killing you softly, pardon me</line>
-            <line li="19">Thinking you can handle all of your problems costly</line>
-            <line li="20">No matter what the cost be, you're quick to try and buy it off</line>
-            <line li="21">Everything is win-win, you know you can't afford a loss</line>
-            <line li="22">But blowing up was always the main dream</line>
-            <line li="23">So I can't get mad if you're flowing in the mainstream</line>
-            <line li="24">But you knew from now that it'll be this hard</line>
-            <line li="25">Shit, you learned to trick broads when your dick got hard</line>
-            <line li="26">And if you can do that, ain't shit should be stopping you</line>
-            <line li="27">Anything is possible and any obstacle should be hoppable</line>
-            <line li="28">And now you living where it's tropical, you got the most shade</line>
-            <line li="29">A letter to my future, sincerely, your broke days</line>
-            <line li="30">Motherfuck them broke days</line>
-            <line li="31">Most praise to the motherfucking most paid</line>
-            <line li="32">Motherfucker</line></verse>
+            <stanza speaker="" type="verse 1">
+                <li>I see you sitting on the top, in your better phase</li>
+                <li>Say, how it feel it feel to be the best and the most paid?</li>
+                <li>How it feel to be the most praised?</li>
+                <li>Known to blow the most Haze</li>
+                <li>Known to have chicks who go both ways and still down to blow J</li>
+                <li>Remember from rags to riches, being mad ambitious</li>
+                <li>Screaming "Fuck love" cause you was always mad at bitches</li>
+                <li>When getting money was the fucking motto</li>
+                <li>From the place they put potatoes on their nozzles just to silence
+                    hollows</li>
+                <li>Shit, you probably went passed that, probably still chiefing
+                    blunts</li>
+                <li>As a matter of fact, you probably don't even pass that</li>
+                <li>You probably in the back of a black bach, splitting down the
+                    dutch</li>
+                <li>With a dime chick in the tail flap, but her head is up</li>
+                <li>I see where the hoes at, but where the bros at?</li>
+                <li>Call ? and ?, hey, where's your iPhone 44 at?</li>
+                <li>Or did you end up like most cats who split a lot of cheese
+                    together?</li>
+                <li>The more cheddar, the more better, ya'll won't be friends
+                    forever</li>
+                <li>And I know it's probably killing you softly, pardon me</li>
+                <li>Thinking you can handle all of your problems costly</li>
+                <li>No matter what the cost be, you're quick to try and buy it off</li>
+                <li>Everything is win-win, you know you can't afford a loss</li>
+                <li>But blowing up was always the main dream</li>
+                <li>So I can't get mad if you're flowing in the mainstream</li>
+                <li>But you knew from now that it'll be this hard</li>
+                <li>Shit, you learned to trick broads when your dick got hard</li>
+                <li>And if you can do that, ain't shit should be stopping you</li>
+                <li>Anything is possible and any obstacle should be hoppable</li>
+                <li>And now you living where it's tropical, you got the most shade</li>
+                <li>A letter to my future, sincerely, your broke days</li>
+                <li>Motherfuck them broke days</li>
+                <li>Most praise to the motherfucking most paid</li>
+                <li>Motherfucker</li></stanza>
         </content>
     </song>
     <song track="11">
         <title>DSL (Da Special List)</title>
         <productionCredit>Bagirba</productionCredit>
         <content>
-            <verse type="intro">
-            <line li="1">(Damn, UH! I make the whole place warm then)</line>
-            <line li="2">(Damn, UH! I make the whole place warm then) I make the whole place</line>
-            <line li="3">(Damn, UH! I make the whole place warm then) I make the whole place</line>
-            <line li="4">(Hit you with some shit that make you niggas look deformed, now) Yeah</line>
-            <line li="5">(Damn, UH! I make the whole place warm then) Bust, bust one time</line>
-            <line li="6">(Damn, UH! I make the whole place warm then) Bust, bust two time</line>
-            <line li="7">(Hit you with some shit that make you niggas look deformed, now) Check</line></verse>
-            
-            <verse type="verse 1">
-            <line li="8">Puffing on that Eucalyptus</line>
-            <line li="9">You can lift this dick in between your lipstick</line>
-            <line li="10">If your eyes ain't low like Ralph Lipschitz, you dipshits</line>
-            <line li="11">Even the polices want me cause I rip shit</line>
-            <line li="12">Puffing that piff shit, Blow out five O's like the Olympics</line>
-            <line li="13">Evadin' on a RipStik yellin' "Eat my dust"</line>
-            <line li="14">When cars for breakfast and lunch don't get ate 'til dusk</line>
-            <line li="15">I spit it hotter than the days it don't get dusk 'til eight</line>
-            <line li="16">And when you born in a maze, you learn to duck those strays</line>
-            <line li="17">I know gang homies who wait around to buck those Tre's</line>
-            <line li="18">But me, I chose to skate around, ya know, Bust those tre's</line>
-            <line li="19">They get bucks, get paid, They get butt, get laid</line>
-            <line li="20">Niggas who ball and shine hard, they get cut, catch fades</line>
-            <line li="21">You see, I was one of those kids who stayed up passed late</line>
-            <line li="22">So when it's time for school, I got up and still passed, great</line>
-            <line li="23">Get passed- I forgot my line</line>
-            <line li="24">I do it nonchalant, Spit it through the wire like I'm Chaka Khan</line>
-            <line li="25">I been killing 'em, Your bitch been feeling 'em</line>
-            <line li="26">Ya'll can't be serious like films Ben Stiller in</line>
-            <line li="27">Nobody iller than him at the top of his adrenaline</line>
-            <line li="28">Flow sweet like cinnamon, Name a chick that I ain't swimming in</line>
-            <line li="29">Uh, got flow for days, I'm sure to get paid if</line>
-            <line li="30">They hate the price on son's life, it's sure to get raised</line>
-            <line li="31">But there's no break when I got you pinned in</line>
-            <line li="32">Said it uno, dos, tres then fin, I let him swim with like</line>
-            <line li="33">Mad fishes, In the cut like mad stitches</line>
-            <line li="34">I know you mad bitches mad how my style switches</line>
-            <line li="35">So, frequently be freaking MC's with these frequencies</line>
-            <line li="36">These freaking trees got me soaring over freaking seas</line>
-            <line li="37">Too many freaking G's claim they make that deus pop</line>
-            <line li="38">Please, the only thing you ever squeeze was your juicebox nigga</line>
-            <line li="39">And you know it, cause real G's don't have to show it</line>
-            <line li="40">Got your head in the clouds, big homie gotta get you focused</line>
-            <line li="41">But know, it's all a part of the business, don't take it personal</line>
-            <line li="42">It must be hurting you to know I could be merkin' you</line>
-            <line li="43">At will, whenever I feel, this shit get realer</line>
-            <line li="44">Foe squealers give the beats out to the nigga Dilla</line>
-            <line li="45">I shine like crystals, Never held a pistol</line>
-            <line li="46">Never packed a tool, but that don't mean that I won't fix you</line>
-            <line li="47">Who is you? I don't give a F, I do it effortless</line>
-            <line li="48">Tell your messengers, they can get opened like beverages</line>
-            <line li="49">Da fuckin' specialist</line></verse>
-            
-            <verse type="outro"><line li="50">I bet all you mother fuckers gonna remember this, yeah</line></verse>
+            <stanza speaker="" type="intro">
+                <li>(Damn, UH! I make the whole place warm then)</li>
+                <li>(Damn, UH! I make the whole place warm then) I make the whole
+                    place</li>
+                <li>(Damn, UH! I make the whole place warm then) I make the whole
+                    place</li>
+                <li>(Hit you with some shit that make you niggas look deformed, now)
+                    Yeah</li>
+                <li>(Damn, UH! I make the whole place warm then) Bust, bust one time</li>
+                <li>(Damn, UH! I make the whole place warm then) Bust, bust two time</li>
+                <li>(Hit you with some shit that make you niggas look deformed, now)
+                    Check</li></stanza>
+            <stanza speaker="" type="verse 1">
+                <li>Puffing on that Eucalyptus</li>
+                <li>You can lift this dick in between your lipstick</li>
+                <li>If your eyes ain't low like Ralph Lipschitz, you dipshits</li>
+                <li>Even the polices want me cause I rip shit</li>
+                <li>Puffing that piff shit, Blow out five O's like the Olympics</li>
+                <li>Evadin' on a RipStik yellin' "Eat my dust"</li>
+                <li>When cars for breakfast and lunch don't get ate 'til dusk</li>
+                <li>I spit it hotter than the days it don't get dusk 'til eight</li>
+                <li>And when you born in a maze, you learn to duck those strays</li>
+                <li>I know gang homies who wait around to buck those Tre's</li>
+                <li>But me, I chose to skate around, ya know, Bust those tre's</li>
+                <li>They get bucks, get paid, They get butt, get laid</li>
+                <li>Niggas who ball and shine hard, they get cut, catch fades</li>
+                <li>You see, I was one of those kids who stayed up passed late</li>
+                <li>So when it's time for school, I got up and still passed, great</li>
+                <li>Get passed- I forgot my line</li>
+                <li>I do it nonchalant, Spit it through the wire like I'm Chaka
+                    Khan</li>
+                <li>I been killing 'em, Your bitch been feeling 'em</li>
+                <li>Ya'll can't be serious like films Ben Stiller in</li>
+                <li>Nobody iller than him at the top of his adrenaline</li>
+                <li>Flow sweet like cinnamon, Name a chick that I ain't swimming in</li>
+                <li>Uh, got flow for days, I'm sure to get paid if</li>
+                <li>They hate the price on son's life, it's sure to get raised</li>
+                <li>But there's no break when I got you pinned in</li>
+                <li>Said it uno, dos, tres then fin, I let him swim with like</li>
+                <li>Mad fishes, In the cut like mad stitches</li>
+                <li>I know you mad bitches mad how my style switches</li>
+                <li>So, frequently be freaking MC's with these frequencies</li>
+                <li>These freaking trees got me soaring over freaking seas</li>
+                <li>Too many freaking G's claim they make that deus pop</li>
+                <li>Please, the only thing you ever squeeze was your juicebox nigga</li>
+                <li>And you know it, cause real G's don't have to show it</li>
+                <li>Got your head in the clouds, big homie gotta get you focused</li>
+                <li>But know, it's all a part of the business, don't take it
+                    personal</li>
+                <li>It must be hurting you to know I could be merkin' you</li>
+                <li>At will, whenever I feel, this shit get realer</li>
+                <li>Foe squealers give the beats out to the nigga Dilla</li>
+                <li>I shine like crystals, Never held a pistol</li>
+                <li>Never packed a tool, but that don't mean that I won't fix you</li>
+                <li>Who is you? I don't give a F, I do it effortless</li>
+                <li>Tell your messengers, they can get opened like beverages</li>
+                <li>Da fuckin' specialist</li></stanza>
+            <stanza speaker="" type="outro"><li>I bet all you mother fuckers gonna remember this,
+                    yeah</li></stanza>
         </content>
     </song>
     <song track="12">
         <title>UpDate</title>
         <productionCredit>Kirk Knight</productionCredit>
         <content>
-            <verse type="hook">
-            <line li="1">We should go out on a date, on a date, on a date, on a (date)</line>
-            <line li="2">I'll pick you up around 8, around 8 around 8, around (eight)</line>
-            <line li="3">She said that's great. That's great, that's great</line>
-            <line li="4">Just don't be late. Just don't be (late)</line></verse>
-            
-            <verse type="verse 1">
-            <line li="5">It was love at the profile pic</line>
-            <line li="6">We was Facebook flirting, never even met her in person</line>
-            <line li="7">But it seem like we was soulmates on the phone late</line>
-            <line li="8">She my one and only, be there when I be lonely</line>
-            <line li="9">Whenever she get horny, she would call me</line>
-            <line li="10">But we speak in code cause her pop dukes be nosy</line>
-            <line li="11">Tap in to the line like, "Nigga who you trying to wife"?</line>
-            <line li="12">"I heard you was a rapper, but I don't see no lime light"</line>
-            <line li="13">"But look I got these eye sights, used to be in the army"</line>
-            <line li="14">"So don't you be retarded and make yourself a target"</line>
-            <line li="15">"That's my word, mark it, and if you ever think about sex</line>
-            <line li="16">I want you to keep in my mind that my name is Mr. Marcus"</line>
-            <line li="17">"So, we will see who gets fucked, nigga"</line>
-            <line li="18">"Trying to run up out the door, I'm at the door like "Hey, what's up, nigga"?</line>
-            <line li="19">"You out of luck nigga, choppa in my trunk nigga</line>
-            <line li="20">If you feel a way, then tell your pops I said, 'What's up, nigga'?"</line></verse>
-            
-            <verse type="hook">
-                <line li="21">We should go out on a date, on a date, on a date, on a (date)</line>
-                <line li="22">I'll pick you up around 8, around 8 around 8, around (eight)</line>
-                <line li="23">She said that's great. That's great, that's great</line>
-                <line li="24">Just don't be late. Just don't be (late)</line></verse>
-            
-            <verse type="verse 2">
-            <line li="25">Oh, and by the way, I like a well done souffle</line>
-            <line li="26">Sit up under the stars, nice view of the lake</line>
-            <line li="27">And we can get baked. I bring the cake, you bring the 8th</line>
-            <line li="28">It's no backing down, it's 8 doobies to the face</line>
-            <line li="29">Fuck that, and if you act right, I might let you fuck that</line>
-            <line li="30">Grab up on my buttox and what not</line>
-            <line li="31">So you better be in order nigga</line>
-            <line li="32">Don't forget the product from them corner niggas</line></verse>
-            
-            <verse type="hook">
-                <line li="33">We should go out on a date, on a date, on a date, on a (date)</line>
-                <line li="34">I'll pick you up around 8, around 8 around 8, around (eight)</line>
-                <line li="35">She said that's great. That's great, that's great</line>
-                <line li="36">Just don't be late. Just don't be (late)</line></verse>
-            
-            <verse type="bridge">
-            <line li="37">I got what you want, I got what you need</line>
-            <line li="38">I got that fire, I got the trees</line>
-            <line li="39">Now let's get higher, let's be at peace</line>
-            <line li="40">With the 7 seas, birds and the bees</line></verse>
-            
-            <verse type="verse 3">
-            <line li="41">Said I'm down for whatever you down for</line>
-            <line li="42">We can catch a flick or do it quick on the down low</line>
-            <line li="43">I can go down slow, you can go up in</line>
-            <line li="44">When I'm in my zone I ain't stopping for nothing</line>
-            <line li="45">Said I ain't stopping for nothing</line>
-            <line li="46">When I'm in my zone I ain't stopping for nothing</line>
-            <line li="47">When I'm in my zone I ain't stopping for nothing</line>
-            <line li="48">Said when I'm in my zone, I ain't stopping for nothing</line></verse>
-            
-            <verse type="bridge">
-            <line li="49">I got what you want</line>
-            <line li="50">I got what you need</line>
-            <line li="51">I got that fire</line>
-            <line li="52">I got the trees</line>
-            
-            <line li="53">I got what you want (want), I got what you want</line>
-            <line li="54">I got what you need (need), I got what you need</line>
-            <line li="55">Said I got that fire, I got the trees</line>
-            <line li="56">Now let's get higher, birds and the bees</line>
-            
-            <line li="57">Birds and the bees</line>
-            <line li="58">Birds and the bees</line>
-            <line li="59">Birds and the bees</line>
-            <line li="60">Birds and the bees</line>
-            
-            
-            <line li="61">I got what you need</line>
-            <line li="62">Let's get higher</line>
-            <line li="63">Birds and the bees</line>
-            
-            <line li="64">I got what you need</line>
-            <line li="65">Let's get higher</line>
-            <line li="66">Birds and the bees</line></verse>
-            
-            <verse type="hook">
-                <line li="67">We should go out on a date, on a date, on a date, on a (date)</line>
-                <line li="68">I'll pick you up around 8, around 8 around 8, around (eight)</line>
-                <line li="69">She said that's great. That's great, that's great</line>
-                <line li="70">Just don't be late. Just don't be (late)</line></verse>
+            <stanza speaker="" type="hook">
+                <li>We should go out on a date, on a date, on a date, on a (date)</li>
+                <li>I'll pick you up around 8, around 8 around 8, around (eight)</li>
+                <li>She said that's great. That's great, that's great</li>
+                <li>Just don't be late. Just don't be (late)</li></stanza>
+            <stanza speaker="" type="verse 1">
+                <li>It was love at the profile pic</li>
+                <li>We was Facebook flirting, never even met her in person</li>
+                <li>But it seem like we was soulmates on the phone late</li>
+                <li>She my one and only, be there when I be lonely</li>
+                <li>Whenever she get horny, she would call me</li>
+                <li>But we speak in code cause her pop dukes be nosy</li>
+                <li>Tap in to the line like, "Nigga who you trying to wife"?</li>
+                <li>"I heard you was a rapper, but I don't see no lime light"</li>
+                <li>"But look I got these eye sights, used to be in the army"</li>
+                <li>"So don't you be retarded and make yourself a target"</li>
+                <li>"That's my word, mark it, and if you ever think about sex</li>
+                <li>I want you to keep in my mind that my name is Mr. Marcus"</li>
+                <li>"So, we will see who gets fucked, nigga"</li>
+                <li>"Trying to run up out the door, I'm at the door like "Hey, what's up,
+                    nigga"?</li>
+                <li>"You out of luck nigga, choppa in my trunk nigga</li>
+                <li>If you feel a way, then tell your pops I said, 'What's up,
+                    nigga'?"</li></stanza>
+            <stanza speaker="" type="hook">
+                <li>We should go out on a date, on a date, on a date, on a (date)</li>
+                <li>I'll pick you up around 8, around 8 around 8, around (eight)</li>
+                <li>She said that's great. That's great, that's great</li>
+                <li>Just don't be late. Just don't be (late)</li></stanza>
+            <stanza speaker="" type="verse 2">
+                <li>Oh, and by the way, I like a well done souffle</li>
+                <li>Sit up under the stars, nice view of the lake</li>
+                <li>And we can get baked. I bring the cake, you bring the 8th</li>
+                <li>It's no backing down, it's 8 doobies to the face</li>
+                <li>Fuck that, and if you act right, I might let you fuck that</li>
+                <li>Grab up on my buttox and what not</li>
+                <li>So you better be in order nigga</li>
+                <li>Don't forget the product from them corner niggas</li></stanza>
+            <stanza speaker="" type="hook">
+                <li>We should go out on a date, on a date, on a date, on a (date)</li>
+                <li>I'll pick you up around 8, around 8 around 8, around (eight)</li>
+                <li>She said that's great. That's great, that's great</li>
+                <li>Just don't be late. Just don't be (late)</li></stanza>
+            <stanza speaker="" type="bridge">
+                <li>I got what you want, I got what you need</li>
+                <li>I got that fire, I got the trees</li>
+                <li>Now let's get higher, let's be at peace</li>
+                <li>With the 7 seas, birds and the bees</li></stanza>
+            <stanza speaker="" type="verse 3">
+                <li>Said I'm down for whatever you down for</li>
+                <li>We can catch a flick or do it quick on the down low</li>
+                <li>I can go down slow, you can go up in</li>
+                <li>When I'm in my zone I ain't stopping for nothing</li>
+                <li>Said I ain't stopping for nothing</li>
+                <li>When I'm in my zone I ain't stopping for nothing</li>
+                <li>When I'm in my zone I ain't stopping for nothing</li>
+                <li>Said when I'm in my zone, I ain't stopping for nothing</li></stanza>
+            <stanza speaker="" type="bridge">
+                <li>I got what you want</li>
+                <li>I got what you need</li>
+                <li>I got that fire</li>
+                <li>I got the trees</li>
+                <li>I got what you want (want), I got what you want</li>
+                <li>I got what you need (need), I got what you need</li>
+                <li>Said I got that fire, I got the trees</li>
+                <li>Now let's get higher, birds and the bees</li>
+                <li>Birds and the bees</li>
+                <li>Birds and the bees</li>
+                <li>Birds and the bees</li>
+                <li>Birds and the bees</li>
+                <li>I got what you need</li>
+                <li>Let's get higher</li>
+                <li>Birds and the bees</li>
+                <li>I got what you need</li>
+                <li>Let's get higher</li>
+                <li>Birds and the bees</li></stanza>
+            <stanza speaker="" type="hook">
+                <li>We should go out on a date, on a date, on a date, on a (date)</li>
+                <li>I'll pick you up around 8, around 8 around 8, around (eight)</li>
+                <li>She said that's great. That's great, that's great</li>
+                <li>Just don't be late. Just don't be (late)</li></stanza>
         </content>
     </song>
     <song track="13">
         <title>Little Rachel</title>
         <productionCredit>Jack Thwagger</productionCredit>
         <content>
-            <verse type="intro">
-            <line li="1">Uh, I swear this shit ain't right</line></verse>
-            
-            <verse type="verse 1">
-            <line li="2">I don't even know you and I hate you</line>
-            <line li="3">All I know is that my moms used to date you</line>
-            <line li="4">I hate the motherfucking God that fucking made you</line>
-            <line li="5">I take that back, sorry Lord but fuck him I'm thankful</line>
-            <line li="6">Think about it, I could've of been your little angel</line>
-            <line li="7">Tuck me in at night's and help me with my times tables</line>
-            <line li="8">And read me fables, I swear this shit is painful</line>
-            <line li="9">I hope you in jail, niggas ripping up your anal</line></verse>
-            
-            <verse type="verse 2">
-            <line li="10">That's little Rachel, 5'4 eyes hazel</line>
-            <line li="11">She the type to sell sex for them labels</line>
-            <line li="12">She so confused, niggas zipping down her pants</line>
-            <line li="13">She like "What to do?"</line>
-            <line li="14">She won't refuse, cause she don't want them blacks and blues</line>
-            <line li="15">On her eyes, for they have seen so many lies</line>
-            <line li="16">So many times, and cried so many cries</line>
-            <line li="17">She got dreams, wanna be seen on the movie screen</line>
-            <line li="18">Live out in Hollywood, and act like it's probably good</line>
-            <line li="19">And she probably could, she probably would</line>
-            <line li="20">But she stuck in the hood</line>
-            <line li="21">Mama's on crack, jobs ain't calling her back</line>
-            <line li="22">She fading away into the black</line>
-            <line li="23">Into the darkness, her baby brother half retarded</line>
-            <line li="24">And the land-lord want them out of the apartment</line>
-            <line li="25">By April, and it's like April</line>
-            <line li="26">She don't deserve this she's sweeter than maple</line>
-            <line li="27">Since the cradle, she wanna leave</line>
-            <line li="28">You see she can but she's just not able</line></verse>
-            
-            <verse type="outro">
-            <line li="29">That's little Rachel</line>
-            <line li="30">That's little Rachel</line>
-            <line li="31">That's little Rachel</line></verse>
+            <stanza speaker="" type="intro">
+                <li>Uh, I swear this shit ain't right</li></stanza>
+            <stanza speaker="" type="verse 1">
+                <li>I don't even know you and I hate you</li>
+                <li>All I know is that my moms used to date you</li>
+                <li>I hate the motherfucking God that fucking made you</li>
+                <li>I take that back, sorry Lord but fuck him I'm thankful</li>
+                <li>Think about it, I could've of been your little angel</li>
+                <li>Tuck me in at night's and help me with my times tables</li>
+                <li>And read me fables, I swear this shit is painful</li>
+                <li>I hope you in jail, niggas ripping up your anal</li></stanza>
+            <stanza speaker="" type="verse 2">
+                <li>That's little Rachel, 5'4 eyes hazel</li>
+                <li>She the type to sell sex for them labels</li>
+                <li>She so confused, niggas zipping down her pants</li>
+                <li>She like "What to do?"</li>
+                <li>She won't refuse, cause she don't want them blacks and blues</li>
+                <li>On her eyes, for they have seen so many lies</li>
+                <li>So many times, and cried so many cries</li>
+                <li>She got dreams, wanna be seen on the movie screen</li>
+                <li>Live out in Hollywood, and act like it's probably good</li>
+                <li>And she probably could, she probably would</li>
+                <li>But she stuck in the hood</li>
+                <li>Mama's on crack, jobs ain't calling her back</li>
+                <li>She fading away into the black</li>
+                <li>Into the darkness, her baby brother half retarded</li>
+                <li>And the land-lord want them out of the apartment</li>
+                <li>By April, and it's like April</li>
+                <li>She don't deserve this she's sweeter than maple</li>
+                <li>Since the cradle, she wanna leave</li>
+                <li>You see she can but she's just not able</li></stanza>
+            <stanza speaker="" type="outro">
+                <li>That's little Rachel</li>
+                <li>That's little Rachel</li>
+                <li>That's little Rachel</li></stanza>
         </content>
     </song>
     <song track="14">
         <title>This Feelin'</title>
         <productionCredit>Cyne</productionCredit>
         <content>
-            <verse type="verse 1">
-            <line li="1">Never used to like waking up in the morning</line>
-            <line li="2">Because I always thought school was boring</line>
-            <line li="3">But now that seemed to all change</line>
-            <line li="4">And now that feels a little strange that you</line>
-            <line li="5">You be on my mind constantly</line>
-            <line li="6">And baby I will marry you, honestly</line>
-            <line li="7">If I didn't have a ring on this lyric</line>
-            <line li="8">Music got my heart, but baby you can have my spirit</line>
-            <line li="9">Girl hear it, Here it goes, Here it is</line>
-            <line li="10">We should get away and have a hundred kids</line>
-            <line li="11">I want to introduce you to my mom</line>
-            <line li="12">We double like seven and James, that's how we bond</line>
-            <line li="13">Together, Fly together, Ride together</line>
-            <line li="14">Let's be together for good and better</line>
-            <line li="15">Yeah, yeah, yeah, yeah</line></verse>
-            
-            <verse type="hook">
-            <line li="16">This feeling that I'm feeling (is love)</line>
-            <line li="17">This feeling that I'm feeling (is drugs)</line>
-            <line li="18">This feeling that I'm feeling (cause I'm addicted)</line>
-            <line li="19">You got me lifted</line></verse>
-            
-            <verse type="hook">
-                <line li="20">This feeling that I'm feeling (is love)</line>
-                <line li="21">This feeling that I'm feeling (is drugs)</line>
-                <line li="22">This feeling that I'm feeling (cause I'm addicted)</line>
-                <line li="23">You got me lifted</line></verse>
-            
-            <verse type="verse 2">
-            <line li="24">Uh, I can't exactly explain it</line>
-            <line li="25">This feeling inside is painted</line>
-            <line li="26">Day by day my love is gaining</line>
-            <line li="27">I spun a bottle and now it's you it's aiming</line>
-            <line li="28">Like can't you see girl?</line>
-            <line li="29">We deep in love, like can't you see world?</line>
-            <line li="30">Yeah, yeah</line>
-            
-            <line li="31">Ain't nothing gonna break us apart</line>
-            <line li="32">Even if it does, you still got that place in my heart</line>
-            <line li="33">You make a nigga feel special and shit</line>
-            <line li="34">Take away all my pain, I feel mellow and shit</line>
-            <line li="35">I swear you got that touch, Swear they ain't stopping us</line>
-            <line li="36">Swear there ain't nothing above, Girl give me some love</line>
-            <line li="37">Yeah, yeah, yeah (x4)</line></verse>
-            
-            <verse type="hook">
-                <line li="38">This feeling that I'm feeling (is love)</line>
-                <line li="39">This feeling that I'm feeling (is drugs)</line>
-                <line li="40">This feeling that I'm feeling (cause I'm addicted)</line>
-                <line li="41">You got me lifted</line></verse>
+            <stanza speaker="" type="verse 1">
+                <li>Never used to like waking up in the morning</li>
+                <li>Because I always thought school was boring</li>
+                <li>But now that seemed to all change</li>
+                <li>And now that feels a little strange that you</li>
+                <li>You be on my mind constantly</li>
+                <li>And baby I will marry you, honestly</li>
+                <li>If I didn't have a ring on this lyric</li>
+                <li>Music got my heart, but baby you can have my spirit</li>
+                <li>Girl hear it, Here it goes, Here it is</li>
+                <li>We should get away and have a hundred kids</li>
+                <li>I want to introduce you to my mom</li>
+                <li>We double like seven and James, that's how we bond</li>
+                <li>Together, Fly together, Ride together</li>
+                <li>Let's be together for good and better</li>
+                <li>Yeah, yeah, yeah, yeah</li></stanza>
+            <stanza speaker="" type="hook">
+                <li>This feeling that I'm feeling (is love)</li>
+                <li>This feeling that I'm feeling (is drugs)</li>
+                <li>This feeling that I'm feeling (cause I'm addicted)</li>
+                <li>You got me lifted</li></stanza>
+            <stanza speaker="" type="hook">
+                <li>This feeling that I'm feeling (is love)</li>
+                <li>This feeling that I'm feeling (is drugs)</li>
+                <li>This feeling that I'm feeling (cause I'm addicted)</li>
+                <li>You got me lifted</li></stanza>
+            <stanza speaker="" type="verse 2">
+                <li>Uh, I can't exactly explain it</li>
+                <li>This feeling inside is painted</li>
+                <li>Day by day my love is gaining</li>
+                <li>I spun a bottle and now it's you it's aiming</li>
+                <li>Like can't you see girl?</li>
+                <li>We deep in love, like can't you see world?</li>
+                <li>Yeah, yeah</li>
+                <li>Ain't nothing gonna break us apart</li>
+                <li>Even if it does, you still got that place in my heart</li>
+                <li>You make a nigga feel special and shit</li>
+                <li>Take away all my pain, I feel mellow and shit</li>
+                <li>I swear you got that touch, Swear they ain't stopping us</li>
+                <li>Swear there ain't nothing above, Girl give me some love</li>
+                <li>Yeah, yeah, yeah (x4)</li></stanza>
+            <stanza speaker="" type="hook">
+                <li>This feeling that I'm feeling (is love)</li>
+                <li>This feeling that I'm feeling (is drugs)</li>
+                <li>This feeling that I'm feeling (cause I'm addicted)</li>
+                <li>You got me lifted</li></stanza>
         </content></song>
 </album>

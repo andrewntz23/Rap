@@ -1,11 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="../../../../../GitHub/Rap/schema1.rnc" type="application/relax-ng-compact-syntax"?>
-<album>Summer Knights <artist>Joey Bada$$</artist>
-    <song track="1">
-        <title>Alowha</title>
-        <productionCredit>Kirk Knight</productionCredit>
-        <content>
-            <stanza speaker="JoeyBada$$" type="intro">
+<?xml-model href="schema1.rnc" type="application/relax-ng-compact-syntax"?>
+<album type="mixtape">
+    <meta>
+        <albumTitle>SummerKnights</albumTitle>
+        <source>genius.com</source>
+        <year>2013</year>
+        <accessDate>2/04/2015</accessDate>
+    </meta>
+    <song title="Alowha" production="KirkKnight">
+            <stanza speaker="Joey" type="intro">
                 <li>And the champion</li>
                 <li> Reigning that is</li>
                 <li> From Flatbush, Brooklyn</li>
@@ -13,7 +16,7 @@
                 <li> Reportin' live from a lyrical high</li>
                 <li> One time</li>
             </stanza>
-            <stanza speaker="JoeyBada$$" type="verse 1"><li> Yo, with not a damn thing on my mind</li>
+            <stanza speaker="Joey" type="verse"><li> Yo, with not a damn thing on my mind</li>
                 <li> But this rhyme, and a matter of time</li>
                 <li> To make this whole shit align</li>
                 <li> Like I planned out, nothing in life gets handout</li>
@@ -61,14 +64,10 @@
                 <li> Yo, yo, yo, yo hit 'em high, hit 'em low</li>
                 <li> Direct-less Indigos</li>
             </stanza>
-        </content>
     </song>
-    <song track="2">
-        <title>Hilary $wank</title>
-        <productionCredit>Lee Bannon</productionCredit>
-        <content>
-            <stanza speaker="" type="intro">We don't say swag no more we say swank</stanza>
-            <stanza speaker="" type="verse 1"><li> Yo, yo, Hip-Hop's a jungle</li>
+    <song title="Hilary$wank" production="LeeBannon">
+            <stanza speaker="Joey" type="intro"><li>We don't say swag no more we say swank</li></stanza>
+            <stanza speaker="Joey" type="verse"><li> Yo, yo, Hip-Hop's a jungle</li>
                 <li> Uh, lost in his time</li>
                 <li> I'm just tryna get it like a boss in his prime</li>
                 <li> These fake niggas sumblime, light for fine sights</li>
@@ -97,7 +96,7 @@
                 <li> Now I roam 'round Sicily</li>
                 <li> And I'm plotting on a mili</li>
             </stanza>
-            <stanza speaker="" type="verse 2"><li> Hmmm another loud pack another proud cat</li>
+            <stanza speaker="Joey" type="verse"><li> Hmmm another loud pack another proud cat</li>
                 <li> Hey pound that, Hip-Hop sounds been profound back</li>
                 <li> Slow down that, metronome nigga</li>
                 <li> Let it hit home when the specimen showin' gon' glitter</li>
@@ -115,27 +114,23 @@
                 <li> It's the new age, children of the crystal healers</li>
                 <li> Thinking I butterfly, I try catapult caterpillars</li>
             </stanza>
-            <stanza speaker="" type="outro"><li> After years of constructing they start assumptions</li>
+            <stanza speaker="Joey" type="outro"><li> After years of constructing they start assumptions</li>
+                <li> So I keep my circumference of deep fried friends like dumplings</li>
+                <li> But fuck that nigga we munching, we hungry</li>
+                <li> After years of constructing they start assumptions</li>
                 <li> So I keep my circumference of deep fried friends like dumplings</li>
                 <li> But fuck that nigga we munching, we hungry</li>
             </stanza>
-            <stanza speaker="" type="outro"><li> After years of constructing they start assumptions</li>
-                <li> So I keep my circumference of deep fried friends like dumplings</li>
-                <li> But fuck that nigga we munching, we hungry</li>
-            </stanza>
-            <stanza speaker="" type="outro"><li>Swanking, Swanking, Swanking</li>
+            <stanza speaker="Joey" type="outro"><li>Swanking, Swanking, Swanking</li>
                 <li> I see you Jigga!</li>
                 <li> Hilary Swanking</li>
             </stanza>
-        </content>
+        
     </song>
-    <song track="3">
-        <title>My Yout</title>
-        <productionCredit>Chuck Strangers</productionCredit>
-        <content>
-            <stanza speaker="" type="intro"><li>Badman Ting</li>
+    <song title="MyYout" production="ChuckStrangers">
+            <stanza speaker="Joey" type="intro"><li>Badman Ting</li>
             </stanza>
-            <stanza speaker="" type="verse 1"><li> Uh, just put it in the air</li>
+            <stanza speaker="Joey" type="verse"><li> Uh, just put it in the air</li>
                 <li> Light that loud and watch disappear here</li>
                 <li> Thoughts at the speed of light years, I could see the light</li>
                 <li> Yeah, this the right year made the flow yeah</li>
@@ -162,17 +157,16 @@
                 <li> I don't drink too much, I know the bud wiser</li>
                 <li> It's the livest one, Bedford-Stuyvesant</li>
             </stanza>
-            <stanza speaker="" type="hook"><li> Yo dogs I got the loud</li>
+            <stanza speaker="CollieBuddz" type="hook"><li> Yo dogs I got the loud</li>
+                <li> Blow the smoke straight up to the cloud like</li>
+                <li> I sky high, my sky high</li>
+                <li> Sky high, sky high</li>
+                <li> Yo dogs I got the loud</li>
                 <li> Blow the smoke straight up to the cloud like</li>
                 <li> I sky high, my sky high</li>
                 <li> Sky high, sky high</li>
             </stanza>
-            <stanza speaker="" type="hook"><li> Yo dogs I got the loud</li>
-                <li> Blow the smoke straight up to the cloud like</li>
-                <li> I sky high, my sky high</li>
-                <li> Sky high, sky high</li>
-            </stanza>
-            <stanza speaker="" type="verse 2"><li> One hand on the mac, one hand on my sac</li>
+            <stanza speaker="Joey" type="verse"><li> One hand on the mac, one hand on my sac</li>
                 <li> I'm thinking to myself what if I handed it back</li>
                 <li> But I gotta hand it to myself I’m handling rap</li>
                 <li> Handsome versing that’s like hand-to-hand combat</li>
@@ -200,17 +194,16 @@
                 <li> Could get me living swell for real</li>
                 <li> But if I skyfall, thinking ideal</li>
             </stanza>
-            <stanza speaker="" type="hook"><li> Yo dogs I got the loud</li>
+            <stanza speaker="CollieBuddz" type="hook"><li> Yo dogs I got the loud</li>
+                <li> Blow the smoke straight up to the cloud like</li>
+                <li> I sky high, my sky high</li>
+                <li> Sky high, sky high</li>
+                <li> Yo dogs I got the loud</li>
                 <li> Blow the smoke straight up to the cloud like</li>
                 <li> I sky high, my sky high</li>
                 <li> Sky high, sky high</li>
             </stanza>
-            <stanza speaker="" type="hook"><li> Yo dogs I got the loud</li>
-                <li> Blow the smoke straight up to the cloud like</li>
-                <li> I sky high, my sky high</li>
-                <li> Sky high, sky high</li>
-            </stanza>
-            <stanza speaker="" type="verse 3"><li> Selling (hellbys?) on CDs</li>
+            <stanza speaker="CollieBuddz" type="verse"><li> Selling (hellbys?) on CDs</li>
                 <li> Grassroots with grassroots, seeds on (civis?)</li>
                 <li> Five finger discount weed leaves,</li>
                 <li> Exceptionally speaking determination</li>
@@ -222,17 +215,16 @@
                 <li> Straight jeans and white tees</li>
                 <li> But these things will get pricey</li>
             </stanza>
-            <stanza speaker="" type="hook"><li> Yo dogs I got the loud</li>
+            <stanza speaker="CollieBuddz" type="hook"><li> Yo dogs I got the loud</li>
+                <li> Blow the smoke straight up to the cloud like</li>
+                <li> I sky high, my sky high</li>
+                <li> Sky high, sky high</li>
+                <li> Yo dogs I got the loud</li>
                 <li> Blow the smoke straight up to the cloud like</li>
                 <li> I sky high, my sky high</li>
                 <li> Sky high, sky high</li>
             </stanza>
-            <stanza speaker="" type="hook"><li> Yo dogs I got the loud</li>
-                <li> Blow the smoke straight up to the cloud like</li>
-                <li> I sky high, my sky high</li>
-                <li> Sky high, sky high</li>
-            </stanza>
-            <stanza speaker="" type="outro"><li> And I'm gone, hitting knowledge</li>
+            <stanza speaker="Joey" type="outro"><li> And I'm gone, hitting knowledge</li>
                 <li> And I'm hitting the strong</li>
                 <li> I've been hurting way too long</li>
                 <li> And I can't wait too long</li>
@@ -243,13 +235,10 @@
                 <li> I've been hurting way too long</li>
                 <li> I can't wait too long</li>
             </stanza>
-        </content>
+        
     </song>
-    <song track="4">
-        <title>Death of YOLO</title>
-        <productionCredit>Bruce Leekix</productionCredit>
-        <content>
-            <stanza speaker="" type="hook"><li> This the song I wrote if I died;</li>
+    <song title="DeathofYolo" production="BruceLeekix">
+            <stanza speaker="Joey" type="hook"><li> This the song I wrote if I died;</li>
                 <li> I was on the 50 mile doing 9-5</li>
                 <li> Beating the pussy like it ain't got 9 lives</li>
                 <li> And I'm high, mix Ciroc and some blunts, ‘cause you only live once</li>
@@ -257,7 +246,7 @@
                 <li> ‘Cause you only live once</li>
                 <li> ‘Cause you only live once</li>
             </stanza>
-            <stanza speaker="" type="verse 1"><li> White girl wasted, my wife-girl hate it</li>
+            <stanza speaker="Joey" type="verse"><li> White girl wasted, my wife-girl hate it</li>
                 <li> ‘Cause when I’m faded I just wanna</li>
                 <li> See her naked</li>
                 <li> Adjust adjacent, like baby let me see your matrix</li>
@@ -275,7 +264,7 @@
                 <li> Little did they know I was ‘bout to meet my maker</li>
                 <li> Till an angel came down and told me that my time was later</li>
             </stanza>
-            <stanza speaker="" type="hook"><li> This the song I wrote if I died;</li>
+            <stanza speaker="Joey" type="hook"><li> This the song I wrote if I died;</li>
                 <li> I was on the 50 mile doing 9-5</li>
                 <li> Beating the pussy like it ain't got 9 lives</li>
                 <li> And I'm high, mix Ciroc and some blunts, ‘cause you only live once</li>
@@ -283,7 +272,7 @@
                 <li> ‘Cause you only live once</li>
                 <li> ‘Cause you only live once</li>
             </stanza>
-            <stanza speaker="" type="verse 2"><li> Riiiiiight, fuck it</li>
+            <stanza speaker="SmokeDZA" type="verse"><li> Riiiiiight, fuck it</li>
                 <li> Pass the deuce, 'member creepin’ through the 'jects</li>
                 <li> Had to, stash the deuce in my 40 ‘Low boots</li>
                 <li> International, my bread is well earned</li>
@@ -301,7 +290,7 @@
                 <li> Illest niggas in New yitty</li>
                 <li> Kush God, Joey Bada$$, relax and stack the skrilly, DZA</li>
             </stanza>
-            <stanza speaker="" type="hook"><li> This the song I wrote if I died;</li>
+            <stanza speaker="Joey" type="hook"><li> This the song I wrote if I died;</li>
                 <li> I was on the 50 mile doing 9-5</li>
                 <li> Beating the pussy like it ain't got 9 lives</li>
                 <li> And I'm high, mix Ciroc and some blunts, ‘cause you only live once</li>
@@ -309,7 +298,7 @@
                 <li> ‘Cause you only live once</li>
                 <li> ‘Cause you only live once</li>
             </stanza>
-            <stanza speaker="" type="verse 3"><li> Late night cruisin', fusing the green with the cuban</li>
+            <stanza speaker="Joey" type="verse"><li> Late night cruisin', fusing the green with the cuban</li>
                 <li> So swift we moving through clouds intruding</li>
                 <li> Celestial Nubians, known them since</li>
                 <li> I was a Brand Nubian and they influenced him</li>
@@ -326,7 +315,7 @@
                 <li> And I know all you nigga’s weaknesses</li>
                 <li> Through my threshold, sight on some instinctive shit</li>
             </stanza>
-            <stanza speaker="" type="hook"><li> This the song I wrote if I died;</li>
+            <stanza speaker="Joey" type="hook"><li> This the song I wrote if I died;</li>
                 <li> I was on the 50 mile doing 9-5</li>
                 <li> Beating the pussy like it ain't got 9 lives</li>
                 <li> And I'm high, mix Ciroc and some blunts, ‘cause you only live once</li>
@@ -334,16 +323,13 @@
                 <li> ‘Cause you only live once</li>
                 <li> ‘Cause you only live once</li>
             </stanza>
-        </content>
+        
     </song>
-    <song track="5">
-        <title>Right on Time</title>
-        <productionCredit>Kirk Knight</productionCredit>
-        <content>
-            <stanza speaker="" type="intro"><li> My eyes have never seen someone so beautiful</li>
+    <song title="RightonTime" production="KirkKnight">
+            <stanza speaker="T'nahApex" type="intro"><li> My eyes have never seen someone so beautiful</li>
                 <li> So much charm</li>
             </stanza>
-            <stanza speaker="" type="verse 1"><li> The only lady I can ever match bonds with</li>
+            <stanza speaker="Joey" type="verse 1"><li> The only lady I can ever match bonds with</li>
                 <li> On some atomic bond shit, our love is plutonic</li>
                 <li> But I just can't, put my foot on it</li>
                 <li> My one and my only</li>
@@ -367,13 +353,13 @@
                 <li> Me and you until the end of time</li>
                 <li> Till we no longer existential</li>
             </stanza>
-            <stanza speaker="" type="hook"><li> Right on time</li>
+            <stanza speaker="T'nahApex" type="hook"><li> Right on time</li>
                 <li> You are my love</li>
                 <li> (This ain't nothing like a consistence, persistence</li>
                 <li> We'll be switching positions</li>
                 <li> My mission's to put you in the best conditions)</li>
             </stanza>
-            <stanza speaker="" type="verse 2"><li> They say one man's trash is another man's treasure</li>
+            <stanza speaker="Joey" type="verse"><li> They say one man's trash is another man's treasure</li>
                 <li> No, one man's clever, one knows no better</li>
                 <li> I like to go get her to keep her warm in cold weather</li>
                 <li> She blow below better then she goes for endeavors</li>
@@ -395,22 +381,19 @@
                 <li> Get lost in the Moet when I po' it</li>
                 <li> Fuck it if we drownin in pain 'cuz we don't really show it</li>
             </stanza>
-            <stanza speaker="" type="hook"><li> Right on time</li>
+            <stanza speaker="T'nahApex" type="hook"><li> Right on time</li>
                 <li> You are my love</li>
                 <li> (This ain't nothing like a consistence, persistence</li>
                 <li> We'll be switching positions</li>
                 <li> My mission's to put you in the best conditions)</li>
             </stanza>
-            <stanza speaker="" type="outro"><li> My eyes have never seen someone so beautiful</li>
+            <stanza speaker="T'nahApex" type="outro"><li> My eyes have never seen someone so beautiful</li>
                 <li> So much charm</li>
             </stanza>
-        </content>
+        
     </song>
-    <song track="6">
-        <title>Sweet Dreams</title>
-        <productionCredit>Navie D</productionCredit>
-        <content>
-            <stanza speaker="" type="verse 1"><li> First I wake up, wake up, thinking of a plan to get my cake
+    <song title="SweetDreams" production="NavieD">
+            <stanza speaker="Joey" type="verse"><li> First I wake up, wake up, thinking of a plan to get my cake
                     up, cake up</li>
                 <li> Cause I can't pay the rent with school papers</li>
                 <li> I need two acres and more</li>
@@ -427,14 +410,14 @@
                 <li> Sick in the brain like I never met a physicist yet</li>
                 <li> Only lyricist on my metaphysics intellect</li>
             </stanza>
-            <stanza speaker="" type="hook"><li> Sweet dreams, stuck in the 90s</li>
+            <stanza speaker="Joey" type="hook"><li> Sweet dreams, stuck in the 90s</li>
                 <li> 90s babies it's a matter of timing</li>
                 <li> Sweet dreams my nigga, I wish you sweet dreams my nigga</li>
                 <li> Sweet dreams, stuck in the 90s</li>
                 <li> 90s babies it's a matter of timing</li>
                 <li> And time's not rewinding, yeah</li>
             </stanza>
-            <stanza speaker="" type="verse 2"><li> Round two bout, half of this loud through</li>
+            <stanza speaker="Joey" type="verse"><li> Round two bout, half of this loud through</li>
                 <li> Don't let them hounds snoop and get soundproofed</li>
                 <li> High frequency sounds too</li>
                 <li> Has statik spot over serious statik shots</li>
@@ -453,14 +436,14 @@
                 <li> Thats when they want you to remember a nigga</li>
                 <li> But when I handed you the tape you couldn't remember to listen</li>
             </stanza>
-            <stanza speaker="" type="hook"><li> Sweet dreams, stuck in the 90s</li>
+            <stanza speaker="Joey" type="hook"><li> Sweet dreams, stuck in the 90s</li>
                 <li> 90s babies it's a matter of timing</li>
                 <li> Sweet dreams my nigga, I wish you sweet dreams my nigga</li>
                 <li> Sweet dreams, stuck in the 90s</li>
                 <li> 90s babies it's a matter of timing</li>
                 <li> And time's not rewinding, yeah</li>
             </stanza>
-            <stanza speaker="" type="verse 3"><li> Been on my grind, I keep it 50-50</li>
+            <stanza speaker="Joey" type="verse"><li> Been on my grind, I keep it 50-50</li>
                 <li> Thats 100 on the real, no balance scales, still trippy</li>
                 <li> Where I live it's either you know talents well and sell records</li>
                 <li> Or no talent, well we still sell for the record</li>
@@ -476,24 +459,21 @@
                 <li> Brush my bill on on new beams</li>
                 <li> Niggas on my tail now that I blew green</li>
             </stanza>
-            <stanza speaker="" type="hook"><li> Sweet dreams, stuck in the 90s</li>
+            <stanza speaker="Joey" type="hook"><li> Sweet dreams, stuck in the 90s</li>
                 <li> 90s babies it's a matter of timing</li>
                 <li> Sweet dreams my nigga, I wish you sweet dreams my nigga</li>
                 <li> Sweet dreams, stuck in the 90s</li>
                 <li> 90s babies it's a matter of timing</li>
                 <li> And time's not rewinding, yeah</li>
             </stanza>
-            <stanza speaker="" type="outro"><li> Sweet dreams stuck in the 90's nigga</li>
+            <stanza speaker="Joey" type="outro"><li> Sweet dreams stuck in the 90's nigga</li>
                 <li> Stuck in the 90's nigga</li>
                 <li> We just some stuck in the 90's niggas</li>
             </stanza>
-        </content>
+        
     </song>
-    <song track="7">
-        <title>47 Goonz</title>
-        <productionCredit>Lee Bannon</productionCredit>
-        <content>
-            <stanza speaker="" type="verse 1"><li> Yo, Badass don't act or pretend, back at it again</li>
+    <song title="47Goonz" production="LeeBannon">
+            <stanza speaker="Joey" type="verse"><li> Yo, Badass don't act or pretend, back at it again</li>
                 <li> Hit it from the back, she a addict within</li>
                 <li> I got her on some shit like "I'm a get tatted for him"</li>
                 <li> She a ride or die, slim, when she in the denims</li>
@@ -510,7 +490,7 @@
                 <li> But we got a appetite for cookie creases and treats</li>
                 <li> And they all got tricks up they sleeve</li>
             </stanza>
-            <stanza speaker="" type="verse 2"><li> I'm ashing on the bridge, Mary Jane, fuck your
+            <stanza speaker="DirtySanchez" type="verse"><li> I'm ashing on the bridge, Mary Jane, fuck your
                     cigarettes</li>
                 <li> I'm laughing out loud, ask me if I'm still stressed, possessed</li>
                 <li> Hope the boys in blue don't arrest yours truly</li>
@@ -528,7 +508,7 @@
                 <li> Them Apex taking over like we running with Apes</li>
                 <li> What's the verdict? Nothing but a fucking disgrace, nigga</li>
             </stanza>
-            <stanza speaker="" type="verse 3"><li> This ain't quiddtch but you know the snitch get caught</li>
+            <stanza speaker="NyckCaution" type="verse"><li> This ain't quiddtch but you know the snitch get caught</li>
                 <li> Then get bitched like the bitch she brought, throw your fit then walk</li>
                 <li> When they clip all of your Christmas thoughts</li>
                 <li> There's no giving when they take what you got</li>
@@ -549,13 +529,10 @@
                 <li> Faster than ransom shootings or some cancer fluid</li>
                 <li> I still kill and you can't lose it</li>
             </stanza>
-        </content>
+        
     </song>
-    <song track="8">
-        <title>Word Is Bond</title>
-        <productionCredit>Statik Selektah</productionCredit>
-        <content>
-            <stanza speaker="" type="verse 1"><li> Got the reggies from the Bush</li>
+    <song title="WordIsBond" production="StatikSelektah">
+            <stanza speaker="Joey" type="verse"><li> Got the reggies from the Bush</li>
                 <li> Get lifted like a saint off the kush, man all my niggas push</li>
                 <li> So I always got the zipstock in the Ziplock</li>
                 <li> Stay lo, like Ralph lip stock, hit the Mary, won't kiss and tell</li>
@@ -574,7 +551,7 @@
                 <li> Cella phone, but my line stay hella blown</li>
                 <li> Hella blown, hella blown</li>
             </stanza>
-            <stanza speaker="" type="verse 2"><li> Yo Houston, we got a problem, copy</li>
+            <stanza speaker="Joey" type="verse"><li> Yo Houston, we got a problem, copy</li>
                 <li> Four, five hotties in the lobby</li>
                 <li> Said that they can blow the rockets properly, but blow up spots and never
                     stop</li>
@@ -587,7 +564,7 @@
                 <li> I ain't like Kels and them</li>
                 <li> Her closet full of arm limbs and a skeleton</li>
             </stanza>
-            <stanza speaker="" type="verse 3"><li> I spray nines on foes, bet if you pick five emcees</li>
+            <stanza speaker="Joey" type="verse"><li> I spray nines on foes, bet if you pick five emcees</li>
                 <li> Seven, ain't gone flow like me, nigga I'm two-six</li>
                 <li> I mean too sick, sent to Earth just to shit</li>
                 <li> Mami, come steer, some new stick, got a man?, I don't give two shits</li>
@@ -610,13 +587,10 @@
                 <li> But word is bond, you been on</li>
                 <li> Word is bond, you been on</li>
             </stanza>
-        </content>
+        
     </song>
-    <song track="9">
-        <title>Sit N' Pray</title>
-        <productionCredit>Navie D</productionCredit>
-        <content>
-            <stanza speaker="" type="intro"><li> After that day my nigga</li>
+    <song title="SitN'Prey" production="NavieD">
+        <stanza speaker="DessyHinds" type="intro"><li> After that day my nigga</li>
                 <li> I remember when he came back to school 3 weeks after</li>
                 <li> Gave that nigga a bible</li>
                 <li> And I was like "Yo wherever you go, take this shit with you</li>
@@ -629,7 +603,7 @@
                 <li> I feel it</li>
                 <li> Soul music</li>
             </stanza>
-            <stanza speaker="" type="hook"><li> Sometimes I just sit and pray</li>
+            <stanza speaker="Joey" type="hook"><li> Sometimes I just sit and pray</li>
                 <li> Sometimes I just sit and pray</li>
                 <li> Said I don't know why do I live my life this way</li>
                 <li> Why do I live my life this way</li>
@@ -637,7 +611,7 @@
                 <li> Can testify I'm the best of fly</li>
                 <li> Live your life and I'm gon' live mine</li>
             </stanza>
-            <stanza speaker="" type="verse 1"><li> Tell me what the fuck an angel does</li>
+            <stanza speaker="Joey" type="verse"><li> Tell me what the fuck an angel does</li>
                 <li> We're seeing kids who ain't aged enough</li>
                 <li> Getting high off angel dust</li>
                 <li> From NY to Los Angeles</li>
@@ -667,7 +641,7 @@
                 <li> Each day in this living hell feel remorse</li>
                 <li> But he had a million dollar smile way before he flossed</li>
             </stanza>
-            <stanza speaker="" type="hook"><li> Sometimes I just sit and pray</li>
+            <stanza speaker="Joey" type="hook"><li> Sometimes I just sit and pray</li>
                 <li> Sometimes I just sit and pray</li>
                 <li> Said I don't know why do I live my life this way</li>
                 <li> Why do I live my life this way</li>
@@ -675,7 +649,7 @@
                 <li> Can testify I'm the best of fly</li>
                 <li> Live your life and I'm gon' live mine</li>
             </stanza>
-            <stanza speaker="" type="verse 2"><li> Yo, I'm trying to Oprah win-win with a "L" in my hand</li>
+            <stanza speaker="Joey" type="verse"><li> Yo, I'm trying to Oprah win-win with a "L" in my hand</li>
                 <li> Remotely passed off like the generous man</li>
                 <li> And they wonder what it cost to put the pen in my hand</li>
                 <li> But don't understand they the only one who gets the benefit, damn</li>
@@ -693,7 +667,7 @@
                 <li> Gotta make it all mine if you don't mind</li>
                 <li> Cause sometimes</li>
             </stanza>
-            <stanza speaker="" type="hook"><li> Sometimes I just sit and pray</li>
+            <stanza speaker="Joey" type="hook"><li> Sometimes I just sit and pray</li>
                 <li> Sometimes I just sit and pray</li>
                 <li> Said I don't know why do I live my life this way</li>
                 <li> Why do I live my life this way</li>
@@ -701,7 +675,7 @@
                 <li> Can testify I'm the best of fly</li>
                 <li> Live your life and I'm gon' live mine</li>
             </stanza>
-            <stanza speaker="" type="verse 3"><li> Right on the block where they sit and play</li>
+            <stanza speaker="DessyHinds" type="verse"><li> Right on the block where they sit and play</li>
                 <li> Lives the vicious ways where they spit and spray</li>
                 <li> Vicious trey's coming for the ice you kept in yesterday</li>
                 <li> It's nothing but the history</li>
@@ -722,7 +696,7 @@
                 <li> Very well rounded round it</li>
                 <li> Well 'til the highest number praying that 2047 ain't the highest number</li>
             </stanza>
-            <stanza speaker="" type="hook"><li> Sometimes I just sit and pray</li>
+            <stanza speaker="Joey" type="hook"><li> Sometimes I just sit and pray</li>
                 <li> Sometimes I just sit and pray</li>
                 <li> Said I don't know why do I live my life this way</li>
                 <li> Why do I live my life this way</li>
@@ -730,7 +704,7 @@
                 <li> Can testify I'm the best of fly</li>
                 <li> Live your life and I'm gon' live mine</li>
             </stanza>
-            <stanza speaker="" type="outro"><li> Get off my cheeks let me do my thing</li>
+            <stanza speaker="T'nahApex" type="outro"><li> Get off my cheeks let me do my thing</li>
                 <li> Interrupt the wave length</li>
                 <li> Live and let live</li>
                 <li> And people talk smart got the balls to say</li>
@@ -738,21 +712,18 @@
                 <li> But got nothing to show or give</li>
                 <li> I ain't judging</li>
             </stanza>
-        </content>
+        
     </song>
-    <song track="10">
-        <title>Trap Door</title>
-        <productionCredit>The Alchemist</productionCredit>
-        <content>
-            <stanza speaker="" type="intro"><li> I went over to her house on Sunday morning</li>
+    <song title="TrapDoor" production="TheAlchemist"> 
+            <stanza speaker="Joey" type="intro"><li> I went over to her house on Sunday morning</li>
                 <li> Her moms had just gone to church...</li>
             </stanza>
-            <stanza speaker="" type="hook"><li> Drive slow homie, drive slow</li>
+            <stanza speaker="Joey" type="hook"><li> Drive slow homie, drive slow</li>
                 <li> Drive slow homie, drive slow</li>
                 <li> Drive slow homie, drive slow</li>
                 <li> Shit, my eyes low</li>
             </stanza>
-            <stanza speaker="" type="verse 1"><li> It's only one way this can work out</li>
+            <stanza speaker="Joey" type="verse"><li> It's only one way this can work out</li>
                 <li> Drop down, I'mma give you twenty if you scurred out</li>
                 <li> You scurred now, call me the drill sergeant</li>
                 <li> Charge in the apartment like a charger compartment</li>
@@ -777,7 +748,7 @@
                 <li> She hope I catch children</li>
                 <li> But the mag sheilding, in other words I wrap feelings</li>
             </stanza>
-            <stanza speaker="" type="outro"><li>Yeah Joey that cat killin', villain</li>
+            <stanza speaker="Joey" type="outro"><li>Yeah Joey that cat killin', villain</li>
                 <li> I capture the cat in the trap, a door she sealing</li>
                 <li> From sicilians to Miss Millins, to miss missin'</li>
                 <li> From sicilians to Miss Millins, to miss missin'</li>
@@ -787,13 +758,10 @@
                 <li> Could tell a chick bye look at how she turned out</li>
                 <li> Could tell a chick bye look at how she turned out</li>
             </stanza>
-        </content>
+        
     </song>
-    <song track="11">
-        <title>Satellite</title>
-        <productionCredit>Lee Bannon</productionCredit>
-        <content>
-            <stanza speaker="" type="verse 1"><li> And I guess it's my turn to shine</li>
+    <song title="Satellite" production="LeeBannon">
+        <stanza speaker="Joey" type="verse"><li> And I guess it's my turn to shine</li>
                 <li> The bright light I was starin' at turn lime</li>
                 <li> And the green stuff turned to slime, and grime</li>
                 <li> Everybody want to be your blood cousin</li>
@@ -820,7 +788,7 @@
                 <li> Vibe all night</li>
                 <li> A satellite</li>
             </stanza>
-            <stanza speaker="" type="verse 2"><li> I take a day off</li>
+            <stanza speaker="ChuckStrangers" type="verse"><li> I take a day off</li>
                 <li> Let the trees take some weight off</li>
                 <li> My mental's just a fact, Bannon's got the instrumental</li>
                 <li> I keep niggas on their toes</li>
@@ -831,7 +799,7 @@
                 <li> But we're down to light, 'n light the fuck up</li>
                 <li> Vibe all night</li>
             </stanza>
-            <stanza speaker="" type="verse 3"><li> As I roll the die</li>
+            <stanza speaker="KirkKnight" type="verse"><li> As I roll the die</li>
                 <li> Like my first drink was just the brink of a crooked eye</li>
                 <li> But don't blame the ice for the I U KEL</li>
                 <li> Oh God couldn't see past 'em</li>
@@ -865,7 +833,7 @@
                 <li> No disrespect, ask my man for the pumps</li>
                 <li> Don't this shit make my people wanna jump?</li>
             </stanza>
-            <stanza speaker="" type="verse 4"><li> Surround Sounder</li>
+            <stanza speaker="DessyHinds" type="verse"><li> Surround Sounder</li>
                 <li> Come and hear the blunt-smoking philosopher</li>
                 <li> Smoking with a joint to get you open like a chakra</li>
                 <li> No time for the roster this rap game goes either way</li>
@@ -899,13 +867,10 @@
                 <li> No disrespect, ask my man for the pumps</li>
                 <li> Don't this shit make my people wanna jump?</li>
             </stanza>
-        </content>
+        
     </song>
-    <song track="12">
-        <title>95 Til Infinity</title>
-        <productionCredit>Lee Bannon</productionCredit>
-        <content>
-            <stanza speaker="" type="verse 1"><li> And we smoking, toking potent herb</li>
+    <song title="95TilInfinity" production="LeeBannon">
+        <stanza speaker="Joey" type="verse"><li> And we smoking, toking potent herb</li>
                 <li> Preaching spoken words that just might poke your nerves</li>
                 <li> Hope you ain't scared, my jeep go "Scrrrr"</li>
                 <li> I peep the obscured, and what ain't normally easy to observe</li>
@@ -922,7 +887,7 @@
                 <li> Schooling your offspring, drop heat all spring</li>
                 <li> And stay hot for five Novembers, I think y'all niggas lost me</li>
             </stanza>
-            <stanza speaker="" type="hook"><li> 95 'til infinity time</li>
+            <stanza speaker="Joey" type="hook"><li> 95 'til infinity time</li>
                 <li> We in disguise behind enemy lines</li>
                 <li> Women with no identity signs, they can't get my lines</li>
                 <li> I used to give a fuck you could find</li>
@@ -930,7 +895,7 @@
                 <li> We in disguise behind enemy lines</li>
                 <li> And I just kill it every time</li>
             </stanza>
-            <stanza speaker="" type="verse 2"><li> Instead of lead slugs, I spreads the love</li>
+            <stanza speaker="Joey" type="verse"><li> Instead of lead slugs, I spreads the love</li>
                 <li> Like a bed bugaboo does, I'm in the W with your lovable slut</li>
                 <li> I'm in the walls while you bugging her up</li>
                 <li> I'll do your girl like this beat, straight fucking it up</li>
@@ -947,7 +912,7 @@
                 <li> If you get dropped you can't rejoin, they wanna know</li>
                 <li> Whose shoulder we leaning on but all we do is show them who we leading on</li>
             </stanza>
-            <stanza speaker="" type="hook"><li> 95 'til infinity time</li>
+            <stanza speaker="Joey" type="hook"><li> 95 'til infinity time</li>
                 <li> We in disguise behind enemy lines</li>
                 <li> Women with no identity signs, they can't get my lines</li>
                 <li> I used to give a fuck you could find</li>
@@ -955,7 +920,7 @@
                 <li> We in disguise behind enemy lines</li>
                 <li> And I just kill it every time</li>
             </stanza>
-            <stanza speaker="" type="verse 3"><li> Cause they will never stop for a young black male</li>
+            <stanza speaker="Joey" type="verse"><li> Cause they will never stop for a young black male</li>
                 <li> Blackmailed in braille that means what he felt</li>
                 <li> And the very reveal could appeal</li>
                 <li> Put you on the Alcatraz trail or railroad to hell</li>
@@ -972,7 +937,7 @@
                 <li> Waking up to pyramids and big kitties</li>
                 <li> Gold soul theory, but what is life really</li>
             </stanza>
-            <stanza speaker="" type="hook"><li> 95 'til infinity time</li>
+            <stanza speaker="Joey" type="hook"><li> 95 'til infinity time</li>
                 <li> We in disguise behind enemy lines</li>
                 <li> Women with no identity signs, they can't get my lines</li>
                 <li> I used to give a fuck you could find</li>
@@ -980,13 +945,10 @@
                 <li> We in disguise behind enemy lines</li>
                 <li> And I just kill it every time</li>
             </stanza>
-        </content>
+        
     </song>
-    <song track="13">
-        <title>Amethyst Rockstar</title>
-        <productionCredit>MF DOOM</productionCredit>
-        <content>
-            <stanza speaker="" type="intro"><li> (Fuck You!)</li>
+    <song title="AmethystRockstar" production="MFDoom">
+        <stanza speaker="SaulWilliams" type="intro"><li>(Fuck You!)</li>
                 <li> I stand on the corner of the block slinging amethyst rocks</li>
                 <li> Drinking 40s of mother earth’s private nectar stock</li>
                 <li> Dodging cops, cuz’ 50 be the 666 and I need a fix of that purple rain:</li>
@@ -996,7 +958,7 @@
                 <li> Never question who I am, God knows, and I know God personally</li>
                 <li> In fact he lets me call him “me,”</li>
             </stanza>
-            <stanza speaker="" type="verse 1"><li> When did rap turn into a fashion show?</li>
+            <stanza speaker="Joey" type="verse"><li> When did rap turn into a fashion show?</li>
                 <li> Too many makeup artists won't let their passion show</li>
                 <li> The anti-social mogul, havin' 20/20 visions</li>
                 <li> In needa bifocals, for your eyes dilated ojos</li>
@@ -1014,7 +976,7 @@
                 <li> I went to meet my maker, with 25 sacred stones</li>
                 <li> Told him save me a few acres</li>
             </stanza>
-            <stanza speaker="" type="interlude"><li> Yeah, cause' we just some Amethyst Rockstars</li>
+            <stanza speaker="Joey" type="interlude"><li> Yeah, cause' we just some Amethyst Rockstars</li>
                 <li> Amethyst Rockstar</li>
                 <li> Amethyst Rockstar</li>
                 <li> Amethyst Rockstar</li>
@@ -1022,7 +984,7 @@
                 <li> Try aim at this Rock Star!</li>
                 <li> Time just keeps on falling, falling, falling</li>
             </stanza>
-            <stanza speaker="" type="verse 2"><li> How is Hip-Hop dead? I'm still makin' a killin'</li>
+            <stanza speaker="KirkKnight" type="verse"><li> How is Hip-Hop dead? I'm still makin' a killin'</li>
                 <li> Banana clip peelin' and ho's I'm still stealin'</li>
                 <li> This is not for the soda pop niggas</li>
                 <li> Take me to the leader of the new school or the block dealas</li>
@@ -1052,10 +1014,10 @@
                 <li> Two niggas to tango</li>
                 <li> Watch me go Rambo</li>
             </stanza>
-            <stanza speaker="" type="outro"><li> "Don’t Front on a nigga like me</li>
+            <stanza speaker="Joey" type="outro"><li> "Don’t Front on a nigga like me</li>
                 <li> Time just keeps on falling, falling, falling"</li>
             </stanza>
-            <stanza speaker="" type="interlude"><li> Yeah, cause' we just some Amethyst Rockstars</li>
+            <stanza speaker="Joey" type="interlude"><li> Yeah, cause' we just some Amethyst Rockstars</li>
                 <li> Amethyst Rockstar</li>
                 <li> Amethyst Rockstar</li>
                 <li> Amethyst Rockstar</li>
@@ -1063,7 +1025,7 @@
                 <li> Try aim at this Rock Star!</li>
                 <li> Time just keeps on falling, falling, falling</li>
             </stanza>
-            <stanza speaker="" type="outro"><li>YO!YO!YO!YO!</li>
+            <stanza speaker="Joey" type="outro"><li>YO!YO!YO!YO!</li>
                 <li> YO!YO!YO!YO!</li>
                 <li> YO!YO!YO!YO!</li>
                 <li> YO!YO!YO!YO!</li>
@@ -1072,13 +1034,10 @@
                 <li> YO!YO!YO!YO!</li>
                 <li> YO!YO!YO!YO!</li>
             </stanza>
-        </content>
+        
     </song>
-    <song track="14">
-        <title>Reign</title>
-        <productionCredit>Chuck Strangers</productionCredit>
-        <content>
-            <stanza speaker="" type="hook"><li> When it rains it pours down</li>
+    <song title="Reign" production="ChuckStrangers">
+        <stanza speaker="Joey" type="hook"><li> When it rains it pours down</li>
                 <li> Used to wanna be king said the reign is on now</li>
                 <li> King me like James straight out of High School</li>
                 <li> To the big games but you know just how I do</li>
@@ -1087,7 +1046,7 @@
                 <li> King me like James straight out of High School</li>
                 <li> To the big games but you know just how I do</li>
             </stanza>
-            <stanza speaker="" type="verse 1"><li> Adapted to these new ways of living, getting money and
+            <stanza speaker="Joey" type="verse "><li> Adapted to these new ways of living, getting money and
                     sinning</li>
                 <li> Go together like denims diamonds and women</li>
                 <li> Tryna balance it at once but keep hitting these blunts</li>
@@ -1107,7 +1066,7 @@
                 <li> Cause it ain't always sunny on the sunny side</li>
                 <li> But I'll stop shining when bunnies fly</li>
             </stanza>
-            <stanza speaker="" type="hook"><li> When it rains it pours down</li>
+            <stanza speaker="Joey" type="hook"><li> When it rains it pours down</li>
                 <li> Used to wanna be king said the reign is on now</li>
                 <li> King me like James straight out of High School</li>
                 <li> To the big games but you know just how I do</li>
@@ -1116,7 +1075,7 @@
                 <li> King me like James straight out of High School</li>
                 <li> To the big games but you know just how I do</li>
             </stanza>
-            <stanza speaker="" type="verse 2"><li> I turn my dreams to reality</li>
+            <stanza speaker="Joey" type="verse"><li> I turn my dreams to reality</li>
                 <li> So, I burn green same time I burn calories though</li>
                 <li> I'm eating now in fact, I'm feasting now</li>
                 <li> No more mistreating, my miss is treated now</li>
@@ -1134,7 +1093,7 @@
                 <li> But reverse on the speech, cause it ain't always sunny on the sunny side</li>
                 <li> But I'll stop shining when bunnies fly</li>
             </stanza>
-            <stanza speaker="" type="hook"><li> When it rains it pours down</li>
+            <stanza speaker="Joey" type="hook"><li> When it rains it pours down</li>
                 <li> Used to wanna be king said the reign is on now</li>
                 <li> King me like James straight out of High School</li>
                 <li> To the big games but you know just how I do</li>
@@ -1143,7 +1102,7 @@
                 <li> King me like James straight out of High School</li>
                 <li> To the big games but you know just how I do</li>
             </stanza>
-            <stanza speaker="" type="verse 3"><li> Said we done came a long way 365 bong rips later</li>
+            <stanza speaker="Joey" type="verse"><li> Said we done came a long way 365 bong rips later</li>
                 <li> Last year I ain't make no paper</li>
                 <li> All I earned was some kicks some snares from some haters</li>
                 <li> And some favors from some chicks that move there rumps like shakers</li>
@@ -1161,7 +1120,7 @@
                 <li> Cause it ain't always sunny on the sunny side</li>
                 <li> But I'll stop shining when bunnies fly</li>
             </stanza>
-            <stanza speaker="" type="hook"><li> When it rains it pours down</li>
+            <stanza speaker="Joey" type="hook"><li> When it rains it pours down</li>
                 <li> Used to wanna be king said the reign is on now</li>
                 <li> King me like James straight out of High School</li>
                 <li> To the big games but you know just how I do</li>
@@ -1170,14 +1129,11 @@
                 <li> King me like James straight out of High School</li>
                 <li> To the big games but you know just how I do</li>
             </stanza>
-            <stanza speaker="" type="outro">(Fireworks Exploding)</stanza>
-        </content>
+            <stanza speaker="Joey" type="outro"><li>(Fireworks Exploding)</li></stanza>
+        
     </song>
-    <song track="15">
-        <title>Sorry Bonita</title>
-        <productionCredit>Oddisee</productionCredit>
-        <content>
-            <stanza speaker="" type="verse 1"><li> It’s all illusions, fixed gear cruising</li>
+    <song title="SorryBonita" production="Oddisee">
+        <stanza speaker="DyemondLewis" type="verse"><li> It’s all illusions, fixed gear cruising</li>
                 <li> Fixed reality shrouded from governmental pollution</li>
                 <li> I ain’t a saint, the holy ghost up in my aura rebuked it</li>
                 <li> It’s the era of indigo and they go with the preaching</li>
@@ -1188,7 +1144,7 @@
                 <li> Has told many tales, his flows you could sells</li>
                 <li> Mastering wind elements, I move with the gales</li>
             </stanza>
-            <stanza speaker="" type="verse 2"><li> ‘Cause I’m a socialite in the night, bitch get right
+            <stanza speaker="ChuckStrangers" type="verse"><li> ‘Cause I’m a socialite in the night, bitch get right
                     enable</li>
                 <li> I’m boxing yo dorm, Put my Nikes on the coffee table</li>
                 <li> My tongue’s below her navel, she makes it where her skills in naval</li>
@@ -1198,7 +1154,7 @@
                 <li> I think not cause all I do is smoke pot</li>
                 <li> And make beats, and yo ass just want back shots</li>
             </stanza>
-            <stanza speaker="" type="verse 3"><li> Smoker’s club, Michael Jordan how I’m killing 4
+            <stanza speaker="DirtySanchez" type="verse"><li> Smoker’s club, Michael Jordan how I’m killing 4
                     quarters</li>
                 <li> You stashing the trash, hoarder</li>
                 <li> Yo girl starting to bath water, it’s Dirty</li>
@@ -1214,7 +1170,7 @@
                 <li> Check (Peace)</li>
                 <li> Yo</li>
             </stanza>
-            <stanza speaker="" type="verse 4"><li> When I release the flows I goes over yo dome far</li>
+            <stanza speaker="ALa$ole" type="verse"><li> When I release the flows I goes over yo dome far</li>
                 <li> The nigga to represent the barrio, we hold bars</li>
                 <li> I shine further, you sons get in the bogart</li>
                 <li> You gotta pick yo road, give it a go, keep the point, God</li>
@@ -1225,7 +1181,7 @@
                 <li> Bring it down baby</li>
                 <li> Bring it down baby, uh</li>
             </stanza>
-            <stanza speaker="" type="verse 5"><li> This is what I asked for, asked for</li>
+            <stanza speaker="KirkKnight" type="verse"><li> This is what I asked for, asked for</li>
                 <li> Chilling at my back door, back off, mind tweaking on bath salts</li>
                 <li> Confuse my intelligence, maybe I’m irrelevant</li>
                 <li> So eloquent, being riders with a elephant</li>
@@ -1238,7 +1194,7 @@
                 <li> I can see it through the pyramids</li>
                 <li> I must admit, I must admit</li>
             </stanza>
-            <stanza speaker="" type="verse 6"><li> The mental state with a nigga that was penciled for
+            <stanza speaker="DessyHinds" type="verse"><li> The mental state with a nigga that was penciled for
                     great</li>
                 <li> Following schedules, never scheduled for break</li>
                 <li> But still embrace he'll put ya' neck in a brace</li>
@@ -1255,7 +1211,7 @@
                 <li> Bring it down baby</li>
                 <li> Bring it down baby, uh</li>
             </stanza>
-            <stanza speaker="" type="verse 7"><li> Looking for who’s in charge, don’t be shocked, I’m the
+            <stanza speaker="CJFly" type="verse"><li> Looking for who’s in charge, don’t be shocked, I’m the
                     plug</li>
                 <li> Get inside like the socket, the surgeon, the sergeant</li>
                 <li> Energy – I put all in</li>
@@ -1266,7 +1222,7 @@
                 <li> Can test the reception, I sent you a message</li>
                 <li> Let me know if you get this, the question</li>
             </stanza>
-            <stanza speaker="" type="verse 8"><li> Seen it all in the retrospect, took retro steps</li>
+            <stanza speaker="Joey" type="verse"><li> Seen it all in the retrospect, took retro steps</li>
                 <li> Like it’s ’93 still, got ’93 til mic skills</li>
                 <li> Even got the ecko check</li>
                 <li> Like for real there no testing, my tribe is not some Tribe called
@@ -1290,13 +1246,10 @@
                 <li> I’m thinking I should take it home</li>
                 <li> What you saying?</li>
             </stanza>
-        </content>
+        
     </song>
-    <song track="16">
-        <title>#LongLiveSteelo</title>
-        <productionCredit>Kirk Knight</productionCredit>
-        <content>
-            <stanza speaker="" type="verse 1"><li> Ayo I don't really cry, ask why</li>
+    <song title="#LongLiveSteelo" production="KirkKnight">
+        <stanza speaker="Joey" type="verse"><li> Ayo I don't really cry, ask why</li>
                 <li> Cause inside, no one ever really dies</li>
                 <li> Your presence is still alive</li>
                 <li> Your voice I still hear it</li>
@@ -1326,7 +1279,7 @@
                 <li> And watch over the ones you once loved</li>
                 <li> You was my nigga when push came to shove</li>
             </stanza>
-            <stanza speaker="" type="outro"><li> One love, one love, one love, one love</li>
+            <stanza speaker="Joey" type="outro"><li> One love, one love, one love, one love</li>
                 <li> The sky's the limit</li>
                 <li> That's what they told the fuckin' fool</li>
                 <li> I disguised the limit</li>
@@ -1336,17 +1289,14 @@
                 <li> Y-yo yo yo 93 'til infinity, King Capital</li>
                 <li> May your soul Rest in Peace</li>
             </stanza>
-        </content>
+        
     </song>
-    <song track="17">
-        <title>Unorthodox</title>
-        <productionCredit>DJ Premier</productionCredit>
-        <content>
-            <stanza speaker="" type="intro"><li> We done came up</li>
+    <song title="Unorthodox" production="DJPremier">
+        <stanza speaker="Joey" type="intro"><li> We done came up</li>
                 <li> Everybody love ‘em</li>
                 <li> On the regular</li>
             </stanza>
-            <stanza speaker="" type="verse 1"><li> Lookin’ at popular colored faces</li>
+            <stanza speaker="Joey" type="verse"><li> Lookin’ at popular colored faces</li>
                 <li> Observing what my brothers faces in all races</li>
                 <li> Lost in generations before hatred</li>
                 <li> See with your eyes dilated for the sake of the Gs</li>
@@ -1372,7 +1322,7 @@
                 <li> This is for my real hip hop fans and ‘em</li>
                 <li> I dispose for 'em, leave fake MC’s in the post mortem</li>
             </stanza>
-            <stanza speaker="" type="hook"><li> Cause money ain’t a thing if I got it I won’t spend</li>
+            <stanza speaker="Joey" type="hook"><li> Cause money ain’t a thing if I got it I won’t spend</li>
                 <li> All I got is my Pros, I don’t need no friends</li>
                 <li> Feel like this glory road is coming to an end</li>
                 <li> The only soul that won’t sin</li>
@@ -1382,7 +1332,7 @@
                 <li> Properly delivered drop trees in my swisher</li>
                 <li> And bring that back to my property wit ya</li>
             </stanza>
-            <stanza speaker="" type="verse 2"><li> It ain’t easy being this royal</li>
+            <stanza speaker="Joey" type="verse"><li> It ain’t easy being this royal</li>
                 <li> When you got this much going for you</li>
                 <li> It ain’t hard to be disloyal</li>
                 <li> Comin’ straight from the soil with lines that never coil</li>
@@ -1404,7 +1354,7 @@
                 <li> They can’t understand</li>
                 <li> Pro Era boys pop rubber band</li>
             </stanza>
-            <stanza speaker="" type="hook"><li> Cause money ain’t a thing if I got it I won’t spend</li>
+            <stanza speaker="Joey" type="hook"><li> Cause money ain’t a thing if I got it I won’t spend</li>
                 <li> All I got is my Pros, I don’t need no friends</li>
                 <li> Feel like this glory road is coming to an end</li>
                 <li> The only soul that won’t sin</li>
@@ -1414,13 +1364,13 @@
                 <li> Properly delivered drop trees in my swisher</li>
                 <li> And bring that back to my property wit ya</li>
             </stanza>
-            <stanza speaker="" type="outro"><li> Everybody love ‘em</li>
+            <stanza speaker="Joey" type="outro"><li> Everybody love ‘em</li>
                 <li> We done came up</li>
                 <li> I’ma spark it off unorthodox</li>
                 <li> They don’t feel the name, but they say the music dope though</li>
                 <li> I’ma spark it off unorthodox</li>
                 <li> On the regular</li>
             </stanza>
-        </content>
+        
     </song>
 </album>
