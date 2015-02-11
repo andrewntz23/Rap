@@ -56,7 +56,11 @@
             <li>The lines <AAVE field="syn" type="tense" cat="thirdperson">is</AAVE> too narrow</li>
             <li>They couldn't even outshine my shadow</li>
             <li>They don't want the beef nigga, let alone the cattle</li>
+<<<<<<< Updated upstream
             <li>They <AAVE field="syn" type="CopulaDeletion"/>just living out the saddle, so sad
+=======
+            <li>They <AAVEsyntax type="CopulaDeletion"/>just living out the saddle, so sad
+>>>>>>> Stashed changes
                 though</li>
         </stanza>
         <stanza type="sample" speaker="Joey">
@@ -67,6 +71,7 @@
             <li>Save the chil</li>
         </stanza>
         <stanza type="verse" speaker="Joey">
+<<<<<<< Updated upstream
             <li>Okay, they <AAVE field="syn" type="CopulaDeletion"/>sleeping on the crack, they
                 overdose</li>
             <li>Overdose on high fructose, rolling toast till I'm <compound head="throat" stem="over">over-throat</compound></li>
@@ -81,6 +86,17 @@
             <li>The <AAVE field="phon" type="dropping" sound="r" position="final">mo'</AAVE> the
                 better, the <AAVE field="phon" type="dropping" sound="r" position="final">mo'</AAVE>
                 clever, et cetara, whatever</li>
+=======
+            <li>Okay, they <AAVEsyntax type="CopulaDeletion"/>sleeping on the crack, they
+                overdose</li>
+            <li>Overdose on high fructose, rolling toast till I'm over-throat</li>
+            <li>And over-slowed, I been speakin' over tones</li>
+            <li>Low but keep them L's high, legends live long</li>
+            <li>And we gon' be forever, this for the Era</li>
+            <li>They tried to tell us we <AAVEsyntax type="CopulaDeletion"/>too deep in the
+                flow</li>
+            <li>The mo' the better, the mo' clever, et cetara, whatever</li>
+>>>>>>> Stashed changes
             <li>Why do they sweat us?</li>
             <li>Dead us, they just met us, but they won't forget us</li>
             <li>They don't know better than the worst case</li>
