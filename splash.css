@@ -1,6 +1,26 @@
 body {
-    background: url('NY-Skyline-2.jpg') no-repeat center center fixed;
-    background-size: cover;
+    background-color: #fafafa; 
+}
+.headimg {
+    width: 100%;
+    height: auto;
+    margin: 0px;
+}
+.container
+{
+    height:100%;
+    width:100%;
+    position:relative;
+}
+.text
+{
+    z-index:100;
+    position:absolute;    
+    color:white;
+    font-size:24px;
+    font-weight:bold;
+    left:150px;
+    top:350px;
 }
 .headfont {
     font-family: 'Rock Salt', cursive;

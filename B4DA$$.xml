@@ -12,30 +12,39 @@
         <stanza type="verse" speaker="Joey">
             <li>It's all a hidden history, and mysteries</li>
             <li>I see vividly, hysteria</li>
-            <li>Cause misery on the interior</li>
-            <li>Shit gets more scarier, I'm never in fear</li>
+            <li>Cause misery on the interior</li> 
+            *<li>Shit gets more scarier, I'm never in
+                fear</li>
             <li>Just a little inferior in some areas</li>
             <li>But I share, wisdom with Sumerian's</li>
-            <li>Somewhere we<AAVEsyntax type="CopulaDeletion"/> in the place</li>
+            <li>Somewhere we<AAVE field="syn" type="CopulaDeletion"/> in the place</li>
             <li>Peace means harmony, not war and armory</li>
             <li>But fuck that, cock your gun back</li>
-            <li>This <AAVEsynatx type="CopulaDeletion"/>survival of the fittest</li>
+            <li>This <AAVE field="syn" type="CopulaDeletion"/>survival of the fittest</li>
             <li>Some cats get boxed in where they litter</li>
             <li>These niggas don't beez in the trap, they like beez in the track</li>
-            <li>Get smoked out and I ain't talkin' bout what you toke out</li>
-            <li>You toked out for really thinkin' that this shit is a silly dream</li>
-            <li>When actually reality ain't what it really seem</li>
-            <li>And I ain't actin' on the scene, nigga's scream</li>
-            <li>The actions ain't screened, just well-schemed</li>
-            <li>I'm tryna' have wealth for my well-being</li>
-            <li>By eighteen, pockets <AAVEsyntax type="CopulaDeletion"/>healthy green</li>
+            <li>Get smoked out and I ain't <AAVE field="phon" type="dropping" sound="g"
+                    position="final">talkin'</AAVE>
+                <AAVE field="phon" type="dropping" sound="a" position="initial">bout</AAVE> what you
+                toke out</li>
+            <li>You toked out for really <AAVE field="phon" type="dropping" sound="g"
+                    position="final">thinkin'</AAVE> that this shit is a silly dream</li>
+            <li>When actually reality ain't what it really <AAVE field="phon" type="dropping"
+                    sound="s" position="final">seem</AAVE></li>
+            <li>And I ain't <AAVE field="phon" type="dropping" sound="g" position="final"
+                    >actin'</AAVE> on the scene, nigga's scream</li>
+            <li>The actions ain't screened, just <compound head="scheme" stem="well" type="endo" reason="rhyme">well-schemed</compound></li> 
+            *<li>I'm tryna' have wealth for
+                my well-being</li>
+            <li>By eighteen, pockets <AAVE field="syn" type="CopulaDeletion"/>healthy green</li>
             <li>What the fuck is twelve beams?</li>
             <li>I need the cake and cream</li>
-            <li>The stakes is high like fiends off a dream</li>
+            <li>The stakes <AAVE field="syn" type="tense" cat="thirdperson">is</AAVE> high like
+                fiends off a dream</li>
             <li>Jet streaming having cuisine</li>
             <li>With the best season since the vet season</li>
             <li>Carry a vest, you know the reason</li>
-            <li>I'm in Chi-raq and I'm getting blown like the breezes</li>
+            <li>I'm in <compound head="Chicago" stem="Iraq" type="exo" reason="pun">Chi-raq</compound> and I'm getting blown like the breezes</li>
             <li>The chicken strip teasers</li>
             <li>Thighs, legs and the breast part is the cleavage</li>
             <li>She even lick it down to the bone marrow</li>
@@ -44,12 +53,13 @@
         </stanza>
         <stanza type="bridge" speaker="Joey">
             <li>They ain't tryna' see me in the battle</li>
-            <li>The lines is too narrow</li>
+            <li>The lines <AAVE field="syn" type="tense" cat="thirdperson">is</AAVE> too narrow</li>
             <li>They couldn't even outshine my shadow</li>
             <li>They don't want the beef nigga, let alone the cattle</li>
-            <li>They <AAVEsyntax type="CopulaDeletion"/>just living out the saddle, so sad though</li>
+            <li>They <AAVE field="syn" type="CopulaDeletion"/>just living out the saddle, so sad
+                though</li>
         </stanza>
-        <stanza type="hook" speaker="Joey">
+        <stanza type="sample" speaker="Joey">
             <li>Black in public, black democrats</li>
             <li>Black educator, black entertainer</li>
             <li>Black, black businessman, black people are rumbling</li>
@@ -57,25 +67,36 @@
             <li>Save the chil</li>
         </stanza>
         <stanza type="verse" speaker="Joey">
-            <li>Okay, they <AAVEsyntax type="CopulaDeletion"/>sleeping on the crack, they overdose</li>
-            <li>Overdose on high fructose, rolling toast till I'm over-throat</li>
-            <li>And over-slowed, I been speakin' over tones</li>
-            <li>Low but keep them L's high, legends live long</li>
-            <li>And we gon' be forever, this for the Era</li>
-            <li>They tried to tell us we <AAVEsyntax type="CopulaDeletion"/>too deep in the flow</li>
-            <li>The mo' the better, the mo' clever, et cetara, whatever</li>
+            <li>Okay, they <AAVE field="syn" type="CopulaDeletion"/>sleeping on the crack, they
+                overdose</li>
+            <li>Overdose on high fructose, rolling toast till I'm <compound head="throat" stem="over">over-throat</compound></li>
+            <li>And <compound head="slow" stem="over">over-slowed</compound>, <AAVE field="syn" type="aspect" cat="progressive">I been <AAVE
+                        field="phon" type="dropping" sound="g" position="final"
+                    >speakin'</AAVE></AAVE> over tones</li>
+            <li>Low but keep them L's high, legends live long</li> 
+            * <li>And we gon' be forever,
+                this for the Era</li>
+            <li>They tried to tell us we <AAVE field="syn" type="CopulaDeletion"/>too deep in the
+                flow</li>
+            <li>The <AAVE field="phon" type="dropping" sound="r" position="final">mo'</AAVE> the
+                better, the <AAVE field="phon" type="dropping" sound="r" position="final">mo'</AAVE>
+                clever, et cetara, whatever</li>
             <li>Why do they sweat us?</li>
             <li>Dead us, they just met us, but they won't forget us</li>
             <li>They don't know better than the worst case</li>
-            <li>I be headed for first place</li>
-            <li>Purchase they position cause' they worship oppositions</li>
+            <li><AAVE field="syn" type="tense" cat="present">I be headed</AAVE> for first place</li>
+            <li>Purchase they position <AAVE field="phon" type="dropping" sound="be">cause'</AAVE>
+                they worship oppositions</li>
             <li>But I too had no pot to piss in, and so spot on in this instant</li>
             <li>And they still ain't got my decision, I won't stand under no man</li>
             <li>Except my high supplier, he got the fire, I got the lighter</li>
-            <li>I hit the spliff and this what I'm spittin'</li>
-            <li>Like it's gas liquids that I'm drippin', pimpin'</li>
+            <li>I hit the spliff and this what I'm <AAVE field="phon" type="dropping" sound="g"
+                    >spittin'</AAVE></li>
+            <li>Like it's gas liquids that I'm <AAVE field="phon" type="dropping" sound="g"
+                    >drippin'</AAVE>, <AAVE field="phon" type="dropping" sound="g"
+                >pimpin'</AAVE></li>
         </stanza>
-        <stanza type="hook" speaker="Joey">
+        <stanza type="sample" speaker="Joey">
             <li>Black in public, black democrats</li>
             <li>Black educator, black entertainer</li>
             <li>Black, black businessman, black people are rumbling</li>
@@ -331,7 +352,8 @@
             <li>My flow in-depth nigga, I got my wave up</li>
             <li>It's either get your tidal waved, or you could be my neighbor</li>
             <li>Cause if I can't eat, then you can't either</li>
-            <li>I need to know, need the pizza dough fuck I'm spitting ether for?</li></stanza>
+            <li>I need to know, need the pizza dough fuck I'm spitting ether for?</li>
+        </stanza>
         <stanza type="bridge" speaker="Joey">
             <li>Yeah nigga</li>
             <li>Reigning rap supreme in this bitch</li>
@@ -511,15 +533,20 @@
             <li>You can't get by if you don't respect an OG</li>
             <li>You can't get by if you don't respect an OG</li>
         </stanza>
-        <stanza type="verse" speaker="Joey"><li>Cause every corner I turn a nigga testing me</li>
-                <li>And every morning I mourn just for the less of me</li>
+        <stanza type="verse" speaker="Joey">
+            <li>Cause every corner I turn a nigga testing me</li>
+            <li>And every morning I mourn just for the less of me</li>
             <li>Sometimes I ask the Lord why he be blessing me</li>
-            <li>And not my brothers whose souls now rest in peace</li></stanza>
-        <stanza type="hook" speaker="Joey BJtheChicagoKid"><li>I pray there's hope for a nigga
-            like me</li> <li>Hope for a nigga like me</li>
-            <li>Just pray there's hope for a nigga like me</li></stanza>
-        <stanza type="verse" speaker="Joey"><li>I'm something like the chairman of the board,
-            ranted</li> <li>I feel, invincible, like McMahon</li>
+            <li>And not my brothers whose souls now rest in peace</li>
+        </stanza>
+        <stanza type="hook" speaker="Joey BJtheChicagoKid">
+            <li>I pray there's hope for a nigga like me</li>
+            <li>Hope for a nigga like me</li>
+            <li>Just pray there's hope for a nigga like me</li>
+        </stanza>
+        <stanza type="verse" speaker="Joey">
+            <li>I'm something like the chairman of the board, ranted</li>
+            <li>I feel, invincible, like McMahon</li>
             <li>One of the last original emcees that's left standing on the planet</li>
             <li>Strike like a meteor, do remedial damage, damnit</li>
             <li>Cats can't stand it, get they ass handed and branded</li>
@@ -534,10 +561,13 @@
             <li>I don't wanna speak no I don't wanna speak</li>
             <li>I don't wanna speak no I don't wanna speak</li>
             <li>I just wanna be good, I just wanna be</li>
-            <li>I just wanna be free</li></stanza>
-        <stanza type="hook" speaker="Joey BJtheChicagoKid"><li>I pray there's hope for a nigga
-            like me</li><li>Hope for a nigga like me</li>
-            <li>Just pray there's hope for a nigga like me</li></stanza>
+            <li>I just wanna be free</li>
+        </stanza>
+        <stanza type="hook" speaker="Joey BJtheChicagoKid">
+            <li>I pray there's hope for a nigga like me</li>
+            <li>Hope for a nigga like me</li>
+            <li>Just pray there's hope for a nigga like me</li>
+        </stanza>
     </song>
     <song title="BellyOfTheBeast" production="">
         <stanza type="intro" speaker="Joey">
@@ -546,8 +576,9 @@
             <li>Nigga we dangerous, dangerous</li>
             <li>My nigga we</li>
         </stanza>
-        <stanza type="verse" speaker="Joey"><li>I swear all my life I been around crips and bloods</li>
-                <li>Crips and slugs, the trigger happiest thugs</li>
+        <stanza type="verse" speaker="Joey">
+            <li>I swear all my life I been around crips and bloods</li>
+            <li>Crips and slugs, the trigger happiest thugs</li>
             <li>Claiming the slums, and all the hoods that they from</li>
             <li>Too much of the some, got it twisted up blinded in a rat race</li>
             <li>Cash straight, the fake kill jake, the snakes too late</li>
@@ -565,7 +596,8 @@
             <li>Focus in the now, when the lotus is around</li>
             <li>It's the Brooklyn sound, a pro found, Biggie would be proud about</li>
             <li>But I don't need a vet to even shop me out</li>
-            <li>Punchlines pack a Pacquiao they can't box me out</li></stanza>
+            <li>Punchlines pack a Pacquiao they can't box me out</li>
+        </stanza>
         <stanza type="bridge" speaker="Joey">
             <li>Big up big up, it's a stick up stick up</li>
             <li>Niggas hit a nigga quick if he hiccup hiccup</li>
@@ -704,8 +736,10 @@
         </stanza>
     </song>
     <song title="ChristConscious" production="">
-        <stanza type="intro" speaker="Joey"><li>Mother, mothersucker, yeah, oh, this is what you want, huh?</li>
-                <li>Microphone checker, yo, yo, yo</li></stanza>
+        <stanza type="intro" speaker="Joey">
+            <li>Mother, mothersucker, yeah, oh, this is what you want, huh?</li>
+            <li>Microphone checker, yo, yo, yo</li>
+        </stanza>
         <stanza type="verse" speaker="Joey">
             <li>Uh, motherfuckin' microphone checker</li>
             <li>Keep that grip tight, like my Smith and Wesson</li>
@@ -750,11 +784,15 @@
             <li>And I won't stop 'til I reach Christ Conscious, nigga</li>
         </stanza>
 
-        <stanza type="outro" speaker="Joey"><li>Niggas know, niggas, niggas, niggas know</li></stanza>
+        <stanza type="outro" speaker="Joey">
+            <li>Niggas know, niggas, niggas, niggas know</li>
+        </stanza>
     </song>
     <song title="OnandOn" production="">
-        <stanza type="intro" speaker="Joey"><li>Mama I just booked a first class ticket to my
-            destiny by the way</li> <li>Yeah</li></stanza>
+        <stanza type="intro" speaker="Joey">
+            <li>Mama I just booked a first class ticket to my destiny by the way</li>
+            <li>Yeah</li>
+        </stanza>
         <stanza type="bridge" speaker="MaverickSabre">
             <li>Maybe I'mma fly away</li>
             <li>Maybe I'mma fly away, some day</li>
@@ -783,14 +821,17 @@
             <li>There’s a reason why I’ve come, new season's just begun</li>
             <li>This the death of a psychopomp but a birth of God's son</li>
         </stanza>
-        <stanza type="hook" speaker="Joey"><li>Don’t mourn me when I’m gone, celebrate my travels</li>
-                <li>Whenever you need me, just take a plane to the astral zone</li>
+        <stanza type="hook" speaker="Joey">
+            <li>Don’t mourn me when I’m gone, celebrate my travels</li>
+            <li>Whenever you need me, just take a plane to the astral zone</li>
             <li>I’m headed home, I’ve been hurting too long</li>
             <li>Time don’t stand still, so you gotta move on</li>
-        <li>On and On and On and On and On and On and On and On and On and On and On and On and On
-            and On and On and On and On and On and On</li></stanza>
-        <stanza type="verse" speaker="Joey"><li>I had a dream I seen my name on the gravel stone</li>
-                <li>And read here lies a G followed by a poem</li>
+            <li>On and On and On and On and On and On and On and On and On and On and On and On and
+                On and On and On and On and On and On and On</li>
+        </stanza>
+        <stanza type="verse" speaker="Joey">
+            <li>I had a dream I seen my name on the gravel stone</li>
+            <li>And read here lies a G followed by a poem</li>
             <li>I couldn't see the words but I'm sure what's in his own</li>
             <li>Funny that I write most when I know my feeling's wrong</li>
             <li>With both shoulders that my head is always on</li>
@@ -804,21 +845,25 @@
             <li>I really miss my partner</li>
             <li>But I know he with Big Poppa, 2 Pacs, and the big L rolled proper</li>
             <li>And that's a big pun, know that I'mma join him</li>
-            <li>When my time come, but the story just begun, so</li></stanza>
-        <stanza type="hook" speaker="Joey"><li>Don’t mourn me when I’m gone, celebrate my travels</li>
-                <li>Whenever you need me, just take a plane to the astral zone</li>
+            <li>When my time come, but the story just begun, so</li>
+        </stanza>
+        <stanza type="hook" speaker="Joey">
+            <li>Don’t mourn me when I’m gone, celebrate my travels</li>
+            <li>Whenever you need me, just take a plane to the astral zone</li>
             <li>I’m headed home, I’ve been hurting too long</li>
             <li>Time don’t stand still, so you gotta move on</li>
-        <li>On and On and On and On and On and On and On and On and On and On and On and On and On
-            and On and On and On and On and On and On</li></stanza>
+            <li>On and On and On and On and On and On and On and On and On and On and On and On and
+                On and On and On and On and On and On and On</li>
+        </stanza>
         <stanza type="bridge" speaker="MaverickSabre">
             <li>One day I'mma fly away</li>
             <li>One day I'mma fly away (Fly away, fly away)</li>
             <li>One day you will fly away (Fly away, fly away)</li>
             <li>One day we will fly away (Fly away, fly away)</li>
         </stanza>
-        <stanza type="verse" speaker="DyemondLewis"><li>My clouds grey, I hope my pain don’t show</li>
-                <li>Looking in the sky I wonder where them rainbows go</li>
+        <stanza type="verse" speaker="DyemondLewis">
+            <li>My clouds grey, I hope my pain don’t show</li>
+            <li>Looking in the sky I wonder where them rainbows go</li>
             <li>They say that if we reign, them pot-of-gold’s will show</li>
             <li>Even skating down the block don’t feel the same no more</li>
             <li>If I ain’t looking, I still see it all</li>
@@ -835,13 +880,16 @@
             <li>Long as [?] and Whitney's seen different cities, different titties</li>
             <li>I bring no money with me, I'm on my grind man, no regrets when I die man</li>
             <li>'Til we fly man, 'til we fly man, 'til we fly man</li>
-            <li>You gon' miss us when we fly man</li></stanza>
-        <stanza type="hook" speaker="Joey"><li>Don’t mourn me when I’m gone, celebrate my travels</li>
-                <li>Whenever you need me, just take a plane to the astral zone</li>
+            <li>You gon' miss us when we fly man</li>
+        </stanza>
+        <stanza type="hook" speaker="Joey">
+            <li>Don’t mourn me when I’m gone, celebrate my travels</li>
+            <li>Whenever you need me, just take a plane to the astral zone</li>
             <li>I’m headed home, I’ve been hurting too long</li>
             <li>Time don’t stand still, so you gotta move on</li>
             <li>On and On and On and On and On and On and On and On and On and On and On and On and
-                On and On and On and On and On and On and On</li></stanza>
+                On and On and On and On and On and On and On</li>
+        </stanza>
         <stanza type="bridge" speaker="MaverickSabre">
             <li>One day I'mma fly away</li>
             <li>One day I'mma fly away (Fly away, fly away)</li>
@@ -988,8 +1036,9 @@
             <li>Be thinking I could be dead</li>
         </stanza>
 
-        <stanza type="verse" speaker="Joey"><li>Who would've thought a marchin' Martin could spark a starvin' artist</li>
-                <li>Spit art, at heart young Marcus Garvey</li>
+        <stanza type="verse" speaker="Joey">
+            <li>Who would've thought a marchin' Martin could spark a starvin' artist</li>
+            <li>Spit art, at heart young Marcus Garvey</li>
             <li>Ponders on it, hardly, rap wonders fondly</li>
             <li>Smoking herb with just Marley and me</li>
             <li>This one is for my dogs barking up on the tree</li>
@@ -998,7 +1047,8 @@
             <li>Now that's respectable cause most women expect it tho</li>
             <li>Except that the words are derived through the rhythm wreck em'</li>
             <li>Professional, exceptional, half man half extra terrestrial</li>
-            <li>They got me</li></stanza>
+            <li>They got me</li>
+        </stanza>
         <stanza type="hook" speaker="Joey">
             <li>Low on self-esteem, fools been out for me</li>
             <li>Someones watching me, this world ain't proper</li>
@@ -1280,8 +1330,9 @@
             <li>Won't you teach me how to dance, how to dance</li>
             <li>Won't you teach me how to dance, teach how to dance</li>
         </stanza>
-        <stanza type="verse" speaker="Joey"><li>Okay life's like, lifes like, just like a tango,
-            tango</li> <li>You gotta move that, move that, don't break an ankle, ankle</li>
+        <stanza type="verse" speaker="Joey">
+            <li>Okay life's like, lifes like, just like a tango, tango</li>
+            <li>You gotta move that, move that, don't break an ankle, ankle</li>
             <li>Tell me if you see me, see me from your angle, angle</li>
             <li>I'll be your genie, genie, you be my angel, angel</li>
             <li>Okay, how low can you go? A half million records sold</li>
@@ -1293,7 +1344,8 @@
             <li>And after the show they prolly want to put forth for me</li>
             <li>Put on a show for the Papi that I prolly want to see</li>
             <li>So tell me what its gonna be she said</li>
-            <li>This hunny ain't free</li></stanza>
+            <li>This hunny ain't free</li>
+        </stanza>
         <stanza type="bridge" speaker="Joey">
             <li>Won't you teach me how to dance, how to dance</li>
             <li>Won't you teach me how to dance, teach how to dance</li>
@@ -1316,8 +1368,8 @@
             <li>oooohhhhh, oooooooohhhhh</li>
         </stanza>
         <stanza type="verse" speaker="Joey">
-            <li>Okay now life's like, life's like, just like a
-            salsa, salsa</li> <li>You taste the spice right? Spice right?</li>
+            <li>Okay now life's like, life's like, just like a salsa, salsa</li>
+            <li>You taste the spice right? Spice right?</li>
             <li>We need some water, water</li>
             <li>Lately been caught up, caught up, these steps need order, order</li>
             <li>Bring it in closer, closer, let's combine auras, auras</li>
@@ -1338,7 +1390,8 @@
             <li>But somehow that's hard for me</li>
             <li>Shorty make it clap, make it hard for me</li>
             <li>Come grab the mic, spit a bar for me</li>
-            <li>Show me what you know, tell it all to me</li></stanza>
+            <li>Show me what you know, tell it all to me</li>
+        </stanza>
         <stanza type="bridge" speaker="Joey">
             <li>Won't you teach me how to dance, how to dance</li>
             <li>Won't you teach me how to dance, teach how to dance</li>
