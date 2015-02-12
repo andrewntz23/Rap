@@ -1,7 +1,7 @@
 let $info := (
      doc("B4DA$$.xml") ,
      doc("1999-markup.xml") ,
-     doc("Summer Knights.xml") ,
+     doc("SummerKnights.xml") ,
      doc("Rejex.xml")
 )
 let $speakers := distinct-values($info//stanza/@speaker[./string() != ''])
