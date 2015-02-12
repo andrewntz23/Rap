@@ -1,31 +1,28 @@
 body {
     background-color: #fafafa; 
 }
-.headimg {
+header{
+    position:fixed;
+}
+#banner {
+    background: url(splashheader.png) no-repeat;
+    background-size: cover;
     width: 100%;
-    height: auto;
-    margin: 0px;
+    height: 100%;
+    position: fixed;
+    top: 0px;
 }
-.container
-{
-    height:100%;
-    width:100%;
-    position:relative;
-}
-.text
-{
-    z-index:100;
-    position:absolute;    
-    color:white;
-    font-size:24px;
-    font-weight:bold;
-    left:150px;
-    top:350px;
+#content {
+    width: 100%;
+    position: relative;
+    top: 600px;
+    background: #fafafa;
+    height: 1000px;
 }
 .headfont {
     font-family: 'Rock Salt', cursive;
     font-size:x-large;
-    color: white;
+    color: #140404;
     text-align: center;
     margin: 5px auto;
 }
@@ -37,19 +34,24 @@ body {
 }
 .intro {
     padding: 60px;
-    background-color: rgba(71,71,71,0.7);
+    background-color: rgba(71,71,71,0.6);
     border-radius: 10px;
-    width: 600px;
+    width: 500px;
     margin: 100px auto;
 }
 .bio {
     background-color: rgba(71,71,71,0.6);
     border-radius: 10px;
     display: inline-block;
+    vertical-align: top;
     padding: 7px;
     width: 200px;
     height: 375px;
     margin: 10px;
+}
+hr {
+    border-color: maroon;
+    border-style: dashed
 }
 .social {
     display: inline-block;
