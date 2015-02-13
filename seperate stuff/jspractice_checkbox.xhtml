@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <title>JS practice for checkboxes</title>
+        <script type="text/javascript">
+            window.onload = function(){
+                var rhyme = document.getElementById("rhyme");
+                rhyme.setAttribute("onclick", "highlightRhyme()")
+                var assonance = document.getElementById("assonance");
+                var allit = document.getElementById("allit");
+                rhyme.checked = false;
+                assonance.checked = true;
+                allit.checked = true;
+            }     
+            
+            function highlightRhyme(){
+                var rhyme = document.getElementById("rhyme");
+                if (rhyme.checked = true){
+                    alert("checked");
+                }
+                else {
+                    alert("unchecked");
+                }
+            }
+          </script>
+    </head>
+    <body>
+        <form method="post" action="register.php">
+            <fieldset>
+                <legend>Medical history</legend>
+                <input name="history" type="checkbox" value="1" id="rhyme" />
+                <label for="rhyme">Smallpox</label><br />
+                <input name="history" type="checkbox" value="2" id="assonance" />
+                <label for="assonance">Mumps</label><br />
+                <input name="history" type="checkbox" value="3" id="allit" />
+                <label for="allit">Dizziness</label>
+            </fieldset>
+        </form>
+    </body>
+</html>
