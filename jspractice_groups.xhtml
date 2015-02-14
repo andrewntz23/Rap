@@ -23,10 +23,8 @@
             
             function setColor(){
                 /*works for members of only one group. But what if member of both?  
-                Need to format correctly, and adjust so that the checkboxes will actually have their intended functionality. Also need to hard code the colors, rather than use random; too often I 
-                am getting very similar colors. 
+                Need to format correctly, and adjust so that the checkboxes will actually have their intended functionality. Need better system for colors. Probably can do some sort of math
                 */
-                var foo = document.getElementsByTagName("span") 
                 var container = document.createElement("form");  
                 var colors = ["red", "blue", "green", "purple", "orange", "red", "blue", "green", "purple", "orange", "red", "blue", "green", "purple", "orange"]
                 container.setAttribute("id", "container");
@@ -39,22 +37,31 @@
                     if (!contains(distinct, spans[d].getAttribute("title"))){
                         distinct.push(spans[d].getAttribute("title"));
                         var newBox = document.createElement("input");
-                        var newText = document.createTextNode("Highlight group ".concat(spans[d].getAttribute("title"))); //should not be using this this is poorly formed. 
+                        var newLabel = document.createElement("label");
+                        var newText = document.createTextNode("Highlight group ".concat(spans[d].getAttribute("title"))); 
                         color = colors[d]
-                      //  newText.setAttribute("style", "color:".concat(color)); cannot give textnode a color? 
                         newBox.type = "checkbox";
                         newBox.name = "highlight";
                         newBox.value = spans[d].getAttribute("title");
-                        newBox.id = "id"
+                        newBox.id = spans[d].getAttribute("title");
+                        newLabel.appendChild(newText);
+                        newLabel.htmlFor = spans[d].getAttribute("title");
                         container.appendChild(newBox); 
-                        container.appendChild(newText);
+                        container.appendChild(newLabel);
                     }
                 }
+                var foo = document.getElementsByTagName("span") 
+                var bar = document.getElementsByTagName("label");
                 for (var a = 0; (a != distinct.length); a++){
                     color = colors[a];
                     for (var i = 0; (i != foo.length); i++) { 
                         if (foo[i].getAttribute("title") == distinct[a]){
                             foo[i].setAttribute("style", "color:".concat(color));
+                        }
+                    }   
+                    for (var g = 0; (g != bar.length); g++){  
+                        if (bar[g].getAttribute("for") == distinct[a]){ 
+                            bar[g].setAttribute("style", "color:".concat(color));
                         }
                     }
                  }
