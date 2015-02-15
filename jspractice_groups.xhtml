@@ -8,7 +8,8 @@
             to multiple groups), and theres some sloppiness, but this is the basis for the proofreading tool. Much of this code will be reusable for display purposes as well.
             I will also create an XSLT to convert the given xml to the format required for the code to work (basically just tacking "data-" to the desired attribute names-)*/
             
-            var colors = ["red", "blue", "green", "purple", "orange", "red", "blue", "green", "purple", "orange", "red", "blue", "green", "purple", "orange"]
+            var colors = ["red", "blue", "green", "purple", "orange", "red", "blue", "green", "purple", "orange", "red", "blue", "green", "purple", "orange"] 
+            /*Should develop a better way to cycle through colors. this is sloppy, and could get out of bounds index if there is a lot of groups in any particular song.*/
 
             window.onload = function(){
                 var foo = document.getElementsByTagName("span");
@@ -29,7 +30,6 @@
                 Need to format correctly, and adjust so that the checkboxes will actually have their intended functionality. Need better system for colors. Probably can do some sort of math
                 */
                 var container = document.createElement("form");  
-                var colors = ["red", "blue", "green", "purple", "orange", "red", "blue", "green", "purple", "orange", "red", "blue", "green", "purple", "orange"]
                 container.setAttribute("id", "container");
                 container.setAttribute("style", "border-style:solid")
                 container.setAttribute("action", "");
@@ -98,16 +98,6 @@
                 }
             
             }
-
-      /*      function getRandomColor() { //might not need this, if end up hardcoding colors ()
-                 var letters = '0123456789ABCDEF'.split('');
-                 var color = '#';
-                 for (var i = 0; i != 6; i++ ) {
-                    color += letters[Math.floor(Math.random() * 16)];
-                }
-                return color;
-            }  */        
-            
             function overlay(id) { //popup from obdurodon example. Will I need this? 
                  if (document.getElementById(id)) return; // don't create a popup if there's already one open for this id
                  var overlay = document.createElement("div");
