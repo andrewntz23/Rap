@@ -7,6 +7,9 @@
             /*As stated, nothing really exciting is going on yet (checkboxes are not associated, color system was sloppily done, cannot account for belonging
             to multiple groups), and theres some sloppiness, but this is the basis for the proofreading tool. Much of this code will be reusable for display purposes as well.
             I will also create an XSLT to convert the given xml to the format required for the code to work (basically just tacking "data-" to the desired attribute names-)*/
+            
+            var colors = ["red", "blue", "green", "purple", "orange", "red", "blue", "green", "purple", "orange", "red", "blue", "green", "purple", "orange"]
+
             window.onload = function(){
                 var foo = document.getElementsByTagName("span");
                 setColor()
@@ -44,7 +47,11 @@
                         newBox.name = "highlight";
                         newBox.value = spans[d].getAttribute("title");
                         newBox.id = spans[d].getAttribute("title");
+                        newBox.checked = true;
+                        newBox.setAttribute("onclick", "clearColor(this)")
+                        newLabel.setAttribute("onclick", "clearColor(this)")
                         newLabel.appendChild(newText);
+                        newLabel.id = spans[d].getAttribute("title");
                         newLabel.htmlFor = spans[d].getAttribute("title");
                         container.appendChild(newBox); 
                         container.appendChild(newLabel);
@@ -80,7 +87,7 @@
                 var foo = document.getElementsByTagName("span");
                 for(var i = 0; (i != foo.length); i++) { 
                     if (foo[i].getAttribute("title") == elmt.getAttribute("title")){ 
-                        if (foo[i].getAttribute("style").indexOf("font-size:200%") != -1){
+                        if (foo[i].getAttribute("style").indexOf("font-size:200%") != -1){ 
                             foo[i].setAttribute("style", foo[i].getAttribute("style").replace(/;font-size:200%/, "")); //if you try to add a different style thing besides font-size:200% doensnt' work. why?
                                                                                                                        //might be easier to use css hover. 
                         }
@@ -92,14 +99,14 @@
             
             }
 
-            function getRandomColor() { //might not need this, if end up hardcoding colors ()
+      /*      function getRandomColor() { //might not need this, if end up hardcoding colors ()
                  var letters = '0123456789ABCDEF'.split('');
                  var color = '#';
                  for (var i = 0; i != 6; i++ ) {
                     color += letters[Math.floor(Math.random() * 16)];
                 }
                 return color;
-            }          
+            }  */        
             
             function overlay(id) { //popup from obdurodon example. Will I need this? 
                  if (document.getElementById(id)) return; // don't create a popup if there's already one open for this id
@@ -123,6 +130,26 @@
                  var elmt = document.getElementById(id);
                  elmt.remove();
             }
+            
+            function clearColor(elmt){  //can now use this to disable initial colors; need to fix it so that it will reset the colors when desired
+                var bar = document.getElementsByTagName("span");
+                if (elmt.checked == false){
+                    for (var i = 0; (i != bar.length); i++) { 
+                        if (bar[i].getAttribute("title") == elmt.getAttribute("id")){
+                            bar[i].setAttribute("style", "color:black");
+                        }
+                    }
+                }
+                else {
+                    for (var i = 0; (i != bar.length); i++) { 
+                        if (bar[i].getAttribute("title") == elmt.getAttribute("id")){
+                            bar[i].setAttribute("style", "color:".concat(colors[(elmt.getAttribute("id").charCodeAt(0) - 97)])); 
+                        }
+                    }
+                }
+                
+            }
+
         </script>
     </head>
     <body>
