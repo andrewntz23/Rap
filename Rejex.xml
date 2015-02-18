@@ -38,7 +38,7 @@
             <li><haters>The ones who say you ain't hot be your biggest fan</haters>, like nigga
                 damn</li>
             <li>Before he got popular he been da' man</li>
-            <li><women>With yo' chick</women>, in the can, rollin' thru an <popculture>instant gram</popculture></li>
+            <li><women>With yo' chick</women>, in the can, rollin' thru an <popculture ref="Instagram">instant gram</popculture></li>
             <li><money>Got a whiff a' grands</money>
                 <success>now everybody say they distant fam</success></li>
             <li><success>Know the haters still <food>jelly</food></success> but fuck it though, it's
@@ -192,7 +192,7 @@
             <li><haters>Ya'll some bozos</haters>, I'm underage, but pour more though</li>
             <li>That Roso got me moving slow-mo</li>
             <li>I'm taking photos with your <women>ho-ho</women></li>
-            <li>Chris Cringley gifted, I'm ill with the writtens</li>
+            <li><popculture ref="SantaClaus">Chris Cringley</popculture> gifted, I'm ill with the writtens</li>
             <li>Got my finger to the world, Fuck it a fist then</li>
             <li>Sit back and look at what you been missin', nigga</li>
         </stanza>
@@ -234,12 +234,12 @@
             <li>So <women>baby</women> if you're with it, we can kick it</li>
             <li>And get lifted off the Sour and the <weed>piff</weed></li>
             <li>And start whispering, and start kissing</li>
-            <li>Your red bottoms knocking on my Pippens</li>
+            <li>Your <fashion>red bottoms</fashion> knocking on my <fashion><sports>Pippens</sports></fashion></li>
             <li>Tell me if you dig it, so we can get a dick in</li>
             <li>Life, she be bitching, so get it while you live it</li>
             <li>And stop fronting, you need to quit it</li>
             <li>I swear I'mma hit it, I just need you to pitch it</li>
-            <li>So hollar if you're with it</li>
+            <li>So holler if you're with it</li>
             <li>She tried to play me, She said that I'm only a baby</li>
             <li>She said she gets crazy, it'll probably amaze me</li>
             <li>She said that she too much, she don't think that I'm enough</li>
@@ -259,12 +259,12 @@
             <li>Or get right with <popculture>Betty Wright</popculture>, turn it up, that's my shit</li>
         </stanza>
         <stanza speaker="Joey" type="hook">
-            <li><women>This one is a pantie dropper, this shit is a pantie dropper</li>
+            <li>This one is a pantie dropper, this shit is a pantie dropper</li>
             <li>This when her pantie dropping, this shit is a pantie dropper</li>
             <li>This one is a pantie dropper, this shit is a pantie dropper</li>
             <li>This shit is a pantie dropper, this one is a pantie dropper</li>
             <li>This shit be pantie dropping, this one is a pantie dropper</li>
-            <li>This shit is a pantie dropper, this one is a pantie dropper</women></li>
+            <li>This shit is a pantie dropper, this one is a pantie dropper</li>
         </stanza>
         <stanza speaker="Joey" type="outro">
             <li><women>Pussy</women> is the greatest invention of the man upstairs</li>
@@ -286,7 +286,7 @@
             <li>And don't you fight it, I know you know you like it</li>
             <li>Cause when the light flick, I creep inside your private</li>
             <li>Talk, <fashion>Victoria's Secret</fashion></li>
-            <li>She see the <fashion>polo draws</fashion>, she start to debriefing</li>
+            <li>She see the <fashion>Polo draws</fashion>, she start to debriefing</li>
             <li>She say she want the treatment right</li>
             <li>I kiss up on her neck and hold the cleavage tight</li>
             <li>Till it's evening time, we been at it all day</li>
@@ -320,7 +320,7 @@
             <li>Perfect, I'm glad we past flirting</li>
             <li>Before you wasn't certain when I was lifting up your skirt and</li>
             <li>But now you squirting, at the same time I'm bursting</li>
-            <li>You look good on <popculture>twitter</popculture> but even better in person</li>
+            <li>You look good on <popculture ref="Twitter">Twitter</popculture> but even better in person</li>
             <li>I wanna take the time out to say that it was worth it</li>
             <li>Your trip from <geo ref="NewYork">NYC</geo> to out here in <geo ref="Boston">Burston, I mean Boston</geo></li>
             <li>I'm a <fashion>MAC</fashion> like your lip gloss is</li>
@@ -354,7 +354,7 @@
             <li>Yo, <hiphop ref="NickiMinaj">Nicki</hiphop> can't even rap</li>
         </stanza>
         <stanza speaker="Joey" type="verse">
-            <li>You could catch me on the <popculture>Kawasaki</popculture>, evadin' paparazzi</li>
+            <li>You could catch me on the <popculture ref="Kawasaki">Kawasaki</popculture>, evadin' paparazzi</li>
             <li>I was spotted with a <women>hotty</women>, gettin' blumpkin in a porter-potty</li>
             <li>Feelin' like the man, but nose still snotty</li>
             <li>And she knows I got <women>hoes</women>, but still want me to body (the kitty)</li>
