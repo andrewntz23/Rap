@@ -513,17 +513,17 @@
 <stanza type="intro" speaker="JoeyBada$$">Yeah</stanza>
 
 <stanza type="verse" speaker="JoeyBada$$">
-<li>Another love song gone wrong</li>
-<li>Should've known you were a woo, like Based God in Wonton</li>
-<li>But I didn't, and I ain't even tripping</li>
-<li>Another foul ball but I'm still glad I hit it</li>
-<li>Cause a lot of niggas didn't you know - the coulda shoulda type</li>
-<li>Like "Oh, it was slight too tight, come on, I would've piped</li>
-<li>But our schedules contradicted we're always tied down"</li>
-<li>Ay pipe down, the first night ya boy layed the pipe down</li>
-<li>Took off the night gown and, pulled out the slinky</li>
-<li>She screamed "Joey spank me!"</li>
-<li>And after that she even thanked me, swanky!</li>
+<li>Another love song <group label="a" num="1" asonance="2">gone</group> <group label="a" num="2" asonance="1">wrong</group></li>
+<li>Should've known you were a woo, like Based <group label="a" num="3" assonance="4">God</group> in <group label="a" num="4" assonance="3">Wonton</group></li>
+<li>But I <group label="a" num="5" slantRhyme="6">didn't</group>, and I ain't even tripping</li>
+<li>Another foul ball but I'm still glad I <group label="a" num="6" slantRhyme="5">hit it</group></li>
+<li>Cause a lot of niggas didn't you know - the coulda shoulda <group label="a" num="7" rhyme="10">type</group></li>
+<li>Like "Oh, it was <group label="a" num="8" rhyme="9">slight</group> too <group label="a" num="9" rhyme="8">tight</group>, come on, I would've <group label="a" num="10" rhyme="7">piped</group></li>
+<li>But our schedules contradicted we're always <group label="a" num="11" rhyme="13,14">tied down</group>"</li>
+<li>Ay <group label="a" num="12" repetition="13">pipe down</group>, the first night ya boy layed the <group label="a" num="13" repetition="12" rhyme="11,14">pipe down</group></li>
+<li>Took off the <group label="a" num="14" rhyme="11,13">night gown</group> and, pulled out the <group label="a" num="15" slantRhyme="16">slinky</group></li>
+<li>She screamed "Joey <group label="a" num="16" slantRhyme="15" rhyme="17,18">spank me</group>!"</li>
+<li>And after that she even <group label="a" num="17" rhyme="16,18">thanked me</group>, <group label="a" num="18" rhyme="16,17">swanky</group>!</li>
 <li>One time for my nigga Dymes</li>
 <li>Lord knows we be kicking rhymes 'til the end of time</li>
 <li>But, back to the topic, oh yeah I'm pissed off</li>
