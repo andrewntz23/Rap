@@ -36,19 +36,17 @@
                 <AAVE field="phon" type="dropping" sound="g" position="final">actin'</AAVE> on the
                 scene, nigga's scream</li>
             <li>The actions <AAVE field="syn" type="contraction" word1="are" word2="not"
-                    >ain't</AAVE> screened, just <compound head="scheme" stem="well" type="endo"
-                    reason="rhyme">well-schemed</compound></li>
-            <li>I'm tryna' have wealth for my well-being</li>
+                    >ain't</AAVE> screened, just <compound head="scheme" stem="well" type="endo">well-schemed</compound></li>
+            <li>I'm <AAVE field="syn" type="contraction" word1="trying" word2="2">tryna'</AAVE> have wealth for my well-being</li>
             <li>By eighteen, pockets <AAVE field="syn" type="deletion" class="copula"/>healthy green</li>
             <li>What the fuck is twelve beams?</li>
             <li>I need the cake and cream</li>
-            <li>The stakes <AAVE field="syn" type="tense" cat="thirdperson">is</AAVE> high like
+            <li>The stakes <AAVE field="syn" type="tense" person="thirdperson">is</AAVE> high like
                 fiends off a dream</li>
             <li>Jet streaming having cuisine</li>
             <li>With the best season since the vet season</li>
             <li>Carry a vest, you know the reason</li>
-            <li>I'm in <compound head="Chicago" stem="Iraq" type="exo" reason="pun"
-                    >Chi-raq</compound> and I'm getting blown like the breezes</li>
+            <li>I'm in <compound head="Chicago" stem="Iraq" type="exo">Chi-raq</compound> and I'm getting blown like the breezes</li>
             <li>The chicken strip teasers</li>
             <li>Thighs, legs and the breast part is the cleavage</li>
             <li>She even lick it down to the bone marrow</li>
@@ -60,7 +58,7 @@
             <li>They <AAVE field="syn" type="contraction" word1="are" word2="not">ain't</AAVE>
                 <AAVE field="syn" type="contraction" word1="trying" word2="to">tryna'</AAVE> see me
                 in the battle</li>
-            <li>The lines <AAVE field="syn" type="tense" cat="thirdperson">is</AAVE> too narrow</li>
+            <li>The lines <AAVE field="syn" person="tense" cat="thirdperson">is</AAVE> too narrow</li>
             <li>They couldn't even outshine my shadow</li>
             <li>They don't want the beef nigga, let alone the cattle</li>
             <li>They <AAVE field="syn" type="deletion" class="copula"/>just living out the saddle, so
@@ -80,8 +78,8 @@
             <li>Okay, they <AAVE field="syn" type="deletion" class="copula"/>sleeping on the crack, they
                 overdose</li>
             <li>Overdose on high fructose, rolling toast <AAVE field="phon" type="dropping" sound="un" position="initial">'till</AAVE> I'm <compound head="throat"
-                    stem="over">over-throat</compound></li>
-            <li>And <compound head="slow" stem="over">over-slowed</compound>, <AAVE field="syn"
+                    stem="over" type="exo">over-throat</compound></li>
+            <li>And <compound head="slow" stem="over" type="endo">over-slowed</compound>, <AAVE field="syn"
                     type="aspect" cat="progressive">I been <AAVE field="phon" type="dropping"
                         sound="g" position="final">speakin'</AAVE></AAVE> over tones</li>
             <li>Low but keep them L's high, legends live long</li>
@@ -94,8 +92,8 @@
             <li>Okay, they <AAVE field="syn" type="deletion" class="copula"/>sleeping on the crack, they
                 overdose</li>
             <li>Overdose on high fructose, rolling toast <AAVE field="phon" type="dropping" sound="un" position="initial">'till</AAVE> I'm <compound head="throat"
-                stem="over">over-throat</compound></li>
-            <li>And <compound head="slow" stem="over">over-slowed</compound>, <AAVE field="syn"
+                stem="over" type="exo">over-throat</compound></li>
+            <li>And <compound head="slow" stem="over" type="endo">over-slowed</compound>, <AAVE field="syn"
                 type="aspect" cat="progressive">I been <AAVE field="phon" type="dropping"
                     sound="g" position="final">speakin'</AAVE></AAVE> over tones</li>
             <li>Low but keep them L's high, legends live long</li>
@@ -108,7 +106,7 @@
             <li>Why do they sweat us?</li>
             <li>Dead us, they just met us, but they won't forget us</li>
             <li>They don't know better than the worst case</li>
-            <li><AAVE field="syn" type="tense" cat="present">I be headed</AAVE> for first place</li>
+            <li><AAVE field="syn" type="aspect" cat="present">I be headed</AAVE> for first place</li>
             <li>Purchase they position <AAVE field="phon" type="dropping" sound="be"
                     position="initial">cause'</AAVE> they worship oppositions</li>
             <li>But I too had no pot to piss in, and so spot on in this instant</li>
@@ -163,7 +161,7 @@
             <li>This kid <AAVE field="syn" type="contraction" word1="is" word2="not">ain't</AAVE>
                 been the same since Biggie smacked me at my christening</li>
             <li>Watch your tradition and please play it safe</li>
-            <li>Cause your position on the top is switching right in front your face</li>
+            <li>Cause your position on the top is switching right in front <AAVE field="syn" type="deletion" class="preposition"/>your face</li>
             <li>Rocking on this bass with rhymes, I'm <AAVE field="phon" type="dropping" sound="g" position="initial">bustin'</AAVE> out</li>
             <li>He <AAVE field="syn" type="deletion" class="copula"/>duckin' down, got some issues now, headed for your house</li>
             <li>So put the pistols down, got that red dot on your nose</li>
@@ -171,17 +169,17 @@
             <li>Froze, keep your mouth closed or you can see the solar</li>
             <li>I got connections that guaranteed to see closed doors</li>
             <li>You hear that underground sonar</li>
-            <li>The way I flows, this wisdom</li>
+            <li>The way I <AAVE field="syn" person="tense" cat="thirdperson">flows</AAVE>, this wisdom</li>
             <li>The Pros been on a mission</li>
             <li>Listen into the chamber, get hyperbolic</li>
-            <li>They<AAVE field="phon" type="dropping" sound="g" position="final">raisin'</AAVE>max, I raise stakes to keep the brolic</li>
-            <li>My bitches is macrocosmic, pass the chronic</li>
-            <li>The mastered sonics is lightyears above your conscious</li>
+            <li>They<AAVE field="phon" type="dropping" sound="g" position="final">raisin'</AAVE>max, I raise stakes to keep the <compound head="bro" stem="-lic" type="exo">brolic</compound></li>
+            <li>My bitches <AAVE field="syn" type="tense" cat="thirdperson">is</AAVE> macrocosmic, pass the chronic</li>
+            <li>The mastered sonics <AAVE field="syn" type="tense" cat="thirdperson">is</AAVE> lightyears above your conscious</li>
             <li>You're novice, but I got notes that strike nerves</li>
             <li>I promise your minds <AAVE field="syn" type="contraction" word1="are" word2="not"
                     >ain't</AAVE> sharp like my swords</li>
-            <li>So cut the BS, and don't worry where my jeans is</li>
-            <li>And PS: Your bitch a genius, learnt from my penis</li>
+            <li>So cut the BS, and don't worry where my jeans <AAVE field="syn" type="tense" cat="thirdperson">is</AAVE></li>
+            <li>And PS: Your bitch <AAVE field="syn" type="deletion" class="copula"/>a genius, learnt from my penis</li>
             <li>I got dreams filling arenas and breaking brackets</li>
             <li>Tend this racket, while I'm cracking a Serena</li>
             <li>God damn, God bless the heaven that sent you</li>
@@ -192,7 +190,7 @@
             <li>I said shit is really real out here</li>
             <li>Just trying to get a deal out here</li>
             <li>I'm screaming cream</li>
-            <li>Who fucking with the rap supreme?</li>
+            <li>Who <AAVE field="syn" type="deletion" class="copula"/>fucking with the rap supreme?</li>
             <li>Joey Bad, the Big Preem came to collect the green</li>
             <li>I got a dollar and a dream, know what I mean?</li>
             <li>And I gotta get my mama off the scene</li>
