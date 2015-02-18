@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <title>jspractice_spans</title>
+        <script type="text/javascript">
+            /*As stated, nothing really exciting is going on yet (checkboxes are not associated, color system was sloppily done, cannot account for belonging
+            to multiple groups), and theres some sloppiness, but this is the basis for the proofreading tool. Much of this code will be reusable for display purposes as well.
+            I will also create an XSLT to convert the given xml to the format required for the code to work (basically just tacking "data-" to the desired attribute names-)*/
+            
+            var colors = ["red", "blue", "green", "purple", "orange", "red", "blue", "green", "purple", "orange", "red", "blue", "green", "purple", "orange"] 
+            /*Should develop a better way to cycle through colors. this is sloppy, and could get out of bounds index if there is a lot of groups in any particular song.*/
+
+            window.onload = function(){
+                var foo = document.getElementsByTagName("span");
+                setColor()
+                for(var i = 0; (i != foo.length); i++) { 
+                    var num = foo[i].getAttribute('data-num');
+                    var text = foo[i].getAttribute('data-rhyme');
+                    var layover = "overlay('popup".concat(num,  "')"); 
+                    var layunder = "wipeOverlay('popup".concat(num, "')");  
+                    foo[i].setAttribute("onmouseover", layover);
+                    foo[i].setAttribute("onmouseout", layunder);
+                    foo[i].setAttribute("onclick", "highlighter(this)");
+                }
+            }
+            
+            function setColor(){
+                /*works for members of only one group. But what if member of both?  
+                Need to format correctly, and adjust so that the checkboxes will actually have their intended functionality. Need better system for colors. Probably can do some sort of math
+                */
+                var container = document.createElement("form");  
+                container.setAttribute("id", "container");
+                container.setAttribute("style", "border-style:solid")
+                container.setAttribute("action", "");
+                document.body.appendChild(container);
+                var spans = document.getElementsByTagName("span")
+                var distinct = [];
+                for (var d = 0; d != spans.length; d++){
+                    if (!contains(distinct, spans[d].getAttribute("title"))){
+                        distinct.push(spans[d].getAttribute("title"));
+                        var newBox = document.createElement("input");
+                        var newLabel = document.createElement("label");
+                        var newText = document.createTextNode("Highlight group ".concat(spans[d].getAttribute("title"))); 
+                        color = colors[d]
+                        newBox.type = "checkbox";
+                        newBox.name = "highlight";
+                        newBox.value = spans[d].getAttribute("title");
+                        newBox.id = spans[d].getAttribute("title");
+                        newBox.checked = true;
+                        newBox.setAttribute("onclick", "clearColor(this)")
+                        newLabel.setAttribute("onclick", "clearColor(this)")
+                        newLabel.appendChild(newText);
+                        newLabel.id = spans[d].getAttribute("title");
+                        newLabel.htmlFor = spans[d].getAttribute("title");
+                        container.appendChild(newBox); 
+                        container.appendChild(newLabel);
+                    }
+                }
+                var foo = document.getElementsByTagName("span") 
+                var bar = document.getElementsByTagName("label");
+                for (var a = 0; (a != distinct.length); a++){
+                    color = colors[a];
+                    for (var i = 0; (i != foo.length); i++) { 
+                        if (foo[i].getAttribute("title") == distinct[a]){
+                            foo[i].setAttribute("style", "color:".concat(color));
+                        }
+                    }   
+                    for (var g = 0; (g != bar.length); g++){  
+                        if (bar[g].getAttribute("for") == distinct[a]){ 
+                            bar[g].setAttribute("style", "color:".concat(color));
+                        }
+                    }
+                 }
+             }
+             
+             function contains(a, obj) {
+                    for (var i = 0; i != a.length; i++) {
+                        if (a[i] === obj) {
+                            return true;
+                        }
+                    }
+                return false;
+            }
+            
+            function highlighter(elmt){ //will want to also take as a parameter the radio that is selected. or at least grab it. probably grab it. 
+                var foo = document.getElementsByTagName("span");
+                for(var i = 0; (i != foo.length); i++) { 
+                    if (foo[i].getAttribute("title") == elmt.getAttribute("title")){ 
+                        if (foo[i].getAttribute("style").indexOf("font-size:200%") != -1){ 
+                            foo[i].setAttribute("style", foo[i].getAttribute("style").replace(/;font-size:200%/, "")); //if you try to add a different style thing besides font-size:200% doensnt' work. why?
+                                                                                                                       //might be easier to use css hover. 
+                        }
+                        else{
+                            foo[i].setAttribute("style", foo[i].getAttribute("style").concat(";font-size:200%"));
+                        }
+                    }
+                }
+            
+            }
+            function overlay(id) { //popup from obdurodon example. Will I need this? 
+                 if (document.getElementById(id)) return; // don't create a popup if there's already one open for this id
+                 var overlay = document.createElement("div");
+                 var XMousePos = window.event.clientX;
+                 var Ypos = window.event.clientY;
+                 var windowWidth = window.innerWidth;
+                 if (windowWidth - XMousePos > 300) {
+                     var Xpos = XMousePos
+                 } else {
+                       var Xpos = windowWidth - 310
+                    };
+                    overlay.setAttribute("id", id);
+                 overlay.setAttribute("style", "z-index: 10; background-color: yellow; position: absolute; left: " + Xpos + "px; top: " + Ypos + "px; border: 2px solid black; width: 300px; padding: 2px; margin: 0;")
+                    overlay.setAttribute("onclick", "document.body.removeChild(document.getElementById('" + id + "'))");
+                    overlay.setAttribute("class", "overlay");
+                    document.body.appendChild(overlay);
+            }
+            
+            function wipeOverlay(id){
+                 var elmt = document.getElementById(id);
+                 elmt.remove();
+            }
+            
+            function clearColor(elmt){  //can now use this to disable initial colors; need to fix it so that it will reset the colors when desired
+                var bar = document.getElementsByTagName("span");
+                if (elmt.checked == false){
+                    for (var i = 0; (i != bar.length); i++) { 
+                        if (bar[i].getAttribute("title") == elmt.getAttribute("id")){
+                            bar[i].setAttribute("style", "color:black");
+                        }
+                    }
+                }
+                else {
+                    for (var i = 0; (i != bar.length); i++) { 
+                        if (bar[i].getAttribute("title") == elmt.getAttribute("id")){
+                            bar[i].setAttribute("style", "color:".concat(colors[(elmt.getAttribute("id").charCodeAt(0) - 97)])); 
+                        }
+                    }
+                }
+                
+            }
+
+        </script>
+    </head>
+    <body>
+        <p>The <span title="a" data-num="1" data-rhyme="25" data-assonance="34">fat</span>
+            <span title="a" data-num="2" data-rhyme="15" data-assonance="34">cat</span>
+            <span title="a" data-num="3" data-rhyme="4" data-assonance="125">snags</span> his <span title="a"
+                data-num="4" data-rhyme="3" data-assonance="125">bags</span> and <span title="a" data-num="5"
+                data-assonance="34">gat</span> <span title="b">cool</span> <span title="c"> and cooler</span></p>
+    </body>
+</html>
