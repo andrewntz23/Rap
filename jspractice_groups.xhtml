@@ -8,6 +8,17 @@
             to multiple groups), and theres some sloppiness, but this is the basis for the proofreading tool. Much of this code will be reusable for display purposes as well.
             I will also create an XSLT to convert the given xml to the format required for the code to work (basically just tacking "data-" to the desired attribute names-)*/
             
+            
+            /* 
+            Everything is basically set except for two features: on click of any radio button launch one function, which takes as a parameter the only radio that is checked. 
+            Upon that, turn everything black that either does not have a title attribute of the same value as an associated by id, CHECKED=TRUE checkbox or does not have an 
+            attribute equal to that radio's id. (for example, if only checkbox group d is checked and they press allit radio, only the members associated by alliteration in group d will be
+            still their color. everything else will go black). Problem will be returning original color (honestly, handled well in the clear function), and making work for members of multiple groups. 
+            Everything else should be pretty straightforward; for instance, gathering checked checkboxes will be simply a matter of running document.querySelectAll(checkbox[checked=true])
+            
+            */
+            
+            
             var colors = ["red", "blue", "green", "purple", "orange", "red", "blue", "green", "purple", "orange", "red", "blue", "green", "purple", "orange"] 
             /*Should develop a better way to cycle through colors. this is sloppy, and could get out of bounds index if there is a lot of groups in any particular song.*/
 
@@ -121,7 +132,10 @@
                  elmt.remove();
             }
             
-            function clearColor(elmt){  //can now use this to disable initial colors; need to fix it so that it will reset the colors when desired
+            function clearColor(elmt){  //cannot overload methods in JavaScript, but CAN have optional parameters. Best move might be to set a second param here evaluate whether it is null or not, use the SINGLE one
+            //for the checkboxes and DOBUBLE for the radio, then check if second arg is null (if so, run what currently have; if not, change it to set color based on radio value and this value.)
+                var radio = document.querySelector('input[name="device"]:checked').value; //working, sort of (needs a lot of building still), but the below code is not working because radio!=null. good start. 
+                if (radio==null){
                 var bar = document.getElementsByTagName("span");
                 if (elmt.checked == false){
                     for (var i = 0; (i != bar.length); i++) { 
@@ -137,7 +151,7 @@
                         }
                     }
                 }
-                
+                }
             }
 
         </script>
@@ -148,5 +162,20 @@
             <span title="a" data-num="3" data-rhyme="4" data-assonance="125">snags</span> his <span title="a"
                 data-num="4" data-rhyme="3" data-assonance="125">bags</span> and <span title="a" data-num="5"
                 data-assonance="34">gat</span> <span title="b">cool</span> <span title="c"> and cooler</span></p>
+<!--   Might be better to do this with either XSLT or JS     -->
+        <form action=""> 
+            <input type="radio" name="device" value="all" id="all" checked="true"/>
+            <label for="all">all</label>
+            <input type="radio" name="device" value="rhyme" id="rhyme"/>
+            <label for="rhyme">rhyme</label>
+            <input type="radio" name="device" value="slant" id="slant"/>
+            <label for="slant">slant rhyme</label>
+            <input type="radio" name="device" value="assonance" id="assonance"/>
+            <label for="assonance">assonance</label>
+            <input type="radio" name="device" value="alliteration" id="alliteration"/>
+            <label for="alliteration">alliteration</label>
+            <input type="radio" name="device" value="assimilation" id="assimilation"/>
+            <label for="assimilation">assimilation</label>
+        </form>
     </body>
 </html>
