@@ -12,3 +12,11 @@ stanza = element stanza {type, speaker, li+}
 speaker = attribute speaker {"Joey"|"KirkKnight"|"BJtheChicagoKid"|"Joey BJtheChicagoKid"|"Chronixx"|"Joey Chronixx"|"MaverickSabre"|"DyemondLewis"|"Raury"|"ActionBronson"|"ElleVarner"|"Kieza"}
 type = attribute type {"album"|"mixtape"|"verse"|"intro"|"bridge"|"hook"|"skit"|"interlude"|"outro"|"sample"}
 li = element li {text}
+
+#If you want to make a group variable for something you just use label=(blah|blah1|blah2|etc.) 
+#and then you can use it instead of repeating yourself 
+#example: datePattern = (day|month|year)
+#date = element date {(when |(from, to)), empty} 
+#when = attribute when {datePattern}
+#from = attribute from {datePattern}
+#to = attribute to {datePattern}
