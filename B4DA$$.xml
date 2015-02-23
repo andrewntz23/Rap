@@ -44,7 +44,7 @@
                 green</li>
             <li>What the fuck is twelve beams?</li>
             <li>I need the cake and cream</li>
-            <li>The stakes <AAVE field="syn" type="tense" person="thirdperson">is</AAVE> high like
+            <li>The stakes <AAVE field="syn" type="tense" person="third">is</AAVE> high like
                 fiends off a dream</li>
             <li>Jet streaming having cuisine</li>
             <li>With the best season since the vet season</li>
@@ -62,7 +62,7 @@
             <li>They <AAVE field="syn" type="contraction" word1="are" word2="not">ain't</AAVE>
                 <AAVE field="syn" type="contraction" word1="trying" word2="to">tryna'</AAVE> see me
                 in the battle</li>
-            <li>The lines <AAVE field="syn" person="tense" cat="thirdperson">is</AAVE> too
+            <li>The lines <AAVE field="syn" type="tense" person="third">is</AAVE> too
                 narrow</li>
             <li>They couldn't even outshine my shadow</li>
             <li>They don't want the beef nigga, let alone the cattle</li>
@@ -193,22 +193,22 @@
             <li>Froze, keep your mouth closed or you can see the solar</li>
             <li>I got connections that guaranteed to see closed doors</li>
             <li>You hear that underground sonar</li>
-            <li>The way I <AAVE field="syn" person="tense" cat="thirdperson">flows</AAVE>, this
+            <li>The way I <AAVE field="syn" type="tense" person="third">flows</AAVE>, this
                 wisdom</li>
             <li>The Pros been on a mission</li>
             <li>Listen into the chamber, get hyperbolic</li>
             <li>They<AAVE field="phon" type="dropping" sound="g" position="final">raisin'</AAVE>max,
                 I raise stakes to keep the <compound head="bro" stem="-lic" type="exo"
                     >brolic</compound></li>
-            <li>My bitches <AAVE field="syn" type="tense" cat="thirdperson">is</AAVE> macrocosmic,
+            <li>My bitches <AAVE field="syn" type="tense" person"third">is</AAVE> macrocosmic,
                 pass the chronic</li>
-            <li>The mastered sonics <AAVE field="syn" type="tense" cat="thirdperson">is</AAVE>
+            <li>The mastered sonics <AAVE field="syn" type="tense" person="third">is</AAVE>
                 lightyears above your conscious</li>
             <li>You're novice, but I got notes that strike nerves</li>
             <li>I promise your minds <AAVE field="syn" type="contraction" word1="are" word2="not"
                     >ain't</AAVE> sharp like my swords</li>
             <li>So cut the BS, and don't worry where my jeans <AAVE field="syn" type="tense"
-                    cat="thirdperson">is</AAVE></li>
+                    person="third">is</AAVE></li>
             <li>And PS: Your bitch <AAVE field="syn" type="deletion" class="copula"/>a genius,
                 learnt from my penis</li>
             <li>I got dreams filling arenas and breaking brackets</li>
@@ -404,20 +404,20 @@
             <li>I came up out of the tomb, don’t drop a L</li>
             <li>Uh, you don't want to see the evils, which I dwell in hell</li>
             <li>To excel, this shit never fails, always excels</li>
-            <li><AAVE field="syn" type="tense">They been swallowing</AAVE> sons before the double XL</li>
+            <li><AAVE field="syn" type="aspect" tense="progressive">They been swallowing</AAVE> sons before the double XL</li>
             <li>Sex cell, ex ask why it never work out</li>
             <li>I guess I exercise too much when I work out</li>
-            <li>Shows too turnt out return home burnt out</li>
+            <li>Show's too turnt out return home burnt out</li>
             <li>Now I got to hear all the shit that you heard <AAVE field="phon" type="dropping"
                     sound="a" position="initial">'bout</AAVE></li>
             <li>Can I live? What, these niggas want me off a bridge?</li>
             <li>If I say it's turnt down, do I burn that shit?</li>
             <li>Truth is, if it <AAVE field="syn" type="contraction" word1="is" word2="not"
                     >ain't</AAVE> real, I don't feel it</li>
-            <li>If it don't hit my spirit, I don't get near it</li>
+            <li>If <AAVE field="syn" type="tense" person="third">it don't</AAVE> hit my spirit, I don't get near it</li>
             <li>And that's point blank period, know some niggas that fear it</li>
-            <li>Same niggas who know that we the illest</li>
-            <li>Lines so deep a great shark is what I reel up</li>
+            <li>Same niggas who know that we <AAVE field="syn" type="deletion" class="copula"/>the illest</li>
+            <li>Lines <AAVE field="syn" type="deletion" class="copula"/>so deep a great shark is what I reel up</li>
             <li>Hit the flow and it can't go realer, my whole camp gorillas, nigga</li>
         </stanza>
         <stanza type="hook" speaker="Joey">
@@ -434,18 +434,18 @@
         </stanza>
         <stanza type="verse" speaker="Joey">
             <li>I stand juxtaposed to all my Pro's, realest illest niggas I know</li>
-            <li>See these foes biting the flows, they even jooks the pose</li>
-            <li>I guess my CD really shaking the coast</li>
-            <li>Cause this really be the year that I feast, capisce?</li>
+            <li>See these foes <AAVE field="syn" type="deletion" class="copula"/>biting the flows, they even jooks the pose</li>
+            <li>I guess my CD <AAVE field="syn" type="deletion" class="copula"/>really shaking the coast</li>
+            <li>Cause <AAVE field="syn" type="tense" person="third">this really be</AAVE> the year that I feast, capisce?</li>
             <li>Nothing defeats the beast, I speak my piece</li>
             <li>Know niggas in the streets that heat seek for me, release and squeeze</li>
             <li>Might put a Halloween between your spleen</li>
             <li>Retreat or trickle down to your last pound of green, know what I mean?</li>
             <li>Shit it's like taking candy from the babies</li>
             <li>All of these rappers are just a bunch of Now and Laters</li>
-            <li>They too sweet, plus they lease their Mercedes</li>
+            <li>They <AAVE field="syn" type="deletion" class="copula"/>too sweet, plus they lease their Mercedes</li>
             <li>Can't be second greatest, I'm the best and def your favorite</li>
-            <li>My flow in-depth nigga, I got my wave up</li>
+            <li>My flow <AAVE field="syn" type="deletion" class="copula"/>in-depth nigga, I got my wave up</li>
             <li>It's either get your tidal waved, or you could be my neighbor</li>
             <li>Cause if I can't eat, then you can't either</li>
             <li>I need to know, need the pizza dough fuck I'm spitting ether for?</li>
@@ -472,7 +472,7 @@
             <li>And I'm from the blocks where they sell</li>
             <li>Cell blocks rock my mental</li>
             <li>See them fake thugs that you see before can't even spell</li>
-            <li>My flows filled with words you can't pronounce, stories you can't tell</li>
+            <li>My flows <AAVE field="syn" type="deletion" class="copula"/>filled with words you can't pronounce, stories you can't tell</li>
         </stanza>
         <stanza type="outro" speaker="Joey">
             <li>Check my style, check, check, check it out</li>
@@ -499,18 +499,18 @@
             <li>In this state of mind, <AAVE field="syn" type="contraction" word1="got" word2="to"
                     >gotta</AAVE> state facts suspect nigga</li>
             <li>Get your wig pushed back tonight, to 1999</li>
-            <li>Who'd've thought that 19 I'd be in my prime</li>
-            <li>Throw up the right scheme everything else align</li>
+            <li>Who'd've thought that <AAVE field="syn" type="deletion" class="preposition"/>19 I'd be in my prime</li>
+            <li>Throw up the right scheme <AAVE field="syn" type="tense" person="third">everything else align</AAVE></li>
             <li>Here's a penny for your thoughts another one another one</li>
             <li>Eventually the dream was bought</li>
             <li>Now that's a real, real, real mind fuck</li>
             <li>Might fuck up your mind if you're lighting up</li>
             <li>Make sure to take a tight [?] if you tough</li>
-            <li>Imma titan, like Zeus I enlighten them</li>
+            <li><AAVE field="syn" type="contraction" word1="I'm" word2="going" word3="to">Imma</AAVE> titan, like Zeus I enlighten them</li>
             <li>Kick flows, till it's kung-fu fighting them</li>
             <li>Is it him, it is you who was nice as him?</li>
-            <li>I don't see nobody no, no</li>
-            <li>I don't see nobody no, no</li>
+            <li>I <AAVE field="syn" type="negative">don't see nobody</AAVE> no, no</li>
+            <li>I <AAVE field="syn" type="negative">don't see nobody</AAVE> no, no</li>
         </stanza>
         <stanza type="hook" speaker="Joey">
             <li>And we probably share a trait or two</li>
@@ -525,14 +525,14 @@
                     >ain't</AAVE> safe yet</li>
             <li>I keep the bombs in my basement</li>
             <li>When I detonate you can feel the vibrations</li>
-            <li>I got ya mind shaking and in my right my light gon spark for generations</li>
+            <li>I got <AAVE field="phon" type="dropping" sound="r" position="final">ya</AAVE> mind shaking and in my right my light <AAVE field="phon" type="dropping" sound="na" position="final"><AAVE field="syn" type="contraction" word1="going" word2="to">gon</AAVE></AAVE> spark for generations</li>
             <li>One day my voice will be heard</li>
-            <li>On every radio station cause fate rearranging and changing and this</li>
+            <li>On every radio station cause fate <AAVE field="syn" type="deletion" class="copula"/>rearranging and changing and this</li>
             <li>Everyday living in this life I see</li>
             <li>That in every way they wanna see my life decease</li>
             <li>But I survive the question is for how long</li>
-            <li>Since my homie died, I been tryin to hold on</li>
-            <li>The happy days of my life is now all gone</li>
+            <li>Since my homie died, <AAVE field="syn" type="aspect" tense="progressive">I been <AAVE field="phon" type="dropping" sound="g" position="final">tryin'</AAVE></AAVE> to hold on</li>
+            <li><AAVE field="syn" type="tense" person="third">The happy days of my life is</AAVE> now all gone</li>
             <li>But I cope with that weed I smoke and writing these songs</li>
             <li>But it's should I stay should I go?</li>
             <li>Should I stay should I go?</li>
@@ -545,7 +545,7 @@
             <li>Hey Jesus will I ever get to see you through my Hazeus View?</li>
         </stanza>
         <stanza type="verse" speaker="Joey">
-            <li>Everything cool like in the state of mind</li>
+            <li>Everything <AAVE field="syn" type="deletion" class="copula"/>cool like in the state of mind</li>
             <li>At this state in my correct, cool, calm, collect</li>
             <li>Deflect the corrupt with intellect</li>
             <li>I talk too much, the jig is up he has risen up</li>
