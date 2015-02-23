@@ -135,8 +135,9 @@
             function clearColor(elmt){  //cannot overload methods in JavaScript, but CAN have optional parameters. Best move might be to set a second param here evaluate whether it is null or not, use the SINGLE one
             //for the checkboxes and DOBUBLE for the radio, then check if second arg is null (if so, run what currently have; if not, change it to set color based on radio value and this value.)
                 var radio = document.querySelector('input[name="device"]:checked').value; //working, sort of (needs a lot of building still), but the below code is not working because radio!=null. good start. 
-            //    if (radio==null){
+            //    if (radio==null){  
                 var bar = document.getElementsByTagName("span");
+                //I think that I actually need to collect all of the boxes that are checked, and then run a loop over those, with what is belowe as nested for them, because should be able to do this with radios too.
                 if (elmt.checked == false){
                     for (var i = 0; (i != bar.length); i++) { 
                         if (bar[i].getAttribute("title") == elmt.getAttribute("id")){
