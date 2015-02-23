@@ -9,10 +9,49 @@ song = element song {title, production, stanza+}
 title = attribute title {text}
 production = attribute production {text}
 stanza = element stanza {type, speaker, li+}
-speaker = attribute speaker {"Joey"|"KirkKnight"|"BJtheChicagoKid"|"Joey BJtheChicagoKid"|"Chronixx"|"Joey Chronixx"|"MaverickSabre"|"DyemondLewis"|"Raury"|"ActionBronson"|"ElleVarner"|"Kieza"}
+speaker = attribute speaker {"2pac" |  "ALa$ole" |  "ActionBronson" |  "CJFly" |  "CapitalSTEEZ" |  "Chronixx" |  "ChuckStrangers" |  "CollieBuddz" |  "DessyHinds" |  "DirtySanchez" |  "DyemondLewis" |  "ElleVarner" |  "Joey" |  "Joey BJtheChicagoKid" |  "JoeyBada$$" |  "JoeyBada$$ CJFly" |  "JoeyBada$$ KirkKnight" |  "Kieza" |  "KirkKnight" |  "MaverickSabre" |  "NYCkCaution" |  "Nas Youngster" |  "NyckCaution" |  "Pinky JoeyBada$$" |  "ProEra" |  "Raury" |  "Rokamouth" |  "Sample" |  "SaulWilliams" |  "SmokeDZA" |  "T'nahApex" |  "Unknown" |  "Unknown CapitalSTEEZ" |  "UnknownSoldier" |  "unknown" }
 type = attribute type {"album"|"mixtape"|"verse"|"intro"|"bridge"|"hook"|"skit"|"interlude"|"outro"|"sample"}
 li = element li {text}
-
+tag=(oldschool|success|women|fashion|struggle|food|money|hiphop|haters|guns|popculture|weed|sports|geo|group|AAVE|compound)
+oldschool = element oldschool {text}
+success = element success {text}
+women = element women {text} 
+fashion = element fashion {text}
+struggle = element struggle {text}
+food = element food {text}
+money = element money {text}
+haters = element haters {text}
+guns = element guns {text}
+weed = element weed {text}
+sports = element sports {text}
+hiphop = element hiphop {mixed{ref}}
+ref = attribute ref {"Jay-Z"|"LilWayne"|"LupeFiasco"|"Tupac"|"Diddy"|"NotoriousBIG"|"50Cent"|"KanyeWest"|"NickiMinaj"|"JDilla"|"DragonBallZ"|"Batman"|"MurderSheWrote"|"DonCheadle"|"MaxKeeble"|"MojoJojo"|"Brooklyn"|"NewYork"|"NewMexico"|"Spain"|"EastCoast"|"Boston"}
+popculture = element popculture {mixed {ref}}
+geo = element geo {mixed {ref}}
+group = element group {mixed {label,num, (alliteration|assonance|assimilation|consonance|repetition|rhyme|slantRhyme)+}}
+label = attribute label {text}
+num = attribute num {xsd:int}
+alliteration = attribute alliteration {xsd:int}
+assonance = attribute assonance {xsd:int}
+assimilation = attribute assimilation {xsd:int}
+consonance = attribute consonance {xsd:int}
+repetition = attribute repetition {xsd:int}
+rhyme = attribute rhyme {xsd:int}
+slantRhyme = attribute slantRhyme {xsd:int}
+AAVE = element AAVE {mixed {field,type,(sound, position|word1,word2,word3?|person|class)}}
+compound= element compound {head, stem, type}
+field = attribute field {"syn"|"phon"}
+type = attribute type {"deletion"|"contraction"|"type"|"dropping"}
+sound = attribute sound {text}
+position = attribute position {"initial"|"middle"|"final"}
+word1 = attribute word1 {text}
+word2 = attribute word2 {text}
+word3 = attribute word3 {text}
+person = attribute person {text}
+class = attribute class {"copula"|"preposition"}
+head = attribute head {text}
+stem = attribute stem {text}
+type = attribute type {"exo"|"endo"}
 #If you want to make a group variable for something you just use label=(blah|blah1|blah2|etc.) 
 #and then you can use it instead of repeating yourself 
 #example: datePattern = (day|month|year)
@@ -20,3 +59,7 @@ li = element li {text}
 #when = attribute when {datePattern}
 #from = attribute from {datePattern}
 #to = attribute to {datePattern}
+
+
+
+#
