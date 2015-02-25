@@ -200,7 +200,7 @@
             <li>They<AAVE field="phon" type="dropping" sound="g" position="final">raisin'</AAVE>max,
                 I raise stakes to keep the <compound head="bro" stem="-lic" type="exo"
                     >brolic</compound></li>
-            <li>My bitches <AAVE field="syn" type="tense" person"third">is</AAVE> macrocosmic,
+            <li>My bitches <AAVE field="syn" type="tense" person="third">is</AAVE> macrocosmic,
                 pass the chronic</li>
             <li>The mastered sonics <AAVE field="syn" type="tense" person="third">is</AAVE>
                 lightyears above your conscious</li>
@@ -225,7 +225,7 @@
                 supreme?</li>
             <li>Joey Bad, the Big Preem came to collect the green</li>
             <li>I got a dollar and a dream, know what I mean?</li>
-            <li>And I <AAVE field="syn" type="condtraction" word1="got" word2="to"><AAVE field="syn"
+            <li>And I <AAVE field="syn" type="contraction" word1="got" word2="to"><AAVE field="syn"
                         type="contraction" word1="got" word2="to">gotta</AAVE></AAVE> get my mama
                 off the scene</li>
             <li>Cash ruined everything around me</li>
@@ -283,10 +283,10 @@
             <li>Laying low for a minute in the game</li>
             <li>Since I came all these niggas<AAVE field="syn" type="deletion" class="copula"/><AAVE
                     field="phon" type="dropping" sound="g" position="final">lookin'</AAVE>timid</li>
-            <li>My life can never <compound>dimeth</compound>, the Lord is my sheppard</li>
+            <li>My life can never <compound head="" stem="" type="exo">dimeth</compound>, the Lord is my sheppard</li>
             <li>Jesus woke a devil in him, the<AAVE field="phon" type="dropping" sound="g"
                     position="final">sinnin'</AAVE>with least effort</li>
-            <li>Thinking back to those <compound>lefferts</compound> days</li>
+            <li>Thinking back to those <compound head="" stem="" type="endo">lefferts</compound> days</li>
             <li>And I <AAVE field="syn" type="contraction" word1="have" word2="not">ain't</AAVE>
                 been the same since I left 6th grade</li>
             <li>My mind's <AAVE field="phon" type="dropping" sound="g" position="final"
@@ -304,7 +304,7 @@
             <li><AAVE field="phon" type="dropping" sound="g" position="final">Thinkin'</AAVE> I can
                 get the Maybach off gun play</li>
             <li>Instead I let the words play with 90 beats a minute</li>
-            <li>Bet the streets lose a heart beat before the verse <AAVE field="syn" type=""
+            <li>Bet the streets lose a heart beat before the verse <AAVE field="syn" type="deletion" class="copula"
                 />finish</li>
             <li>But life goes on, basic rules still apply</li>
             <li>And you can feel that lot in any hood that you live by</li>
@@ -326,7 +326,7 @@
         </stanza>
         <stanza type="verse" speaker="Joey">
             <li>And what's life like now, I can't figure out</li>
-            <li>They put my mans on trial, say he <AAVE field="syn" type="deletion" class="copulat"
+            <li>They put my mans on trial, say he <AAVE field="syn" type="deletion" class="copula"
                 />a killer now</li>
             <li>Conspiracies, we<AAVE field="phon" type="dropping" sound="na" position="final"><AAVE
                         field="syn" type="contraction" word1="going" word2="to"
