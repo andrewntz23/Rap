@@ -11,7 +11,7 @@
         <stanza speaker="JoeyBada$$" type="intro">
             <li>And the champion</li>
             <li> Reigning that is</li>
-            <li> From Flatbush, Brooklyn</li>
+            <li> From <geo ref="Flatbush">Flatbush</geo>, <geo ref="Brooklyn">Brooklyn</geo></li>
             <li> Yea.. back in this muthafucka</li>
             <li> Reportin' live from a lyrical high</li>
             <li> One time</li>
@@ -20,38 +20,38 @@
             <li> Yo, with not a damn thing on my mind</li>
             <li> But this rhyme, and a matter of time</li>
             <li> To make this whole shit align</li>
-            <li> Like I planned out, nothing in life gets handout</li>
-            <li> Just stand out, ever since I hit the pot my vision panned out</li>
+            <li> Like I planned out, <struggle>nothing in life gets handout</struggle></li>
+            <li> Just stand out, ever since I hit the <weed>pot</weed> my vision panned out</li>
             <li> Pressure boil 'til im fanned out</li>
-            <li> Now we the popular band</li>
-            <li> So they can't keep their hands off of the man now</li>
+            <li> <success>Now we the popular band</success></li>
+            <li> So <success>they can't keep their hands off of the man now</success></li>
             <li> Invite em in, give 'em that S vitamin</li>
             <li> Baby Cham style</li>
-            <li> Got some Trini girl to soak it up, ShamWoW!</li>
+            <li> Got <women>some Trini girl</women> to soak it up, <popculture ref="ShamWoW">ShamWoW</popculture>!</li>
             <li> Damn child, you're killin 'em</li>
             <li> Fillin' 'em, drillin' 'em with serums, of pure noradrenaline</li>
             <li> High blood feelin' like the thermostat cracked left mercury spillin'</li>
-            <li> Your favorite rapper tryna earn stacks from nursery children</li>
+            <li> Your favorite rapper tryna earn <money>stacks</money> from nursery children</li>
             <li> True emcees write a verse and rehearse it a million times</li>
             <li> Just for the rebirth of a feelin' prime and golden</li>
             <li> Shawty ask what I'm holdin', teasin' 'em</li>
-            <li> Know when the magnum blast eye squeeze magnesium</li>
+            <li> Know when the <guns>magnum</guns> blast eye squeeze magnesium</li>
             <li> Used to be mad premature now I'm mad premium</li>
             <li> From lookin' up to niggas, to lookin' up niggas meetin' 'em</li>
-            <li> Meetings with 'em, give 'em a high pitch like curveballs and helium</li>
-            <li> Young scorcher trying to evolve like Charmeleon</li>
-            <li> Million, yeah nigga, we tryna get a million</li>
-            <li> Got the bomb nigga, Baghdad, I'm blown away from a bad pass</li>
-            <li> Walk on grass, below skunk, I smell sole funk in the stash</li>
-            <li> My SB's, antimony I never had</li>
+            <li> Meetings with 'em, give 'em a high <sports>pitch like curveballs</sports> and helium</li>
+            <li> Young scorcher trying to evolve like <popculture ref="Pokemon">Charmeleon</popculture></li>
+            <li> <money>Million</money>, yeah nigga, we tryna get a <money>million</money></li>
+            <li> Got the bomb nigga, <geo ref="Baghdad">Baghdad</geo>, I'm blown away from a bad pass</li>
+            <li> Walk on <weed>grass</weed>, below <weed>skunk</weed>, I smell <fashion>sole</fashion> funk in the <weed>stash</weed></li>
+            <li> My <popculture ref="NikeSB">SB</popculture>'s, antimony I never had</li>
             <li> I was more arsenic, vaporize when I got heated</li>
-            <li> Never jealous, solid as a rock n' roll fo' planes</li>
-            <li> No propellers, just some Pro fellas</li>
-            <li> Who you know better? Never lost my groove I don't know no Stella</li>
-            <li> It's a cold world without Coachella</li>
-            <li> A shady bunch, like under Interscope umbrella</li>
+            <li> Never jealous, solid as a rock n' <weed>roll fo' planes</weed></li>
+            <li> No propellers, just some <hiphop ref="ProEra">Pro</hiphop> fellas</li>
+            <li> Who you know better? Never lost my groove I don't know no <women>Stella</women></li>
+            <li> It's a cold world without <popculture ref="Coachella">Coachella</popculture></li>
+            <li> A <hiphop ref="Eminem">shady</hiphop> bunch, like under <popculture ref="Interscope">Interscope</popculture> umbrella</li>
             <li> But that don't phase me once, people say I'm crazy but</li>
-            <li> Call me young Evel cause I crazy stunt</li>
+            <li> Call me young <popculture ref="EvelKnievel">Evel</popculture> cause I crazy stunt</li>
             <li> Amaze these punks, drop swank like it's knowledge to ya</li>
             <li> Mr. Bada$$ is ya scholar's tutors</li>
             <li> Swank the lord and hallelujah</li>
@@ -75,52 +75,52 @@
             <li> Uh, lost in his time</li>
             <li> I'm just tryna get it like a boss in his prime</li>
             <li> These fake niggas sumblime, light for fine sights</li>
-            <li> Wishing we'll fortune but the price ain't quite right</li>
-            <li> The slice ain't quite ripe</li>
+            <li> Wishing we'll <money>fortune</money> but the price ain't quite right</li>
+            <li> <struggle>The slice ain't quite ripe</struggle></li>
             <li> Still pulling strings how I fly but I don't like kites</li>
-            <li> How they gon' treat Brooklyn's finest not as fine as diamonds?</li>
-            <li> And fine nice, surrounded by hard flow like Icelands</li>
-            <li> Now we getting icing, finances nice</li>
+            <li> How they gon' treat <geo ref="Brooklyn">Brooklyn's</geo> finest not as fine as diamonds?</li>
+            <li> And fine nice, surrounded by hard flow like <geo ref="Iceland">Icelands</geo></li>
+            <li> Now we getting icing, <success><money>finances</money> nice</success></li>
             <li> And I don't like surprises, I like superb prices rising</li>
             <li> It's the least I could do, these verses priceless</li>
             <li> Rehearse in private, reverse her eyelid until she curse in silent (insolent)</li>
-            <li> Got a problem solve it, all my Pros solids</li>
+            <li> Got a problem solve it, all my <hiphop ref="ProEra">Pros</hiphop> solids</li>
             <li> We all gon' dine and until then we mobbing</li>
-            <li> So don't push me, Uh, I'm close to the pussy, even</li>
+            <li> <hiphop ref="GrandmasterFlash">So don't push me, Uh, I'm close to the <women>pussy</women>, even</hiphop></li>
             <li> Closer to the know-ledge dropped out of college</li>
             <li> In advance hit the ground running like its ants in my pants</li>
             <li> Honey, pop was a bumbaclot and had a queen bee Mommy</li>
             <li> Uh, I love her to the tissue, disrespect my blood and it's an issue</li>
-            <li> She like "This you on the cover for real? Ah you so official."</li>
-            <li> Now go ahead and buy you some shoes that really fit you</li>
+            <li> <success>She like "This you on the cover for real? Ah you so official."</success></li>
+            <li> Now go ahead and buy you some <fashion>shoes</fashion> that really fit you</li>
             <li> I know she always think of little me, but now I got big literally</li>
             <li> Worldwide and physically</li>
-            <li> I'm saying I used to take walks around Little Italy</li>
-            <li> Now I roam 'round Sicily</li>
-            <li> And I'm plotting on a mili</li>
+            <li> I'm saying I used to take walks around <geo ref="LittleItaly">Little Italy</geo></li>
+            <li> Now I roam 'round <geo ref="Sicily">Sicily</geo></li>
+            <li> And I'm plotting on a <money>milli</money></li>
         </stanza>
         <stanza speaker="JoeyBada$$" type="verse">
-            <li> Hmmm another loud pack another proud cat</li>
+            <li> Hmmm another <weed>loud pack</weed> another proud cat</li>
             <li> Hey pound that, Hip-Hop sounds been profound back</li>
             <li> Slow down that, metronome nigga</li>
             <li> Let it hit home when the specimen showin' gon' glitter</li>
-            <li> Gold and ices trigger, your true ideology</li>
-            <li> I can subtract one with the gun that's true trigonometry</li>
+            <li> <fashion>Gold and ices</fashion> trigger, your true ideology</li>
+            <li> I can subtract one with the <guns>gun</guns> that's true trigonometry</li>
             <li> But that won't coincide with the true nigga that I'm a be</li>
             <li> He's royal poverty I kicks philosophies</li>
-            <li> Not because I rock Soccer tees</li>
+            <li> Not because I rock <fashion>Soccer tees</fashion></li>
             <li> I ain't gon' beg but I can please</li>
-            <li> Rock ya socks and sockets out your knees</li>
+            <li> Rock ya <fashion>socks</fashion> and sockets out your knees</li>
             <li> Fulfill your needs with similes non similar</li>
             <li> Spit that unfamiliar, put that on familia</li>
-            <li> If ya love Hip Hop, ladies rub your papillas</li>
+            <li> If ya love Hip Hop, <women>ladies</women> rub your papillas</li>
             <li> Fellas beat they chest like they Silverback Gorillas</li>
             <li> It's the new age, children of the crystal healers</li>
             <li> Thinking I butterfly, I try catapult caterpillars</li>
         </stanza>
         <stanza speaker="JoeyBada$$" type="outro">
             <li> After years of constructing they start assumptions</li>
-            <li> So I keep my circumference of deep fried friends like dumplings</li>
+            <li> So I keep my circumference of <food>deep fried</food> friends like <food>dumplings</food></li>
             <li> But fuck that nigga we munching, we hungry</li>
             <li> After years of constructing they start assumptions</li>
             <li> So I keep my circumference of deep fried friends like dumplings</li>
@@ -128,8 +128,8 @@
         </stanza>
         <stanza speaker="JoeyBada$$" type="outro">
             <li>Swanking, Swanking, Swanking</li>
-            <li> I see you Jigga!</li>
-            <li> Hilary Swanking</li>
+            <li> I see you <hiphop ref="Jay-Z">Jigga</hiphop>!</li>
+            <li> <popculture ref="HilarySwank">Hilary Swanking</popculture></li>
         </stanza>
 
     </song>
@@ -138,8 +138,8 @@
             <li>Badman Ting</li>
         </stanza>
         <stanza speaker="JoeyBada$$" type="verse">
-            <li> Uh, just put it in the air</li>
-            <li> Light that loud and watch disappear here</li>
+            <li> Uh, just <weed>put it in the air</weed></li>
+            <li> Light <weed>that loud</weed> and watch disappear here</li>
             <li> Thoughts at the speed of light years, I could see the light</li>
             <li> Yeah, this the right year made the flow yeah</li>
             <li> Clear and easy to steer in space and time erasing fine</li>
@@ -149,7 +149,7 @@
             <li> Now my wave lengths to the radio waves</li>
             <li> Still keep it under pavements but not a ratio change</li>
             <li> My patio the same, but I ain't even got to tell them that</li>
-            <li> Poppy leave them dimes at my welcome mat</li>
+            <li> Poppy leave them <money>dimes</money> at my welcome mat</li>
             <li> Get high as heavens, hope he'll never come back</li>
             <li> I'm like 5'11, but have angelic contact</li>
             <li> The devil jealous in fact, Cause I rebel the spells</li>
@@ -161,42 +161,42 @@
             <li> And not my pocket health in its ashes</li>
             <li> If you don't even think sometimes</li>
             <li> If its passion let relationships synchronize</li>
-            <li> Drowning inside her, true eyes is to the higher</li>
-            <li> I don't drink too much, I know the bud wiser</li>
-            <li> It's the livest one, Bedford-Stuyvesant</li>
+            <li> Drowning inside <women>her</women>, true eyes is to the higher</li>
+            <li> I don't drink too much, I know the <popculture ref="Budweiser"><weed>bud</weed> wiser</popculture></li>
+            <li> It's the livest one, <geo ref="Bedford-Stuyvesant">Bedford-Stuyvesant</geo></li>
         </stanza>
         <stanza speaker="CollieBuddz" type="hook">
-            <li> Yo dogs I got the loud</li>
-            <li> Blow the smoke straight up to the cloud like</li>
-            <li> I sky high, my sky high</li>
-            <li> Sky high, sky high</li>
-            <li> Yo dogs I got the loud</li>
-            <li> Blow the smoke straight up to the cloud like</li>
-            <li> I sky high, my sky high</li>
-            <li> Sky high, sky high</li>
+            <li> Yo dogs I got the <weed>loud</weed></li>
+            <li> Blow <weed>the smoke</weed> straight up to the cloud like</li>
+            <li> <weed>I sky high, my sky high</weed></li>
+            <li> <weed>Sky high, sky high</weed></li>
+            <li> Yo dogs I got the <weed>loud</weed></li>
+            <li> Blow <weed>the smoke</weed> straight up to the cloud like</li>
+            <li> <weed>I sky high, my sky high</weed></li>
+            <li> <weed>Sky high, sky high</weed></li>
         </stanza>
         <stanza speaker="JoeyBada$$" type="verse">
-            <li> One hand on the mac, one hand on my sac</li>
+            <li> One hand on the <guns>mac</guns>, one hand on my sac</li>
             <li> I'm thinking to myself what if I handed it back</li>
             <li> But I gotta hand it to myself I’m handling rap</li>
             <li> Handsome versing that’s like hand-to-hand combat</li>
             <li> Rehearsing, I got eight arms, nigga</li>
             <li> Disarm your favorite rapper he won’t come back</li>
-            <li> Made flex drop eight times, Nigga</li>
+            <li> Made <hiphop ref="FunkFlex">flex</hiphop> drop eight times, Nigga</li>
             <li> On contact, rewind that like 8 times</li>
             <li> Got to keep it G, this for my masons</li>
             <li> Figure it out, eight times, the average of mind</li>
             <li> I may sign which I don’t like lime light</li>
             <li> But I’ll shine witcha</li>
             <li> Bitch I gotta eat I might dine witcha</li>
-            <li> Yeah I got bars but I’m like Akon ouwitcha</li>
-            <li> Convict music for real</li>
+            <li> Yeah I got bars but I’m like <hiphop ref="Akon">Akon</hiphop> ouwitcha</li>
+            <li> <hiphop ref="Akon">Convict music</hiphop> for real</li>
             <li> This industry give me chills</li>
             <li> Cause in the streets I’m chill</li>
-            <li> But still heating up for a mill</li>
+            <li> But still heating up for a <money>mill</money></li>
             <li> I’m like so real</li>
             <li> Life is so surreal</li>
-            <li> Sosa already got sealed for the way he revealed</li>
+            <li> <hiphop ref="ChiefKeef">Sosa</hiphop> already got sealed for the way he revealed</li>
             <li> Taking hold of pitchforks still</li>
             <li> But I will never yield</li>
             <li> In this pitchfork hold thinking I gotta appeal</li>
@@ -205,48 +205,48 @@
             <li> But if I skyfall, thinking ideal</li>
         </stanza>
         <stanza speaker="CollieBuddz" type="hook">
-            <li> Yo dogs I got the loud</li>
-            <li> Blow the smoke straight up to the cloud like</li>
-            <li> I sky high, my sky high</li>
-            <li> Sky high, sky high</li>
-            <li> Yo dogs I got the loud</li>
-            <li> Blow the smoke straight up to the cloud like</li>
-            <li> I sky high, my sky high</li>
-            <li> Sky high, sky high</li>
+            <li> Yo dogs I got the <weed>loud</weed></li>
+            <li> Blow <weed>the smoke</weed> straight up to the cloud like</li>
+            <li> <weed>I sky high,</weed> my sky high</li>
+            <li> <weed>Sky high, sky high</weed></li>
+            <li> Yo dogs I got the <weed>loud</weed></li>
+            <li> Blow <weed>the smoke</weed> straight up to the cloud like</li>
+            <li> <weed>I sky high,</weed> my sky high</li>
+            <li> <weed>Sky high, sky high</weed></li>
         </stanza>
         <stanza speaker="CollieBuddz" type="verse">
             <li> Selling (hellbys?) on CDs</li>
-            <li> Grassroots with grassroots, seeds on (civis?)</li>
-            <li> Five finger discount weed leaves,</li>
+            <li> <weed>Grassroots with grass roots</weed>, seeds on (civis?)</li>
+            <li> Five finger discount <weed>weed</weed> leaves,</li>
             <li> Exceptionally speaking determination</li>
             <li> Breeds success and proceeds,</li>
             <li> Feds want the photos and IDs</li>
             <li> Into them blood like IVs</li>
             <li> Cause every youth</li>
-            <li> Want the newest Nikes</li>
-            <li> Straight jeans and white tees</li>
+            <li> Want the newest <fashion>Nikes</fashion></li>
+            <li> <fashion>Straight jeans</fashion> and <fashion>white tees</fashion></li>
             <li> But these things will get pricey</li>
         </stanza>
         <stanza speaker="CollieBuddz" type="hook">
-            <li> Yo dogs I got the loud</li>
-            <li> Blow the smoke straight up to the cloud like</li>
-            <li> I sky high, my sky high</li>
-            <li> Sky high, sky high</li>
-            <li> Yo dogs I got the loud</li>
-            <li> Blow the smoke straight up to the cloud like</li>
-            <li> I sky high, my sky high</li>
-            <li> Sky high, sky high</li>
+            <li> Yo dogs I got the <weed>loud</weed></li>
+            <li> Blow <weed>the smoke</weed> straight up to the cloud like</li>
+            <li> <weed>I sky high,</weed> my sky high</li>
+            <li> <weed>Sky high, sky high</weed></li>
+            <li> Yo dogs I got the <weed>loud</weed></li>
+            <li> Blow <weed>the smoke</weed> straight up to the cloud like</li>
+            <li> <weed>I sky high,</weed> my sky high</li>
+            <li> <weed>Sky high, sky high</weed></li>
         </stanza>
         <stanza speaker="JoeyBada$$" type="outro">
             <li> And I'm gone, hitting knowledge</li>
-            <li> And I'm hitting the strong</li>
-            <li> I've been hurting way too long</li>
+            <li> And I'm <weed>hitting the strong</weed></li>
+            <li> <struggle>I've been hurting way too long</struggle></li>
             <li> And I can't wait too long</li>
             <li> And I'm gone, hitting knowledge</li>
-            <li> As I'm hitting the strong,</li>
-            <li> I've been hurting way too long</li>
+            <li> As I'm <weed>hitting the strong,</weed></li>
+            <li> <struggle>I've been hurting way too long</struggle></li>
             <li> I can't wait too long</li>
-            <li> I've been hurting way too long</li>
+            <li> <struggle>I've been hurting way too long</struggle></li>
             <li> I can't wait too long</li>
         </stanza>
 
@@ -255,20 +255,20 @@
         <stanza speaker="JoeyBada$$" type="hook">
             <li> This the song I wrote if I died;</li>
             <li> I was on the 50 mile doing 9-5</li>
-            <li> Beating the pussy like it ain't got 9 lives</li>
-            <li> And I'm high, mix Ciroc and some blunts, ‘cause you only live once</li>
+            <li> Beating the <women>pussy</women> like it ain't got 9 lives</li>
+            <li> And I'm <weed>high</weed>, mix Ciroc and some <weed>blunts</weed>, ‘cause you only live once</li>
             <li> ‘Cause you only live once</li>
             <li> ‘Cause you only live once</li>
             <li> ‘Cause you only live once</li>
         </stanza>
         <stanza speaker="JoeyBada$$" type="verse">
-            <li> White girl wasted, my wife-girl hate it</li>
+            <li> White girl wasted, my <women>wife-girl</women> hate it</li>
             <li> ‘Cause when I’m faded I just wanna</li>
-            <li> See her naked</li>
-            <li> Adjust adjacent, like baby let me see your matrix</li>
+            <li> See <women>her</women> naked</li>
+            <li> Adjust adjacent, like <women>baby</women> let me see your matrix</li>
             <li> Kama Sutra, back to basics</li>
             <li> Since I was on the go, back to the block</li>
-            <li> 105 on, started bumpin’ Hard Knock</li>
+            <li> 105 on, started bumpin’ <hiphop ref="Jay-Z">Hard Knock</hiphop></li>
             <li> I looked at my nigga Fly, as my heart dropped</li>
             <li> Sedan in front swervin’ as the car stopped</li>
             <li> In that split second, my foot steppin’ breakin’</li>
@@ -283,53 +283,54 @@
         <stanza speaker="JoeyBada$$" type="hook">
             <li> This the song I wrote if I died;</li>
             <li> I was on the 50 mile doing 9-5</li>
-            <li> Beating the pussy like it ain't got 9 lives</li>
-            <li> And I'm high, mix Ciroc and some blunts, ‘cause you only live once</li>
+            <li> Beating the <women>pussy</women> like it ain't got 9 lives</li>
+            <li> And I'm <weed>high</weed>, mix Ciroc and some <weed>blunts</weed>, ‘cause you only live once</li>
             <li> ‘Cause you only live once</li>
             <li> ‘Cause you only live once</li>
             <li> ‘Cause you only live once</li>
         </stanza>
         <stanza speaker="SmokeDZA" type="verse">
             <li> Riiiiiight, fuck it</li>
-            <li> Pass the deuce, 'member creepin’ through the 'jects</li>
-            <li> Had to, stash the deuce in my 40 ‘Low boots</li>
-            <li> International, my bread is well earned</li>
-            <li> L's burn, smash hoes in Melboure</li>
-            <li> Light skinned jawn, look like Chanel Imon</li>
-            <li> One night, got her hooked, like I’m heroin</li>
-            <li> Vintage Vanson's puffin’ on chron</li>
+            <li> Pass the <guns>deuce</guns>, 'member creepin’ through the 'jects</li>
+            <li> Had to, stash the <guns>deuce</guns> in my <fashion>40 ‘Low boots</fashion></li>
+            <li> International, my <money>bread</money> is well earned</li>
+            <li> <weed>L's</weed> burn, smash <women>hoes</women> in <geo ref="Melbourne">Melbourne</geo></li>
+            <li> Light skinned jawn, look like <popculture>Chanel Imon</popculture></li>
+            <li> One night, got <women>her</women> hooked, like I’m heroin</li>
+            <li> <fashion>Vintage Vanson's</fashion> puffin’ on <weed>chron</weed></li>
             <li> Posted, lookin’ like a slim or Daron</li>
             <li> Give me some to a 112 song</li>
-            <li> Smoke a nigga like a Newport Long</li>
+            <li> Smoke a nigga like a <popculture ref="Newports">Newport Long</popculture></li>
             <li> Pass off to my man, be a baton ‘Cause it ain’t no fun if the homies don’t get
                 none</li>
-            <li> Right, it's like ballin' on a bitty</li>
-            <li> Bunch of bad bitches from different cities</li>
-            <li> Illest niggas in New yitty</li>
-            <li> Kush God, Joey Bada$$, relax and stack the skrilly, DZA</li>
+            <li> Right, it's like ballin' on a <women>bitty</women></li>
+            <li> Bunch of <women>bad bitches</women> from different cities</li>
+            <li> Illest niggas in <geo ref="NewYork">New yitty</geo></li>
+            <li> <weed>Kush</weed> God, <hiphop ref="JoeyBada$$">Joey Bada$$</hiphop>, relax and stack the skrilly, <hiphop ref="SmokeDZA">DZA</hiphop></li>
         </stanza>
         <stanza speaker="JoeyBada$$" type="hook">
             <li> This the song I wrote if I died;</li>
             <li> I was on the 50 mile doing 9-5</li>
-            <li> Beating the pussy like it ain't got 9 lives</li>
-            <li> And I'm high, mix Ciroc and some blunts, ‘cause you only live once</li>
+            <li> Beating the <women>pussy</women> like it ain't got 9 lives</li>
+            <li> And I'm <weed>high</weed>, mix Ciroc and some <weed>blunts</weed>, ‘cause you only live once</li>
             <li> ‘Cause you only live once</li>
             <li> ‘Cause you only live once</li>
             <li> ‘Cause you only live once</li>
         </stanza>
+
         <stanza speaker="JoeyBada$$" type="verse">
-            <li> Late night cruisin', fusing the green with the cuban</li>
+            <li> Late night cruisin', fusing <weed>the green</weed> with the cuban</li>
             <li> So swift we moving through clouds intruding</li>
             <li> Celestial Nubians, known them since</li>
-            <li> I was a Brand Nubian and they influenced him</li>
-            <li> And now it’s new beginnin’s, catch me sinnin’ in Sin City</li>
+            <li> I was a <hiphop ref="BrandNubians">Brand Nubian</hiphop> and they influenced him</li>
+            <li> And now it’s new beginnin’s, catch me sinnin’ in <geo ref="LasVegas">Sin City</geo></li>
             <li> Sittin’ and spinnin’ and spittin’ in ya city</li>
-            <li> Swimmin’ in ya bitty, put kin in her kitty and breasts</li>
+            <li> Swimmin’ in ya <women>bitty</women>, put kin in her kitty and breasts</li>
             <li> Got protection in the vest, but still penetrate correct</li>
-            <li> The vets, I got the remedy for these bitches</li>
+            <li> The vets, I got the remedy for these <women>bitches</women></li>
             <li> Inject, enter sex and eject get some intellect</li>
-            <li> And jet cuz all we do is flex on the weekends</li>
-            <li> They upset cause I learned how to flex on the weakest</li>
+            <li> And jet cuz <success>all we do is flex on the weekends</success></li>
+            <li> <haters>They</haters> upset cause I learned how to flex on the weakest</li>
             <li> End of my strength they drenched in they trenches</li>
             <li> The fence in my terrace is gold, leave ya defenseless in the cold</li>
             <li> And I know all you nigga’s weaknesses</li>
@@ -338,8 +339,8 @@
         <stanza speaker="JoeyBada$$" type="hook">
             <li> This the song I wrote if I died;</li>
             <li> I was on the 50 mile doing 9-5</li>
-            <li> Beating the pussy like it ain't got 9 lives</li>
-            <li> And I'm high, mix Ciroc and some blunts, ‘cause you only live once</li>
+            <li> Beating the <women>pussy</women> like it ain't got 9 lives</li>
+            <li> And I'm <weed>high</weed>, mix Ciroc and some <weed>blunts</weed>, ‘cause you only live once</li>
             <li> ‘Cause you only live once</li>
             <li> ‘Cause you only live once</li>
             <li> ‘Cause you only live once</li>
@@ -352,13 +353,13 @@
             <li> So much charm</li>
         </stanza>
         <stanza speaker="JoeyBada$$" type="verse">
-            <li> The only lady I can ever match bonds with</li>
+            <li> The only <women>lady</women> I can ever match bonds with</li>
             <li> On some atomic bond shit, our love is plutonic</li>
             <li> But I just can't, put my foot on it</li>
             <li> My one and my only</li>
             <li> We not only, lovers but homies</li>
-            <li> Whenever I'm lonely, right on time she arrives</li>
-            <li> She know the business for some minutes</li>
+            <li> Whenever I'm lonely, right on time <women>she</women> arrives</li>
+            <li> <women>She</women> know the business for some minutes</li>
             <li> I bury that kitty alive</li>
             <li> Although I'm kidding but I really be in it</li>
             <li> And we don't plan on having kiddies but I really be skinnin' really be raw</li>
@@ -389,8 +390,8 @@
             <li> I like to go get her to keep her warm in cold weather</li>
             <li> She blow below better then she goes for endeavors</li>
             <li> Write our names on the clouds in bold letters</li>
-            <li> If hoes ever touch me she load Berettas</li>
-            <li> But trust me, she's lusty it must be me</li>
+            <li> If <women>hoes</women> ever touch me she load <guns>Berettas</guns></li>
+            <li> But trust me, <women>she's</women> lusty it must be me</li>
             <li> Rubbin it off on her skin</li>
             <li> I can't budge her, a pen?</li>
             <li> I swear that her love is just a sin</li>
@@ -421,36 +422,36 @@
     </song>
     <song title="SweetDreams" production="NavieD">
         <stanza speaker="JoeyBada$$" type="verse">
-            <li> First I wake up, wake up, thinking of a plan to get my cake up, cake up</li>
-            <li> Cause I can't pay the rent with school papers</li>
+            <li> First I wake up, wake up, thinking of a plan to get my <money><food>cake</food></money> up, <money><food>cake</food></money> up</li>
+            <li> Cause <struggle>I can't pay the rent with school papers</struggle></li>
             <li> I need two acres and more</li>
-            <li> I know how it feel walking out the door pockets out of dough</li>
+            <li> <struggle>I know how it feel walking out the door pockets out of <money><food>dough</food></money></struggle></li>
             <li> Out it doe, be on the flow</li>
-            <li> We smoking indo, but we out though, adios</li>
-            <li> My audio getting me that Audi or the range rov</li>
-            <li> Mahogany colored clothing, my hog in the road</li>
+            <li> We smoking <weed>indo</weed>, but we out though, adios</li>
+            <li> My audio getting me that <popculture ref="Audi">Audi</popculture> or the <popculture ref="RangeRover">Range Rov</popculture></li>
+            <li> <fashion>Mahogany colored clothing</fashion>, my hog in the road</li>
             <li> Drive slow, cruising down memory lane before I hit the streets</li>
             <li> Have my melody playing, creators just lie with my (?)</li>
-            <li> Head between clouds, I think I'm married to Jane</li>
+            <li> <weed>Head between clouds</weed>, I think I'm <weed>married to Jane</weed></li>
             <li> I remember the days when I'd forever complain</li>
             <li> That's way before they started paying, I was in pain</li>
             <li> Sick in the brain like I never met a physicist yet</li>
             <li> Only lyricist on my metaphysics intellect</li>
         </stanza>
         <stanza speaker="JoeyBada$$" type="hook">
-            <li> Sweet dreams, stuck in the 90s</li>
-            <li> 90s babies it's a matter of timing</li>
+            <li> Sweet dreams, <oldschool>stuck in the 90s</oldschool></li>
+            <li> <oldschool>90s babies</oldschool> it's a matter of timing</li>
             <li> Sweet dreams my nigga, I wish you sweet dreams my nigga</li>
-            <li> Sweet dreams, stuck in the 90s</li>
-            <li> 90s babies it's a matter of timing</li>
+            <li> Sweet dreams, <oldschool>stuck in the 90s</oldschool></li>
+            <li> <oldschool>90s babies</oldschool> it's a matter of timing</li>
             <li> And time's not rewinding, yeah</li>
         </stanza>
         <stanza speaker="JoeyBada$$" type="verse">
-            <li> Round two bout, half of this loud through</li>
-            <li> Don't let them hounds snoop and get soundproofed</li>
+            <li> Round two bout, half of this <weed>loud</weed> through</li>
+            <li> <haters>Don't let them hounds snoop</haters> and get soundproofed</li>
             <li> High frequency sounds too</li>
-            <li> Has statik spot over serious statik shots</li>
-            <li> Scrap vinyls over them statik pops</li>
+            <li> Has <hiphop ref="StatikSelektah">statik</hiphop> spot over serious <hiphop ref="StatikSelektah">statik</hiphop> shots</li>
+            <li> Scrap vinyls over them <hiphop ref="StatikSelektah">statik</hiphop> pops</li>
             <li> Im a fanatic fly but a sporadic guy</li>
             <li> Never chat a lot, just pass the Lye and guide the youth</li>
             <li> Stand with the truth, Nigga nothin' less</li>
@@ -459,22 +460,22 @@
             <li> And meet your death, if im caught on the fence know hell hit ya</li>
             <li> Yes true vets keeps it real whichya</li>
             <li> Ill wit ya, show you the real picture</li>
-            <li> Only keep the ones around that suffer for meals whichya</li>
-            <li> Cuz when them suckas, see ya supper</li>
-            <li> And your cake getting richer and your pockets getting thicker</li>
+            <li> Only keep the ones around that suffer for <food>meals</food> whichya</li>
+            <li> Cuz when them suckas, see ya <food>supper</food></li>
+            <li> And your <food><money>cake</money></food> getting richer and your pockets getting thicker</li>
             <li> Thats when they want you to remember a nigga</li>
             <li> But when I handed you the tape you couldn't remember to listen</li>
         </stanza>
         <stanza speaker="JoeyBada$$" type="hook">
-            <li> Sweet dreams, stuck in the 90s</li>
-            <li> 90s babies it's a matter of timing</li>
+            <li> Sweet dreams, <oldschool>stuck in the 90s</oldschool></li>
+            <li> <oldschool>90s babies</oldschool> it's a matter of timing</li>
             <li> Sweet dreams my nigga, I wish you sweet dreams my nigga</li>
-            <li> Sweet dreams, stuck in the 90s</li>
-            <li> 90s babies it's a matter of timing</li>
+            <li> Sweet dreams, <oldschool>stuck in the 90s</oldschool></li>
+            <li> <oldschool>90s babies</oldschool> it's a matter of timing</li>
             <li> And time's not rewinding, yeah</li>
         </stanza>
         <stanza speaker="JoeyBada$$" type="verse">
-            <li> Been on my grind, I keep it 50-50</li>
+            <li> <struggle>Been on my grind</struggle>, I keep it 50-50</li>
             <li> Thats 100 on the real, no balance scales, still trippy</li>
             <li> Where I live it's either you know talents well and sell records</li>
             <li> Or no talent, well we still sell for the record</li>
@@ -484,83 +485,83 @@
             <li> Our music is the cure like some vaccines</li>
             <li> Exotic to the core so stop asking</li>
             <li> Got the blueprints to the game, but I read it as king</li>
-            <li> There's 47 ways to get this green</li>
+            <li> There's <guns>47</guns> ways to get this <money>green</money></li>
             <li> One is being an enslaved being, the other dreams</li>
-            <li> Red pill or blue bean, I can't sit still I'm too lean, nigga</li>
+            <li> <popculture ref="TheMatrix">Red pill or blue bean</popcultureref>, I can't sit still I'm too lean, nigga</li>
             <li> Brush my bill on on new beams</li>
-            <li> Niggas on my tail now that I blew green</li>
+            <li> Niggas on my tail now that I blew <money><weed>green</weed></money></li>
         </stanza>
         <stanza speaker="JoeyBada$$" type="hook">
-            <li> Sweet dreams, stuck in the 90s</li>
-            <li> 90s babies it's a matter of timing</li>
+            <li> Sweet dreams, <oldschool>stuck in the 90s</oldschool></li>
+            <li> <oldschool>90s babies</oldschool> it's a matter of timing</li>
             <li> Sweet dreams my nigga, I wish you sweet dreams my nigga</li>
-            <li> Sweet dreams, stuck in the 90s</li>
-            <li> 90s babies it's a matter of timing</li>
+            <li> Sweet dreams, <oldschool>stuck in the 90s</oldschool></li>
+            <li> <oldschool>90s babies</oldschool> it's a matter of timing</li>
             <li> And time's not rewinding, yeah</li>
         </stanza>
         <stanza speaker="JoeyBada$$" type="outro">
-            <li> Sweet dreams stuck in the 90's nigga</li>
-            <li> Stuck in the 90's nigga</li>
-            <li> We just some stuck in the 90's niggas</li>
+            <li> Sweet dreams <oldschool>stuck in the 90's</oldschool> nigga</li>
+            <li> <oldschool>Stuck in the 90's nigga</oldschool></li>
+            <li> We just some <oldschool>stuck in the 90's niggas</oldschool></li>
         </stanza>
 
     </song>
     <song title="47Goonz" production="LeeBannon">
         <stanza speaker="JoeyBada$$" type="verse">
-            <li> Yo, Badass don't act or pretend, back at it again</li>
-            <li> Hit it from the back, she a addict within</li>
-            <li> I got her on some shit like "I'm a get tatted for him"</li>
-            <li> She a ride or die, slim, when she in the denims</li>
+            <li> Yo, <hiphop ref="JoeyBada$$">Badass</hiphop> don't act or pretend, back at it again</li>
+            <li> Hit it from the back, <women>she</women> a addict within</li>
+            <li> I got <women>her</women> on some shit like "I'm a get tatted for him"</li>
+            <li> <women>She</women> a ride or die, slim, when she in the denims</li>
             <li> Remember it like it was yesterday</li>
             <li> Another case of "I fucked your bitch, nigga" but a more clever way</li>
             <li> Quarter in the room to elevate, said if you ever may</li>
-            <li> Slip then hit her on the hip where the Beretta stay</li>
+            <li> Slip then hit <women>her</women> on the hip where the <guns>Beretta</guns> stay</li>
             <li> Catch me somersaulting my eyelids</li>
             <li> Awakened from a dream, just perceived how I live</li>
             <li> So it's make believe, rather unique</li>
-            <li> Lavish, sweet all live in a rapper physique</li>
+            <li> <success>Lavish</success>, sweet all live in a rapper physique</li>
             <li> Hit up a show then after retreat back to the telly with freaks</li>
-            <li> Pack up a bowl and we ain't even eat</li>
-            <li> But we got a appetite for cookie creases and treats</li>
+            <li> Pack up a <weed>bowl</weed> and we ain't even eat</li>
+            <li> But we got a appetite for <food>cookie creases</food> and treats</li>
             <li> And they all got tricks up they sleeve</li>
         </stanza>
         <stanza speaker="DirtySanchez" type="verse">
-            <li> I'm ashing on the bridge, Mary Jane, fuck your cigarettes</li>
+            <li> I'm ashing on the bridge, <weed>Mary Jane</weed>, fuck your cigarettes</li>
             <li> I'm laughing out loud, ask me if I'm still stressed, possessed</li>
             <li> Hope the boys in blue don't arrest yours truly</li>
-            <li> Respect but suspect, protect your neck jewelry</li>
-            <li> 47s and Uzis, well-connected and recruiting</li>
-            <li> I be with my Mexicans, I know they got the toolie</li>
-            <li> I'm smoking doobies with like 20 of my goons</li>
-            <li> Hotbox the whip and let smoke fill the room</li>
-            <li> Even through my lenses, my sense is on the moon</li>
+            <li> Respect but suspect, protect your neck <fashion>jewelry</fashion></li>
+            <li> <guns>47s</guns> and <guns>Uzis</guns>, well-connected and recruiting</li>
+            <li> I be with my Mexicans, I know they got the <guns>toolie</guns></li>
+            <li> I'm smoking <weed>doobies</weed> with like 20 of my goons</li>
+            <li> <weed>Hotbox</weed> the whip and let <weed>smoke</weed> fill the room</li>
+            <li> <success>Even through my lenses, my sense is on the moon</success></li>
             <li> Dirty be the name and I came from the black lagoon</li>
             <li> I'm sick with the ink like infected tattoos</li>
-            <li> Just one love but the two-three's branded on my shoes</li>
-            <li> You would think I had a eighth the way I'm crushing them grapes</li>
-            <li> Had her whining for a taste, that's why she's up in my face</li>
+            <li> Just one love but the <fashion><sports>two-three's</sports> branded on my shoes</fashion></li>
+            <li> You would think I had a <weed>eighth</weed> the way I'm crushing them <food>grapes</food></li>
+            <li> Had <women>her</women> whining for a taste, that's why she's up in my face</li>
             <li> Them Apex taking over like we running with Apes</li>
             <li> What's the verdict? Nothing but a fucking disgrace, nigga</li>
         </stanza>
         <stanza speaker="NyckCaution" type="verse">
-            <li> This ain't quiddtch but you know the snitch get caught</li>
-            <li> Then get bitched like the bitch she brought, throw your fit then walk</li>
+            <li> <popculture ref="HarryPotter">This ain't Quidditch but you know the snitch get caught</popculture></li>
+            <li> Then get bitched like the <women>bitch</women> she brought, throw your fit then walk</li>
             <li> When they clip all of your Christmas thoughts</li>
             <li> There's no giving when they take what you got</li>
             <li> Placed in the crop circle, doc with a smock, see</li>
-            <li> Art what we drop, shopping cart with Da Vinci</li>
-            <li> Whimpering, leave that risk to your Pros</li>
-            <li> Wrist full of stone, lapidate if they pass me the smoke</li>
-            <li> I'm strapped and irate, daps from the fake</li>
+            <li> Art what we drop, shopping cart with <popculture ref="DaVinci">Da Vinci</popculture></li>
+            <li> Whimpering, leave that risk to your <hiphop ref="ProEra">Pros</hiphop></li>
+            <li> Wrist full of stone, lapidate if they pass me the <weed>smoke</weed></li>
+            <li> I'm <guns>strapped</guns> and irate, daps from the <haters>fake</haters></li>
             <li> Get me mad and I contemplate irrational mode</li>
             <li> Don't think about nada, strung you by your collar</li>
             <li> The flow father who balanced out his chromosomes proper</li>
             <li> I'm going home partner like Posada, they talk beef</li>
-            <li> But toss the ensalada, peep the blue Impala</li>
+            <li> But toss the <food>ensalada</food>, peep the blue Impala</li>
             <li> There's arrogant cops who stay intruding</li>
-            <li> Can't stop the 47 like protagonist in Absolution</li>
-            <li> Them wack rappers who track-eluding</li>
-            <li> Critic is a random student who use the Era as a new rap influence</li>
+            <li> Can't stop the <guns>47</guns> like protagonist in Absolution</li>
+            <li> Them <haters>wack rappers</haters> who track-eluding</li>
+            <li> Critic is a random student who use the <hiphop ref="ProEra">Era</hiphop> as a new rap influence</li>
             <li> Faster than ransom shootings or some cancer fluid</li>
             <li> I still kill and you can't lose it</li>
         </stanza>
@@ -568,17 +569,17 @@
     </song>
     <song title="WordIsBond" production="StatikSelektah">
         <stanza speaker="JoeyBada$$" type="verse">
-            <li> Got the reggies from the Bush</li>
-            <li> Get lifted like a saint off the kush, man all my niggas push</li>
-            <li> So I always got the zipstock in the Ziplock</li>
-            <li> Stay lo, like Ralph lip stock, hit the Mary, won't kiss and tell</li>
+            <li> Got the <sports><weed>reggies from the Bush</weed></sports></li>
+            <li> Get lifted like a saint off the <weed>kush</weed>, man all my niggas push</li>
+            <li> So I always got the <weed>zipstock</weed> in the Ziplock</li>
+            <li> Stay lo, like Ralph lip stock, hit the <weed>Mary</weed>, won't kiss and tell</li>
             <li> My lips locked but my grip's not so I pass it off</li>
-            <li> Real burners, and we ashing off your furniture</li>
+            <li> Real <guns>burners</guns>, and we ashing off your furniture</li>
             <li> Fuck your couch, bitch, hush your mouth</li>
-            <li> She said she fell in one of them Ls, but lust don't count</li>
-            <li> These chickens don't love me, they love the account</li>
-            <li> But they will never know what's the amount, I keep the hoes in check</li>
-            <li> 'Til they bounce, don't ever let a chick see you withdrawn</li>
+            <li> <women>She</women> said she fell in one of them <weed>Ls</weed>, but lust don't count</li>
+            <li> These <women>chickens</women> don't love me, they love the account</li>
+            <li> But they will never know what's the amount, I keep the <women>hoes</women> in check</li>
+            <li> 'Til they bounce, don't ever let a <women>chick</women> see you withdrawn</li>
             <li> These niggas want to know what I draw with</li>
             <li> But won't respond to what I've drawn</li>
             <li> Tetrahedrons, take a dose of Patron</li>
@@ -588,39 +589,39 @@
             <li> Hella blown, hella blown</li>
         </stanza>
         <stanza speaker="JoeyBada$$" type="verse">
-            <li> Yo Houston, we got a problem, copy</li>
-            <li> Four, five hotties in the lobby</li>
+            <li> Yo <geo ref="Houston">Houston</geo>, we got a problem, copy</li>
+            <li> Four, five <women>hotties</women> in the lobby</li>
             <li> Said that they can blow the rockets properly, but blow up spots and never stop</li>
             <li> Like them aki's, they never get aqui to my property</li>
-            <li> Known around my city like George Pataki</li>
-            <li> Young Jason for them dollars in the mix like teriyaki</li>
-            <li> And round four, I force my large Versace</li>
-            <li> Over my big head, cause I don't live here, she getting too cocky</li>
+            <li> Known around my city like <popculture>George Pataki</popculture></li>
+            <li> Young Jason for them <money>dollars</money> in the mix like <food>teriyaki</food></li>
+            <li> And round four, I force my large <fashion>Versace</fashion></li>
+            <li> Over my big head, cause I don't live here, <women>she</women> getting too cocky</li>
             <li> Won't spot me in no closet</li>
             <li> I ain't like Kels and them</li>
-            <li> Her closet full of arm limbs and a skeleton</li>
+            <li> <women>Her</women> closet full of arm limbs and a skeleton</li>
         </stanza>
         <stanza speaker="JoeyBada$$" type="verse">
-            <li> I spray nines on foes, bet if you pick five emcees</li>
+            <li> I spray <guns>nines</guns> on <haters>foes</haters>, bet if you pick five emcees</li>
             <li> Seven, ain't gone flow like me, nigga I'm two-six</li>
             <li> I mean too sick, sent to Earth just to shit</li>
-            <li> Mami, come steer, some new stick, got a man?, I don't give two shits</li>
+            <li> <women>Mami</women>, come steer, some new stick, got a man?, I don't give two shits</li>
             <li> Better tell that doofus deuces before he catch a whipping</li>
-            <li> Hit him in his Charles Dickens and strip him for his Scottie Pippens</li>
-            <li> Cause it's all about the big pimping</li>
-            <li> Rob him for his Nixon, and then question him about his timing</li>
+            <li> Hit him in his Charles Dickens and strip him for his <fashion><sports>Scottie Pippens</sports></fashion></li>
+            <li> Cause it's all about the <hiphop ref="Jay-Z">big pimping</hiphop></li>
+            <li> Rob him for his <fashion>Nixon</fashion>, and then question him about his timing</li>
             <li> Right here, it gets reckless, best advice is</li>
-            <li> To tuck your necklace, and put your arms right back into your Lexus</li>
+            <li> To tuck your <fashion>necklace</fashion>, and put your arms right back into your <popculture ref="Lexus">Lexus</popculture></li>
             <li> Cause G-Stone Crips, they ain't nothing</li>
             <li> To flex with, and billy gang Pyru, they really on some next shit</li>
-            <li> So if I were you I would probably ride with two</li>
-            <li> No fool, not two dudes, two tools</li>
-            <li> As in deuce-deuce cause niggas jack you for your soul</li>
-            <li> And your new shoes and your jewels too</li>
+            <li> So if I were you I would probably ride with <guns>two</guns></li>
+            <li> No fool, not two dudes, <guns>two tools</guns></li>
+            <li> As in <guns>deuce-deuce</guns> cause niggas jack you for your soul</li>
+            <li> And your <fashion>new shoes</fashion> and your <fashion>jewels</fashion> too</li>
             <li> There's something about another nigga having shit</li>
-            <li> That have a nigga spazzing clips all up in your back and dip</li>
-            <li> Cause it's all about bagging the baddest chick</li>
-            <li> Stacking them chicks up in Saks Fifth</li>
+            <li> That have a nigga spazzing <guns>clips</guns> all up in your back and dip</li>
+            <li> Cause it's all about bagging the baddest <women>chick</women></li>
+            <li> Stacking them chicks up in <fashion><popculture ref="SaksFifthAve">Saks Fifth</popculture></fashion></li>
             <li> But word is bond, you been on</li>
             <li> Word is bond, you been on</li>
         </stanza>
@@ -654,32 +655,32 @@
             <li> Tell me what the fuck an angel does</li>
             <li> We're seeing kids who ain't aged enough</li>
             <li> Getting high off angel dust</li>
-            <li> From NY to Los Angeles</li>
-            <li> There ain't no love</li>
-            <li> In the heart of the city</li>
+            <li> From <geo ref="NewYork">NY</geo> to <geo ref="LosAngeles">Los Angeles</geo></li>
+            <li> <hiphop ref="Jay-Z">There ain't no love</hiphop></li>
+            <li> <hiphop ref="Jay-Z">In the heart of the city</hiphop></li>
             <li> Looking where they car be at</li>
             <li> And they party at</li>
             <li> Cardiac arrest can feel risky</li>
-            <li> Real pissy I chase cheese and real pussy yeah</li>
-            <li> Cats used to yawn on his rap now look at 'em</li>
-            <li> Shit ain't been the same since them niggas started booking 'em</li>
+            <li> Real pissy I chase <money><food>cheese</food></money> and real <women>pussy</women> yeah</li>
+            <li> <haters>Cats</haters> <struggle>used to yawn on his rap</struggle> now look at 'em</li>
+            <li> <success>Shit ain't been the same since them niggas started booking 'em</success></li>
             <li> Pull up with your pen up, looking sharper than a bulletin</li>
-            <li> With pin stripes and hollow tip bullets in it</li>
+            <li> With <fashion>pin stripes</fashion> and <guns>hollow tip bullets</guns> in it</li>
             <li> He's something that you'd invest in</li>
             <li> Catch him live on late night, but he ain't interestin'</li>
             <li> Pop up and poop out something like intestine</li>
             <li> No corrections cause the mic been checked in</li>
             <li> The only time he be asking is when he sexing</li>
-            <li> My team like teenage mutants and X-men</li>
+            <li> My team like <popculture ref="TMNT">Teenage Mutants</popculture> and <popculture ref="X-Men">X-Men</popculture></li>
             <li> Fire spark when I step in</li>
-            <li> He the human torch</li>
-            <li> Inhaling fumes of all sorts of course</li>
-            <li> Steez taught me how to store it in my ball shorts</li>
-            <li> So when we stop by the D we never get caught</li>
-            <li> I say it again we face L's but never lost</li>
+            <li> He the <popculture ref="FantasticFour">Human Torch</popculture></li>
+            <li> <weed>Inhaling fumes</weed> of all sorts of course</li>
+            <li> <hiphop ref="CapitalSteez">Steez</hiphop> taught me how to store it in my ball shorts</li>
+            <li> So when we stop by <geo ref="Detroit">the D</geo> we never get caught</li>
+            <li> I say it again we face <weed>L's</weed> but never lost</li>
             <li> Either be a warlord for 6 fees short</li>
             <li> Each day in this living hell feel remorse</li>
-            <li> But he had a million dollar smile way before he flossed</li>
+            <li> But he had a <money>million dollar</money> smile way before he flossed</li>
         </stanza>
         <stanza speaker="JoeyBada$$" type="hook">
             <li> Sometimes I just sit and pray</li>
@@ -691,17 +692,17 @@
             <li> Live your life and I'm gon' live mine</li>
         </stanza>
         <stanza speaker="JoeyBada$$" type="verse">
-            <li> Yo, I'm trying to Oprah win-win with a "L" in my hand</li>
+            <li> Yo, I'm trying to <popculture ref="Oprah">Oprah</popculture> win-win with a <weed>L</weed> in my hand</li>
             <li> Remotely passed off like the generous man</li>
             <li> And they wonder what it cost to put the pen in my hand</li>
             <li> But don't understand they the only one who gets the benefit, damn</li>
             <li> Sometimes I just sit and pray</li>
-            <li> They couldn't walk this way in my J's</li>
+            <li> They couldn't walk this way in my <fashion>J's</fashion></li>
             <li> It wouldn't feel despair, but disarray</li>
             <li> Like their souls disappear</li>
             <li> Son got hot flows, got dropped like disarray</li>
             <li> Couldn't close my ghost souls, eyes closed</li>
-            <li> Covered with Ray-Bans, I call it my eyes closed, and I know!</li>
+            <li> Covered with <fashion>Ray-Bans</fashion>, I call it my eyes closed, and I know!</li>
             <li> Even through shades of black</li>
             <li> I see brighter days looking back in fact</li>
             <li> So I relax my mind, see what these tracks can find</li>
@@ -725,18 +726,18 @@
             <li> It's nothing but the history</li>
             <li> Protecting ya' from being history</li>
             <li> And then the next day your face is just a mystery</li>
-            <li> For niggas who really ain't feeling me are all my fucking enemies</li>
-            <li> Even the lightest hours requires heavy artillery</li>
+            <li> <haters>For niggas who really ain't feeling me are all my fucking enemies</haters></li>
+            <li> Even the lightest hours requires <guns>heavy artillery</guns></li>
             <li> Accelerate without the breaks of a break</li>
             <li> And still I'm not eating up to now and there's a lot on my plate</li>
             <li> All in a day's work of God and his grace</li>
             <li> You wanna eat then tell God and say grace</li>
             <li> And avoid the heat getting the boil to surface</li>
             <li> A soft nigga caught between these rocks and a hard place</li>
-            <li> Because the Mafia is on the look out for the Scarface</li>
+            <li> Because the Mafia is on the look out for the <popculture ref="Scarface">Scarface</popculture></li>
             <li> But the ill-minded child, is ill minded child</li>
             <li> Got a round of styles</li>
-            <li> Killing niggas' mental like a round of shells</li>
+            <li> Killing niggas' mental like a <guns>round of shells</guns></li>
             <li> Very well rounded round it</li>
             <li> Well 'til the highest number praying that 2047 ain't the highest number</li>
         </stanza>
@@ -762,13 +763,13 @@
     </song>
     <song title="TrapDoor" production="TheAlchemist">
         <stanza speaker="JoeyBada$$" type="intro">
-            <li> I went over to her house on Sunday morning</li>
-            <li> Her moms had just gone to church...</li>
+            <li> I went over to <women>her</women> house on Sunday morning</li>
+            <li> <women>Her</women> moms had just gone to church...</li>
         </stanza>
-        <stanza speaker="JoeyBada$$" type="hook">
-            <li> Drive slow homie, drive slow</li>
-            <li> Drive slow homie, drive slow</li>
-            <li> Drive slow homie, drive slow</li>
+        <stanza speaker="Joey" type="hook">
+            <li> <hiphop ref="KanyeWest">Drive slow homie, drive slow</hiphop></li>
+            <li> <hiphop ref="KanyeWest">Drive slow homie, drive slow</hiphop></li>
+            <li> <hiphop ref="KanyeWest">Drive slow homie, drive slow</hiphop></li>
             <li> Shit, my eyes low</li>
         </stanza>
         <stanza speaker="JoeyBada$$" type="verse">
@@ -778,41 +779,41 @@
             <li> Charge in the apartment like a charger compartment</li>
             <li> I'm in the walls now, I'm wired up</li>
             <li> So now the higher up is trying to quiet us, uh</li>
-            <li> Smoking on land, lord I light it up</li>
+            <li> <weed>Smoking</weed> on land, lord I light it up</li>
             <li> Just gettin fired up, now she coming like a fire truck</li>
-            <li> She threw the towel in, score for me oh for she</li>
-            <li> Cause she keep howlin' we showdown like shaolin</li>
+            <li> <women>She</women> threw the towel in, score for me oh for she</li>
+            <li> Cause she keep howlin' we showdown like Shaolin</li>
             <li> Slow down for an hour then, sink it deep into the shallow end</li>
             <li> How you like beef girl? Keep swallowing</li>
             <li> Your food, I'm following your mood and it's blue and me too</li>
-            <li> But I can't lie like I blew this green on you</li>
-            <li> I blew it on the purple fume and I know I read your mind, right</li>
+            <li> But I can't lie like I blew this <money><weed>green</weed></money> on you</li>
+            <li> I blew it on the <weed>purple fume</weed> and I know I read your mind, right</li>
             <li> You're bright, you want green of all types like limelight</li>
-            <li> Balance is the kiwi fused in the tunes</li>
-            <li> Third eye sight, she rodent the car with three blind mice</li>
-            <li> They chase cheese and don't think twice</li>
+            <li> Balance is the <food>kiwi</food> fused in the tunes</li>
+            <li> Third eye sight, <women>she</women> rodent the car with three blind mice</li>
+            <li> They chase <money><food>cheese</food></money> and don't think twice</li>
             <li> And for that, some niggas in the cut get sliced, she looking back</li>
-            <li> Now, cause she ain't met a nigga as real in the back</li>
-            <li> Down as shack she throw it back for that, willingly</li>
-            <li> She hope I catch children</li>
+            <li> Now, cause <women>she</women> ain't met a nigga as real in the back</li>
+            <li> Down as shack <women>she</women> throw it back for that, willingly</li>
+            <li> <women>She</women> hope I catch children</li>
             <li> But the mag sheilding, in other words I wrap feelings</li>
         </stanza>
         <stanza speaker="JoeyBada$$" type="outro">
-            <li>Yeah Joey that cat killin', villain</li>
+            <li>Yeah <hiphop ref="JoeyBada$$">Joey</hiphop> that cat killin', villain</li>
             <li> I capture the cat in the trap, a door she sealing</li>
-            <li> From sicilians to Miss Millins, to miss missin'</li>
-            <li> From sicilians to Miss Millins, to miss missin'</li>
+            <li> From Sicilians to Miss Millins, to miss missin'</li>
+            <li> From Sicilians to Miss Millins, to miss missin'</li>
             <li> I keep it lit till I'm burnt out</li>
-            <li> Could tell a chick bye look at how she turned out</li>
-            <li> Could tell a chick bye look at how she turned out</li>
-            <li> Could tell a chick bye look at how she turned out</li>
-            <li> Could tell a chick bye look at how she turned out</li>
+            <li> Could tell a <women>chick</women> bye look at how she turned out</li>
+            <li> Could tell a <women>chick</women> bye look at how she turned out</li>
+            <li> Could tell a <women>chick</women> bye look at how she turned out</li>
+            <li> Could tell a <women>chick</women> bye look at how she turned out</li>
         </stanza>
 
     </song>
     <song title="Satellite" production="LeeBannon">
         <stanza speaker="JoeyBada$$" type="verse">
-            <li> And I guess it's my turn to shine</li>
+            <li> And I guess <success>it's my turn to shine</success></li>
             <li> The bright light I was starin' at turn lime</li>
             <li> And the green stuff turned to slime, and grime</li>
             <li> Everybody want to be your blood cousin</li>
@@ -821,13 +822,13 @@
             <li> Word to mother, I'm goosed up</li>
             <li> My two fucks in two cups</li>
             <li> Another double entendre</li>
-            <li> She fell in that Bombay</li>
-            <li> Now she tumble dry lingerie</li>
+            <li> <women>She</women> fell in that Bombay</li>
+            <li> Now <women>she</women> tumble dry lingerie</li>
             <li> Chardonnay nothing but the bottle of emotion</li>
             <li> But the love potion when it sprays</li>
             <li> They just caught up in the days</li>
             <li> Let me show you how I feel these Jays</li>
-            <li> The cheese stays high like Dr. J</li>
+            <li> The <money><food>cheese</food></money> stays high like <sports>Dr. J</sports></li>
             <li> My flow is like land the boats, dock the planes</li>
             <li> Hand the dope but cop the chains</li>
             <li> For more fiends some antidote to stop the pain</li>
@@ -841,7 +842,7 @@
         </stanza>
         <stanza speaker="ChuckStrangers" type="verse">
             <li> I take a day off</li>
-            <li> Let the trees take some weight off</li>
+            <li> Let the <weed>trees</weed> take some weight off</li>
             <li> My mental's just a fact, Bannon's got the instrumental</li>
             <li> I keep niggas on their toes</li>
             <li> So you got creases in your Forces</li>
@@ -857,23 +858,23 @@
             <li> But don't blame the ice for the I U KEL</li>
             <li> Oh God couldn't see past 'em</li>
             <li> If his puff pass, notarized</li>
-            <li> Two dubs I got 40 on my hit list</li>
-            <li> Just smoking drinks both the broken in-glass like old English</li>
+            <li> Two <weed>dubs</weed> I got 40 on my hit list</li>
+            <li> Just smoking drinks both the broken in-glass like Olde English</li>
             <li> Are you good bro?</li>
-            <li> Is your eyes dilated from the kush 'n Nuvo?</li>
+            <li> Is your eyes dilated from the <weed>kush</weed> 'n Nuvo?</li>
             <li> This new for the life</li>
-            <li> Like a Nubian with the doobie cold eyes</li>
+            <li> Like a Nubian with the <weed>doobie</weed> cold eyes</li>
             <li> Better smell the coffee I'mma coughing</li>
             <li> That means I'm sick widdit, spit it out</li>
             <li> Kill it like airborne diseases</li>
             <li> Is this why the rap game is this easy?</li>
-            <li> Like please eat your vegetables</li>
-            <li> So I took a dose of the edible</li>
+            <li> Like please eat your <food>vegetables</food></li>
+            <li> So I took a dose of the <food><weed>edible</weed></food></li>
             <li> Ain't an overdose</li>
             <li> Already a rap monster fucking overload</li>
             <li> Hopping up on stepping stones</li>
             <li> So we making stepping stones</li>
-            <li> Turn up that tichrome</li>
+            <li> Turn up that <weed>trichome</weed></li>
             <li> We rap game dose</li>
             <li> This is Messiah and the eyes are hopeless</li>
             <li> Hopin' my divide eyes through the world flex</li>
@@ -888,30 +889,30 @@
         </stanza>
         <stanza speaker="DessyHinds" type="verse">
             <li> Surround Sounder</li>
-            <li> Come and hear the blunt-smoking philosopher</li>
-            <li> Smoking with a joint to get you open like a chakra</li>
+            <li> Come and hear the <weed>blunt-smoking</weed> philosopher</li>
+            <li> Smoking with a <weed>joint</weed> to get you open like a chakra</li>
             <li> No time for the roster this rap game goes either way</li>
             <li> Let him lead the way</li>
             <li> And niggas will know who they need to play</li>
             <li> Freeing the ways to amplify the idiolect</li>
             <li> Saw nothing but shots since the project days</li>
-            <li> Like I was eyin' the Tec</li>
+            <li> Like I was eyin' the <guns>Tec</guns></li>
             <li> Kept the eye in the text</li>
-            <li> Make 'em see my eye in the Lex</li>
+            <li> Make 'em see my eye in the <popculture ref="Lexus">Lex</popculture></li>
             <li> Giving my blood sweat and iron injecting selecting the soul</li>
             <li> Cause mind body and soul can't be reinstalled</li>
             <li> Special with the flow to make Niagara fall</li>
             <li> It's over for the systematic rapping robotics</li>
             <li> Crashing my logic</li>
-            <li> These niggas hooked on hooks and Hooked on Phonics</li>
+            <li> These niggas hooked on hooks and <popculture>Hooked on Phonics</popculture></li>
             <li> With hooked on phonics the pot could get em hooked on chronic</li>
             <li> Cause pain conditions from the page conditions</li>
-            <li> Racing like Sonic inhaling the tonic</li>
+            <li> Racing like <popculture ref="Sonic">Sonic</popculture> inhaling the tonic</li>
             <li> They couldn't grade my brain in a college</li>
             <li> Themes behind it rob you for ya mind like thieves is behind it</li>
             <li> So we had to squeeze in knowledge</li>
-            <li> To pile it when the green sees wallet</li>
-            <li> Anything to let the green seize wallet</li>
+            <li> To pile it when the <money>green</money> sees wallet</li>
+            <li> Anything to let the <money>green</money> seize wallet</li>
             <li> Taking forever and a century with sentence speeds</li>
             <li> Like a penitentiary to build cell blocks to block your memory</li>
             <li> Catch me on the enemy's territory</li>
@@ -925,9 +926,9 @@
     </song>
     <song title="95TilInfinity" production="LeeBannon">
         <stanza speaker="JoeyBada$$" type="verse">
-            <li> And we smoking, toking potent herb</li>
+            <li> And we smoking, toking potent <weed>herb</weed></li>
             <li> Preaching spoken words that just might poke your nerves</li>
-            <li> Hope you ain't scared, my jeep go "Scrrrr"</li>
+            <li> Hope you ain't scared, my Jeep go "Scrrrr"</li>
             <li> I peep the obscured, and what ain't normally easy to observe</li>
             <li> I swear I'm born abnormally absurd</li>
             <li> If I give you a piece of mind, you've been disorderly disturbed</li>
@@ -1276,13 +1277,13 @@
             <li> Following schedules, never scheduled for break</li>
             <li> But still embrace he'll put ya' neck in a brace</li>
             <li> Regular days went to getting paid regular</li>
-            <li> Respecting the Era where the Era’s been ascending up</li>
+            <li> Respecting the <hiphop ref="ProEra">Era</hiphop> where the Era’s been ascending up</li>
             <li> Got all types of fans that’s always sending us love</li>
             <li> And ex girls that I loved I now offend with a glove</li>
             <li> And stayed deeper but still heading above ‘Cause Mr. Hinds always gotta float to
                 let the people know that nigga head is above</li>
             <li> Regular sea height, cause they 3rd eye never seen height</li>
-            <li> Cause only this Brooklyn street light gave me shine to shine for these nights</li>
+            <li> Cause only this <geo ref="Brooklyn">Brooklyn</geo> street light gave me shine to shine for these nights</li>
             <li> Came with the free ice to bag bodies on the beat sipes</li>
             <li> Bring it down baby</li>
             <li> Bring it down baby, uh</li>
@@ -1300,23 +1301,23 @@
         </stanza>
         <stanza speaker="JoeyBada$$" type="verse">
             <li> Seen it all in the retrospect, took retro steps</li>
-            <li> Like it’s ’93 still, got ’93 til mic skills</li>
-            <li> Even got the ecko check</li>
-            <li> Like for real there no testing, my tribe is not some Tribe called Questions</li>
+            <li> Like it’s <oldschool>’93 still</oldschool>, got <oldschool>’93 til mic skills</oldschool></li>
+            <li> Even got the <fashion>Ecko</fashion> check</li>
+            <li> Like for real there no testing, my tribe is not some <hiphop ref="ATCQ">Tribe called Questions</hiphop></li>
             <li> My professions are not no seconds</li>
             <li> To no veterans and they minutes of fame</li>
             <li> I’m a menace, insane, minus the brain as I diminish the flame</li>
             <li> Make it rain, champagne, 'til it falls down the drain</li>
             <li> Got my head up in my dreams</li>
             <li> Everything ain't what it be seemin'</li>
-            <li> Don’t blame me girl, blame my semen</li>
-            <li> You got good jeans so your inseams made seamless</li>
+            <li> Don’t blame me <women>girl</women>, blame my semen</li>
+            <li> You got <fashion>good jeans</fashion> so your inseams made seamless</li>
             <li> And off top, you’re ingenious</li>
-            <li> We took a hit of of the greenest</li>
-            <li> Now she at most fear on the atmosphere but don't intervene us</li>
-            <li> Break her body down to the genus if she leaving</li>
+            <li> We took a hit of of the <weed>greenest</weed></li>
+            <li> Now <women>she</women> at most fear on the atmosphere but don't intervene us</li>
+            <li> Break <womne>her</womne> body down to the genus if she leaving</li>
             <li> She didn’t get the pic and now I see Sophia</li>
-            <li> She get the tone, sorry Bonita but</li>
+            <li> She get the tone, sorry <hiphop ref="ATCQ">Bonita</hiphop> but</li>
             <li> Sophia got a applebum</li>
             <li> Sophia got a applebum</li>
             <li> I’m thinking I should take it home</li>
@@ -1335,14 +1336,14 @@
             <li> So many aspects of truth</li>
             <li> In fact you let the past get to you</li>
             <li> So thoughts on a better future, it couldn't suit you alone</li>
-            <li> We was stoned, by the snakes of this life of sin</li>
+            <li> We was <weed>stoned</weed>, by the snakes of this life of sin</li>
             <li> But you taught me a life lesson, the fight within</li>
             <li> Use the power of our minds, I was confused at some hour in time</li>
             <li> My eyes were dark brown but blind</li>
             <li> But, now I see even the sun shines through blinds</li>
             <li> And now I move enlighten in sightings that I find</li>
             <li> Enticin' in my prime, like, look at me now</li>
-            <li> You used to tell me read books, niggas bookin' me now</li>
+            <li> You used to tell me read books, <success>niggas bookin' me now</success></li>
             <li> But how, could I have done it without you though</li>
             <li> You was the big bro I never ever had you know?</li>
             <li> Why you had to go? It hurt me inside</li>
@@ -1362,9 +1363,9 @@
             <li> That's what they told the fuckin' fool</li>
             <li> I disguised the limit</li>
             <li> Now I'm aiming for the sun and moon x2</li>
-            <li> Long Live Steelo</li>
+            <li> Long Live <hiphop ref="CapitalSteez">Steelo</hiphop></li>
             <li> Yo y-yo</li>
-            <li> Y-yo yo yo 93 'til infinity, King Capital</li>
+            <li> Y-yo yo yo 93 'til infinity, <hiphop ref="CapitalSteez">King Capital</hiphop></li>
             <li> May your soul Rest in Peace</li>
         </stanza>
 
@@ -1380,20 +1381,20 @@
             <li> Observing what my brothers faces in all races</li>
             <li> Lost in generations before hatred</li>
             <li> See with your eyes dilated for the sake of the Gs</li>
-            <li> But keep it sacred G, fuck a rat race, we take the cheese</li>
-            <li> Jack cheddar from the make believe</li>
+            <li> But keep it sacred G, fuck a rat race, we take the <money><food>cheese</food></money></li>
+            <li> Jack <money><food>cheddar</food></money> from the make believe</li>
             <li> Break the trees on they eighth CD</li>
             <li> Rocking the red and black lumberjack faithfully</li>
-            <li> I’m a Brooklyn nigga, basically I grind with the grimiest</li>
+            <li> I’m a <geo ref="Brooklyn">Brooklyn</geo> nigga, basically I grind with the grimiest</li>
             <li> Learn how to eat in the jungle full of hyenas</li>
             <li> And vultures, don’t worry what a verse will cost ya</li>
             <li> From the young scorcher, just remember who taught ya</li>
             <li> Imma spark it off unorthodox</li>
             <li> Won’t sign to no major if no wager</li>
-            <li> Less than a 3 million offer off the top</li>
+            <li> Less than a <money>3 million</money> offer off the top</li>
             <li> I’ll be in a box with my coughin’ drops</li>
             <li> Why settle for a office spot?</li>
-            <li> Niggas don’t always make it off the block</li>
+            <li> <struggle>Niggas don’t always make it off the block</struggle></li>
             <li> Unless they extort rocks or support the cops</li>
             <li> They still snitchin’ - let me guess: that’s your mannequin?</li>
             <li> Leave ‘em shook while you’re standing and quit the shenanigans</li>
@@ -1403,14 +1404,14 @@
             <li> I dispose for 'em, leave fake MC’s in the post mortem</li>
         </stanza>
         <stanza speaker="JoeyBada$$" type="hook">
-            <li> Cause money ain’t a thing if I got it I won’t spend</li>
-            <li> All I got is my Pros, I don’t need no friends</li>
+            <li> Cause <money>money</money> ain’t a thing if I got it I won’t spend</li>
+            <li> All I got is my <hiphop ref="ProEra">Pros</hiphop>, I don’t need no friends</li>
             <li> Feel like this glory road is coming to an end</li>
             <li> The only soul that won’t sin</li>
             <li> No he won’t give in</li>
             <li> Yo this world is bone chillin’</li>
-            <li> Make meals in hell’s kitchen with these dishes</li>
-            <li> Properly delivered drop trees in my swisher</li>
+            <li> Make <food>meals</food> in hell’s kitchen with these dishes</li>
+            <li> Properly delivered drop <weed>trees</weed> in my swisher</li>
             <li> And bring that back to my property wit ya</li>
         </stanza>
         <stanza speaker="JoeyBada$$" type="verse">
@@ -1422,29 +1423,29 @@
             <li> The kid is that sick so expect more coffins</li>
             <li> I’m the chosen one so you can expect more offerings</li>
             <li> I be sonning niggas so expect less orphans</li>
-            <li> Best rapper alive hear that line used less often</li>
-            <li> Word to God I’m the best offering</li>
-            <li> BMX like Hoffman, BMF like Ross man</li>
-            <li> Young boss, man, got Jimmy Fallon endorsements</li>
-            <li> From porches, to Porsches, getting portions of fortune</li>
+            <li> <success>Best rapper alive</success> hear that line used less often</li>
+            <li> <success>Word to God I’m the best offering</success></li>
+            <li> BMX like Hoffman, <hiphop ref="RickRoss">BMF like Ross man</hiphop></li>
+            <li> Young boss, man, got <popculture ref="JimmyFallon">Jimmy Fallon</popculture> endorsements</li>
+            <li> From porches, to <popculture ref="Porsche">Porsches</popculture>, getting portions of fortune</li>
             <li> They said next up so I stepped up</li>
-            <li> Fly like I dressed up</li>
-            <li> Bitches try to hang like left nuts</li>
+            <li> <fashion>Fly like I dressed up</fashion></li>
+            <li> <women>Bitches</women> try to hang like left nuts</li>
             <li> Like orangutans in the west of</li>
             <li> Of the motherland, but I’ve got the swank of no other man</li>
             <li> Brother man</li>
             <li> They can’t understand</li>
-            <li> Pro Era boys pop rubber band</li>
+            <li> <hiphop ref="ProEra">Pro Era</hiphop> boys pop <money>rubber band</money></li>
         </stanza>
         <stanza speaker="JoeyBada$$" type="hook">
-            <li> Cause money ain’t a thing if I got it I won’t spend</li>
-            <li> All I got is my Pros, I don’t need no friends</li>
+            <li> Cause <money>money</money> ain’t a thing if I got it I won’t spend</li>
+            <li> All I got is my <hiphop ref="ProEra">Pros</hiphop>, I don’t need no friends</li>
             <li> Feel like this glory road is coming to an end</li>
             <li> The only soul that won’t sin</li>
             <li> No he won’t give in</li>
             <li> Yo this world is bone chillin’</li>
-            <li> Make meals in hell’s kitchen with these dishes</li>
-            <li> Properly delivered drop trees in my swisher</li>
+            <li> Make <food>meals</food> in hell’s kitchen with these dishes</li>
+            <li> Properly delivered drop <weed>trees</weed> in my swisher</li>
             <li> And bring that back to my property wit ya</li>
         </stanza>
         <stanza speaker="JoeyBada$$" type="outro">
