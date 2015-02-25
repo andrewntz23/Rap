@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="schema1.rnc" type="application/relax-ng-compact-syntax"?>
 <album type="mixtape">
 <meta>
     <albumTitle>1999</albumTitle>
@@ -822,69 +823,69 @@
 
 <song title="Don'tFront" feature="CJFly" production="StatikSelektah">
 <stanza type="intro" speaker="JoeyBada$$">
-<li>Yo, what's the word word</li>
-<li>Pass the herbs</li>
+<li>Yo, what's the word <group label="a" num="1" slantRhyme="2">word</group></li>
+<li>Pass the <group label="a" num="2" slantRhyme="1">herbs</group></li>
 <li>Pass the herbs, pass the herbs</li>
-<li>Had to learn, had to learn (had To learn)</li>
-<li>We just had to burn</li></stanza>
+<li>Had to learn, had to <group label="a" num="3" rhyme="4">learn</group> (had To learn)</li>
+<li>We just had to <group label="a" num="4" rhyme="3">burn</group></li></stanza>
 
 <stanza type="verse" speaker="JoeyBada$$">
-<li>It all started with this special herb</li>
-<li>Then after that it came to sexual words</li>
-<li>I'm meeting shorty up to patch her a verse</li>
-<li>She played Bonnie and I collide with a vibe when I'm inside the walls</li>
-<li>I cut my shorties on the side cause I decide that she all</li>
-<li>Mine's, I keep her in my eyes at all times</li>
-<li>Not because I don't trust her I just, can't get enough of her</li>
-<li>On the phone late until her mom dukes be cussing her</li>
-<li>She played the hustler and I'm like mad customers</li>
-<li>Man swear I'm in love and ain't afraid to admit it</li>
-<li>Be blowing up her line, man I swear I'm addicted, but</li>
-<li>It's all cool cause when in love we all fools</li>
+<li>It all started with this <group label="b" num="1" assimilation="2">special herb</group></li>
+<li>Then after that it came to <group label="b" num="2" assimilation="1">sexual words</group></li>
+<li>I'm meeting shorty up to patch her a verse</group></li>
+<li>She played Bonnie and I <group label="b" num="3" assonance="4,5">collide</group> with a <group label="b" num="4" assonance="3,5">vibe</group> when I'm <group label="b" num="5" assonance="3,4">inside</group> the <group label="b" num="6" rhyme="9">walls</group></li>
+<li>I cut my shorties on the <group label="b" num="7" rhyme="8">side</group> cause I <group label="b" num="8" rhyme="7">decide</group> that she <group label="b" num="9" rhyme="6">all</group></li>
+<li><group label="b" num="10" assonance="11,12">Mine's</group>, I keep her in my <group label="b" num="11" assonance="10,12">eyes</group> at all <group label="b" num="12" assonance="10,11">times</group></li>
+<li>Not because I don't trust her I just, can't get <group label="b" num="13" rhyme="14,15,16">enough of her</group></li>
+<li>On the phone late until her mom dukes be <group label="b" num="14" rhyme="13,15,16" assimilation="16">cussing her</group></li>
+<li>She played the <group label="b" num="15" rhyme="13,14,16">hustler</group> and I'm like mad <group label="b" num="16" rhyme="13,14,15" assimilation="14">customers</group></li>
+<li>Man swear I'm in love and ain't afraid to <group label="b" num="17" assimilation="18">admit it</group></li>
+<li>Be blowing up her line, man I swear I'm <group label="b" num="18" assimilation="17">addicted</group>, but</li>
+<li>It's all <group label="b" num="19" rhyme="20">cool</group> cause when in love we all <group label="b" num="20" rhyme="19">fools</group></li>
 <li>They say men lie and women lay naked that's all foolin'</li>
-<li>Numbers don't matter after the first night</li>
-<li>Right, so what the fuck is love at the first sight</li>
-<li>If you ask me, another stupid analogy</li>
-<li>Made to cover flaws in the female anatomy</li></stanza>
+<li>Numbers don't matter after the first <group label="b" num="21" rhyme="22,23">night</group></li>
+<li><group label="b" num="22" rhyme="21,23">Right</group>, so what the fuck is love at the first <group label="b" num="23" rhyme="21,22">sight</group></li>
+<li>If you ask me, another stupid <group label="b" num="24" rhyme="25">analogy</group></li>
+<li>Made to cover flaws in the female <group label="b" num="25" rhyme="24">anatomy</group></li></stanza>
 
 <stanza type="hook" speaker="JoeyBada$$ CJFly">
 <li>But I'm a keep gradually telling these bitches</li>
 <li>Don't front, (don't front), don't front, (don't front)</li>
-<li>Don't front, (don- don't front), don't front though</li>
-<li>I got some weed and some fronto</li>
+<li>Don't front, (don- don't front), don't front <group label="c" num="1" rhyme="2,3,4">though</group></li>
+<li>I got some weed and some <group label="c" num="2" rhyme="1,3,4">fronto</group></li>
 <li>(Don't front)</li>
-<li>And you know I always hunt hoes</li>
-<li>I tell 'em leave but don't walk through the front door</li>
+<li>And you know I always <group label="c" num="3" rhyme="1,2,4">hunt hoes</group></li>
+<li>I tell 'em leave but don't walk through the <group label="c" num="4" rhyme="1,2,3">front door</group></li>
 <li>Now don't front, (don't front), don't front, (don't front)</li>
 <li>Check, (don- don- don't front)</li></stanza>
 
 <stanza type="verse" speaker="CJFly">
-<li>It's like a massacre when mass occur</li>
-<li>I got a massive urge but I had to learn</li>
-<li>Heard you had it on lock so I pass the word</li>
-<li>I stash the herb, sit back observe</li>
-<li>That she make me feel good is all I ask of her</li>
-<li>In the clouds who would've known, We would've crash and burn</li>
+<li>It's like a <group label="d" num="1" assimilation="2,3">massacre</group> when <group label="d" num="2" assimilation="1,3">mass occur</group></li>
+<li>I got a <group label="d" num="3" assimilation="1,2" slantRhyme="4">massive urge</group> but I had to <group label="d" num="4" slantRhyme="3">learn</group></li>
+<li><group label="d" num="5" rhyme="6">Heard</group> you had it on lock so I pass the <group label="d" num="6" rhyme="5">word</group></li>
+<li>I stash the <group label="d" num="7" slantRhyme="8">herb</group>, sit back <group label="d" num="8" slantRhyme="7">observe</group></li>
+<li>That she make me feel good is all I ask of <group label="d" num="9" slantRhyme="10">her</group></li>
+<li>In the clouds who would've known, We would've crash and <group label="d" num="10" slantRhyme="9">burn</group></li>
 <li>I prayed long and hard, hoping things will last with her</li>
-<li>I ain't mad at her</li>
-<li>But I really wish that it ain't have to hurt</li>
-<li>Let's be blunt we're best buds</li>
-<li>Both knew our role this is more than just a crush</li>
-<li>I used to pick her up longing for our lips to touch</li>
+<li>I ain't mad at <group label="d" num="11" slantRhyme="12">her</group></li>
+<li>But I really wish that it ain't have to <group label="d" num="12" slantRhyme="11">hurt</group></li>
+<li>Let's be <group label="d" num="13" alliteration="14,15">blunt</group> we're <group label="d" num="14" alliteration="13,15">best</group> <group label="d" num="15" alliteration="13,14">buds</group></li>
+<li>Both knew our role this is more than just a <group label="e" num="1" slantRhyme="2">crush</group></li>
+<li>I used to pick her up longing for our lips to <group label="e" num="2" slantRhyme="1">touch</group></li>
 <li>But now I rarely even see her</li>
 <li>In everybody hood not even the law enforcement can keep up</li>
-<li>She ain't want no one to know, so I kept it on the low</li>
-<li>Any time that we would kick it, I make sure I had some toe</li>
-<li>I thought I knew her better than anyone would know</li>
-<li>Bagged her at her friends, but home were I would take her</li>
-<li>Didn't know that she was a ho, that only wanted my paper</li>
-<li>Whenever I was with her, my mind would just relax</li>
-<li>Could've been the hot topic cause I swore we were a match and</li>
-<li>I admit it girl you fine as hell</li>
-<li>Don't know your perfume but you exert the finest smells</li>
-<li>You tryna find her then follow her trail</li>
-<li>She left a few old lovers inside of a jail</li>
-<li>That's all a part of the tale</li></stanza>
+<li>She ain't want no one to <group label="e" num="3" rhyme="4">know</group>, so I kept it on the <group label="e" num="4" rhyme="3">low</group></li>
+<li>Any time that we would kick it, I make sure I had some <group label="e" num="5" rhyme="6">toe</group></li>
+<li>I thought I knew her better than anyone would <group label="e" num="6" rhyme="5">know</group></li>
+<li>Bagged her at her friends, but home where I would <group label="e" num="7" rhyme="8">take her</group></li>
+<li>Didn't know that she was a ho, that only wanted my <group label="e" num="8" rhyme="7">paper</group></li>
+<li>Whenever I was with her, my mind would just <group label="e" num="9" slantRhyme="10">relax</group></li>
+<li>Could've been the hot topic cause I swore we were a <group label="e" num="10" slantRhyme="9">match</group> and</li>
+<li>I admit it girl you fine as <group label="e" num="11" rhyme="12">hell</group></li>
+<li>Don't know your perfume but you exert the finest <group label="e" num="12" rhyme="11">smells</group></li>
+<li>You tryna find her then follow her <group label="e" num="13" rhyme="14,15">trail</group></li>
+<li>She left a few old lovers inside of a <group label="e" num="14" rhyme="13,15">jail</group></li>
+<li>That's all a part of the <group label="e" num="15" rhyme="13,14">tale</group></li></stanza>
 
 <stanza type="hook" speaker="JoeyBada$$ CJFly">
 <li>But I'm a keep gradually telling these bitches</li>
@@ -898,68 +899,68 @@
 <li>Check, (don- don- don't front)</li></stanza>
 
 <stanza type="verse" speaker="JoeyBada$$">
-<li>Hey yo don't tell me be patient with no doctor prescription</li>
-<li>Emotionless positions and provocative visions</li>
-<li>Should've known you missed a note like the octave was switching</li>
-<li>Remember hate the game but she's spotting some glitches</li>
-<li>It's a simulation yeah, stimulation</li>
-<li>Take off your shirt, let me feel manipulative</li>
-<li>My heart like the Himalayas but yeah I got a slay her</li>
-<li>I'm crushing on you sweetheart but yeah I'm a player</li>
-<li>Sort of like Isaiah so baby let me coach you</li>
-<li>And I know I'm not the first jerk to approach you</li>
-<li>So this ain't nothing new to you, nothing unusual</li>
-<li>Nothing you ain't used to so my nothing is useable</li></stanza>
+<li>Hey yo don't tell me be patient with no doctor <group label="f" num="1" rhyme="2,3">prescription</group></li>
+<li>Emotionless <group label="f" num="2" rhyme="1,3">positions</group> and provocative <group label="f" num="3" rhyme="1,2">visions</group></li>
+<li>Should've known you missed a note like the octave was <group label="f" num="4" slantRhyme="5">switching</group></li>
+<li>Remember hate the game but she's spotting some <group label="f" num="5" slantRhyme="4">glitches</group></li>
+<li>It's a simulation yeah, <group label="f" num="6" slantRhyme="7">stimulation</group></li>
+<li>Take off your shirt, let me feel <group label="f" num="7" slantRhyme="6">manipulative</group></li>
+<li>My heart like the <group label="f" num="8" assimilation="9">Himalayas</group> but yeah I got a <group label="f" num="9" assimilation="8" rhyme="10">slay her</group></li>
+<li>I'm crushing on you sweetheart but yeah I'm a <group label="f" num="10" rhyme="9">player</group></li>
+<li>Sort of like Isaiah so baby let me <group label="f" num="11" rhyme="12">coach you</group></li>
+<li>And I know I'm not the first jerk to <group label="f" num="12" rhyme="11">approach you</group></li>
+<li>So this ain't nothing new to you, nothing <group label="f" num="13" rhyme="14">unusual</group></li>
+<li>Nothing you ain't used to so my nothing is <group label="f" num="14" rhyme="13">useable</group></li></stanza>
 
 <stanza type="verse" speaker="CJFly">
-<li>We all try when you go bye, we all high</li>
-<li>Truth is I'm never home and I'm cold if that's where the heart lies</li>
-<li>So label me as heartless, it's not that I don't care</li>
-<li>I just learned to use my heart less, gain sanity and lost stress</li>
-<li>It put me in a state that just started taking a toll on me</li>
-<li>Kept the secrets you told me, emotions I would hold beneath</li>
-<li>Always kept the L so I know defeat</li>
+<li>We all <group label="g" num="1" rhyme="2,3">try</group> when you go <group label="g" num="2" rhyme="1,3">bye</group>, we all <group label="g" num="3" rhyme="1,2">high</group></li>
+<li>Truth is I'm never <group label="g" num="4" assonance="5">home</group> and I'm <group label="g" num="5" assonance="4">cold</group> if that's where the <group label="g" num="6" assimilation="7,8">heart lies</group></li>
+<li>So label me as <group label="g" num="7" assimilation="6,8">heartless</group>, it's not that I don't care</li>
+<li>I just learned to use my <group label="g" num="8" assimilation="6,7" rhyme="9">heart less</group>, gain sanity and lost <group label="g" num="9" rhyme="8">stress</group></li>
+<li>It put me in a state that just started taking a <group label="g" num="10" assimilation="11">toll on me</group></li>
+<li>Kept the secrets you <group label="g" num="11" assimilation="10">told me</group>, emotions I would hold <group label="g" num="12" slantRhyme="13">beneath</group></li>
+<li>Always kept the L so I know <group label="g" num="13" slantRhyme="12">defeat</group></li>
 <li>Said everything will feel much better soon as you know I leave</li>
-<li>Not sure if it's the meds that made you think I'm mediocre</li>
+<li>Not sure if it's the <group label="g" num="14" alliteration="15,16">meds</group> that <group label="g" num="15" alliteration="14,16">made</group> you think I'm <group label="g" num="16" alliteration="14,15">mediocre</group></li>
 <li>I was still body with a glove on, you know I'm a cold ma</li>
 <li>I'm in animal pause, but you got an Ark</li>
 <li>When it flooded, used to always feel like Noah</li></stanza>
 
 <stanza type="verse" speaker="JoeyBada$$">
-<li>And I know I know her</li>
-<li>Had these kind of skills I had to show her</li>
-<li>So I told her I'm the nigga she see on the posters</li>
-<li>Came back through and I put it in the holster</li>
+<li>And I know I <group label="h" num="1" rhyme="2,3,4">know her</group></li>
+<li>Had these kind of skills I had to <group label="h" num="2" rhyme="1,3,4">show her</group></li>
+<li>So I told her I'm the nigga she see on the <group label="h" num="3" rhyme="1,2,4">posters</group></li>
+<li>Came back through and I put it in the <group label="h" num="4" rhyme="1,2,3">holster</group></li>
 <li>Just had to teach her one time</li>
-<li>Put it down, don't really give a fuck though</li>
+<li>Put it down, don't really give a <group label="h" num="5" rhyme="6">fuck though</group></li>
 <li>Don't front</li>
-<li>And tell your bitch don't front though</li>
+<li>And tell your bitch don't <group label="h" num="6" rhyme="5">front though</group></li>
 <li>Don't front</li></stanza></song>
 
 <song title="RighteousMinds" feature="none" production="BruceLeekix">
 <stanza type="verse" speaker="JoeyBada$$">
-<li>I never knew the world could be this mad</li>
-<li>Only vision I had of sex was Color Me Badd</li>
-<li>And I never knew the world could be this cold</li>
-<li>Only time a nigga die, he was playing a role</li>
-<li>But now niggas get their souls stole' so often</li>
-<li>They only thing they offer dreamers is a wake and a coffin</li>
-<li>From NY, to Compton, down to Austin</li>
-<li>She said that orifice morph into abortions without precaution</li>
-<li>Problem with our people, there's too many wanna-be Jordan</li>
-<li>Too many forces thinking they could make a fortune scorin'</li>
-<li>Too many wanna-be actors instead of achieving their masters</li>
-<li>At least a bachelors but no, too many wanna-be rappers</li>
-<li>That's just statistics, don't mistake me for hypocrites</li>
-<li>Like niggas in the White House supplying Wite-Out</li>
-<li>On Jim Crow Laws, you probably missed it</li>
-<li>Hard to be persistent when you're tryin' to fight for your existence</li></stanza>
+<li>I never knew the world could be this <group label="a" num="1" rhyme="2">mad</group></li>
+<li>Only vision I had of sex was Color Me <group label="a" num="2" rhyme="1">Badd</group></li>
+<li>And I never knew the world could be this <group label="a" num="3" slantRhyme="4">cold</group></li>
+<li>Only time a nigga die, he was playing a <group label="a" num="4" slantRhyme="3" rhyme="5,6">role</group></li>
+<li>But now niggas get their <group label="a" num="5" alliteration="6,7" rhyme="3,6">souls</group> <group label="a" num="6" alliteration="5,7" rhyme="3,5">stole'</group> <group label="a" num="7" alliteration="5,6">so</group> <group label="a" num="8" rhyme="9,10">often</group></li>
+<li>They only thing they offer dreamers is a wake and a <group label="a" num="9" rhyme="8,10">coffin</group></li>
+<li>From NY, to Compton, down to <group label="a" num="10" rhyme="8,9">Austin</group></li>
+<li>She said that <group label="b" num="1" assonance="2,3">orifice</group> <group label="b" num="2" assonance="1,3">morph</group> into <group label="b" num="3" assonance="1,2" rhyme="4">abortions</group> without <group label="b" num="4" rhyme="3">precaution</group></li>
+<li>Problem with our people, there's too many wanna-be <group label="b" num="5" rhyme="7,8">Jordan</group></li>
+<li>Too many <group label="b" num="6" alliteration="7">forces</group> thinking they could make a <group label="b" num="7" rhyme="5,8" alliteration="6">fortune</group> <group label="b" num="8" rhyme="5,7">scorin'</group></li>
+<li>Too many wanna-be <group label="b" num="9" rhyme="10,11,12">actors</group> instead of achieving their <group label="b" num="10" rhyme="9,11,12">masters</group></li>
+<li>At least a <group label="b" num="11" rhyme="9,10,12">bachelors</group> but no, too many wanna-be <group label="b" num="12" rhyme="9,10,11">rappers</group></li>
+<li>That's just <group label="b" num="13" rhyme="14">statistics</group>, don't mistake me for <group label="b" num="14" rhyme="13">hypocrites</group></li>
+<li>Like niggas in the <group label="b" num="15" assimilation="16">White House</group> supplying <group label="b" num="16" assimilation="15">Wite-Out</group></li>
+<li>On Jim Crow Laws, you probably <group label="b" num="17" slantRhyme="18,19">missed it</group></li>
+<li>Hard to be <group label="b" num="18" slantRhyme="17,19">persistent</group> when you're tryin' to fight for your <group label="b" num="19" slantRhyme="17,18">existence</group></li></stanza>
 
 <stanza type="hook" speaker="JoeyBada$$">
-<li>It ain't easy livin' life like this</li>
-<li>When you tryin' to be righteous but know a nigga might just</li>
-<li>Leave you lifeless for prices, or high tech devices</li>
-<li>So keep that TEC-9 or meet your crisis</li>
+<li>It ain't easy <group label="c" num="1" alliteration="2,3">livin'</group> <group label="c" num="2" alliteration="1,3">life</group> <group label="c" num="3" alliteration="1,2">like</group> this</li>
+<li>When you tryin' to be <group label="c" num="4" assimilation="5,6">righteous</group> but know a nigga <group label="c" num="5" assimilation="4,6">might just</group></li>
+<li>Leave you <group label="c" num="6" assimilation="4,5">lifeless</group> for <group label="c" num="7" rhyme="8,9">prices</group>, or high tech <group label="c" num="8" rhyme="7,9">devices</group></li>
+<li>So keep that TEC-9 or meet your <group label="c" num="9" rhyme="7,8">crisis</group></li>
 <li>It really ain't easy livin' life like this</li>
 <li>When you tryin' to be righteous but know a nigga might just</li>
 <li>Leave you lifeless for prices, or high tech devices</li>
@@ -974,22 +975,22 @@
 <li>So keep that TEC-9 or meet your crisis</li></stanza>
 
 <stanza type="verse" speaker="JoeyBada$$">
-<li>Person mad nervous, you surrender to sterling</li>
-<li>Look them in the eye, If looks made you die, you know you merk ‘em</li>
-<li>Right there, plus his hide is like, right here</li>
-<li>So you know that if you would fight fair then you'd have him like, quite scared</li>
-<li>But don't forget the TEC held high by your right ear</li>
-<li>So listen loud and clear: you don't wanna lose your life, dear</li>
-<li>And don’t you show a slight tear or let 'em sight fear</li>
-<li>Just let 'em disappear the night air, yea with your Nike Airs</li>
+<li>Person mad nervous, you <group label="d" num="1" alliteration="2">surrender</group> to <group label="d" num="2" alliteration="1">sterling</group></li>
+<li>Look them in the <group label="d" num="3" rhyme="4">eye</group>, If looks made you <group label="d" num="4" rhyme="3">die</group>, you know you merk ‘em</li>
+<li><group label="d" num="5" assimilation="6,7,8,9">Right there</group>, plus his hide is like, <group label="d" num="6" assimilation="5,7,8,9">right here</group></li>
+<li>So you know that if you would <group label="d" num="7" assimilation="5,6,8,9">fight fair</group> then you'd have him like, <group label="d" num="8" assimilation="5,6,7,9">quite scared</group></li>
+<li>But don't forget the TEC held high by your <group label="d" num="9" assimilation="5,6,7,8">right ear</group></li>
+<li>So listen loud and <group label="d" num="10" rhyme="11,14">clear</group>: you don't wanna lose your life, <group label="d" num="11" rhyme="10,14">dear</group></li>
+<li>And don’t you show a <group label="d" num="12" assimilation="13">slight tear</group> or let 'em <group label="d" num="13" assimilation="12">sight fear</group></li>
+<li>Just let 'em <group label="d" num="14" rhyme="10,11">disappear</group> the <group label="d" num="15" assimilation="16">night air</group>, yea with your <group label="d" num="16" assimilation="15">Nike Airs</group></li>
 <li>Ride by the crackheads, left alone in the apartment</li>
-<li>Mothers be jobless, so they make dollars shaking it topless, and</li>
-<li>Daddy been gone said he, took off like ostrich</li>
-<li>Since he gain knowledge, I’m keeping it with the synopsis, and</li>
-<li>Shit like that make you wish you were adopted</li>
-<li>To escape the pain, you join a gang and get intoxicated</li>
-<li>Have no shame, nothing wrong with some Mary Jane</li>
-<li>The only thing is you do it again, and again, and again, and again</li>
+<li>Mothers be <group label="e" num="1" rhyme="2">jobless</group>, so they make dollars shaking it <group label="e" num="2" rhyme="1">topless</group>, and</li>
+<li>Daddy been gone said he, took off like <group label="e" num="3" slantRhyme="4,5,6">ostrich</group></li>
+<li>Since he gain <group label="e" num="4" slantRhyme="3,5,6">knowledge</group>, I’m keeping it with the <group label="e" num="5" slantRhyme="3,4,6">synopsis</group>, and</li>
+<li>Shit like that make you wish you were <group label="e" num="6" slantRhyme="3,4,5">adopted</group></li>
+<li>To escape the <group label="e" num="7" slantRhyme="8,9,10,11">pain</group>, you join a <group label="e" num="8" slantRhyme="7,9,10,11">gang</group> and get intoxicated</li>
+<li>Have no <group label="e" num="9" slantRhyme="7,8,10,11">shame</group>, nothing wrong with some Mary <group label="e" num="10" slantRhyme="7,8,9,11">Jane</group></li>
+<li>The only thing is you do it <group label="e" num="11" slantRhyme="7,8,9,10">again</group>, and again, and again, and again</li>
 <li>And again, and again, and again...</li></stanza>
 
 <stanza type="hook" speaker="JoeyBada$$">
@@ -1013,14 +1014,14 @@
 <stanza type="interlude" speaker="Nas Youngster"> Scene from Belly </stanza>
 
 <stanza type="verse" speaker="JoeyBada$$">
-<li>Imagine me fed up, a go-getter, for mo' cheddar</li>
-<li>Po' never, blow Berettas ‘cause I know no better</li>
-<li>No Era, no STEEZ, no Kirk, no Lee</li>
-<li>No school, no OG, no talent, no me</li>
-<li>What if I just ain't act right?</li>
-<li>What if I pack crack white with my sack tight, join the gat fight?</li>
-<li>The click-clack type, slide in the vipe with the black stripe</li>
-<li>And give my friends the back knife, ‘cause "That's life, nigga"</li></stanza>
+<li>Imagine me fed up, a <group label="f" num="1" assimilation="2,3,4,5,6">go-getter</group>, for <group label="f" num="2" assimilation="1,3,4,5,6">mo' cheddar</group></li>
+<li><group label="f" num="3" assimilation="1,2,4,5,6">Po' never</group>, <group label="f" num="4" assimilation="1,2,3,5,6">blow Berettas</group> ‘cause I know <group label="f" num="5" assimilation="1,2,3,4,6">no better</group></li>
+<li><group label="f" num="6" assimilation="1,2,3,4,5">No Era</group>, no STEEZ, no Kirk, no Lee</li>
+<li>No school, <group label="f" num="7" rhyme="8">no OG</group>, no talent, <group label="f" num="8" rhyme="7">no me</group></li>
+<li>What if I just ain't <group label="f" num="9" assimilation="10,11,12,13,14,15,16,17">act right</group>?</li>
+<li>What if I pack <group label="f" num="10" assimilation="9,11,12,13,14,15,16,17">crack white</group> with my <group label="f" num="11" assimilation="9,10,12,13,14,15,16,17">sack tight</group>, join the <group label="f" num="12" assimilation="9,10,11,13,14,15,16,17">gat fight</group>?</li>
+<li>The <group label="f" num="13" assimilation="9,10,11,12,14,15,16,17">click-clack type</group>, slide in the <group label="f" num="14" assimilation="9,10,11,12,13,15,16,17">vipe</group> with the <group label="f" num="15" assimilation="9,10,11,12,13,14,16,17">black stripe</group></li>
+<li>And give my friends the <group label="f" num="16" assimilation="9,10,11,12,13,14,15,17">back knife</group>, ‘cause "<group label="f" num="17" assimilation="9,10,11,12,13,14,15,16">That's life</group>, nigga"</li></stanza>
 
 <stanza type="hook" speaker="JoeyBada$$">
 <li>It ain't easy livin' life like this</li>
@@ -1054,67 +1055,67 @@
 
 <stanza type="verse" speaker="JoeyBada$$">
 <li>Let's get down tonight</li>
-<li>I think I might blow a whole pound tonight</li>
-<li>So shorty hit me with the spot and if it sound alright</li>
-<li>Then you know I'm in the house</li>
-<li>Let a nigga run his mouth</li>
-<li>It's going down on sight</li>
-<li>I'm always down to fight</li>
-<li>Ain't duff a nigga in the while, no bluff</li>
-<li>Ain't no chuch when you're living in the wild</li>
-<li>I was hidden in the crowd</li>
-<li>Rippin' on some loud</li>
-<li>'Till I seen the sucka nigga dick-lickin' on my style</li>
-<li>Wow must've been the material linen</li>
-<li>Whole night kept him in my peripheral vision</li>
-<li>All I gotta say is the word and imperials get him</li>
-<li>Word to my pops I know niggas known for serial killin'</li>
-<li>But back to the women</li>
-<li>They tryna catch me slippin'</li>
-<li>So I gotta pack a mags to stop venereal venoms</li>
-<li>From entering my system</li>
-<li>If it ain't my moms or my 'sis then</li>
+<li>I think I might blow a whole pound <group label="a" num="1" rhyme="2">tonight</group></li>
+<li>So shorty hit me with the spot and if it sound <group label="a" num="2" rhyme="1">alright</group></li>
+<li>Then you know I'm in the <group label="a" num="3" slantRhyme="4">house</group></li>
+<li>Let a nigga run his <group label="a" num="4" slantRhyme="3">mouth</group></li>
+<li>It's going down on <group label="a" num="5" rhyme="6">sight</group></li>
+<li>I'm always down to <group label="a" num="6" rhyme="5">fight</group></li>
+<li>Ain't <group label="a" num="7" rhyme="9">duff</group> a nigga in the <group label="a" num="8" assimilation="10">while</group>, no <group label="a" num="9" rhyme="7">bluff</group></li>
+<li>Ain't no chuch when you're living in the <group label="a" num="10" assimilation="8">wild</group></li>
+<li>I was hidden in the <group label="a" num="11" rhyme="12">crowd</group></li>
+<li>Rippin' on some <group label="a" num="12" rhyme="11">loud</group></li>
+<li>'Till I seen the <group label="a" num="13" rhyme="14">sucka</group> <group label="a" num="14" rhyme="13">nigga</group> dick-lickin' on my style</li>
+<li>Wow must've been the <group label="b" num="1" assimilation="2,3,4,7">material linen</group></li>
+<li>Whole night kept him in my <group label="b" num="2" assimilation="1,3,4,7">peripheral vision</group></li>
+<li>All I gotta say is the word and <group label="b" num="3" assimilation="1,2,4,7">imperials get him</group></li>
+<li>Word to my pops I know niggas known for <group label="b" num="4" assimilation="1,2,3,7">serial killin'</group></li>
+<li>But back to the <group label="b" num="5" rhyme="6">women</group></li>
+<li>They tryna catch me <group label="b" num="6" rhyme="5">slippin</group>'</li>
+<li>So I gotta pack a mags to stop <group label="b" num="7" assimilation="1,2,3,4">venereal venoms</group></li>
+<li>From entering my <group label="b" num="8" assimilation="9">system</group></li>
+<li>If it ain't my moms or my <group label="b" num="9" assimilation="8">'sis then</group></li>
 <li>I put'em in the system</li></stanza>
 
 <stanza type="hook" speaker="JoeyBada$$">
-<li>So tell me where it's at and I'm in the spot (so what you wanna do)</li>
-<li>I said so tell me where it's at and I'm in the spot (we got a lot to come true)</li>
+<li>So tell me where it's at and I'm in the spot (so what you wanna <group label="c" num="1" rhyme="2">do</group>)</li>
+<li>I said so tell me where it's at and I'm in the spot (we got a lot to come <group label="c" num="2" rhyme="1">true</group>)</li>
 <li>I said so tell me where it's at and I'm in the spot (so what you wanna do)</li>
 <li>So tell me where it's at and I'm in the spot (we got a lot to come true)</li>
 <li>I said so tell me where it's at and I'm in the spot (so what you wanna do)</li>
 <li>Tell me where it's at and I'm in that spot (we got a lot to come true)</li>
 <li>Let me know </li>
 <li>Let me know </li>
-<li>Let me now</li>
+<li>Let me know</li>
 <li>Let me know</li></stanza>
 
 <stanza type="verse" speaker="JoeyBada$$">
-<li>Yo let me tell you what I'm living like</li>
-<li>Same shit just a different night</li>
-<li>Super bad chicks and they all up in my kryptonite</li>
+<li>Yo let me tell you what I'm living <group label="c" num="1" slantRhyme="2">like</group></li>
+<li>Same shit just a <group label="c" num="2" slantRhyme="1" assimilation="3">different night</group></li>
+<li>Super bad chicks and they all up in my <group label="c" num="3" assimilation="2">kryptonite</group></li>
 <li>'Bout to get down</li>
-<li>I'm tryna get up in the tight</li>
-<li>So roll the endo right</li>
-<li>And I can show you what them bitches like</li>
-<li>They just wanna come and have fun</li>
-<li>Told this little hun she could come</li>
-<li>But don't touch my funds</li>
+<li>I'm tryna get up in the <group label="c" num="4" rhyme="5">tight</group></li>
+<li>So roll the endo <group label="c" num="5" rhyme="4" slantRhyme="6">right</group></li>
+<li>And I can show you what them bitches <group label="c" num="6" slantRhyme="5">like</group></li>
+<li>They just wanna come and have <group label="c" num="7" slantRhyme="8,9,10">fun</group></li>
+<li>Told this little hun she could <group label="c" num="8" slantRhyme="7,9,10">come</group></li>
+<li>But don't touch my <group label="c" num="9" slantRhyme="7,8,10">funds</group></li>
 <li>I might get crazy</li>
-<li>I might bust a gun</li>
+<li>I might bust a <group label="c" num="10" slantRhyme="7,8,9">gun</group></li>
 <li>So just give me some more</li>
-<li>And I might bust her son</li>
-<li>Might bust and run</li>
+<li>And I might <group label="c" num="11" rhyme="12">bust her son</group></li>
+<li>Might <group label="c" num="12" rhyme="11">bust and run</group></li>
 <li>They said love will come knockin' at my door</li>
-<li>Well I guess lust must've wrung</li>
-<li>The dutch touch the lungs and it was on</li>
-<li>Had her beggin' for the dawn 'till the crack of dawn</li>
-<li>Then I passed it off to Kwon</li>
-<li>I said it gotta be the swank if it ain't the rank</li>
-<li>Cause some pull hoes like ?</li>
+<li>Well I guess lust <group label="d" num="1" assimilation="2">must've wrung</group></li>
+<li>The dutch <group label="d" num="2" assimilation="1">touch the lungs</group> and it was <group label="d" num="3" rhyme="4,5">on</group></li>
+<li>Had her beggin' for the dawn 'till the crack of <group label="d" num="4" rhyme="3,5">dawn</group></li>
+<li>Then I passed it off to <group label="d" num="5" rhyme="3,4">Kwon</group></li>
+<li>I said it gotta be the <group label="d" num="6" rhyme="7">swank</group> if it ain't the <group label="d" num="7" rhyme="6">rank</group></li>
+<li>Cause some <group label="d" num="8" assimilation="9,10">pull hoes</group> like ?</li>
 <li>Hold up</li>
-<li>Let me pull ove'</li>
+<li>Let me <group label="d" num="9" assimilation="8,10">pull ove'</group></li>
 <li>Told her to hop in then put it back and drove</li>
-<li>And hit it out-park like Al Pujols</li></stanza>
+<li>And hit it out-park like Al <group label="d" num="10" assimilation="8,9">Pujols</group></li></stanza>
 
 <stanza type="hook" speaker="JoeyBada$$ KirkKnight">
 <li>So tell me where it's at and I'm in the spot (so what you wanna do)</li>
@@ -1129,28 +1130,28 @@
 <li>Let me know</li></stanza>
 
 <stanza type="verse" speaker="KirkKnight">
-<li>She's so enticing</li>
-<li>Derogatory thoughts when I'm sighting</li>
+<li>She's so <group label="e" num="1" rhyme="2,3">enticing</group></li>
+<li>Derogatory thoughts when I'm <group label="e" num="2" rhyme="1,3">sighting</group></li>
 <li>Slangs to get her wet</li>
-<li>And i heard you're overflowing, I could test the waters like sea man, and i heard you like semen, see man</li>
-<li>Well let me slide through I know you're feelin' the kid</li>
-<li>Cause these nonchalant lines is lettin' me in</li>
-<li>Cause on contrast</li>
-<li>I could see us lovebirds it's in plain sight</li>
-<li>And am I right cause I heard you like the international lovin'</li>
-<li>On a higher scale</li>
-<li>When I mean scale I do it well</li>
+<li>And I heard you're <group label="e" num="3" rhyme="1,2">overflowing</group>, I could test the waters like <group label="e" num="4" assimilation="5,6">sea man</group>, and I heard you like <group label="e" num="5" assimilation="4,6">semen</group>, <group label="e" num="6" assimilation="4,5">see man</group></li>
+<li>Well let me slide through I know you're <group label="e" num="7" assimilation="8">feelin' the kid</group></li>
+<li>Cause these nonchalant lines is <group label="e" num="8" assimilation="7">lettin' me in</group></li>
+<li><group label="e" num="9" alliteration="10">Cause</group> on <group label="e" num="10" alliteration="9">contrast</group></li>
+<li>I could see us lovebirds it's in plain <group label="e" num="11" rhyme="12">sight</group></li>
+<li>And am I <group label="e" num="12" rhyme="11">right</group> cause I heard you like the international lovin'</li>
+<li>On a higher <group label="e" num="13" slantRhyme="14">scale</group></li>
+<li>When I mean scale I do it <group label="e" num="14" slantRhyme="13">well</group></li>
 <li>Let me go deeper feel like I'm doing it well</li>
 <li>Word on the street you acting like a bastard</li>
-<li>Can I be you daddy?</li>
-<li>You can hop up in my caddy</li>
-<li>And I heard you got the fatty</li>
+<li>Can I be you <group label="f" num="1" rhyme="2,3">daddy</group>?</li>
+<li>You can hop up in my <group label="f" num="2" rhyme="1,3">caddy</group></li>
+<li>And I heard you got the <group label="f" num="3" rhyme="1,2">fatty</group></li>
 <li>Yeah cellurite</li>
 <li>Just remember it's amazing how I come up on the track</li>
-<li>So duck and weave</li>
-<li>And please believe</li>
-<li>My side effect is shakin' knees</li>
-<li>Damn here I go again with the suggestive themes</li></stanza>
+<li>So duck and <group label="f" num="4" rhyme="5">weave</group></li>
+<li>And please <group label="f" num="5" rhyme="4">believe</group></li>
+<li>My side effect is shakin' <group label="f" num="6" slantRhyme="7">knees</group></li>
+<li>Damn here I go again with the suggestive <group label="f" num="7" slantRhyme="6">themes</group></li></stanza>
 
 <stanza type="hook" speaker="JoeyBada$$ KirkKnight">
 <li>So tell me where it's at and I'm in the spot (so what you wanna do)</li>
@@ -1166,32 +1167,32 @@
 
 <song title="Suspect" feature="ProEra" production="ChuckStrangers">
 <stanza type="hook" speaker="ProEra">
-<li>Suspect niggas don't come outside</li>
-<li>You might get your wig pushed back tonight</li>
+<li>Suspect niggas don't come <group label="a" num="1" slantRhyme="2">outside</group></li>
+<li>You might get your wig pushed back <group label="a" num="2" slantRhyme="1">tonight</group></li>
 <li>Said I deserve my respect</li>
-<li>Brains don't matter if your wig get split on some third eye shit</li>
+<li>Brains don't matter if your wig <group label="a" num="3" rhyme="4,5">get</group> <group label="a" num="4" rhyme="3,5">split</group> on some third eye <group label="a" num="5" rhyme="3,4">shit</group></li>
 <li>Suspect niggas don't come outside</li>
 <li>You might get your wig pushed back tonight</li>
 <li>I deserve my respect</li>
 <li>Brains don't matter if your wig get split on some third eye shit</li></stanza>
 
 <stanza type="verse" speaker="CapitalSTEEZ">
-<li>Started blazing and star gazing</li>
+<li><group label="b" num="1" assimilation="2">Started blazing</group> and <group label="b" num="2" assimilation="1">star gazing</group></li>
 <li>See how you can reach your farthest aspirations</li>
-<li>It's like holy matrimony in The Matrix</li>
-<li>It ain't shit, they just call it a strange shift</li>
-<li>Cold feet cause I'm on thin ice</li>
-<li>It's alright besides the fact I want it all in one night</li>
-<li>Like, you can't skip steps is the best</li>
-<li>Even though the vets hold a .47 with a vest</li>
-<li>Now that's a wise investment</li>
-<li>Or a concept to try and hide divine intentions</li>
-<li>It's like, let em hate, stay calm and meditate</li>
-<li>When life has the lemons it's time to eliminate</li>
-<li>More sour than lemonade, anyways</li>
-<li>Different days, different highs, different haze</li>
-<li>Kama Sutra with miss Mary Jane</li>
-<li>And the karma suits her, she a vibrant thang</li></stanza>
+<li>It's like <group label="b" num="3" rhyme="4">holy</group> <group label="b" num="4" rhyme="3">matrimony</group> in The Matrix</li>
+<li>It ain't <group label="b" num="5" consonance="6">shit</group>, they just call it a strange <group label="b" num="6" consonance="5">shift</group></li>
+<li>Cold feet cause I'm on thin <group label="b" num="7" slantRhyme="8">ice</group></li>
+<li>It's <group label="b" num="8" slantRhyme="7" rhyme="9">alright</group> besides the fact I want it all in one <group label="b" num="9" rhyme="8">night</group></li>
+<li>Like, you can't skip <group label="b" num="10" slantRhyme="12">steps</group> is the <group label="b" num="11" rhyme="13">best</group></li>
+<li>Even though the <group label="b" num="12" slantRhyme="10">vets</group> hold a .47 with a <group label="b" num="13" rhyme="11">vest</group></li>
+<li>Now that's a wise <group label="b" num="14" assimilation="15">investment</group></li>
+<li>Or a concept to try and hide divine <group label="b" num="15" assimilation="14">intentions</group></li>
+<li>It's like, let em <group label="b" num="16" rhyme="17,19">hate</group>, stay calm and <group label="b" num="17" rhyme="16,19">meditate</group></li>
+<li>When life has the <group label="b" num="18" consonance="19,20">lemons</group> it's time to <group label="b" num="19" rhyme="16,17" consonance="18,20" assimilation="20">eliminate</group></li>
+<li>More sour than <group label="b" num="20" consonance="18,19" assimilation="19">lemonade</group>, <group label="b" num="21" rhyme="22,23">anyways</group></li>
+<li>Different <group label="b" num="22" rhyme="21,23">days</group>, different highs, different <group label="b" num="23" rhyme="21,22">haze</group></li>
+<li><group label="b" num="24" assimilation="25">Kama Sutra</group> with miss Mary Jane</li>
+<li>And the <group label="b" num="25" assimilation="24">karma suits her</group>, she a vibrant thang</li></stanza>
 
 <stanza type="hook" speaker="ProEra"><li>Suspect niggas don't come outside</li>
 <li>You might get your wig pushed back tonight</li>
@@ -1203,22 +1204,22 @@
 <li>Brains don't matter if your wig get split on some third eye shit</li></stanza>
 
 <stanza type="verse" speaker="CJFly">
-<li>You niggas is suspect and I'm just a ruffneck</li>
-<li>That wasn't breaking pencil tips when I would bust lead</li>
-<li>I puff meds and leave chumps fed and punks dead</li>
-<li>Her cunt wet she getting rough sex no sunset</li>
-<li>I like a chick with a buck tooth yeah it could get fucked too</li>
-<li>We keep one eye open they sus too</li>
-<li>Never tell em my government make any covenant bitches be loving it</li>
-<li>Say not to put a glove on it some funny shit</li>
-<li>You must've thought I was a dummy Miss</li>
-<li>I feed lines to felines just to get up in their tummies quick</li>
-<li>Yeah you got tricks but I got five more</li>
-<li>So any game you try to play you better know I got the high score</li>
-<li>You better settle down cause you not on my level now</li>
-<li>The Pros is semi-circle they can tell the world you get around</li>
-<li>Some niggas clowns what's the shit about</li>
-<li>They used to doubt now they see us sprout and I'm out</li></stanza>
+<li>You niggas is <group>suspect</group> and I'm just a <group>ruffneck</group></li>
+<li>That wasn't breaking pencil tips when I would <group>bust lead</group></li>
+<li>I <group>puff meds</group> and leave <group>chumps fed</group> and <group>punks dead</group></li>
+<li>Her cunt <group>wet</group> she getting rough <group>sex</group> no <group>sunset</group></li>
+<li>I like a chick with a <group>buck tooth</group> yeah it could get <group>fucked too</group></li>
+<li>We keep one eye open they <group>sus too</group></li>
+<li>Never tell em my <group>government</group> make any <group>covenant</group> bitches be <group>loving it</group></li>
+<li>Say not to put a <group>glove on it</group> some <group>funny shit</group></li>
+<li>You must've thought I was a <group>dummy Miss</group></li>
+<li>I <group>feed lines</group> to <group>felines</group> just to get up in their <group>tummies quick</group></li>
+<li>Yeah you got tricks but I got <group>five more</group></li>
+<li>So any game you try to play you better know I got the <group>high score</group></li>
+<li>You better <group>settle down</group> cause you not on my <group>level now</group></li>
+<li>The Pros is semi-circle they can tell the world you <group>get around</group></li>
+<li>Some niggas clowns what's the shit <group>about</group></li>
+<li>They used to <group>doubt</group> now they see us sprout and I'm <group>out</group></li></stanza>
 
 <stanza type="hook" speaker="ProEra"><li>Suspect niggas don't come outside</li>
 <li>You might get your wig pushed back tonight</li>
