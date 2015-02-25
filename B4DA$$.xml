@@ -9,7 +9,7 @@
         <accessDate>02/04/2015</accessDate>
     </meta>
     <song title="SaveTheChildren" production="StatikSelektah">
-        <stanza type="verse" speaker="Joey">
+        <stanza type="verse" speaker="JoeyBada$$">
             <li>It's all a hidden history, and mysteries</li>
             <li>I see vividly, hysteria</li>
             <li>Cause misery on the interior</li>
@@ -58,7 +58,7 @@
                     >ain't</AAVE> got a bow and arrow</li>
             <li>I'm known to jack the booty like I'm Sparrow</li>
         </stanza>
-        <stanza type="bridge" speaker="Joey">
+        <stanza type="bridge" speaker="JoeyBada$$">
             <li>They <AAVE field="syn" type="contraction" word1="are" word2="not">ain't</AAVE>
                 <AAVE field="syn" type="contraction" word1="trying" word2="to">tryna'</AAVE> see me
                 in the battle</li>
@@ -71,14 +71,14 @@
             <li>They <AAVE field="syn" type="deletion" class="copula"/>just living out the saddle,
                 so sad though</li>
         </stanza>
-        <stanza type="sample" speaker="Joey">
+        <stanza type="sample" speaker="JoeyBada$$">
             <li>Black in public, black democrats</li>
             <li>Black educator, black entertainer</li>
             <li>Black, black businessman, black people are rumbling</li>
             <li>Save the chil</li>
             <li>Save the chil</li>
         </stanza>
-        <stanza type="verse" speaker="Joey">
+        <stanza type="verse" speaker="JoeyBada$$">
 
             <li>Okay, they <AAVE field="syn" type="deletion" class="copula"/>sleeping on the crack,
                 they overdose</li>
@@ -134,7 +134,7 @@
                     position="final">drippin'</AAVE>, <AAVE field="phon" type="dropping" sound="g"
                     position="final">pimpin'</AAVE></li>
         </stanza>
-        <stanza type="sample" speaker="Joey">
+        <stanza type="sample" speaker="JoeyBada$$">
             <li>Black in public, black democrats</li>
             <li>Black educator, black entertainer</li>
             <li>Black, black businessman, black people are rumbling</li>
@@ -158,14 +158,14 @@
         </stanza>
     </song>
     <song title="PaperTrail$" production="DJPrimier">
-        <stanza type="hook" speaker="Joey">
+        <stanza type="hook" speaker="JoeyBada$$">
             <li>Before the money, there was love</li>
             <li>But before the money, it was tough</li>
             <li>Then came the money through a plug</li>
             <li>It's a shame this <AAVE field="syn" type="contraction" word1="is" word2="not"
                     >ain't</AAVE> enough, yo</li>
         </stanza>
-        <stanza type="verse" speaker="Joey">
+        <stanza type="verse" speaker="JoeyBada$$">
             <li>Sitting back plotting, jotting information on my nation</li>
             <li>Really started from the bottom, boy, cotton</li>
             <li>But they <AAVE field="syn" type="deletion" class="copula"/>still planting
@@ -216,7 +216,7 @@
             <li>God damn, God bless the heaven that sent you</li>
             <li>But now I'm breezing out, baby, <AAVE field="phon" type="dropping" sound="be" position="initial">cause'</AAVE> my rent's due</li>
         </stanza>
-        <stanza type="verse" speaker="Joey">
+        <stanza type="verse" speaker="JoeyBada$$">
             <li>Shit is really real out here</li>
             <li>I said shit is really real out here</li>
             <li>Just trying to get a deal out here</li>
@@ -244,7 +244,7 @@
             <li>It's the dollar dollar bill, it's the dollar bill that kills, y'all</li>
             <li>It's the dollar dollar bill, it's the dollar bill that kills, y'all</li>
         </stanza>
-        <stanza type="hook" speaker="Joey">
+        <stanza type="hook" speaker="JoeyBada$$">
             <li>Before the money, there was love</li>
             <li>But before the money, it was tough</li>
             <li>Then came the money through a plug</li>
@@ -253,7 +253,7 @@
         </stanza>
     </song>
     <song title="PieceOfMind" production="FreddieJoachim ">
-        <stanza type="skit" speaker="Joey">
+        <stanza type="skit" speaker="JoeyBada$$">
             <li>Hello?</li>
             <li>Yeah I hear you bro, I hear you</li>
             <li>You got a minute?</li>
@@ -266,12 +266,12 @@
             <li>Yo yo you hear it bro?</li>
             <li>Yeah</li>
         </stanza>
-        <stanza type="intro" speaker="Joey">
+        <stanza type="intro" speaker="JoeyBada$$">
             <li>Yeah</li>
             <li>Alright listen, listen</li>
             <li>Let me tell you what shit is like right now y'all</li>
         </stanza>
-        <stanza type="verse" speaker="Joey">
+        <stanza type="verse" speaker="JoeyBada$$">
             <li>What life <AAVE field="syn" type="deletion" class="copula"/>like now, <AAVE
                     field="syn" type="contraction" word1="trying" word2="to">tryna</AAVE>, figure
                 out</li>
@@ -312,7 +312,7 @@
             <li><AAVE field="phon" type="dropping" sound="g" position="final">Hoppin'</AAVE> trains,
                 I just missed my cue</li>
         </stanza>
-        <stanza type="hook" speaker="Joey">
+        <stanza type="hook" speaker="JoeyBada$$">
             <li>And what's life like for me, it's but a dream</li>
             <li>Everything <AAVE field="syn" type="contraction" word1="is" word2="not">ain't</AAVE>
                 what it seems, up underneath</li>
@@ -324,7 +324,7 @@
             <li>The surface is but a screen, we only see</li>
             <li>What we know</li>
         </stanza>
-        <stanza type="verse" speaker="Joey">
+        <stanza type="verse" speaker="JoeyBada$$">
             <li>And what's life like now, I can't figure out</li>
             <li>They put my mans on trial, say he <AAVE field="syn" type="deletion" class="copula"
                 />a killer now</li>
@@ -352,7 +352,7 @@
             <li>Followed by a series of unfortunate events</li>
             <li>Looking like white America got a brother again</li>
         </stanza>
-        <stanza type="hook" speaker="Joey">
+        <stanza type="hook" speaker="JoeyBada$$">
             <li>And what's life like for me, it's but a dream</li>
             <li>Everything <AAVE field="syn" type="contraction" word1="is" word2="not">ain't</AAVE>
                 what it seems, up underneath</li>
@@ -364,14 +364,14 @@
             <li>The surface is but a screen, we only see</li>
             <li>What we know</li>
         </stanza>
-        <stanza type="outro" speaker="Joey">
+        <stanza type="outro" speaker="JoeyBada$$">
             <li>Take shots to the face with no peace of mind</li>
             <li>Give me my piece of mind</li>
             <li>Take shots to the face with no peace of mind</li>
             <li>Give me my piece of mind</li>
             <li>This life is all we know, this life is all we know</li>
         </stanza>
-        <stanza type="skit" speaker="Joey">
+        <stanza type="skit" speaker="JoeyBada$$">
             <li>Man that's crazy yo, that's amazing b</li>
             <li>Thank you bro</li>
             <li>Word bro</li>
@@ -388,7 +388,7 @@
         </stanza>
     </song>
     <song title="BigDusty" production="">
-        <stanza type="hook" speaker="Joey">
+        <stanza type="hook" speaker="JoeyBada$$">
             <li>Check my style, check, check, check it out</li>
             <li>Check my style, check, check, check it out</li>
             <li>(Check it out y'all, check, check, check, check it out y'all)</li>
@@ -397,7 +397,7 @@
             <li>(Check it out y'all, check, check, check, check it out y'all)</li>
             <li>Check my style, check, check, check it out</li>
         </stanza>
-        <stanza type="verse" speaker="Joey">
+        <stanza type="verse" speaker="JoeyBada$$">
             <li>Fuck jumping the broom, honey moons, I, I hit the pot</li>
             <li>Soak me up like a mop, Know I'm up, know there's levels</li>
             <li>Staring down at the devil, hello, guess I got the memo</li>
@@ -421,7 +421,7 @@
             <li>Lines <AAVE field="syn" type="deletion" class="copula"/>so deep a great shark is what I reel up</li>
             <li>Hit the flow and it can't go realer, my whole camp gorillas, nigga</li>
         </stanza>
-        <stanza type="hook" speaker="Joey">
+        <stanza type="hook" speaker="JoeyBada$$">
             <li>(Check, check, check it out)</li>
             <li>Check my style, check, check, check it out</li>
             <li>Check my style, check, check, check it out</li>
@@ -433,7 +433,7 @@
             <li>Jack, jack, jack it out</li>
             <li>(Check, check, it out)</li>
         </stanza>
-        <stanza type="verse" speaker="Joey">
+        <stanza type="verse" speaker="JoeyBada$$">
             <li>I stand juxtaposed to all my Pro's, realest illest niggas I know</li>
             <li>See these foes <AAVE field="syn" type="deletion" class="copula"/>biting the flows, they even jooks the pose</li>
             <li>I guess my CD <AAVE field="syn" type="deletion" class="copula"/>really shaking the coast</li>
@@ -451,7 +451,7 @@
             <li>Cause if I can't eat, then you can't either</li>
             <li>I need to know, need the pizza dough fuck I'm spitting ether for?</li>
         </stanza>
-        <stanza type="bridge" speaker="Joey">
+        <stanza type="bridge" speaker="JoeyBada$$">
             <li>Yeah nigga</li>
             <li>Reigning rap supreme in this bitch</li>
             <li>Cause bitches lie niggas lie numbers, too</li>
@@ -462,20 +462,20 @@
                         ><AAVE field="syn" type="contraction" word1="going" word2="to"
                     >gon'</AAVE></AAVE>do when the Era come for you?</li>
         </stanza>
-        <stanza type="hook" speaker="Joey">
+        <stanza type="hook" speaker="JoeyBada$$">
             <li>Check my style, check, check, check it out</li>
             <li>Check my style, check, check, check it out</li>
             <li>Check my style, check, check, check it out</li>
             <li>Check my style, check, check, check it out</li>
             <li>Don't jock my style</li>
         </stanza>
-        <stanza type="verse" speaker="Joey">
+        <stanza type="verse" speaker="JoeyBada$$">
             <li>And I'm from the blocks where they sell</li>
             <li>Cell blocks rock my mental</li>
             <li>See them fake thugs that you see before can't even spell</li>
             <li>My flows <AAVE field="syn" type="deletion" class="copula"/>filled with words you can't pronounce, stories you can't tell</li>
         </stanza>
-        <stanza type="outro" speaker="Joey">
+        <stanza type="outro" speaker="JoeyBada$$">
             <li>Check my style, check, check, check it out</li>
             <li>Check my style, check, check, check it out</li>
             <li>(Check it out y'all, check, check, check, check it out y'all)</li>
@@ -486,13 +486,13 @@
         </stanza>
     </song>
     <song title="HazeusView" production="">
-        <stanza type="intro" speaker="Joey">
+        <stanza type="intro" speaker="JoeyBada$$">
             <li>Will I see you through my Hazeus View?</li>
             <li>Will I see you through my Hazeus View?</li>
             <li>Will I see you through my Hazeus</li>
             <li>My Hazeus, my Hazeus , my Hazeus, my Hazeus view</li>
         </stanza>
-        <stanza type="verse" speaker="Joey">
+        <stanza type="verse" speaker="JoeyBada$$">
             <li>You <AAVE field="syn" type="contraction" word1="is" word2="not">ain't</AAVE> running
                 with the apes yet</li>
             <li>Apex at the empire state neck</li>
@@ -513,7 +513,7 @@
             <li>I <AAVE field="syn" type="negative">don't see nobody</AAVE> no, no</li>
             <li>I <AAVE field="syn" type="negative">don't see nobody</AAVE> no, no</li>
         </stanza>
-        <stanza type="hook" speaker="Joey">
+        <stanza type="hook" speaker="JoeyBada$$">
             <li>And we probably share a trait or two</li>
             <li>But I can't see what I can't relate to</li>
             <li>Hey Jesus will I ever get to see you through my Hazeus View?</li>
@@ -521,7 +521,7 @@
             <li>But I can't see what I can't relate to</li>
             <li>Hey Jesus will I ever get to see you through my Hazeus View?</li>
         </stanza>
-        <stanza type="verse" speaker="Joey">
+        <stanza type="verse" speaker="JoeyBada$$">
             <li>You rap niggas <AAVE field="syn" type="contraction" word1="is" word2="not"
                     >ain't</AAVE> safe yet</li>
             <li>I keep the bombs in my basement</li>
@@ -540,12 +540,12 @@
             <li>I don't know, I don't know</li>
             <li>Lord please let me know</li>
         </stanza>
-        <stanza type="hook" speaker="Joey">
+        <stanza type="hook" speaker="JoeyBada$$">
             <li>And we probably share a trait or two</li>
             <li>But I can't see what I can't relate to</li>
             <li>Hey Jesus will I ever get to see you through my Hazeus View?</li>
         </stanza>
-        <stanza type="verse" speaker="Joey">
+        <stanza type="verse" speaker="JoeyBada$$">
             <li>Everything <AAVE field="syn" type="deletion" class="copula"/>cool like in the state of mind</li>
             <li>At this state in my correct, cool, calm, collect</li>
             <li>Deflect the corrupt with intellect</li>
@@ -554,22 +554,27 @@
             <li>His mind splitting, and soul uplifting</li>
             <li>But still feel so trapped in the solar system</li>
         </stanza>
-        <stanza type="hook" speaker="Joey">
+        <stanza type="hook" speaker="JoeyBada$$">
             <li>And we probably share a trait or two</li>
             <li>But I can't see what I can't relate to</li>
             <li>Hey Jesus will I ever get to see you through my Hazeus View?</li>
         </stanza>
     </song>
     <song title="LikeMe" production="">
-        <stanza type="intro" speaker="Joey">
+        <stanza type="intro" speaker="JoeyBada$$">
             <li>One time what's the word</li>
             <li>What's the word</li>
             <li>What's the word</li>
             <li>Yo yo yo yo yo, yo yo</li>
             <li>Turn me up on the headphones</li>
         </stanza>
+<<<<<<< HEAD
         <stanza type="verse" speaker="Joey">
             <li>If looks could kill I <AAVE field="syn" type="deletion" class="verb"/>let the swank drill like a deadly weapon</li>
+=======
+        <stanza type="verse" speaker="JoeyBada$$">
+            <li>If looks could kill I let the swank drill like a deadly weapon</li>
+>>>>>>> origin/master
             <li>I drop bombs on an enemy at any second</li>
             <li>Look at me wrong I turn you to tomb stones</li>
             <li>Lock you in the crosses, and you <AAVE field="syn" type="deletion" class="copula"/>gone, then I throw my deuce up</li>
@@ -580,13 +585,20 @@
                         field="syn" type="contraction" word1="going" word2="to"
                 >gon'</AAVE></AAVE>wonder where your highness went</li>
         </stanza>
+<<<<<<< HEAD
         <stanza type="hook" speaker="Joey BJtheChicagoKid">
             <li>I bet she <AAVE field="syn" type="tense" person="third">get</AAVE> low for a nigga like me</li>
             <li>She <AAVE field="syn" type="tense" person="third">get</AAVE> low for a nigga like me</li>
             <li>I bet she <AAVE field="syn" type="tense" person="third">get</AAVE> low for a nigga like me</li>
+=======
+        <stanza type="hook" speaker="JoeyBada$$ BJtheChicagoKid">
+            <li>I bet she get low for a nigga like me</li>
+            <li>She get low for a nigga like me</li>
+            <li>I bet she get low for a nigga like me</li>
+>>>>>>> origin/master
             <li>Low for a nigga like me</li>
         </stanza>
-        <stanza type="verse" speaker="Joey">
+        <stanza type="verse" speaker="JoeyBada$$">
             <li>So we burn the mary jane til' the third degree</li>
             <li>Some niggas<AAVE field="syn" type="deletion" class="copula"/><AAVE field="phon" type="dropping" sound="g" position="final"
                     >bitin'</AAVE>flows yo, that's burglary</li>
@@ -594,12 +606,18 @@
                     >actin'</AAVE>like they never heard of me</li>
             <li>A fuck nigga could get clocked, yo that's word to me</li>
         </stanza>
+<<<<<<< HEAD
         <stanza type="hook" speaker="Joey BJtheChicagoKid">
             <li>He <AAVE type="tense" field="syn" person="third">get</AAVE> blown for a nigga like</li>
             <li>Get his head <AAVE field="phon" type="dropping" sound="d" position="final">explode</AAVE> for a nigga like me</li>
+=======
+        <stanza type="hook" speaker="JoeyBada$$ BJtheChicagoKid">
+            <li>He get blown for a nigga like</li>
+            <li>Get his head explode for a nigga like me</li>
+>>>>>>> origin/master
             <li>Put him on the floor for a nigga like me</li>
         </stanza>
-        <stanza type="verse" speaker="Joey">
+        <stanza type="verse" speaker="JoeyBada$$">
             <li>My mind boggles when time toggles</li>
             <li>In the ocean of stars it's hard to find goggles, we twist it up</li>
             <li>So we put it in the air</li>
@@ -624,15 +642,22 @@
             <li>Blacks get their ass sprayed just for<AAVE field="phon" type="dropping" sound="g"
                     position="final">makin'</AAVE>a move</li>
         </stanza>
-        <stanza type="hook" speaker="Joey BJtheChicagoKid">
+        <stanza type="hook" speaker="JoeyBada$$ BJtheChicagoKid">
             <li>We get high and say "fuck the police"</li>
             <li>That’s why we get high and say "fuck the police"</li>
             <li>That’s why we get high and say "fuck the police"</li>
         </stanza>
+<<<<<<< HEAD
         <stanza type="verse" speaker="Joey">
             <li>Cause every time I make a move <AAVE field="syn" type="aspect" tense="present">they be<AAVE field="phon" type="dropping" sound="g"
                     position="final">sweatin'</AAVE></AAVE>me</li>
             <li>They want another black man in <AAVE field="syn" type="deletion" class="determiner"/>penitentiary</li>
+=======
+        <stanza type="verse" speaker="JoeyBada$$">
+            <li>Cause every time I make a move they be<AAVE field="phon" type="dropping" sound="g"
+                    position="final">sweatin'</AAVE>me</li>
+            <li>They want another black man in penitentiary</li>
+>>>>>>> origin/master
             <li>It's even hard for that man standing next to me</li>
             <li>Cause he could catch a bullet that was really meant for me</li>
             <li>It's like every step <AAVE field="syn" type="tense" person="third">bring</AAVE> me close to destiny</li>
@@ -643,23 +668,28 @@
                     word2="not">ain't</AAVE><AAVE field="phon" type="dropping" sound="g"
                     position="final">lettin'</AAVE>me</li>
         </stanza>
-        <stanza type="hook" speaker="Joey">
+        <stanza type="hook" speaker="JoeyBada$$">
             <li>You can't get by if you don't respect an OG</li>
             <li>You can't get by if you don't respect an OG</li>
             <li>You can't get by if you don't respect an OG</li>
         </stanza>
+<<<<<<< HEAD
         <stanza type="verse" speaker="Joey">
             <li>Cause every corner I turn a nigga <AAVE field="syn" type="deletion" class="copula"/>testing me</li>
+=======
+        <stanza type="verse" speaker="JoeyBada$$">
+            <li>Cause every corner I turn a nigga testing me</li>
+>>>>>>> origin/master
             <li>And every morning I mourn just for the less of me</li>
             <li>Sometimes I ask the Lord why <AAVE field="syn" type="aspect" tense="present">he be blessing</AAVE> me</li>
             <li>And not my brothers whose souls now rest in peace</li>
         </stanza>
-        <stanza type="hook" speaker="Joey BJtheChicagoKid">
+        <stanza type="hook" speaker="JoeyBada$$ BJtheChicagoKid">
             <li>I pray there's hope for a nigga like me</li>
             <li>Hope for a nigga like me</li>
             <li>Just pray there's hope for a nigga like me</li>
         </stanza>
-        <stanza type="verse" speaker="Joey">
+        <stanza type="verse" speaker="JoeyBada$$">
             <li>I'm something like the chairman of the board, ranted</li>
             <li>I feel, invincible, like McMahon</li>
             <li>One of the last original emcees that's left standing on the planet</li>
@@ -678,21 +708,26 @@
             <li>I just wanna be good, I just wanna be</li>
             <li>I just wanna be free</li>
         </stanza>
-        <stanza type="hook" speaker="Joey BJtheChicagoKid">
+        <stanza type="hook" speaker="JoeyBada$$ BJtheChicagoKid">
             <li>I pray there's hope for a nigga like me</li>
             <li>Hope for a nigga like me</li>
             <li>Just pray there's hope for a nigga like me</li>
         </stanza>
     </song>
     <song title="BellyOfTheBeast" production="">
-        <stanza type="intro" speaker="Joey">
+        <stanza type="intro" speaker="JoeyBada$$">
             <li>Dangerous, dangerous</li>
             <li>These niggas can't hang with us hang with us</li>
             <li>Nigga we <AAVE field="syn" type="deletion" class="copula"/>dangerous, dangerous</li>
             <li>My nigga we</li>
         </stanza>
+<<<<<<< HEAD
         <stanza type="verse" speaker="Joey">
             <li>I swear all my life <AAVE field="syn" type="aspect" tense="present">I been around</AAVE> crips and bloods</li>
+=======
+        <stanza type="verse" speaker="JoeyBada$$">
+            <li>I swear all my life I been around crips and bloods</li>
+>>>>>>> origin/master
             <li>Crips and slugs, the trigger happiest thugs</li>
             <li>Claiming the slums, and all the hoods that they <AAVE field="syn" type="deletion" class="copula"/>from</li>
             <li>Too much of the some, got it twisted up blinded in a rat race</li>
@@ -713,7 +748,7 @@
             <li>But I don't need a vet to even shop me out</li>
             <li>Punchlines pack a Pacquiao they can't box me out</li>
         </stanza>
-        <stanza type="bridge" speaker="Joey">
+        <stanza type="bridge" speaker="JoeyBada$$">
             <li>Big up big up, it's a stick up stick up</li>
             <li>Niggas hit a nigga quick if he hiccup hiccup</li>
             <li>Big up big up, it's a stick up stick up</li>
@@ -761,7 +796,7 @@
         </stanza>
     </song>
     <song title="No.99" production="">
-        <stanza type="hook" speaker="Joey">
+        <stanza type="hook" speaker="JoeyBada$$">
             <li>What's my name? What's my name?</li>
             <li>Badmon</li>
             <li>What's my name? What's my name?</li>
@@ -772,7 +807,7 @@
             <li>Badmon</li>
             <li>What's my motherfuckin'...</li>
         </stanza>
-        <stanza type="verse" speaker="Joey">
+        <stanza type="verse" speaker="JoeyBada$$">
             <li>Ready to bust my gun, I'm <AAVE field="phon" type="dropping" sound="g"
                     position="final">rushin'</AAVE> in like Vladimir Putin</li>
             <li>What you want son? Fuck a rou-, let's get <AAVE field="phon" type="dropping" sound="g"
@@ -797,7 +832,7 @@
                     position="final">flashin'</AAVE></AAVE>in</li>
             <li>News flash niggas, get a news flash</li>
         </stanza>
-        <stanza type="hook" speaker="Joey">
+        <stanza type="hook" speaker="JoeyBada$$">
             <li>What's my name? What's my name?</li>
             <li>Badmon</li>
             <li>What's my name? What's my name?</li>
@@ -808,7 +843,7 @@
             <li>Badmon</li>
             <li>What's my motherfuckin'...</li>
         </stanza>
-        <stanza type="verse" speaker="Joey">
+        <stanza type="verse" speaker="JoeyBada$$">
             <li>These niggas <AAVE field="syn" type="contraction" word1="are" word2="not"
                     >ain't</AAVE> ready for the war</li>
             <li>Know what I'm <AAVE field="phon" type="dropping" sound="a" position="initial"
@@ -843,7 +878,7 @@
             <li>It's the P-R-O E-R-A, indigo with the killer flow</li>
             <li>Guaranteed the realest that you ever saw</li>
         </stanza>
-        <stanza type="hook" speaker="Joey">
+        <stanza type="hook" speaker="JoeyBada$$">
             <li>What's my name? What's my name?</li>
             <li>Badmon</li>
             <li>What's my name? What's my name?</li>
@@ -854,7 +889,7 @@
             <li>Badmon</li>
             <li>What's my motherfuckin'...</li>
         </stanza>
-        <stanza type="verse" speaker="Joey">
+        <stanza type="verse" speaker="JoeyBada$$">
             <li>The badmon young kingpin</li>
             <li>I move dope with that ink pen</li>
             <li>Been up all night, my third eye <AAVE field="syn" type="contraction" word1="is"
@@ -865,11 +900,16 @@
         </stanza>
     </song>
     <song title="ChristConscious" production="">
+<<<<<<< HEAD
         <stanza type="intro" speaker="Joey">
             <li>Mother, <compound head="sucker" stem="mother" type="exo">mothersucker</compound>, yeah, oh, this is what you want, huh?</li>
+=======
+        <stanza type="intro" speaker="JoeyBada$$">
+            <li>Mother, mothersucker, yeah, oh, this is what you want, huh?</li>
+>>>>>>> origin/master
             <li>Microphone checker, yo, yo, yo</li>
         </stanza>
-        <stanza type="verse" speaker="Joey">
+        <stanza type="verse" speaker="JoeyBada$$">
             <li>Uh,<AAVE field="phon" type="dropping" sound="g" position="final"
                     >motherfuckin'</AAVE>microphone checker</li>
             <li>Keep that grip tight, like my Smith and Wesson</li>
@@ -902,32 +942,50 @@
             <li>I'm the nigga that you see when you're in the mirror</li>
             <li>Say my name five times, this <AAVE type="deletion" field="syn" class="copula"/>what I deliver</li>
         </stanza>
+<<<<<<< HEAD
         <stanza type="hook" speaker="Joey">
             <li>This <AAVE type="deletion" field="syn" class="copula"/>a<AAVE field="phon" type="dropping" sound="g" position="final"
                     >motherfuckin'</AAVE>nuke that I'm <AAVE field="phon" type="dropping" sound="g" position="final">droppin'</AAVE></li>
             <li>The world <AAVE type="deletion" field="syn" class="copula"/>in my pocket, kick you out <AAVE type="deletion" field="syn" class="preposition"/>your continent</li>
             <li>Always drop hot shit, <AAVE field="syn" type="tense" person="third">Toroidal Flow keep constant</AAVE></li>
             <li>And I won't stop <AAVE field="phon" type="dropping" sound="un" position="initial">'til</AAVE> I reach Christ Conscious, nigga</li>
+=======
+        <stanza type="hook" speaker="JoeyBada$$">
+            <li>This a<AAVE field="phon" type="dropping" sound="g" position="final"
+                    >motherfuckin'</AAVE>nuke that I'm droppin'</li>
+            <li>The world in my pocket, kick you out your continent</li>
+            <li>Always drop hot shit, Toroidal Flow keep constant</li>
+            <li>And I won't stop 'til I reach Christ Conscious, nigga</li>
+>>>>>>> origin/master
         </stanza>
-        <stanza type="bridge" speaker="Joey">
+        <stanza type="bridge" speaker="JoeyBada$$">
             <li>Which one of y'all niggas really want it with me?</li>
             <li>None of y'all niggas, fuck <AAVE field="syn" type="contraction" word1="out" word2="of">outta</AAVE> here</li>
             <li>Beast coast, nigga, Pro Era in your area</li>
         </stanza>
+<<<<<<< HEAD
         <stanza type="hook" speaker="Joey">
             <li>This <AAVE type="deletion" field="syn" class="copula"/>a<AAVE field="phon" type="dropping" sound="g" position="final"
                 >motherfuckin'</AAVE>nuke that I'm <AAVE field="phon" type="dropping" sound="g" position="final">droppin'</AAVE></li>
             <li>The world <AAVE type="deletion" field="syn" class="copula"/>in my pocket, kick you out <AAVE type="deletion" field="syn" class="preposition"/>your continent</li>
             <li>Always drop hot shit, <AAVE field="syn" type="tense" person="third">Toroidal Flow keep constant</AAVE></li>
             <li>And I won't stop <AAVE field="phon" type="dropping" sound="un" position="initial">'til</AAVE> I reach Christ Conscious, nigga</li>
+=======
+        <stanza type="hook" speaker="JoeyBada$$">
+            <li>This a<AAVE field="phon" type="dropping" sound="g" position="final"
+                    >motherfuckin'</AAVE>nuke that I'm droppin'</li>
+            <li>The world in my pocket, kick you out your continent</li>
+            <li>Always drop hot shit, Toroidal Flow keep constant</li>
+            <li>And I won't stop 'til I reach Christ Conscious, nigga</li>
+>>>>>>> origin/master
         </stanza>
 
-        <stanza type="outro" speaker="Joey">
+        <stanza type="outro" speaker="JoeyBada$$">
             <li>Niggas know, niggas, niggas, niggas know</li>
         </stanza>
     </song>
     <song title="OnandOn" production="">
-        <stanza type="intro" speaker="Joey">
+        <stanza type="intro" speaker="JoeyBada$$">
             <li>Mama I just booked a first class ticket to my destiny by the way</li>
             <li>Yeah</li>
         </stanza>
@@ -935,7 +993,7 @@
             <li>Maybe <AAVE field="syn" type="contraction" word1="I'm" word2="going" word3="to">I'mma</AAVE> fly away</li>
             <li>Maybe <AAVE field="syn" type="contraction" word1="I'm" word2="going" word3="to">I'mma</AAVE> fly away, some day</li>
         </stanza>
-        <stanza type="verse" speaker="Joey">
+        <stanza type="verse" speaker="JoeyBada$$">
             <li>So gullible just like my first love</li>
             <li>Stay humble, but I knew that I was first up</li>
             <li>Picked up the pen and that's when I drew my first blood</li>
@@ -959,7 +1017,7 @@
             <li>There’s a reason why I’ve come, new season's just begun</li>
             <li>This <AAVE type="deletion" field="syn" class="copula"/>the death of a <compound head="" stem="" type="">psychopomp</compound> but a birth of God's son</li>
         </stanza>
-        <stanza type="hook" speaker="Joey">
+        <stanza type="hook" speaker="JoeyBada$$">
             <li>Don’t mourn me when I’m gone, celebrate my travels</li>
             <li>Whenever you need me, just take a plane to the astral zone</li>
             <li>I’m headed home, <AAVE field="syn" type="aspect" tense="progressive">I’ve been hurting</AAVE> too long</li>
@@ -968,8 +1026,13 @@
             <li>On and On and On and On and On and On and On and On and On and On and On and On and
                 On and On and On and On and On and On and On</li>
         </stanza>
+<<<<<<< HEAD
         <stanza type="verse" speaker="Joey">
             <li>I had a dream <AAVE field="syn" type="aspect" tense="past">I seen my name</AAVE> on the gravel stone</li>
+=======
+        <stanza type="verse" speaker="JoeyBada$$">
+            <li>I had a dream I seen my name on the gravel stone</li>
+>>>>>>> origin/master
             <li>And read here lies a G followed by a poem</li>
             <li>I couldn't see the words but I'm sure what's in his own</li>
             <li>Funny that I write most when I know my feeling's wrong</li>
@@ -986,7 +1049,7 @@
             <li>And that's a big pun, know that <AAVE field="syn" type="contraction" word1="I'm" word2="going" word3="to">I'mma</AAVE> join him</li>
             <li>When <AAVE field="syn" type="tense" person="third">my time come</AAVE>, but the story <AAVE type="deletion" field="syn" class="copula"/>just begun, so</li>
         </stanza>
-        <stanza type="hook" speaker="Joey">
+        <stanza type="hook" speaker="JoeyBada$$">
             <li>Don’t mourn me when I’m gone, celebrate my travels</li>
             <li>Whenever you need me, just take a plane to the astral zone</li>
             <li>I’m headed home, <AAVE field="syn" type="aspect" tense="progressive">I’ve been hurting</AAVE> too long</li>
@@ -1024,12 +1087,20 @@
                         type="contraction" word1="going" word2="to">gon'</AAVE></AAVE>miss us when
                 we fly man</li>
         </stanza>
+<<<<<<< HEAD
         <stanza type="hook" speaker="Joey">
            
                 <li>Don’t mourn me when I’m gone, celebrate my travels</li>
                 <li>Whenever you need me, just take a plane to the astral zone</li>
                 <li>I’m headed home, <AAVE field="syn" type="aspect" tense="progressive">I’ve been hurting</AAVE> too long</li>
                 <li>Time <AAVE field="syn" type="tense" person="third">don’t</AAVE> stand still, so you <AAVE field="syn" type="contraction" word1="got"
+=======
+        <stanza type="hook" speaker="JoeyBada$$">
+            <li>Don’t mourn me when I’m gone, celebrate my travels</li>
+            <li>Whenever you need me, just take a plane to the astral zone</li>
+            <li>I’m headed home, I’ve been hurting too long</li>
+            <li>Time don’t stand still, so you <AAVE field="syn" type="contraction" word1="got"
+>>>>>>> origin/master
                     word2="to">gotta</AAVE> move on</li>
                 <li>On and On and On and On and On and On and On and On and On and On and On and On and
                     On and On and On and On and On and On and On</li>
@@ -1043,7 +1114,7 @@
         </stanza>
     </song>
     <song title="Escape120" production="">
-        <stanza type="hook" speaker="Joey">
+        <stanza type="hook" speaker="JoeyBada$$">
             <li>An ode to the worst of my days</li>
             <li>I've been working away</li>
             <li>But the sky's been looking so gray</li>
@@ -1052,7 +1123,7 @@
             <li>I just need to get away, yeah</li>
             <li>Sometimes I really need to fly away</li>
         </stanza>
-        <stanza type="verse" speaker="Joey">
+        <stanza type="verse" speaker="JoeyBada$$">
             <li>I could never forget them gloomy days</li>
             <li>Although I regret where my time was played</li>
             <li>If I could go back, some things would be changed</li>
@@ -1069,7 +1140,7 @@
             <li>When I lay a verse down that's born fire</li>
             <li>I was born fire</li>
         </stanza>
-        <stanza type="hook" speaker="Joey">
+        <stanza type="hook" speaker="JoeyBada$$">
             <li>An ode to the worst of my days</li>
             <li>I've been working away</li>
             <li>But the sky's been looking so gray</li>
@@ -1078,7 +1149,7 @@
             <li>I just need to get away, yeah</li>
             <li>Sometimes I really need to fly away</li>
         </stanza>
-        <stanza type="verse" speaker="Joey">
+        <stanza type="verse" speaker="JoeyBada$$">
             <li>Went outside this morning, morning, uh</li>
             <li>Seen the sky was falling, falling, yeah</li>
             <li>Old man no longer snoring, snoring, ah</li>
@@ -1094,7 +1165,7 @@
             <li>Don't you trying looking for life</li>
             <li>Cause I'm bout to take that flight</li>
         </stanza>
-        <stanza type="hook" speaker="Joey">
+        <stanza type="hook" speaker="JoeyBada$$">
             <li>An ode to the worst of my days</li>
             <li>I've been working away</li>
             <li>But the sky's been looking so gray</li>
@@ -1147,7 +1218,7 @@
         </stanza>
     </song>
     <song title="BlackBeetles" production="">
-        <stanza type="hook" speaker="Joey">
+        <stanza type="hook" speaker="JoeyBada$$">
             <li>Low on self-esteem, fools been out for me</li>
             <li>Someones watching me, this world <AAVE field="syn" type="contraction" word1="is"
                     word2="not">ain't</AAVE> proper</li>
@@ -1157,7 +1228,7 @@
                     word2="not">ain't</AAVE> proper</li>
             <li>Be thinking I could be dead</li>
         </stanza>
-        <stanza type="verse" speaker="Joey">
+        <stanza type="verse" speaker="JoeyBada$$">
             <li>And I guess we them little black beetles</li>
             <li>Just want attractive singles</li>
             <li>And that flow is mean, but it lacks tacs and needles</li>
@@ -1180,7 +1251,7 @@
             <li>Ever since I woke up I been living in a dream</li>
             <li>Got me</li>
         </stanza>
-        <stanza type="hook" speaker="Joey">
+        <stanza type="hook" speaker="JoeyBada$$">
             <li>Low on self-esteem, fools been out for me</li>
             <li>Someones watching me, this world <AAVE field="syn" type="contraction" word1="is"
                     word2="not">ain't</AAVE> proper</li>
@@ -1191,7 +1262,7 @@
             <li>Be thinking I could be dead</li>
         </stanza>
 
-        <stanza type="verse" speaker="Joey">
+        <stanza type="verse" speaker="JoeyBada$$">
             <li>Who would've thought a<AAVE field="phon" type="dropping" sound="g" position="final"
                     >marchin'</AAVE>Martin could spark a<AAVE field="phon" type="dropping" sound="g"
                     position="final">starvin'</AAVE>artist</li>
@@ -1208,7 +1279,7 @@
             <li>Professional, exceptional, half man half extra terrestrial</li>
             <li>They got me</li>
         </stanza>
-        <stanza type="hook" speaker="Joey">
+        <stanza type="hook" speaker="JoeyBada$$">
             <li>Low on self-esteem, fools been out for me</li>
             <li>Someones watching me, this world <AAVE field="syn" type="contraction" word1="is"
                     word2="not">ain't</AAVE> proper</li>
@@ -1220,12 +1291,12 @@
         </stanza>
     </song>
     <song title="OCB" production="">
-        <stanza type="hook" speaker="Joey">
+        <stanza type="hook" speaker="JoeyBada$$">
             <li>These are the only child blues</li>
             <li>The only child blues</li>
             <li>The only child who? yo yo yo</li>
         </stanza>
-        <stanza type="verse" speaker="Joey">
+        <stanza type="verse" speaker="JoeyBada$$">
             <li>Back once again, hello it's yo' favorite mellow schizo</li>
             <li>The pavement on this yellow brick road</li>
             <li>Fuckin' up my mental</li>
@@ -1262,11 +1333,11 @@
             <li>You shoot, I shoot back no questions asked</li>
             <li>Raise your hands for the realest cat alive</li>
         </stanza>
-        <stanza type="hook" speaker="Joey">
+        <stanza type="hook" speaker="JoeyBada$$">
             <li>The only child blues</li>
             <li>The only child who? Yo</li>
         </stanza>
-        <stanza type="verse" speaker="Joey">
+        <stanza type="verse" speaker="JoeyBada$$">
             <li>And I remember<AAVE field="phon" type="dropping" sound="g" position="final"
                     >sittin'</AAVE>in my room all alone</li>
             <li>Starring at my ceiling fan, getting in my zone</li>
@@ -1289,7 +1360,7 @@
             <li>Never sinking on the fucking deep end</li>
             <li>Any shit I missed I prolly peaked it</li>
         </stanza>
-        <stanza type="hook" speaker="Joey">
+        <stanza type="hook" speaker="JoeyBada$$">
             <li>These are the only child blues</li>
             <li>The only child who?</li>
             <li>The only child blues</li>
@@ -1297,7 +1368,7 @@
             <li>These are the only child who?</li>
             <li>The only child blues</li>
         </stanza>
-        <stanza type="outro" speaker="Joey">
+        <stanza type="outro" speaker="JoeyBada$$">
             <li>Only child blues, OCB OCB</li>
             <li>Jo-Vaughn clean your room, OCD OCD</li>
             <li>I used to wanna be like ODB ODB</li>
@@ -1307,7 +1378,7 @@
             <li>I used to wanna be like ODB ODB</li>
             <li>Now I'm a rap star, OMG OMG</li>
         </stanza>
-        <stanza type="skit" speaker="Joey">
+        <stanza type="skit" speaker="JoeyBada$$">
             <li>Everything is perception</li>
             <li>Your perception of yourself or who you are is not what other people think that you
                 are</li>
@@ -1317,7 +1388,7 @@
         </stanza>
     </song>
     <song title="CurryChicken" production="">
-        <stanza type="skit" speaker="Joey">
+        <stanza type="skit" speaker="JoeyBada$$">
             <li>Like "Oh he's broke! I told you he was broke!</li>
             <li>I told you he <AAVE field="syn" type="contraction" word1="does" word2="not"
                     >ain't</AAVE> got no money", or you know this and that or whatever
@@ -1329,7 +1400,7 @@
             <li>So it's not really what it necessarily is at any point or given at time, and that's
                 the thing that concerns me</li>
         </stanza>
-        <stanza type="intro" speaker="Joey">
+        <stanza type="intro" speaker="JoeyBada$$">
             <li>Break it down</li>
             <li>We break it down like</li>
             <li>Joey Bad he break it down like</li>
@@ -1340,7 +1411,7 @@
             <li>Alright, Alright, Alright, Alright</li>
             <li>Uh</li>
         </stanza>
-        <stanza type="verse" speaker="Joey">
+        <stanza type="verse" speaker="JoeyBada$$">
             <li>First things first is I been rehearsing these verses</li>
             <li>In hopes that I hit the surface and keep myself afloat</li>
             <li>But I know one day I'm earning me some platinum and some gold</li>
@@ -1359,13 +1430,13 @@
             <li>But you<AAVE field="phon" type="dropping" sound="g" position="final"
                 >lookin'</AAVE>like a winner, aye</li>
         </stanza>
-        <stanza type="hook" speaker="Joey">
+        <stanza type="hook" speaker="JoeyBada$$">
             <li>You got to give to get and then you give back</li>
             <li>You got to give to get and then you give back</li>
             <li>You got to give to get and then you give back</li>
             <li>Then you give back, then you, then you give back</li>
         </stanza>
-        <stanza type="verse" speaker="Joey">
+        <stanza type="verse" speaker="JoeyBada$$">
             <li>Worst thing worse, I could've been stealing your purse</li>
             <li>Or just been, putting in work and leaving niggas in the dirt</li>
             <li>But ever since birth I knew I would be something on this Earth</li>
@@ -1377,7 +1448,7 @@
             <li>Then you named me Jo-Vaughn, now that name ring alarms</li>
             <li>Nearly 20 years later we on a plane to The Palms</li>
         </stanza>
-        <stanza type="bridge" speaker="Joey">
+        <stanza type="bridge" speaker="JoeyBada$$">
             <li>I gotcha back and got her worried</li>
             <li>Only thing I ask is for some Curry</li>
             <li>Chicken when we land we<AAVE field="phon" type="dropping" sound="g" position="final"
@@ -1387,13 +1458,13 @@
             <li>But I'm<AAVE field="phon" type="dropping" sound="g" position="final"
                 >lookin'</AAVE>like a winner, aye</li>
         </stanza>
-        <stanza type="hook" speaker="Joey">
+        <stanza type="hook" speaker="JoeyBada$$">
             <li>You got to give to get and then you give back</li>
             <li>You got to give to get and then you give back</li>
             <li>You got to give to get and then you give back</li>
             <li>Then you give back, then you, then you give back</li>
         </stanza>
-        <stanza type="outro" speaker="Joey">
+        <stanza type="outro" speaker="JoeyBada$$">
             <li>Now I lay me down to sleep</li>
             <li>I pray the Lord, my soul to keep</li>
             <li>If I should die before I wake</li>
@@ -1403,11 +1474,11 @@
         </stanza>
     </song>
     <song title="RunUpOnYa" production="">
-        <stanza type="intro" speaker="Joey">
+        <stanza type="intro" speaker="JoeyBada$$">
             <li>Yeah, run up on ya bitch like</li>
             <li>Probably run up on ya bitch like</li>
         </stanza>
-        <stanza type="verse" speaker="Joey">
+        <stanza type="verse" speaker="JoeyBada$$">
             <li>Lord, can I get a bad bitch?</li>
             <li>High class whip, be above the average</li>
             <li>Headed north west, that two seater Kardashian</li>
@@ -1436,7 +1507,7 @@
             <li>Until the end of time</li>
             <li>Driving me crazy</li>
         </stanza>
-        <stanza type="verse" speaker="Joey">
+        <stanza type="verse" speaker="JoeyBada$$">
             <li>First thing's first, I, Joey</li>
             <li>Freaks all the honeys, mommies, the playboy bunnies</li>
             <li>The hoes love me, get down before the money</li>
@@ -1504,11 +1575,11 @@
         </stanza>
     </song>
     <song title="TeachMe" production="">
-        <stanza type="bridge" speaker="Joey">
+        <stanza type="bridge" speaker="JoeyBada$$">
             <li>Won't you teach me how to dance, how to dance</li>
             <li>Won't you teach me how to dance, teach how to dance</li>
         </stanza>
-        <stanza type="verse" speaker="Joey">
+        <stanza type="verse" speaker="JoeyBada$$">
             <li>Okay life's like, lifes like, just like a tango, tango</li>
             <li>You <AAVE field="syn" type="contraction" word1="got" word2="to">gotta</AAVE> move
                 that, move that, don't break an ankle, ankle</li>
@@ -1526,7 +1597,7 @@
             <li>This hunny <AAVE field="syn" type="contraction" word1="is" word2="not">ain't</AAVE>
                 free</li>
         </stanza>
-        <stanza type="bridge" speaker="Joey">
+        <stanza type="bridge" speaker="JoeyBada$$">
             <li>Won't you teach me how to dance, how to dance</li>
             <li>Won't you teach me how to dance, teach how to dance</li>
         </stanza>
@@ -1548,7 +1619,7 @@
             <li>Oooooh, oooooohhhhhh,</li>
             <li>oooohhhhh, oooooooohhhhh</li>
         </stanza>
-        <stanza type="verse" speaker="Joey">
+        <stanza type="verse" speaker="JoeyBada$$">
             <li>Okay now life's like, life's like, just like a salsa, salsa</li>
             <li>You taste the spice right? Spice right?</li>
             <li>We need some water, water</li>
@@ -1573,7 +1644,7 @@
             <li>Come grab the mic, spit a bar for me</li>
             <li>Show me what you know, tell it all to me</li>
         </stanza>
-        <stanza type="bridge" speaker="Joey">
+        <stanza type="bridge" speaker="JoeyBada$$">
             <li>Won't you teach me how to dance, how to dance</li>
             <li>Won't you teach me how to dance, teach how to dance</li>
         </stanza>
@@ -1595,7 +1666,7 @@
             <li>Oooooh, oooooohhhhhh,</li>
             <li>oooohhhhh, oooooooohhhhh</li>
         </stanza>
-        <stanza type="outro" speaker="Joey">
+        <stanza type="outro" speaker="JoeyBada$$">
             <li>Teach me how to dance and groove me out my pants</li>
             <li>And my body through a trance and fuck we just like a sin</li>
         </stanza>
