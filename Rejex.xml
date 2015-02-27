@@ -121,7 +121,7 @@
             <li>'till I bust like pinatas</li>
             <li>Only true Shotta, come kill 'em with the Patois</li>
             <li>Same time, <women>met the gal</women>, and up for dagga, that's word to Spragga</li>
-            <li><hiphop ref="LilWayne">I'm a young Wayne</hiphop>, I'm going insane, <popculture>Liu Kang</popculture></li>
+            <li><hiphop ref="LilWayne">I'm a young Wayne</hiphop>, I'm going insane, <popculture ref="MortalKombat">Liu Kang</popculture></li>
             <li><popculture ref="DragonBallZ">Super Saiyan</popculture> whenever the loops be playing</li>
             <li>Only be a kid, but yo, see if the youth's playin'</li>
             <li>When the <weed>doobs flamed</weed>, I get enlightened 'til I be in Zeus' lane</li>
@@ -219,7 +219,7 @@
             <li>There's makes sense why you want <food>beef</food>, well this frozen</li>
             <li>It's <food>nuts</food> for you screwed in the tool, and can't hold em</li>
             <li><sports>Better shoot yourself Plaxico</sports>, because I'm next to go</li>
-            <li>The <popculture>Progressive</popculture> flows from <geo ref="NewYork">New York</geo> to <geo ref="NewMexico">New Mexico</geo></li>
+            <li>The <popculture ref="ProgressiveInsurance">Progressive</popculture> flows from <geo ref="NewYork">New York</geo> to <geo ref="NewMexico">New Mexico</geo></li>
             <li>My lyrical span is what the fans is demandin'</li>
             <li>Step into my box and that's exactly what'chu stand in</li>
             <li>Ain't no half steppin' around me</li>
@@ -254,9 +254,9 @@
             <li>Said we can do it like that or like this</li>
             <li>Cut the light switch</li>
             <li>Close your eyes, let the music intervene</li>
-            <li>We can play some <popculture>Marvin Gaye</popculture> or a little <popculture>Al Green</popculture></li>
-            <li>We can listen to some <popculture>Prince</popculture> while I kiss up on your lips</li>
-            <li>Or get right with <popculture>Betty Wright</popculture>, turn it up, that's my shit</li>
+            <li>We can play some <popculture ref="MarvinGaye">Marvin Gaye</popculture> or a little <popculture ref="AlGreen">Al Green</popculture></li>
+            <li>We can listen to some <popculture ref="Prince">Prince</popculture> while I kiss up on your lips</li>
+            <li>Or get right with <popculture ref="BettyWright">Betty Wright</popculture>, turn it up, that's my shit</li>
         </stanza>
         <stanza speaker="JoeyBada$$" type="hook">
             <li>This one is a pantie dropper, this shit is a pantie dropper</li>
@@ -350,7 +350,7 @@
     </song>
     <song title="Fantom" production="KirkKnight">
         <stanza speaker="JoeyBada$$" type="intro">
-            <li><popculture>The force will be with you always</popculture></li>
+            <li><popculture ref="StarWars">The force will be with you always</popculture></li>
             <li>Yo, <hiphop ref="NickiMinaj">Nicki</hiphop> can't even rap</li>
         </stanza>
         <stanza speaker="JoeyBada$$" type="verse">
@@ -384,7 +384,7 @@
     </song>
     <song title="SilentKnight" production="KirkKnight">
         <stanza speaker="Sample" type="intro">
-            <li><popculture>The force will be with you....always</popculture></li>
+            <li><popculture ref="StarWars">The force will be with you....always</popculture></li>
         </stanza>
         <stanza speaker="JoeyBada$$" type="hook">
             <li><women>She</women> left and broke my heart like twice</li>
@@ -433,7 +433,7 @@
             <li>Let me see you with another man and it's done for him</li>
             <li>Call me fucking crazy but baby</li>
             <li>How you gon' play me? I mean, have you seen me lately?</li>
-            <li>Went from elated to a <popculture>swayze, ghostin'</popculture></li>
+            <li>Went from elated to a <popculture ref="PatrickSwayze">swayze, ghostin'</popculture></li>
             <li>Taking my life the only escape from you potion</li>
         </stanza>
         <stanza speaker="JoeyBada$$" type="hook">
@@ -488,7 +488,7 @@
             <li>You probably in the back of a black bach, splitting down the <weed>dutch</weed></li>
             <li>With a <women>dime chick</women> in the tail flap, but her head is up</li>
             <li>I see where the <women>hoes</women> at, but where the bros at?</li>
-            <li>Call Shay and Power, hey, where's your <popculture>iPhone 44</popculture> at?</li>
+            <li>Call Shay and Power, hey, where's your <popculture ref="iPhone">iPhone 44</popculture> at?</li>
             <li>Or did you end up like most cats who split a lot of <food><money>cheese</money></food> together?</li>
             <li>The more <food><money>cheddar</money></food>, the more better, ya'll won't be friends forever</li>
             <li>And I know it's probably <hiphop ref="Fugees">killing you softly</hiphop>, pardon me</li>
@@ -523,8 +523,8 @@
             <li>You can lift this dick in between your lipstick</li>
             <li>If your eyes ain't low like <fashion>Ralph Lipschitz</fashion>, you dipshits</li>
             <li>Even the polices want me cause I rip shit</li>
-            <li><weed>Puffing that piff shit</weed>, Blow out five O's like the <popculture>Olympics</popculture></li>
-            <li>Evadin' on a <popculture>RipStik</popculture> yellin' "Eat my dust"</li>
+            <li><weed>Puffing that piff shit</weed>, Blow out five O's like the <popculture ref="Olympics">Olympics</popculture></li>
+            <li>Evadin' on a <popculture ref="RipStik">RipStik</popculture> yellin' "Eat my dust"</li>
             <li>When cars for breakfast and lunch don't get ate 'til dusk</li>
             <li>I spit it hotter than the days it don't get dusk 'til eight</li>
             <li>And when you <struggle>born in a maze</struggle>, you learn to <guns>duck those strays</guns></li>
@@ -535,11 +535,11 @@
             <li>You see, I was one of those kids who stayed up past late</li>
             <li>So when it's time for school, <success>I got up and still passed, great</success></li>
             <li>Get passed- I forgot my line</li>
-            <li>I do it nonchalant, <hiphop ref="KanyeWest">Spit it through the wire like I'm <popculture>Chaka Khan</popculture></hiphop></li>
+            <li>I do it nonchalant, <hiphop ref="KanyeWest">Spit it through the wire like I'm <popculture ref="ChakaKhan">Chaka Khan</popculture></hiphop></li>
             <li><success>I been killing 'em</success>, Your <women>bitch</women> been feeling 'em</li>
-            <li>Ya'll can't be serious like films <popculture>Ben Stiller</popculture> in</li>
+            <li>Ya'll can't be serious like films <popculture ref="BenStiller">Ben Stiller</popculture> in</li>
             <li><success>Nobody iller than him at the top</success> of his adrenaline</li>
-            <li><food>Flow sweet like cinnamon</food>, <women>Name a chick that I ain't swimming in</women></li>
+            <li>Flow <food>sweet like cinnamon</food>, <women>Name a chick that I ain't swimming in</women></li>
             <li>Uh, got flow for days, I'm <money>sure to get paid</money> if</li>
             <li><haters>They hate the price on son's life</haters>, it's sure to get raised</li>
             <li>But there's no break when I got you pinned in</li>
@@ -574,8 +574,8 @@
             <li>Just don't be late. Just don't be (late)</li>
         </stanza>
         <stanza speaker="JoeyBada$$" type="verse">
-            <li>It was love at the <popculture>profile pic</popculture></li>
-            <li>We was <popculture>Facebook</popculture> flirting, never even met her in person</li>
+            <li>It was love at the <popculture ref="Facebook">profile pic</popculture></li>
+            <li>We was <popculture ref="Facebook">Facebook</popculture> flirting, never even met her in person</li>
             <li>But it seem like we was soulmates on the phone late</li>
             <li><women>She</women> my one and only, be there when I be lonely</li>
             <li>Whenever she get horny, she would call me</li>
