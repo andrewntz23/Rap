@@ -87,7 +87,9 @@
             <li><haters>My enemies tryin' see me in the box</haters></li>
             <li><struggle>So the streets tell me to cop a <guns>Glock</guns> and pop it</struggle></li>
             <li><success>But something down deep tells me I'm the next prophet</success></li>
-            <li><oldschool>Like the new Muhammad or the new Marcus Garvey</oldschool></li>
+            <!--     We've already discussed that we'll need to do a more careful run through of the motif markup, but pay close attentions to moments like this: Muhammad and Marcus Garvey would both be tagged, and
+            are important moments-->
+            <li><oldschool>Like the new Muhammad or the new Marcus Garvey</oldschool></li> 
             <li>Or probably, it makes sense why I'm so heavily guarded</li>
             <li>Wait, no, please restart it</li>
             <li>I'm heavenly guarded, it's the golden child and for a while</li>
