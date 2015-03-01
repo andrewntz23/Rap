@@ -16,89 +16,90 @@
             <li><weed>Pass the herbs, pass the herbs</weed></li>
         </stanza>
         <stanza speaker="JoeyBada$$" type="verse">
-            <li><oldschool>It's been a minute</oldschool> since they seen a style with no
-                gimmicks</li>
-            <li><success>Clouds'll stay limits</success><weed> cuz we in em'</weed></li>
-            <li><weed>Eyes low, squinting, more L's</weed>
-                <success>but we winning</success></li>
-            <li><women>Acting like it's hard to find women</women> when I'm <fashion>in these hard
-                    to find linens</fashion></li>
+            <li><oldschool>It's been a <group label="a" num="1" rhyme="6" slantRhyme="5">minute</group></oldschool> <group label="a" num="2" alliteration="3 4">since</group> they <group label="a" num="3" alliteration="2 4">seen</group> a <group label="a" num="4" alliteration="2 3">style</group> with no
+                <group label="a" num="5" slantRhyme="1">gimmicks</group></li>
+            <li><success>Clouds'll stay <group label="a" num="6" rhyme="1">limits</group></success><weed> cuz we in em'</weed></li>
+            <li><weed>Eyes low, <group label="a" num="7" rhyme="8">squinting</group>, more L's</weed>
+                <success>but we <group label="a" num="8" rhyme="7">winning</group></success></li>
+            <li><women>Acting like it's <group label="a" num="9" assimilation="10">hard to find women</group></women> when I'm <fashion>in these <group label="a" num="10" assimilation="9">hard
+                    to find linens</group></fashion></li>
             <li><struggle>Remember those days it was hard to find <money>a
                 living</money></struggle></li>
             <li><success>But now we got ends</success> and <success>its only the
-                beginning</success></li>
-            <li><hiphop ref="Jay-Z">Big pimpin'</hiphop>, <women>foolin' dimes</women>
+                <group label="a" num="11" slantRhyme="12">beginning</group></success></li>
+            <li><hiphop ref="Jay-Z">Big <group label="a" num="12" slantRhyme="11">pimpin'</group></hiphop>, <women>foolin' dimes</women>
                 <struggle>rob em' for they innocence</struggle></li>
-            <li><food><money>Cake</money> like Entenmann's</food>, <food>flow sweet like
-                    cinnamon</food></li>
-            <li>He a child but they treat him like the bigger man</li>
-            <li>Cuz when the pen in his hand they big him up like he <hiphop ref="Jay-Z">Jigga
-                    Man</hiphop></li>
-            <li>Know you see em' in the mirror fam</li>
+            <li><food><money>Cake</money> like <group label="a" num="13" rhyme="14">Entenmann's</group></food>, <food>flow sweet like
+                    <group label="a" num="14" rhyme="13">cinnamon</group></food></li>
+            <li>He a child but they treat him like the <group label="a" num="15" rhyme="16">bigger man</group></li>
+            <li>Cuz when the pen in his hand they big him up like he <hiphop ref="Jay-Z"><group label="a" num="16" rhyme="15">Jigga
+                    Man</group></hiphop></li>
+            <li>Know you see em' in the mirror <group label="a" num="17" rhyme="18">fam</group></li>
             <li><haters>The ones who say you ain't hot be your biggest fan</haters>, like nigga
-                damn</li>
-            <li>Before he got popular he been da' man</li>
-            <li><women>With yo' chick</women>, in the can, rollin' thru an <popculture ref="Instagram">instant gram</popculture></li>
-            <li><money>Got a whiff a' grands</money>
-                <success>now everybody say they distant fam</success></li>
+                <group label="a" num="18" rhyme="17">damn</group></li>
+            <li>Before he got popular he been da' <group label="a" num="19" rhyme="20">man</group></li>
+            <li><women>With yo' chick</women>, in the <group label="a" num="20" rhyme="19">can</group>, rollin' thru an <popculture
+                    ref="Instagram">instant <group label="a" num="21" alliteration="22">gram</group></popculture></li>
+            <li><money>Got a whiff a' <group label="a" num="22" rhyme="21">grands</group></money>
+                <success>now everybody say they distant <group label="a" num="23" rhyme="24">fam</group></success></li>
             <li><success>Know the haters still <food>jelly</food></success> but fuck it though, it's
-                the <food>jam</food>...</li>
+                the <food><group label="a" num="24" rhyme="23">jam</group></food>...</li>
         </stanza>
     </song>
     <song title="BloomingBlossoms(FlowersPt.1)" production="Madlib">
         <stanza speaker="JoeyBada$$" type="verse">
             <li>Now</li>
             <li>If I ain't know no better</li>
-            <li><struggle>I could have been sucked right up into the setup</struggle></li>
-            <li>But I kept my head up</li>
-            <li>And <struggle>every time I fell I would get up</struggle></li>
-            <li>See I don't need no <guns>nines</guns> and <guns>Berettas</guns></li>
-            <li>I kill with the lines and the letters with the verbs and the nouns</li>
-            <li>Just a kid trying get his sound heard around</li>
-            <li>Jump into cyphers and keep the old timers astounded</li>
-            <li>They said he was the best in the surroundance</li>
-            <li>Cause everyone around him was drownin'</li>
-            <li>In the fair one, no one son could pound him</li>
-            <li>With the lyrics, you pray you hear it</li>
-            <li>They say his <struggle>bad hood couldn’t match his good spirit</struggle></li>
-            <li>And <success>one day his mom and dad will be cheerin' to his Grammy nomination</success></li>
-            <li>And <success>proclamation to his world domination</success></li>
-            <li>Inauguration into greatness</li>
+            <li><struggle>I could have been sucked right up into the <group label="a" num="1" rhyme="2 3">setup</group></struggle></li>
+            <li>But I kept my <group label="a" num="2" rhyme="1 3">head up</group></li>
+            <li>And <struggle>every time I fell I would <group label="a" num="3" rhyme="1 2">get up</group></struggle></li>
+            <li>See I don't need no <group label="a" num="4" assimilation="5"><guns>nines</guns> and <guns>Berettas</guns></group></li>
+            <li>I kill with the <group label="a" num="5" assimilation="4" alliteration="6">lines and the <group label="a" num="6" alliteration="5">letters</group></group> with the verbs and the nouns</li>
+            <li>Just a kid trying get his <group label="a" num="7" rhyme="8">sound</group> heard <group label="a" num="8" rhyme="7">around</group></li>
+            <li>Jump into <group label="a" num="9" rhyme="10">cyphers</group> and keep the old <group label="a" num="10" rhyme="9">timers</group> <group label="a" num="11" assimilation="12">astounded</group></li>
+            <li>They said he was the best in the <group label="a" num="12" assimilation="11">surroundance</group></li>
+            <li>Cause everyone <group label="a" num="13" slantRhyme="14">around him</group> was <group label="a" num="14" slantRhyme="13">drownin'</group></li>
+            <li>In the fair <group label="a" num="15" rhyme="16 17">one</group>, no <group label="a" num="16" rhyme="15 17">one</group> <group label="a" num="17" rhyme="15 16">son</group> could pound him</li>
+            <li>With the <group label="a" num="18" slantRhyme="19">lyrics</group>, you pray you <group label="a" num="19" slantRhyme="18" rhyme="20">hear it</group></li>
+            <li>They say his <struggle>bad hood couldn’t match his good <group label="a" num="20" rhyme="19" slantRhyme="21">spirit</group></struggle></li>
+            <li>And <success>one day his mom and dad will be <group label="a" num="21" slantRhyme="20">cheerin'</group> to his Grammy <group label="a" num="22" rhyme="23 24">nomination</group></success></li>
+            <li>And <success>proclamation to his world <group label="a" num="23" rhyme="22 24">domination</group></success></li>
+            <li><group label="a" num="24" rhyme="22 23">Inauguration</group> into greatness</li>
             <li>From <struggle>making rations</struggle> to <success><money>cakin'</money></success></li>
-            <li>2 AM and he be up like attic</li>
-            <li>He's an addict, alarm clock pop, he back at it</li>
-            <li>Barely got any sleep</li>
-            <li><food><money>But, he gotta eat</money></food></li>
-            <li><money>Cause ain't shit cheap</money> and his soul/sole torned out of feet</li>
-            <li>He got dreams, but don't plan on sleeping until he reach 'em</li>
-            <li><food>Until you out feastin'</food>, paying houses where you sleep in</li>
-            <li>Until his album ready and his fans get it leaking just for sneak peaks and</li>
-            <li>Until then, his home is the booth</li>
-            <li>He spittin' to the plaque it's poof off his tooth</li>
-            <li>Like Hocus Pocus</li>
-            <li>Or word he's too focused</li>
-            <li>You should quote it</li>
-            <li>His goal is the denial that he wrote it</li>
-            <li>Flowin' like oceans and menstruals</li>
-            <li>Ink from the pen, lies within my credentials</li>
-            <li>They told me that I could be mental</li>
-            <li>But momma always said that I was special</li>
-            <li><haters>Haters tell me I should stop</haters></li>
-            <li><haters>My enemies tryin' see me in the box</haters></li>
-            <li><struggle>So the streets tell me to cop a <guns>Glock</guns> and pop it</struggle></li>
-            <li><success>But something down deep tells me I'm the next prophet</success></li>
+            <li>2 AM and he be up like <group label="b" num="1" assimilation="2 3">attic</group></li>
+            <li>He's an <group label="b" num="2" assimilation="1 3">addict</group>, alarm clock pop, he back <group label="b" num="3" assimilation="1 2">at it</group></li>
+            <li>Barely got any <group label="b" num="4" rhyme="6">sleep</group></li>
+            <li><food><money>But, he gotta <group label="b" num="5" rhyme="7">eat</group></money></food></li>
+            <li><money>Cause ain't shit <group label="b" num="6" rhyme="4">cheap</group></money> and his soul/sole torned out of <group label="b" num="7" rhyme="5">feet</group></li>
+            <li>He got dreams, but don't plan on sleeping until he <group label="b" num="8" slantRhyme="9">reach 'em</group></li>
+            <li><food>Until you out <group label="b" num="9" slantRhyme="8" rhyme="10">feastin'</group></food>, paying houses where you <group label="b" num="10" rhyme="9">sleep in</group></li>
+            <li>Until his album ready and his fans get it leaking just for <group label="b" num="11" rhyme="12">sneak</group> <group label="b" num="12" rhyme="11">peaks</group> and</li>
+            <li>Until then, his home is the <group label="b" num="13" rhyme="15">booth</group></li>
+            <li>He spittin' to the plaque it's <group label="b" num="14" slantRhyme="15">poof</group> off his <group label="b" num="15" rhyme="13" slantRhyme="14">tooth</group></li>
+            <li>Like <group label="b" num="16" rhyme="17 18">Hocus</group> <group label="b" num="17" rhyme="16 18">Pocus</group></li>
+            <li>Or word he's too <group label="b" num="18" rhyme="16 17">focused</group></li>
+            <li>You should <group label="b" num="19" rhyme="20">quote it</group></li>
+            <li>His goal is the denial that he <group label="b" num="20" rhyme="19">wrote it</group></li>
+            <li>Flowin' like oceans and <group label="b" num="21" rhyme="22">menstruals</group></li>
+            <li>Ink from the pen, lies within my <group label="b" num="22" rhyme="21">credentials</group></li>
+            <li>They told me that I could be <group label="b" num="23" rhyme="24">mental</group></li>
+            <li>But momma always said that I was <group label="b" num="24" rhyme="23">special</group></li>
+            <li><haters>Haters tell me I should <group label="c" num="1" assonance="2 3 4">stop</group></haters></li>
+            <li><haters>My enemies tryin' see me in the <group label="c" num="2" assonance="1 3 4">box</group></haters></li>
+            <li><struggle>So the streets tell me to <group label="c" num="3" assonance="1 2 4">cop</group> a <guns><group label="c" num="4" assonance="1 2 3">Glock</group></guns> and <group label="c" num="5" rhyme="6">popit</group></struggle></li>
+            <li><success>But something down deep tells me I'm the next <group label="c" num="6" rhyme="5">prophet</group></success></li>
             <!--     We've already discussed that we'll need to do a more careful run through of the motif markup, but pay close attentions to moments like this: Muhammad and Marcus Garvey would both be tagged, and
             are important moments-->
-            <li><oldschool>Like the new Muhammad or the new Marcus Garvey</oldschool></li> 
-            <li>Or probably, it makes sense why I'm so heavily guarded</li>
-            <li>Wait, no, please restart it</li>
-            <li>I'm heavenly guarded, it's the golden child and for a while</li>
-            <li>God been looking down with a smile</li>
-            <li><success>Watchin' me prosper</success></li>
-            <li>Attackin' with the raps and then conquer</li>
-            <li><oldschool>The junior Frank Sinatra</oldschool>, rapping out the Opera</li>
-            <li>You should spectate in the booth with a suit and binoculars</li>
-            <li>Like nigga its a honor, it's motherfuckin' honor</li>
+            <li><oldschool>Like the new Muhammad or the new Marcus <group label="c" num="7" rhyme="8">Garvey</group></oldschool></li>
+            <li>Or <group label="c" num="8" rhyme="7">probably</group>, it makes sense why I'm so <group label="c" num="9" slantRhyme="10" assimilation="11">heavily guarded</group></li>
+            <li>Wait, no, please <group label="c" num="10" slantRhyme="9">restart it</group></li>
+            <li>I'm <group label="c" num="11" assimilation="9">heavenly guarded</group>, it's the golden <group label="c" num="12" slantRhyme="13">child</group> and for a <group label="c" num="13" slantRhyme="12" rhyme="14">while</group></li>
+            <li>God been looking down with a <group label="c" num="14" rhyme="13">smile</group></li>
+            <li><success>Watchin' me <group label="c" num="15" rhyme="16">prosper</group></success></li>
+            <li>Attackin' with the raps and then <group label="c" num="16" rhyme="15">conquer</group></li>
+            <li><oldschool>The junior Frank <group label="c" num="17" rhyme="18">Sinatra</group></oldschool>, rapping out the <group label="c" num="18" rhyme="17">Opera</group></li>
+            <li>You should spectate in the <group label="c" num="19" assonance="20">booth</group> with a <group label="c" num="20" assonance="19">suit</group> and <group label="c" num="21" slantRhyme="22">binoculars</group></li>
+            <li>Like nigga its a <group label="c" num="22" slantRhyme="21">honor</group>, it's motherfuckin' honor</li>
         </stanza>
     </song>
     <song title="Catharsis" production="Madlib">
@@ -123,8 +124,10 @@
             <li>'till I bust like pinatas</li>
             <li>Only true Shotta, come kill 'em with the Patois</li>
             <li>Same time, <women>met the gal</women>, and up for dagga, that's word to Spragga</li>
-            <li><hiphop ref="LilWayne">I'm a young Wayne</hiphop>, I'm going insane, <popculture ref="MortalKombat">Liu Kang</popculture></li>
-            <li><popculture ref="DragonBallZ">Super Saiyan</popculture> whenever the loops be playing</li>
+            <li><hiphop ref="LilWayne">I'm a young Wayne</hiphop>, I'm going insane, <popculture
+                    ref="MortalKombat">Liu Kang</popculture></li>
+            <li><popculture ref="DragonBallZ">Super Saiyan</popculture> whenever the loops be
+                playing</li>
             <li>Only be a kid, but yo, see if the youth's playin'</li>
             <li>When the <weed>doobs flamed</weed>, I get enlightened 'til I be in Zeus' lane</li>
             <li>Find that quite amusing, <women>I bone her like museum</women></li>
@@ -135,7 +138,8 @@
             <li>In my city, I be <popculture ref="Batman">Bruce Wayne</popculture></li>
             <li>Yup, cause when I get put on</li>
             <li>I got them like <fashion>new J's</fashion></li>
-            <li>He say, she say, who say that I'm not <hiphop ref="LupeFiasco">the next young Lupe</hiphop></li>
+            <li>He say, she say, who say that I'm not <hiphop ref="LupeFiasco">the next young
+                    Lupe</hiphop></li>
             <li><haters>The one-handed shit you got to say</haters>, to you, touche</li>
             <li>I'm the type to <women>pull a dyke</women> and only hit it on Tuesday</li>
             <li>You the cunt though, When I come you feel like it be Doomsday</li>
@@ -144,11 +148,14 @@
             <li>But they still ain't even shocking us</li>
             <li>Yo, who the fuck is stopping us?</li>
             <li>A bunch of nice niggas with aim like who blocking us?</li>
-            <li><geo ref="Brooklyn">BK</geo> where we stay, but <hiphop ref="Tupac">you can still see the Pac in us</hiphop></li>
+            <li><geo ref="Brooklyn">BK</geo> where we stay, but <hiphop ref="Tupac">you can still
+                    see the Pac in us</hiphop></li>
             <li>Oh, <hiphop ref="Diddy">no disrespect to Diddy</hiphop></li>
             <li>Don't mean to be sadity</li>
-            <li>But I plan to conquer my city like yo, <hiphop ref="NotoriousBIG">it's no Biggie</hiphop></li>
-            <li><hiphop ref="NotoriousBIG">No really, it's no biggy</hiphop> and <hiphop ref="50Cent">50 can't bother</hiphop></li>
+            <li>But I plan to conquer my city like yo, <hiphop ref="NotoriousBIG">it's no
+                    Biggie</hiphop></li>
+            <li><hiphop ref="NotoriousBIG">No really, it's no biggy</hiphop> and <hiphop
+                    ref="50Cent">50 can't bother</hiphop></li>
             <li>In a few years I plan to outshine <hiphop ref="Jay-Z">Mr. Shawn Carter</hiphop></li>
             <li>Look at the war I done started</li>
             <li>Notice the cartharsis revealed by the appeal of this young artist</li>
@@ -157,23 +164,29 @@
     <song title="Indubitable" production="LordFinesse">
         <stanza speaker="JoeyBada$$" type="verse">
             <li>I'm Indubitable, spitting Pharmaceuticals</li>
-            <li><success><hiphop ref="DJKhaled">All I do is win</hiphop></success>, ties are simply unsuitable</li>
-            <li><women>Bitches on my cuticles</women>, I changed the game like <food>oodables(?)</food></li>
+            <li><success><hiphop ref="DJKhaled">All I do is win</hiphop></success>, ties are simply
+                unsuitable</li>
+            <li><women>Bitches on my cuticles</women>, I changed the game like
+                    <food>oodables(?)</food></li>
             <li>The Davey Jones of rap is back, the bodies in my cubicle</li>
             <li>Ever since a toddler, I had them call me father</li>
             <li>Since ye' high, <women>I got booty like prostate doctor</women></li>
             <li>Mom want me be doctor, I be rhymin' like <food>pasta</food></li>
             <li><food>Eat them like they pasta</food>, headed straight up, posture</li>
-            <li><haters><hiphop ref="Jay-Z">Niggas can never knock the, hustling</hiphop></haters></li>
+            <li><haters><hiphop ref="Jay-Z">Niggas can never knock the,
+                hustling</hiphop></haters></li>
             <li><women>Bitches on my balls</women>, <sports>never fumbling</sports></li>
             <li>Nigga in fact they be doubling</li>
             <li>But the <women>hunnies</women> get the smothering, never loving them</li>
             <li><struggle>I never sleep, Got the heavy bags, struggling</struggle></li>
             <li>They run from him when he approach, they call him the hero</li>
-            <li>All he need is the <fashion>cloak</fashion>, cause <popculture ref="MurderSheWrote">murder what he wrote</popculture></li>
+            <li>All he need is the <fashion>cloak</fashion>, cause <popculture ref="MurderSheWrote"
+                    >murder what he wrote</popculture></li>
             <li>And <guns>fuck guns</guns>, don't need those</li>
-            <li>Everything is done to the <popculture ref="MaxKeeble">Max, no Keeble</popculture></li>
-            <li>Circle tighter than <sports>Speedo</sports>, I'm the <popculture ref="DonCheadle">Don like Cheadle</popculture></li>
+            <li>Everything is done to the <popculture ref="MaxKeeble">Max, no
+                Keeble</popculture></li>
+            <li>Circle tighter than <sports>Speedo</sports>, I'm the <popculture ref="DonCheadle"
+                    >Don like Cheadle</popculture></li>
             <li>I'm flyer than eagle, I get the cheeks like pillows</li>
             <li>Uh, I swear niggas they bout it, they bout shit</li>
             <li>You'd be in good shape if you ran like your mouth did</li>
@@ -188,13 +201,15 @@
             <li>And the word on the grapevine, I'm going up great heights</li>
             <li>Joey got enough line to capture a great white</li>
             <li>I get more shine than late night, I'm beast who ain't ate right</li>
-            <li>Back up on my <popculture ref="MojoJojo">mojo, I'll show you what apes like</popculture></li>
+            <li>Back up on my <popculture ref="MojoJojo">mojo, I'll show you what apes
+                    like</popculture></li>
             <li>Nigga it's JoJo, They on my pogo, no homo</li>
             <li>I ride the beat like <fashion>the man on my polo</fashion></li>
             <li><haters>Ya'll some bozos</haters>, I'm underage, but pour more though</li>
             <li>That Roso got me moving slow-mo</li>
             <li>I'm taking photos with your <women>ho-ho</women></li>
-            <li><popculture ref="SantaClaus">Chris Cringley</popculture> gifted, I'm ill with the writtens</li>
+            <li><popculture ref="SantaClaus">Chris Cringley</popculture> gifted, I'm ill with the
+                writtens</li>
             <li>Got my finger to the world, Fuck it a fist then</li>
             <li>Sit back and look at what you been missin', nigga</li>
         </stanza>
@@ -205,11 +220,13 @@
         </stanza>
         <stanza speaker="JoeyBada$$" type="verse">
             <li>I'm a beast with these flows</li>
-            <li>Two birds, <weed>one stoned</weed>, you get geese’d when <weed>trees rolled</weed></li>
+            <li>Two birds, <weed>one stoned</weed>, you get geese’d when <weed>trees
+                rolled</weed></li>
             <li>They say I'm evil cause I trained my ego to see gold</li>
             <li>Cause he know, seagulls couldn't see these goals, please</li>
             <li>It's the return of the <geo ref="EastCoast">beast coast</geo></li>
-            <li><money>No cash flashed</money>, but the <food><money>cheese</money></food> still make teeth show</li>
+            <li><money>No cash flashed</money>, but the <food><money>cheese</money></food> still
+                make teeth show</li>
             <li>Incognito, is how you move on the strip</li>
             <li>What you trynna be Vito? Well there's rules to this shit</li>
             <li><guns>Don't get clapped</guns>, ya'll ain't real spitters, ya'll lips chapped</li>
@@ -221,7 +238,8 @@
             <li>There's makes sense why you want <food>beef</food>, well this frozen</li>
             <li>It's <food>nuts</food> for you screwed in the tool, and can't hold em</li>
             <li><sports>Better shoot yourself Plaxico</sports>, because I'm next to go</li>
-            <li>The <popculture ref="ProgressiveInsurance">Progressive</popculture> flows from <geo ref="NewYork">New York</geo> to <geo ref="NewMexico">New Mexico</geo></li>
+            <li>The <popculture ref="ProgressiveInsurance">Progressive</popculture> flows from <geo
+                    ref="NewYork">New York</geo> to <geo ref="NewMexico">New Mexico</geo></li>
             <li>My lyrical span is what the fans is demandin'</li>
             <li>Step into my box and that's exactly what'chu stand in</li>
             <li>Ain't no half steppin' around me</li>
@@ -236,7 +254,8 @@
             <li>So <women>baby</women> if you're with it, we can kick it</li>
             <li>And get lifted off the Sour and the <weed>piff</weed></li>
             <li>And start whispering, and start kissing</li>
-            <li>Your <fashion>red bottoms</fashion> knocking on my <fashion><sports>Pippens</sports></fashion></li>
+            <li>Your <fashion>red bottoms</fashion> knocking on my
+                    <fashion><sports>Pippens</sports></fashion></li>
             <li>Tell me if you dig it, so we can get a dick in</li>
             <li>Life, she be bitching, so get it while you live it</li>
             <li>And stop fronting, you need to quit it</li>
@@ -256,9 +275,12 @@
             <li>Said we can do it like that or like this</li>
             <li>Cut the light switch</li>
             <li>Close your eyes, let the music intervene</li>
-            <li>We can play some <popculture ref="MarvinGaye">Marvin Gaye</popculture> or a little <popculture ref="AlGreen">Al Green</popculture></li>
-            <li>We can listen to some <popculture ref="Prince">Prince</popculture> while I kiss up on your lips</li>
-            <li>Or get right with <popculture ref="BettyWright">Betty Wright</popculture>, turn it up, that's my shit</li>
+            <li>We can play some <popculture ref="MarvinGaye">Marvin Gaye</popculture> or a little
+                    <popculture ref="AlGreen">Al Green</popculture></li>
+            <li>We can listen to some <popculture ref="Prince">Prince</popculture> while I kiss up
+                on your lips</li>
+            <li>Or get right with <popculture ref="BettyWright">Betty Wright</popculture>, turn it
+                up, that's my shit</li>
         </stanza>
         <stanza speaker="JoeyBada$$" type="hook">
             <li>This one is a pantie dropper, this shit is a pantie dropper</li>
@@ -322,9 +344,11 @@
             <li>Perfect, I'm glad we past flirting</li>
             <li>Before you wasn't certain when I was lifting up your skirt and</li>
             <li>But now you squirting, at the same time I'm bursting</li>
-            <li>You look good on <popculture ref="Twitter">Twitter</popculture> but even better in person</li>
+            <li>You look good on <popculture ref="Twitter">Twitter</popculture> but even better in
+                person</li>
             <li>I wanna take the time out to say that it was worth it</li>
-            <li>Your trip from <geo ref="NewYork">NYC</geo> to out here in <geo ref="Boston">Burston, I mean Boston</geo></li>
+            <li>Your trip from <geo ref="NewYork">NYC</geo> to out here in <geo ref="Boston"
+                    >Burston, I mean Boston</geo></li>
             <li>I'm a <fashion>MAC</fashion> like your lip gloss is</li>
             <li>Girl you so fine I wonder what the cost is</li>
             <li>A Dime ? I'd give that ass <hiphop ref="LilWayne">a Milli</hiphop></li>
@@ -356,7 +380,8 @@
             <li>Yo, <hiphop ref="NickiMinaj">Nicki</hiphop> can't even rap</li>
         </stanza>
         <stanza speaker="JoeyBada$$" type="verse">
-            <li>You could catch me on the <popculture ref="Kawasaki">Kawasaki</popculture>, evadin' paparazzi</li>
+            <li>You could catch me on the <popculture ref="Kawasaki">Kawasaki</popculture>, evadin'
+                paparazzi</li>
             <li>I was spotted with a <women>hotty</women>, gettin' blumpkin in a porter-potty</li>
             <li>Feelin' like the man, but nose still snotty</li>
             <li>And she knows I got <women>hoes</women>, but still want me to body (the kitty)</li>
@@ -372,7 +397,8 @@
             <li>I'm all about my <food><money>cabbage</money></food>, something like a rabbit</li>
             <li>I'm trying to feed my ear a few carats but they ain't tryin' have it</li>
             <li>They rather, see me die before they see me fly</li>
-            <li>With <fashion>Diamond Supply</fashion> fly and the <fashion>jeans blue dye</fashion></li>
+            <li>With <fashion>Diamond Supply</fashion> fly and the <fashion>jeans blue
+                dye</fashion></li>
             <li>That's over heads like rainbows</li>
             <li>We ain't no hoes, you dodo birds, 4-0 verbs, you porno nerds</li>
             <li>I got my own religion so fuck what your pastor sayin'</li>
@@ -435,7 +461,8 @@
             <li>Let me see you with another man and it's done for him</li>
             <li>Call me fucking crazy but baby</li>
             <li>How you gon' play me? I mean, have you seen me lately?</li>
-            <li>Went from elated to a <popculture ref="PatrickSwayze">swayze, ghostin'</popculture></li>
+            <li>Went from elated to a <popculture ref="PatrickSwayze">swayze,
+                ghostin'</popculture></li>
             <li>Taking my life the only escape from you potion</li>
         </stanza>
         <stanza speaker="JoeyBada$$" type="hook">
@@ -477,23 +504,31 @@
     <song title="Oh,Deer(BeddarDaze)" production="MFDoom">
         <stanza speaker="JoeyBada$$" type="verse">
             <li>I see you sitting on the top, in your better phase</li>
-            <li>Say, <success>how it feel it feel to be the best</success> and <money>the most paid</money>?</li>
+            <li>Say, <success>how it feel it feel to be the best</success> and <money>the most
+                    paid</money>?</li>
             <li>How it feel to be the <success>most praised</success>?</li>
             <li>Known to blow the most <weed>Haze</weed></li>
             <li>Known to have <women>chicks</women> who go both ways and still down to blow J</li>
-            <li>Remember from <struggle>rags</struggle> to <success>riches</success>, being mad ambitious</li>
+            <li>Remember from <struggle>rags</struggle> to <success>riches</success>, being mad
+                ambitious</li>
             <li>Screaming "Fuck love" cause you was always mad at <women>bitches</women></li>
             <li>When getting <money>money</money> was the fucking motto</li>
-            <li>From the <geo ref="NewYork">place</geo> they put <food>potatoes</food> on their <guns>nozzles just to silence hollows</guns></li>
-            <li>Shit, you probably went passed that, probably still <weed>chiefing blunts</weed></li>
+            <li>From the <geo ref="NewYork">place</geo> they put <food>potatoes</food> on their
+                    <guns>nozzles just to silence hollows</guns></li>
+            <li>Shit, you probably went passed that, probably still <weed>chiefing
+                blunts</weed></li>
             <li>As a matter of fact, you probably don't even pass that</li>
             <li>You probably in the back of a black bach, splitting down the <weed>dutch</weed></li>
             <li>With a <women>dime chick</women> in the tail flap, but her head is up</li>
             <li>I see where the <women>hoes</women> at, but where the bros at?</li>
-            <li>Call Shay and Power, hey, where's your <popculture ref="iPhone">iPhone 44</popculture> at?</li>
-            <li>Or did you end up like most cats who split a lot of <food><money>cheese</money></food> together?</li>
-            <li>The more <food><money>cheddar</money></food>, the more better, ya'll won't be friends forever</li>
-            <li>And I know it's probably <hiphop ref="Fugees">killing you softly</hiphop>, pardon me</li>
+            <li>Call Shay and Power, hey, where's your <popculture ref="iPhone">iPhone
+                    44</popculture> at?</li>
+            <li>Or did you end up like most cats who split a lot of
+                    <food><money>cheese</money></food> together?</li>
+            <li>The more <food><money>cheddar</money></food>, the more better, ya'll won't be
+                friends forever</li>
+            <li>And I know it's probably <hiphop ref="Fugees">killing you softly</hiphop>, pardon
+                me</li>
             <li>Thinking you can handle all of your problems costly</li>
             <li>No matter what the cost be, you're quick to try and buy it off</li>
             <li><success>Everything is win-win</success>, you know you can't afford a loss</li>
@@ -503,7 +538,8 @@
             <li>Shit, you learned to trick <women>broads</women> when your dick got hard</li>
             <li>And if you can do that, ain't shit should be stopping you</li>
             <li>Anything is possible and any obstacle should be hoppable</li>
-            <li>And <success>now you living where it's tropical, you got the most shade</success></li>
+            <li>And <success>now you living where it's tropical, you got the most
+                shade</success></li>
             <li>A letter to my future, sincerely, your broke days</li>
             <li><struggle>Motherfuck them broke days</struggle></li>
             <li>Most praise to the motherfucking <success>most paid</success></li>
@@ -525,23 +561,33 @@
             <li>You can lift this dick in between your lipstick</li>
             <li>If your eyes ain't low like <fashion>Ralph Lipschitz</fashion>, you dipshits</li>
             <li>Even the polices want me cause I rip shit</li>
-            <li><weed>Puffing that piff shit</weed>, Blow out five O's like the <popculture ref="Olympics">Olympics</popculture></li>
-            <li>Evadin' on a <popculture ref="RipStik">RipStik</popculture> yellin' "Eat my dust"</li>
+            <li><weed>Puffing that piff shit</weed>, Blow out five O's like the <popculture
+                    ref="Olympics">Olympics</popculture></li>
+            <li>Evadin' on a <popculture ref="RipStik">RipStik</popculture> yellin' "Eat my
+                dust"</li>
             <li>When cars for breakfast and lunch don't get ate 'til dusk</li>
             <li>I spit it hotter than the days it don't get dusk 'til eight</li>
-            <li>And when you <struggle>born in a maze</struggle>, you learn to <guns>duck those strays</guns></li>
+            <li>And when you <struggle>born in a maze</struggle>, you learn to <guns>duck those
+                    strays</guns></li>
             <li>I know gang homies who wait around to <guns>buck those Tre's</guns></li>
-            <li>But me, I chose to <sports>skate</sports> around, ya know, <sports>Bust those tre's</sports></li>
+            <li>But me, I chose to <sports>skate</sports> around, ya know, <sports>Bust those
+                    tre's</sports></li>
             <li>They <money>get bucks, get paid</money>, They <women>get butt, get laid</women></li>
-            <li>Niggas who <sports>ball</sports> and <money>shine</money> hard, they get cut, catch fades</li>
+            <li>Niggas who <sports>ball</sports> and <money>shine</money> hard, they get cut, catch
+                fades</li>
             <li>You see, I was one of those kids who stayed up past late</li>
-            <li>So when it's time for school, <success>I got up and still passed, great</success></li>
+            <li>So when it's time for school, <success>I got up and still passed,
+                great</success></li>
             <li>Get passed- I forgot my line</li>
-            <li>I do it nonchalant, <hiphop ref="KanyeWest">Spit it through the wire like I'm <popculture ref="ChakaKhan">Chaka Khan</popculture></hiphop></li>
-            <li><success>I been killing 'em</success>, Your <women>bitch</women> been feeling 'em</li>
-            <li>Ya'll can't be serious like films <popculture ref="BenStiller">Ben Stiller</popculture> in</li>
+            <li>I do it nonchalant, <hiphop ref="KanyeWest">Spit it through the wire like I'm
+                        <popculture ref="ChakaKhan">Chaka Khan</popculture></hiphop></li>
+            <li><success>I been killing 'em</success>, Your <women>bitch</women> been feeling
+                'em</li>
+            <li>Ya'll can't be serious like films <popculture ref="BenStiller">Ben
+                    Stiller</popculture> in</li>
             <li><success>Nobody iller than him at the top</success> of his adrenaline</li>
-            <li>Flow <food>sweet like cinnamon</food>, <women>Name a chick that I ain't swimming in</women></li>
+            <li>Flow <food>sweet like cinnamon</food>, <women>Name a chick that I ain't swimming
+                    in</women></li>
             <li>Uh, got flow for days, I'm <money>sure to get paid</money> if</li>
             <li><haters>They hate the price on son's life</haters>, it's sure to get raised</li>
             <li>But there's no break when I got you pinned in</li>
@@ -557,7 +603,8 @@
             <li>But know, it's all a part of the business, don't take it personal</li>
             <li>It must be hurting you to know I could be merkin' you</li>
             <li>At will, whenever I feel, this shit get realer</li>
-            <li>Foe squealers give the beats out to the nigga <hiphop ref="JDilla">Dilla</hiphop></li>
+            <li>Foe squealers give the beats out to the nigga <hiphop ref="JDilla"
+                >Dilla</hiphop></li>
             <li>I shine like crystals, <guns>Never held a pistol</guns></li>
             <li><guns>Never packed a tool</guns>, but that don't mean that I won't fix you</li>
             <li><haters>Who is you? I don't give a F</haters>, I do it effortless</li>
@@ -577,7 +624,8 @@
         </stanza>
         <stanza speaker="JoeyBada$$" type="verse">
             <li>It was love at the <popculture ref="Facebook">profile pic</popculture></li>
-            <li>We was <popculture ref="Facebook">Facebook</popculture> flirting, never even met her in person</li>
+            <li>We was <popculture ref="Facebook">Facebook</popculture> flirting, never even met her
+                in person</li>
             <li>But it seem like we was soulmates on the phone late</li>
             <li><women>She</women> my one and only, be there when I be lonely</li>
             <li>Whenever she get horny, she would call me</li>
@@ -602,7 +650,8 @@
         <stanza speaker="JoeyBada$$" type="verse">
             <li>Oh, and by the way, I like a well done <food>souffle</food></li>
             <li>Sit up under the stars, nice view of the lake</li>
-            <li>And we can <weed>get baked</weed>. I bring the <food><money>cake</money></food>, you bring the <weed>8th</weed></li>
+            <li>And we can <weed>get baked</weed>. I bring the <food><money>cake</money></food>, you
+                bring the <weed>8th</weed></li>
             <li>It's no backing down, it's <weed>8 doobies to the face</weed></li>
             <li>Fuck that, and if you act right, I might let you fuck that</li>
             <li>Grab up on my buttox and what not</li>
@@ -684,7 +733,8 @@
             <li>Live out in Hollywood, and act like it's probably good</li>
             <li>And she probably could, she probably would</li>
             <li>But <struggle>she stuck in the hood</struggle></li>
-            <li><struggle>Mama's on crack</struggle>, <struggle>jobs ain't calling her back</struggle></li>
+            <li><struggle>Mama's on crack</struggle>, <struggle>jobs ain't calling her
+                    back</struggle></li>
             <li>She fading away into the black</li>
             <li>Into the darkness, <struggle>her baby brother half retarded</struggle></li>
             <li>And <struggle>the land-lord want them out of the apartment</struggle></li>
