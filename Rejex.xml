@@ -104,114 +104,100 @@
     </song>
     <song title="Catharsis" production="Madlib">
         <stanza speaker="JoeyBada$$" type="verse">
-            <li>Vigorous, the illest realest lyricist</li>
-            <li>I'm sick like syphilis</li>
-            <li>Got a certificate for killing shit</li>
-            <li>And any innocent who witnesses the fucking incident</li>
-            <li>Got a team of militants</li>
-            <li>Punch lines, crunch ligaments</li>
-            <li>This is Mr. Bada$$, the young villain</li>
-            <li>Hide the children and <women>hide the women</women></li>
-            <li>There's no slides when you're caught slippin' so be cautious</li>
-            <li>A homie keeps a gorgeous <guns>twelve gauge</guns></li>
+            <li><group label="a" num="1" assonance="2 3 4">Vigorous</group>, the <group label="a" num="2" assonance="1 3 4">illest</group> <group label="a" num="3" assonance="1 2 4">realest</group> <group label="a" num="4" assonance="1 2 3">lyricist</group></li>
+            <li>I'm <group label="a" num="5" alliteration="6 7">sick</group> like <group label="a" num="6" alliteration="5 7">syphilis</group></li>
+            <li>Got a <group label="a" num="7" alliteration="5 6" rhyme="8">certificate</group> for killing <group label="a" num="8" rhyme="7">shit</group></li>
+            <li>And any <group label="a" num="9" alliteration="10" rhyme="10 11 14">innocent</group> who witnesses the fucking <group label="a" num="10" alliteration="9" rhyme="9 11 14">incident</group></li>
+            <li>Got a team of <group label="a" num="11" rhyme="9 10 14">militants</group></li>
+            <li><group label="a" num="12" rhyme="13">Punch</group> lines, <group label="a" num="13" rhyme="12">crunch</group> <group label="a" num="14" rhyme="9 10 11">ligaments</group></li>
+            <li>This is Mr. Bada$$, the young <group label="a" num="15" rhyme="16">villain</group></li>
+            <li>Hide the <group label="a" num="16" rhyme="15">children</group> and <women>hide the <group label="a" num="17">women</group></women></li>
+            <li>There's no <group label="a" num="18" alliteration="19">slides</group> when you're caught <group label="a" num="19" alliteration="18">slippin</group>' so be <group label="a" num="20" rhyme="21">cautious</group></li>
+            <li>A homie keeps a <group label="a" num="21" rhyme="20">gorgeous</group> <guns>twelve gauge</guns></li>
             <li>So if you run your mouth, your jaw gone</li>
-            <li>The double entendre, monster</li>
-            <li>Niggas thank me, say <success>I'm number one in the rankings</success></li>
+            <li>The double <group label="b" num="1" rhyme="2">entendre</group>, <group label="b" num="2" rhyme="1">monster</group></li>
+            <li>Niggas <group label="b" num="3" slantRhyme="4">thank me</group>, say <success>I'm number one in the <group label="b" num="4" slantRhyme="3">rankings</group></success></li>
             <li>I tell 'em it's an honor</li>
-            <li><haters>Cause these niggas faking and they nada</haters></li>
-            <li>Fuckin' stupid Malagas, part of the <geo ref="Spain">Espana</geo></li>
-            <li>I sip on Coladas and feel your <women>chick tatas</women></li>
-            <li>'till I bust like pinatas</li>
-            <li>Only true Shotta, come kill 'em with the Patois</li>
-            <li>Same time, <women>met the gal</women>, and up for dagga, that's word to Spragga</li>
-            <li><hiphop ref="LilWayne">I'm a young Wayne</hiphop>, I'm going insane, <popculture
-                    ref="MortalKombat">Liu Kang</popculture></li>
-            <li><popculture ref="DragonBallZ">Super Saiyan</popculture> whenever the loops be
-                playing</li>
-            <li>Only be a kid, but yo, see if the youth's playin'</li>
-            <li>When the <weed>doobs flamed</weed>, I get enlightened 'til I be in Zeus' lane</li>
-            <li>Find that quite amusing, <women>I bone her like museum</women></li>
-            <li>Sit back, relax, and <women>watch her bring it back</women>, Boomerang</li>
-            <li>Now bring that back like <fashion>poo stains in your new jeans</fashion></li>
-            <li>No need to be too ashamed</li>
-            <li>If you didn't get that the first time like new names</li>
-            <li>In my city, I be <popculture ref="Batman">Bruce Wayne</popculture></li>
+            <li><haters>Cause these niggas faking and they <group label="b" num="5" rhyme="6 7 8 9 10 11">nada</group></haters></li>
+            <li>Fuckin' stupid <group label="b" num="6" rhyme="5 7 8 9 10 11">Malagas</group>, part of the <geo ref="Spain"><group label="b" num="7" rhyme="5 6 8 9 10 11">Espana</group></geo></li>
+            <li>I sip on <group label="b" num="8" rhyme="5 6 7 9 10 11"><food>Coladas</food></group> and feel your <women>chick <group label="b" num="9" rhyme="5 6 7 8 10 11">tatas</group></women></li>
+            <li>'till I bust like <group label="b" num="10" rhyme="5 6 7 8 9 11">pinatas</group></li>
+            <li>Only true <group label="b" num="11" rhyme="5 6 7 8 9 10" slantRhyme="12">Shotta</group>, come kill 'em with the <group label="b" num="12" slantRhyme="11">Patois</group></li>
+            <li>Same time, <women>met the gal</women>, and up for <group label="b" num="13" rhyme="14">dagga</group>, that's word to <group label="b" num="14" rhyme="13">Spragga</group></li>
+            <li><hiphop ref="LilWayne">I'm a young <group label="b" num="15" rhyme="16">Wayne</group></hiphop>, I'm going <group label="b" num="16" rhyme="15" slantRhyme="17">insane</group>, <popculture ref="MortalKombat">Liu <group label="b" num="17" rhyme="16">Kang</group></popculture></li>
+            <li><popculture ref="DragonBallZ">Super <group label="b" num="18" rhyme="19 20">Saiyan</group></popculture> whenever the loops be <group label="b" num="19" rhyme="18 20">playing</group></li>
+            <li>Only be a kid, but yo, see if the youth's <group label="b" num="20" rhyme="18 19">playin'</group></li>
+            <li>When the <weed>doobs <group label="b" num="21" slantRhyme="22">flamed</group></weed>, I get enlightened 'til I be in Zeus' <group label="b" num="22" slantRhyme="21">lane</group></li>
+            <li>Find that quite <group label="c" num="1" assonance="2">amusing</group>, <women>I bone her like <group label="c" num="2" assonance="1">museum</group></women></li>
+            <li>Sit <group label="c" num="3" assonance="4">back</group>, <group label="c" num="4" assonance="3">relax</group>, and <women>watch her <group label="c" num="5" alliteration="6 7">bring</group> it <group label="c" num="6" alliteration="5 7">back</group></women>, <group label="c" num="7" alliteration="5 6">Boomerang</group></li>
+            <li>Now bring that back like <fashion><group label="c" num="8" assimilation="9">poo stains</group> in your <group label="c" num="9" assimilation="8">new jeans</group></fashion></li>
+            <li>No need to be too <group label="c" num="10" rhyme="11">ashamed</group></li>
+            <li>If you didn't get that the first time like new <group label="c" num="11" rhyme="10" slantRhyme="12">names</group></li>
+            <li>In my city, I be <popculture ref="Batman">Bruce <group label="c" num="12" slantRhyme="11">Wayne</group></popculture></li>
             <li>Yup, cause when I get put on</li>
             <li>I got them like <fashion>new J's</fashion></li>
-            <li>He say, she say, who say that I'm not <hiphop ref="LupeFiasco">the next young
-                    Lupe</hiphop></li>
-            <li><haters>The one-handed shit you got to say</haters>, to you, touche</li>
-            <li>I'm the type to <women>pull a dyke</women> and only hit it on Tuesday</li>
-            <li>You the cunt though, When I come you feel like it be Doomsday</li>
+            <li><group label="c" num="13" rhyme="14 15 16 17 18">He say</group>, <group label="c" num="14" rhyme="13 15 16 17 18">she say</group>, <group label="c" num="15" rhyme="13 14 16 17 18">who say</group> that I'm not <hiphop ref="LupeFiasco">the next young <group label="c" num="16" rhyme="13 14 15 17 18">Lupe</group></hiphop></li>
+            <li><haters>The one-handed shit you got <group label="c" num="17" rhyme="13 14 15 16 18">to say</group></haters>, to you, <group label="c" num="18" rhyme="13 14 15 16 17">touche</group></li>
+            <li>I'm the <group label="c" num="19" assonance="20">type</group> to <women>pull a <group label="c" num="20" assonance="19">dyke</group></women> and only hit it on <group label="c" num="21" rhyme="22">Tuesday</group></li>
+            <li>You the cunt though, When I come you feel like it be <group label="c" num="22" rhyme="21">Doomsday</group></li>
             <li>Cause the flow is Apocalypse</li>
-            <li>You say them niggas ill</li>
-            <li>But they still ain't even shocking us</li>
-            <li>Yo, who the fuck is stopping us?</li>
-            <li>A bunch of nice niggas with aim like who blocking us?</li>
-            <li><geo ref="Brooklyn">BK</geo> where we stay, but <hiphop ref="Tupac">you can still
-                    see the Pac in us</hiphop></li>
-            <li>Oh, <hiphop ref="Diddy">no disrespect to Diddy</hiphop></li>
-            <li>Don't mean to be sadity</li>
-            <li>But I plan to conquer my city like yo, <hiphop ref="NotoriousBIG">it's no
-                    Biggie</hiphop></li>
-            <li><hiphop ref="NotoriousBIG">No really, it's no biggy</hiphop> and <hiphop
-                    ref="50Cent">50 can't bother</hiphop></li>
-            <li>In a few years I plan to outshine <hiphop ref="Jay-Z">Mr. Shawn Carter</hiphop></li>
-            <li>Look at the war I done started</li>
-            <li>Notice the cartharsis revealed by the appeal of this young artist</li>
+            <li>You say them niggas <group label="d" num="1" rhyme="2">ill</group></li>
+            <li>But they <group label="d" num="2" rhyme="1">still</group> ain't even <group label="d" num="3" rhyme="4 5 8">shocking us</group></li>
+            <li>Yo, who the fuck is <group label="d" num="4" rhyme="3 5 8">stopping us</group>?</li>
+            <li>A bunch of nice niggas with aim like who <group label="d" num="5" rhyme="3 4 8">blocking us</group>?</li>
+            <li><geo ref="Brooklyn"><group label="d" num="6" rhyme="7">BK</group></geo> where we <group label="d" num="7" rhyme="6">stay</group>, but <hiphop ref="Tupac">you can still see the <group label="d" num="8" rhyme="3 4 5">Pac in us</group></hiphop></li>
+            <li>Oh, <hiphop ref="Diddy">no disrespect to <group label="d" num="9" rhyme="10 11 14 15 16 17">Diddy</group></hiphop></li>
+            <li>Don't mean to be <group label="d" num="10" rhyme="9 11 14 15 16 17">sadity</group></li>
+            <li>But I plan to conquer my <group label="d" num="11" rhyme="9 10 14 15 16 17">city</group> like <group label="d" num="12" rhyme="13">yo</group>, <hiphop ref="NotoriousBIG">it's <group label="d" num="13" rhyme="12">no</group> <group label="d" num="14" rhyme="9 10 11 15 16 17">Biggie</group></hiphop></li>
+            <li><hiphop ref="NotoriousBIG">No <group label="d" num="15" rhyme="9 10 11 14 16 17">really</group>, it's no <group label="d" num="16" rhyme="9 10 11 14 17">biggy</group></hiphop> and <hiphop ref="50Cent"><group label="d" num="17" rhyme="9 10 11 14 15 16">50</group> <group label="d" num="18" rhyme="19">can't bother</group></hiphop></li>
+            <li>In a few years I plan to outshine <hiphop ref="Jay-Z">Mr. <group label="d" num="19" rhyme="18">Shawn Carter</group></hiphop></li>
+            <li>Look at the war I done <group label="d" num="20" slantRhyme="21 24">started</group></li>
+            <li>Notice the <group label="d" num="21" slantRhyme="20 24">cartharsis</group> <group label="d" num="22" rhyme="23">revealed</group> by the <group label="d" num="23" rhyme="22">appeal</group> of this young <group label="d" num="24" slantRhyme="20 21">artist</group></li>
         </stanza>
     </song>
     <song title="Indubitable" production="LordFinesse">
         <stanza speaker="JoeyBada$$" type="verse">
-            <li>I'm Indubitable, spitting Pharmaceuticals</li>
-            <li><success><hiphop ref="DJKhaled">All I do is win</hiphop></success>, ties are simply
-                unsuitable</li>
-            <li><women>Bitches on my cuticles</women>, I changed the game like
-                    <food>oodables(?)</food></li>
-            <li>The Davey Jones of rap is back, the bodies in my cubicle</li>
-            <li>Ever since a toddler, I had them call me father</li>
-            <li>Since ye' high, <women>I got booty like prostate doctor</women></li>
-            <li>Mom want me be doctor, I be rhymin' like <food>pasta</food></li>
-            <li><food>Eat them like they pasta</food>, headed straight up, posture</li>
-            <li><haters><hiphop ref="Jay-Z">Niggas can never knock the,
-                hustling</hiphop></haters></li>
-            <li><women>Bitches on my balls</women>, <sports>never fumbling</sports></li>
-            <li>Nigga in fact they be doubling</li>
-            <li>But the <women>hunnies</women> get the smothering, never loving them</li>
-            <li><struggle>I never sleep, Got the heavy bags, struggling</struggle></li>
+            <li>I'm <group label="a" num="1" rhyme="3 5">Indubitable</group>, spitting <group label="a" num="2" rhyme="4 6">Pharmaceuticals</group></li>
+            <li><success><hiphop ref="DJKhaled">All I do is win</hiphop></success>, ties are simply <group label="a" num="3" rhyme="1 5">unsuitable</group></li>
+            <li><women>Bitches on my <group label="a" num="4" rhyme="2 6">cuticles</group></women>, I changed the game like <food><group label="a" num="5" rhyme="1 3">oodables</group>(?)</food></li>
+            <li>The Davey Jones of rap is back, the bodies in my <group label="a" num="6" rhyme="2 4">cubicle</group></li>
+            <li>Ever since a <group label="a" num="7" rhyme="8 9">toddler</group>, I had them call me <group label="a" num="8" rhyme="7 9">father</group></li>
+            <li>Since ye' high, <women>I got booty like prostate <group label="a" num="9" rhyme="7 8">doctor</group></women></li>
+            <li>Mom want me be <group label="a" num="10" slantRhyme="11">doctor</group>, I be rhymin' like <food><group label="a" num="11" slantRhyme="10">pasta</group></food></li>
+            <li><food>Eat them like they <group label="a" num="12" assimilation="13">pasta</group></food>, headed straight up, <group label="a" num="13" assimilation="12">posture</group></li>
+            <li><haters><hiphop ref="Jay-Z">Niggas can never knock the, <group label="a" num="14" rhyme="17 18 19 20 21">hustling</group></hiphop></haters></li>
+            <li><women><group label="a" num="15" alliteration="16">Bitches</group> on my <group label="a" num="16" alliteration="15">balls</group></women>, <sports>never <group label="a" num="17" rhyme="14 18 19 20 21">fumbling</group></sports></li>
+            <li>Nigga in fact they be <group label="a" num="18" rhyme="14 17 19 20 21">doubling</group></li>
+            <li>But the <women>hunnies</women> get the <group label="a" num="19" rhyme="14 17 18 20 21">smothering</group>, never <group label="a" num="20" rhyme="14 17 18 19 21">loving</group> them</li>
+            <li><struggle>I never sleep, Got the heavy bags, <group label="a" num="21" rhyme="14 17 18 19 20">struggling</group></struggle></li>
             <li>They run from him when he approach, they call him the hero</li>
-            <li>All he need is the <fashion>cloak</fashion>, cause <popculture ref="MurderSheWrote"
-                    >murder what he wrote</popculture></li>
+            <li>All he need is the <fashion><group label="b" num="1" slantRhyme="2">cloak</group></fashion>, cause <popculture ref="MurderSheWrote">murder what he <group label="b" num="2" slantRhyme="1">wrote</group></popculture></li>
             <li>And <guns>fuck guns</guns>, don't need those</li>
-            <li>Everything is done to the <popculture ref="MaxKeeble">Max, no
-                Keeble</popculture></li>
-            <li>Circle tighter than <sports>Speedo</sports>, I'm the <popculture ref="DonCheadle"
-                    >Don like Cheadle</popculture></li>
-            <li>I'm flyer than eagle, I get the cheeks like pillows</li>
-            <li>Uh, I swear niggas they bout it, they bout shit</li>
-            <li>You'd be in good shape if you ran like your mouth did</li>
-            <li>Y'all lower than mouse shit, <weed>I'm higher than mountains</weed></li>
-            <li><haters>Keep false announcing</haters>, have you running like fountain</li>
-            <li>They ain't amounting to the <money>money I'm counting</money></li>
-            <li><success>In a few years my accountants need accountants</success></li>
-            <li>Uh, everything y'all do is counters to me</li>
-            <li>Stupid nigga kinda seem you were counting on me</li>
-            <li>But I, bet you ain't trying to encounter with me</li>
-            <li>Nuh uh, I'm piranha, you some <food>flounder</food> to me</li>
-            <li>And the word on the grapevine, I'm going up great heights</li>
-            <li>Joey got enough line to capture a great white</li>
-            <li>I get more shine than late night, I'm beast who ain't ate right</li>
-            <li>Back up on my <popculture ref="MojoJojo">mojo, I'll show you what apes
-                    like</popculture></li>
-            <li>Nigga it's JoJo, They on my pogo, no homo</li>
-            <li>I ride the beat like <fashion>the man on my polo</fashion></li>
-            <li><haters>Ya'll some bozos</haters>, I'm underage, but pour more though</li>
-            <li>That Roso got me moving slow-mo</li>
-            <li>I'm taking photos with your <women>ho-ho</women></li>
-            <li><popculture ref="SantaClaus">Chris Cringley</popculture> gifted, I'm ill with the
-                writtens</li>
-            <li>Got my finger to the world, Fuck it a fist then</li>
-            <li>Sit back and look at what you been missin', nigga</li>
+            <li>Everything is done to the <popculture ref="MaxKeeble">Max, no <group label="b" num="3" rhyme="5 6">Keeble</group></popculture></li>
+            <li>Circle tighter than <sports><group label="b" num="4" slantRhyme="5">Speedo</group></sports>, I'm the <popculture ref="DonCheadle">Don like <group label="b" num="5" slantRhyme="4" rhyme="3 6">Cheadle</group></popculture></li>
+            <li>I'm flyer than <group label="b" num="6" rhyme="3 5">eagle</group>, I get the cheeks like pillows</li>
+            <li>Uh, I swear niggas they <group label="b" num="7" rhyme="8 10">bout it</group>, they <group label="b" num="8" rhyme="7 10">bout shit</group></li>
+            <li>You'd be in good shape if you ran like your <group label="b" num="9" slantRhyme="10">mouth did</group></li>
+            <li>Y'all lower than <group label="b" num="10" rhyme="7 8" slantRhyme="9">mouse shit</group>, <weed>I'm higher than <group label="b" num="11" rhyme="13">mountains</group></weed></li>
+            <li><haters>Keep false <group label="b" num="12" rhyme="14 15">announcing</group></haters>, have you running like <group label="b" num="13" rhyme="11">fountain</group></li>
+            <li>They ain't <group label="b" num="14" rhyme="12 15">amounting</group> to the <money>money I'm <group label="b" num="15" rhyme="12 14" consonance="16 17">counting</group></money></li>
+            <li><success>In a few years my <group label="b" num="16" consonance="15 17">accountants</group> need <group label="b" num="17" consonance="15 16">accountants</group></success></li>
+            <li>Uh, everything y'all do is <group label="b" num="18" rhyme="19 20 21">counters to me</group></li>
+            <li>Stupid nigga kinda seem you were <group label="b" num="19" rhyme="18 20 21">counting on me</group></li>
+            <li>But I, bet you ain't trying to <group label="b" num="20" rhyme="18 19 21">encounter with me</group></li>
+            <li>Nuh uh, I'm piranha, you some <food><group label="b" num="21" rhyme="18 19 20">flounder</food> to me</group></li>
+            <li>And the word on the <group label="b" num="22" alliteration="23">grapevine</group>, I'm going up <group label="b" num="23" alliteration="22" rhyme="24 25 26">great heights</group></li>
+            <li>Joey got enough line to capture a <group label="b" num="24" rhyme="23 25 26">great white</group></li>
+            <li>I get more shine than <group label="b" num="25" rhyme="23 24 26">late night</group>, I'm beast who ain't <group label="b" num="26" rhyme="23 24 25" slantRhyme="27">ate right</group></li>
+            <li>Back up on my <popculture ref="MojoJojo">mojo, I'll show you what <group label="b" num="27" slantRhyme="26">apes like</group></popculture></li>
+            <li>Nigga it's <group label="c" num="1" rhyme="2 3 4 5 6 7 8 9 10">JoJo</group>, They on my <group label="c" num="2" rhyme="1 3 4 5 6 7 8 9 10">pogo</group>, no <group label="c" num="3" rhyme="1 2 4 5 6 7 8 9 10">homo</group></li>
+            <li>I ride the beat like <fashion>the man on my <group label="c" num="4" rhyme="1 2 3 5 6 7 8 9 10">polo</group></fashion></li>
+            <li><haters>Ya'll some <group label="c" num="5" rhyme="1 2 3 4 6 7 8 9 10">bozos</group></haters>, I'm underage, but pour more <group label="c" num="6" rhyme="1 2 3 4 5 7 8 9 10">though</group></li>
+            <li>That <alcohol><group label="c" num="7" rhyme="1 2 3 4 5 6 8 9 10">Roso</group></alcohol> got me moving <group label="c" num="8" rhyme="1 2 3 4 5 6 7 9 10">slow-mo</group></li>
+            <li>I'm taking <group label="c" num="9" rhyme="1 2 3 4 5 6 7 8 10">photos</group> with your <women><group label="c" num="10" rhyme="1 2 3 4 5 6 7 8 9">ho-ho</group></women></li>
+            <li><popculture ref="SantaClaus">Chris Cringley</popculture> <group label="c" num="11" slantRhyme="12">gifted</group>, I'm ill with the <group label="c" num="12" rhyme="13">writtens</group></li>
+            <li>Got my finger to the world, Fuck it a <group label="c" num="13" rhyme="12" slantRhyme="14">fist then</group></li>
+            <li>Sit back and look at what you been <group label="c" num="14" slantRhyme="13">missin'</group>, nigga</li>
         </stanza>
     </song>
     <song title="OGKilluminati" production="Knxwledge">
