@@ -132,7 +132,9 @@ div#navbar ul ul li {
     font-family: 'Slabo 27px', serif;
     color: white;
     text-align: center;
-    margin: 0px
+    margin: 0px;
+    text-decoration:none;
+    list-style:none;
 }
 .box {
     padding: 20px;
