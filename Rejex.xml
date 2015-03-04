@@ -236,37 +236,33 @@
     </song>
     <song title="PantiERaid" production="Stuyvesant">
         <stanza speaker="JoeyBada$$" type="verse">
-            <li>Now age ain't nothing but a digit</li>
-            <li>So <women>baby</women> if you're with it, we can kick it</li>
+            <li>Now age ain't nothing but a <group label="a" num="1" rhyme="2 3">digit</group></li>
+            <li>So <women>baby</women> if you're <group label="a" num="2" rhyme="1 3">with it</group>, we can <group label="a" num="3" rhyme="1 2">kick it</group></li>
             <li>And get lifted off the Sour and the <weed>piff</weed></li>
-            <li>And start whispering, and start kissing</li>
-            <li>Your <fashion>red bottoms</fashion> knocking on my
-                    <fashion><sports>Pippens</sports></fashion></li>
-            <li>Tell me if you dig it, so we can get a dick in</li>
-            <li>Life, she be bitching, so get it while you live it</li>
-            <li>And stop fronting, you need to quit it</li>
-            <li>I swear I'mma hit it, I just need you to pitch it</li>
-            <li>So holler if you're with it</li>
-            <li>She tried to play me, She said that I'm only a baby</li>
-            <li>She said she gets crazy, it'll probably amaze me</li>
-            <li>She said that she too much, she don't think that I'm enough</li>
-            <li>I got a smooth style, but she like to do it rough</li>
-            <li>She caught me slippin', I wasn't trippin'</li>
-            <li>Cause it ain't a joke how I be ripping up the kitten</li>
-            <li>I told her listen, Lord knows that I'm a good Christian</li>
-            <li>But we can do it in the tub or we can do it in the kitchen</li>
-            <li>She started gigglin', She thinks I'm kiddin'</li>
-            <li>I was on a mission, blowing double o's, always get the women</li>
-            <li>I know she peep the fits, I told her read my lips</li>
-            <li>Said we can do it like that or like this</li>
+            <li>And start <group label="a" num="4" rhyme="5 6">whispering</group>, and start <group label="a" num="5" rhyme="4 6">kissing</group></li>
+            <li>Your <fashion>red bottoms</fashion> <group label="a" num="6" rhyme="4 5">knocking</group> on my <fashion><sports><group label="a" num="7" rhyme="9">Pippens</group></sports></fashion></li>
+            <li>Tell me if you <group label="a" num="8" rhyme="11 13 14 15 16">dig it</group>, so we can get a <group label="a" num="9" rhyme="7">dick in</group></li>
+            <li>Life, she be <group label="a" num="10" rhyme="12">bitching</group>, so get it while you <group label="a" num="11" rhyme="8 13 14 15 16">live it</group></li>
+            <li>And stop <group label="a" num="12" rhyme="10">fronting</group>, you need to <group label="a" num="13" rhyme="8 11 14 15 16">quit it</group></li>
+            <li>I swear I'mma <group label="a" num="14" rhyme="8 11 13 15 16"><sports>hit it</sports></group>, I just need you to <group label="a" num="15" rhyme="8 11 13 14 16"><sports>pitch it</sports></group></li>
+            <li>So holler if you're <group label="a" num="16" rhyme="8 11 13 14 15">with it</group></li>
+            <li>She tried to <group label="a" num="17" rhyme="18 19 20">play me</group>, She said that I'm only a <group label="a" num="18" rhyme="17 19 20">baby</group></li>
+            <li>She said she gets <group label="a" num="19" rhyme="17 18 20">crazy</group>, it'll probably <group label="a" num="20" rhyme="17 18 19">amaze me</group></li>
+            <li>She said that she too much, she don't think that I'm <group label="b" num="1" rhyme="2">enough</group></li>
+            <li>I got a smooth style, but she like to do it <group label="b" num="2" rhyme="1">rough</group></li>
+            <li>She caught me <group label="b" num="3" rhyme="4 5 6 7 8 9 10 11 12 13">slippin'</group>, I wasn't <group label="b" num="4" rhyme="3 5 6 7 8 9 10 11 12 13">trippin'</group></li>
+            <li>Cause it ain't a joke how I be <group label="b" num="5" rhyme="3 4 6 7 8 9 10 11 12 13">ripping</group> up the <group label="b" num="6" rhyme="3 4 5 7 8 9 10 11 12 13">kitten</group></li>
+            <li>I told her <group label="b" num="7" rhyme="3 4 5 6 8 9 10 11 12 13">listen</group>, Lord knows that I'm a good <group label="b" num="8" rhyme="3 4 5 6 7 9 10 11 12 13">Christian</group></li>
+            <li>But we can do it in the tub or we can do it in the <group label="b" num="9" rhyme="3 4 5 6 7 8 10 11 12 13">kitchen</group></li>
+            <li>She started <group label="b" num="10" rhyme="3 4 5 6 7 8 9 11 12 13">gigglin'</group>, She thinks I'm <group label="b" num="11" rhyme="3 4 5 6 7 8 9 10 12 13">kiddin'</group></li>
+            <li>I was on a <group label="b" num="12" rhyme="3 4 5 6 7 8 9 10 11 13">mission</group>, <weed>blowing double o's</weed>, always get the <group label="b" num="13" rhyme="3 4 5 6 7 8 9 10 11 12">women</group></li>
+            <li>I know she peep the <group label="b" num="14" slantRhyme="15 16">fits</group>, I told her read my <group label="b" num="15" slantRhyme="14 16">lips</group></li>
+            <li>Said we can do it like that or like <group label="b" num="16" slantRhyme="14 15">this</group></li>
             <li>Cut the light switch</li>
-            <li>Close your eyes, let the music intervene</li>
-            <li>We can play some <popculture ref="MarvinGaye">Marvin Gaye</popculture> or a little
-                    <popculture ref="AlGreen">Al Green</popculture></li>
-            <li>We can listen to some <popculture ref="Prince">Prince</popculture> while I kiss up
-                on your lips</li>
-            <li>Or get right with <popculture ref="BettyWright">Betty Wright</popculture>, turn it
-                up, that's my shit</li>
+            <li>Close your eyes, let the music <group label="b" num="17" rhyme="18">intervene</group></li>
+            <li>We can play some <popculture ref="MarvinGaye">Marvin Gaye</popculture> or a little<popculture ref="AlGreen"><group label="b" num="18" rhyme="17">Al Green</group></popculture></li>
+            <li>We can listen to some <popculture ref="Prince"><group label="b" num="19" slantRhyme="20 21">Prince</group></popculture> while I <group label="b" num="20" slantRhyme="19 21">kiss</group> up on your <group label="b" num="21" slantRhyme="19 20">lips</group></li>
+            <li>Or get <group label="b" num="22" rhyme="23">right</group> with <popculture ref="BettyWright">Betty <group label="b" num="23" rhyme="22">Wright</group></popculture>, turn it up, that's my shit</li>
         </stanza>
         <stanza speaker="JoeyBada$$" type="hook">
             <li>This one is a pantie dropper, this shit is a pantie dropper</li>
@@ -285,29 +281,29 @@
     </song>
     <song title="ThatGushy" production="9thWonder">
         <stanza speaker="JoeyBada$$" type="verse">
-            <li>Now you already know why I'm here girl</li>
-            <li>Come here girl, let me lick up in ear girl</li>
-            <li>You say you got a man, well I don't care girl</li>
-            <li>Cause I'm right here, he way over there girl</li>
-            <li>You ain't even got to do shit</li>
-            <li>Two minutes, and already spot your juices</li>
-            <li>And that's just how I do this</li>
-            <li>Sex game stupid, she thought that I was cupid</li>
-            <li>And don't you fight it, I know you know you like it</li>
-            <li>Cause when the light flick, I creep inside your private</li>
-            <li>Talk, <fashion>Victoria's Secret</fashion></li>
+            <li>Now you already know why I'm <group label="a" num="1" rhyme="2">here girl</group></li>
+            <li>Come here girl, let me lick up in <group label="a" num="2" rhyme="1">ear girl</group></li>
+            <li>You say you got a man, well I don't <group label="a" num="3" rhyme="4">care girl</group></li>
+            <li>Cause I'm right here, he way over <group label="a" num="4" rhyme="3">there girl</group></li>
+            <li>You ain't even got to <group label="a" num="5" slantRhyme="7">do shit</group></li>
+            <li>Two minutes, and already spot your <group label="a" num="6" assimilation="7">juices</group></li>
+            <li>And that's just how I <group label="a" num="7" slantRhyme="5" assimilation="6">do this</group></li>
+            <li>Sex game <group label="a" num="8" rhyme="9">stupid</group>, she thought that I was <group label="a" num="9" rhyme="8">cupid</group></li>
+            <li>And don't you <group label="a" num="10" rhyme="11 13 14">fight it</group>, I know you know you <group label="a" num="11" rhyme="10 13 14" assimilation="12">like it</group></li>
+            <li>Cause when the <group label="a" num="12" assimilation="11">light flick</group>, I creep inside your <group label="a" num="13" rhyme="10 11 14">private</group></li>
+            <li>Talk, <fashion><group label="a" num="14" rhyme="10 11 13">Victoria's Secret</group></fashion></li>
             <li>She see the <fashion>Polo draws</fashion>, she start to debriefing</li>
-            <li>She say she want the treatment right</li>
-            <li>I kiss up on her neck and hold the cleavage tight</li>
-            <li>Till it's evening time, we been at it all day</li>
-            <li>If your ex's ain't do it as good, they all gay</li>
-            <li>You can hit me always, I be free and all day</li>
-            <li>Treat that <food>cookie</food> like a rookie, I just want more play</li>
-            <li>Who taught you ? I know it ain't <hiphop ref="KanyeWest">Yeezy</hiphop></li>
-            <li>Ain't trying to say you sleazy but this was too easy</li>
-            <li>He a mogul and I'm a local, but in the bed I really go loco</li>
-            <li>Let's take a photo, put it in slo-mo</li>
-            <li>And come get up on this poco</li>
+            <li>She say she want the <group label="b" num="1" rhyme="2">treatment right</group></li>
+            <li>I kiss up on her neck and hold the <group label="b" num="2" rhyme="1">cleavage tight</group></li>
+            <li>Till it's evening time, we been at it <group label="b" num="3" rhyme="4 5 8">all day</group></li>
+            <li>If your ex's ain't do it as good, they <group label="b" num="4" rhyme="3 5 8">all gay</group></li>
+            <li>You can hit me always, I be free and <group label="b" num="5" rhyme="3 4 8">all day</group></li>
+            <li>Treat that <food><group label="b" num="6" rhyme="7">cookie</group></food> like a <group label="b" num="7" rhyme="6"><sports>rookie</sports></group>, I just want <group label="b" num="8" rhyme="3 4 5">more play</group></li>
+            <li>Who taught you ? I know it ain't <hiphop ref="KanyeWest"><group label="b" num="9" rhyme="10 11">Yeezy</group></hiphop></li>
+            <li>Ain't trying to say you <group label="b" num="10" rhyme="9 11">sleazy</group> but this was too <group label="b" num="11" rhyme="9 10">easy</group></li>
+            <li>He a <group label="b" num="12" rhyme="13">mogul</group> and I'm a <group label="b" num="13" rhyme="12" alliteration="14">local</group>, but in the bed I really go <group label="b" num="14" alliteration="13" rhyme="15 16 17">loco</group></li>
+            <li>Let's take a <group label="b" num="15" rhyme="14 16 17">photo</group>, put it in <group label="b" num="16" rhyme="14 15 17">slo-mo</group></li>
+            <li>And come get up on this <group label="b" num="17" rhyme="14 15 16">poco</group></li>
         </stanza>
         <stanza speaker="JoeyBada$$" type="hook">
             <li>Just give it to me</li>
@@ -323,30 +319,28 @@
         <stanza speaker="JoeyBada$$" type="verse">
             <li>Round 2, say the word if you can't take it</li>
             <li>And I understand you into breaking</li>
-            <li>But no can do</li>
-            <li>Hey I 4x2, now come blow my flute</li>
-            <li>You know you look so cute, when you down there</li>
-            <li>Little to the right, yea around there</li>
-            <li>Perfect, I'm glad we past flirting</li>
-            <li>Before you wasn't certain when I was lifting up your skirt and</li>
-            <li>But now you squirting, at the same time I'm bursting</li>
-            <li>You look good on <popculture ref="Twitter">Twitter</popculture> but even better in
-                person</li>
-            <li>I wanna take the time out to say that it was worth it</li>
-            <li>Your trip from <geo ref="NewYork">NYC</geo> to out here in <geo ref="Boston"
-                    >Burston, I mean Boston</geo></li>
-            <li>I'm a <fashion>MAC</fashion> like your lip gloss is</li>
-            <li>Girl you so fine I wonder what the cost is</li>
-            <li>A Dime ? I'd give that ass <hiphop ref="LilWayne">a Milli</hiphop></li>
-            <li>Coochie got the power, neutrons on my jimmy</li>
-            <li>Know you thought I was a kiddy and know that I wouldn't last</li>
-            <li>You'd thought it be a quickie, you probably even laughed, well</li>
-            <li>I bet you regret that you said it</li>
-            <li>I can tell I'm the bestest by how wet your bed is</li>
-            <li>She told me "Shut Up" and just let it ride</li>
-            <li>I'm like girl that shit fat how much you let it slide?</li>
-            <li>She sighed and replied "It was only like 5"</li>
-            <li>I'm like "Fuck it, girl just close your eyes" and</li>
+            <li>But no can <group label="c" num="1" rhyme="2">do</group></li>
+            <li>Hey I <group label="c" num="2" rhyme="1">4x2</group>, now come blow my <group label="c" num="3" rhyme="4">flute</group></li>
+            <li>You know you look so <group label="c" num="4" rhyme="3">cute</group>, when you <group label="c" num="5" rhyme="6">down there</group></li>
+            <li>Little to the right, yea <group label="c" num="6" rhyme="5">around there</group></li>
+            <li><group label="c" num="7" slantRhyme="9">Perfect</group>, I'm glad we past <group label="c" num="8" rhyme="10">flirting</group></li>
+            <li>Before you wasn't <group label="c" num="9" slantRhyme="7">certain</group> when I was <group label="c" num="10" rhyme="8">lifting</group> up your <group label="c" num="11" assonance="12">skirt</group> and</li>
+            <li>But now you <group label="c" num="12" assonance="11" rhyme="13">squirting</group>, at the same time I'm <group label="c" num="13" rhyme="12">bursting</group></li>
+            <li>You look good on <popculture ref="Twitter"><group label="c" num="14" rhyme="15">Twitter</group></popculture> but even <group label="c" num="15" rhyme="14">better</group> in person</li>
+            <li>I wanna take the time out to say that it was <group label="c" num="16" slantRhyme="17">worth it</group></li>
+            <li>Your trip from <geo ref="NewYork">NYC</geo> to out here in <geo ref="Boston"><group label="c" num="17" slantRhyme="16">Burston</group>, I mean Boston</geo></li>
+            <li>I'm a <fashion>MAC</fashion> like your lip <group label="c" num="18" rhyme="19">gloss is</group></li>
+            <li>Girl you so fine I wonder what the <group label="c" num="19" rhyme="18">cost is</group></li>
+            <li>A Dime ? I'd give that ass <hiphop ref="LilWayne">a <group label="d" num="1" rhyme="2 3 4 6 7">Milli</group></hiphop></li>
+            <li><group label="d" num="2" rhyme="1 3 4 6 7">Coochie</group> got the power, <popculture ref="JimmyNeutron">neutrons on my <group label="d" num="3" rhyme="1 2 4 6 7">jimmy</popculture></group></li>
+            <li>Know you thought I was a <group label="d" num="4" rhyme="1 2 3 6 7">kiddy</group> and know that I wouldn't <group label="d" num="5" assimilation="8">last</group></li>
+            <li>You'd thought it be a <group label="d" num="6" rhyme="1 2 3 4 7">quickie</group>, you <group label="d" num="7" rhyme="1 2 3 4 6">probably</group> even <group label="d" num="8" assimilation="5">laughed</group>, well</li>
+            <li>I <group label="d" num="9" rhyme="10">bet</group> you <group label="d" num="10" rhyme="9">regret</group> that you <group label="d" num="11" slantRhyme="12">said it</group></li>
+            <li>I can tell I'm the <group label="d" num="12" slantRhyme="11" assimilation="13">bestest</group> by how wet your <group label="d" num="13" assimilation="12">bed is</group></li>
+            <li>She told me "Shut Up" and just let it <group label="d" num="14" rhyme="15 16 17">ride</group></li>
+            <li>I'm like girl that shit fat how much you let it <group label="d" num="15" rhyme="14 16 17">slide</group>?</li>
+            <li>She <group label="d" num="16" rhyme="14 15 16">sighed</group> and <group label="d" num="17" rhyme="14 15 16">replied</group> "It was only like <group label="d" num="18" slantRhyme="19">5</group>"</li>
+            <li>I'm like "Fuck it, girl just close your <group label="d" num="19" slantRhyme="18">eyes</group>" and</li>
         </stanza>
         <stanza speaker="JoeyBada$$" type="hook">
             <li>Just give it to me</li>
@@ -366,33 +360,30 @@
             <li>Yo, <hiphop ref="NickiMinaj">Nicki</hiphop> can't even rap</li>
         </stanza>
         <stanza speaker="JoeyBada$$" type="verse">
-            <li>You could catch me on the <popculture ref="Kawasaki">Kawasaki</popculture>, evadin'
-                paparazzi</li>
-            <li>I was spotted with a <women>hotty</women>, gettin' blumpkin in a porter-potty</li>
-            <li>Feelin' like the man, but nose still snotty</li>
-            <li>And she knows I got <women>hoes</women>, but still want me to body (the kitty)</li>
-            <li>I'm not kiddin', nor am I lyin'</li>
-            <li>Should've known I'd be achieving 'til I'm dyin'</li>
-            <li>You know I'm not buyin' shit, keep supplyin' dick</li>
-            <li>Quit all that cryin' shit, and stop denyin' it</li>
-            <li>She like, "I usually don't do this"</li>
-            <li>I said, "You're foolish, I heard you did it to like half of the students"</li>
-            <li>I checked her quick, I threw her down, she <sports>intercepted</sports> it</li>
-            <li>And I ejected it, she swallowed and digested it. I jetted quick</li>
-            <li>No time for a marriage, baby in a carriage</li>
-            <li>I'm all about my <food><money>cabbage</money></food>, something like a rabbit</li>
-            <li>I'm trying to feed my ear a few carats but they ain't tryin' have it</li>
-            <li>They rather, see me die before they see me fly</li>
-            <li>With <fashion>Diamond Supply</fashion> fly and the <fashion>jeans blue
-                dye</fashion></li>
-            <li>That's over heads like rainbows</li>
-            <li>We ain't no hoes, you dodo birds, 4-0 verbs, you porno nerds</li>
-            <li>I got my own religion so fuck what your pastor sayin'</li>
-            <li>Hard shit up in your hands like you're masturbatin</li>
-            <li>It's the pre-ejaculation squad, we be raping ya'll, duct-taping then taping
-                ya'll</li>
-            <li>Just for evidence, send it to your residence</li>
-            <li>A bunch of fucking rebelists who never learned they etiquette</li>
+            <li>You could catch me on the <popculture ref="Kawasaki"><group label="a" num="1" rhyme="2 3 4 5 8">Kawasaki</group></popculture>, evadin' <group label="a" num="2" rhyme="1 3 4 5 8">paparazzi</group></li>
+            <li>I was spotted with a <women><group label="a" num="3" rhyme="1 2 4 5 8">hotty</group></women>, gettin' blumpkin in a porter-<group label="a" num="4" rhyme="1 2 3 5 8">potty</group></li>
+            <li>Feelin' like the man, but nose still <group label="a" num="5" rhyme="1 2 3 4 8">snotty</group></li>
+            <li>And she <group label="a" num="6" rhyme="7">knows</group> I got <women><group label="a" num="7" rhyme="6">hoes</group></women>, but still want me to <group label="a" num="8" rhyme="1 2 3 4 5">body</group> (the kitty)</li>
+            <li>I'm not kiddin', nor am I <group label="a" num="9" rhyme="10">lyin'</group></li>
+            <li>Should've known I'd be achieving 'til I'm <group label="a" num="10" rhyme="9">dyin'</group></li>
+            <li>You know I'm not <group label="a" num="11" rhyme="13 14" slantRhyme="12">buyin' shit</group>, keep <group label="a" num="12" slantRhyme="11">supplyin' dick</group></li>
+            <li>Quit all that <group label="a" num="13" rhyme="11 14">cryin' shit</group>, and stop <group label="a" num="14" rhyme="11 13">denyin' it</group></li>
+            <li>She like, "I usually don't <group label="a" num="15" assimilation="16">do this</group>"</li>
+            <li>I said, "You're <group label="a" num="16" assimilation="15">foolish</group>, I heard you did it to like half of the students"</li>
+            <li>I checked her quick, I threw her down, she <sports><group label="b" num="1" rhyme="2 3">intercepted</sports> it</group></li>
+            <li>And I <group label="b" num="2" rhyme="1 3">ejected it</group>, she swallowed and <group label="b" num="3" rhyme="1 2" slantRhyme="4">digested it</group>. I <group label="b" num="4" slantRhyme="3">jetted quick</group></li>
+            <li>No time for a <group label="b" num="5" rhyme="6">marriage</group>, baby in a <group label="b" num="6" rhyme="5">carriage</group></li>
+            <li>I'm all about my <food><money><group label="b" num="7" assonance="8">cabbage</group></money></food>, something like a <group label="b" num="8" assonance="7" rhyme="9">rabbit</group></li>
+            <li>I'm trying to feed my ear a few carats but they ain't tryin' <group label="b" num="9" rhyme="8">have it</group></li>
+            <li>They rather, see me <group label="b" num="10" assimilation="13"><group label="b" num="11" rhyme="12 14">die</group> before they see me <group label="b" num="12" rhyme="11 14">fly</group></group></li>
+            <li>With <fashion><group label="b" num="13" assimilation="10">Diamond Supply</fashion> fly</group> and the <fashion>jeans blue <group label="b" num="14" rhyme="11 12">dye</group></fashion></li>
+            <li>That's over heads like <group label="c" num="1" rhyme="2">rainbows</group></li>
+            <li>We ain't no <group label="c" num="2" rhyme="1">hoes</group>, you <group label="c" num="3" slantRhyme="4 5">dodo birds</group>, <group label="c" num="4" slantRhyme="3 5">4-0 verbs</group>, you <group label="c" num="5" slantRhyme="3 4">porno nerds</group></li>
+            <li>I got my own religion so fuck what your <group label="c" num="6" rhyme="7">pastor sayin'</group></li>
+            <li>Hard shit up in your hands like you're <group label="c" num="7" rhyme="6" slantRhyme="8">masturbatin</group></li>
+            <li>It's the pre-<group label="c" num="8" slantRhyme="7">ejaculation</group> squad, we be <group label="c" num="9" rhyme="10 11">raping</group> ya'll, <group label="c" num="10" rhyme="9 11">duct-taping</group> then <group label="c" num="11" rhyme="9 10">taping</group> ya'll</li>
+            <li>Just for <group label="c" num="12" rhyme="13">evidence</group>, send it to your <group label="c" num="13" rhyme="12">residence</group></li>
+            <li>A bunch of fucking <group label="c" num="14" slantRhyme="15">rebelists</group> who never learned they <group label="c" num="15" slantRhyme="14">etiquette</group></li>
             <li>Bitch</li>
         </stanza>
     </song>
