@@ -16,34 +16,22 @@
             <li><weed>Pass the herbs, pass the herbs</weed></li>
         </stanza>
         <stanza speaker="JoeyBada$$" type="verse">
-            <li><oldschool>It's been a <group label="a" num="1" rhyme="6" slantRhyme="5">minute</group></oldschool> <group label="a" num="2" alliteration="3 4">since</group> they <group label="a" num="3" alliteration="2 4">seen</group> a <group label="a" num="4" alliteration="2 3">style</group> with no
-                <group label="a" num="5" slantRhyme="1">gimmicks</group></li>
-            <li><success>Clouds'll stay <group label="a" num="6" rhyme="1">limits</group></success><weed> cuz we in em'</weed></li>
-            <li><weed>Eyes low, <group label="a" num="7" rhyme="8">squinting</group>, more L's</weed>
-                <success>but we <group label="a" num="8" rhyme="7">winning</group></success></li>
-            <li><women>Acting like it's <group label="a" num="9" assimilation="10">hard to find women</group></women> when I'm <fashion>in these <group label="a" num="10" assimilation="9">hard
-                    to find linens</group></fashion></li>
-            <li><struggle>Remember those days it was hard to find <money>a
-                living</money></struggle></li>
-            <li><success>But now we got ends</success> and <success>its only the
-                <group label="a" num="11" slantRhyme="12">beginning</group></success></li>
-            <li><hiphop ref="Jay-Z">Big <group label="a" num="12" slantRhyme="11">pimpin'</group></hiphop>, <women>foolin' dimes</women>
-                <struggle>rob em' for they innocence</struggle></li>
-            <li><food><money>Cake</money> like <group label="a" num="13" rhyme="14">Entenmann's</group></food>, <food>flow sweet like
-                    <group label="a" num="14" rhyme="13">cinnamon</group></food></li>
-            <li>He a child but they treat him like the <group label="a" num="15" rhyme="16">bigger man</group></li>
-            <li>Cuz when the pen in his hand they big him up like he <hiphop ref="Jay-Z"><group label="a" num="16" rhyme="15">Jigga
-                    Man</group></hiphop></li>
-            <li>Know you see em' in the mirror <group label="a" num="17" rhyme="18">fam</group></li>
-            <li><haters>The ones who say you ain't hot be your biggest fan</haters>, like nigga
-                <group label="a" num="18" rhyme="17">damn</group></li>
-            <li>Before he got popular he been da' <group label="a" num="19" rhyme="20">man</group></li>
-            <li><women>With yo' chick</women>, in the <group label="a" num="20" rhyme="19">can</group>, rollin' thru an <popculture
-                    ref="Instagram">instant <group label="a" num="21" alliteration="22">gram</group></popculture></li>
-            <li><money>Got a whiff a' <group label="a" num="22" rhyme="21">grands</group></money>
-                <success>now everybody say they distant <group label="a" num="23" rhyme="24">fam</group></success></li>
-            <li><success>Know the haters still <food>jelly</food></success> but fuck it though, it's
-                the <food><group label="a" num="24" rhyme="23">jam</group></food>...</li>
+            <li><oldschool>It's been a minute</oldschool> since they seen a style with no gimmicks</li>
+            <li><success>Clouds'll stay limits</success><weed> cuz we in em'</weed></li>
+            <li><weed>Eyes low, squinting, more L's</weed> <success>but we winning</success></li>
+            <li><women>Acting like it's hard to find women </women> when I'm <fashion>in these hard to find linens</fashion></li>
+            <li><struggle>Remember those days it was hard to find <money>a living</money></struggle></li>
+            <li><success>But now we got ends</success> and <success>its only the beginning</success></li>
+            <li><hiphop ref="Jay-Z">Big pimpin'</hiphop>, <women>foolin' dimes</women> <struggle>rob em' for they innocence</struggle></li>
+            <li><food><money>Cake</money> like Entenmann's </food>, <food>flow sweet like cinnamon</food></li>
+            <li>He a child but they treat him like the bigger man</li>
+            <li>Cuz when the pen in his hand they big him up like he <hiphop ref="Jay-Z">Jigga Man</hiphop></li>
+            <li>Know you see em' in the mirror fam</li>
+            <li><haters>The ones who say you ain't hot be your biggest fan</haters>, like nigga damn</li>
+            <li>Before he got popular he been da' man</li>
+            <li><women>With yo' chick</women>, in the can, rollin' thru an <popculture ref="Instagram">instant gram</popculture></li>
+            <li><money>Got a whiff a' grands</money> <success>now everybody say they distant fam</success></li>
+            <li><success>Know the haters still <food>jelly</food></success> but fuck it though, it's the <food>jam</food>...</li>
         </stanza>
     </song>
     <song title="BloomingBlossoms(FlowersPt.1)" production="Madlib">
@@ -392,28 +380,28 @@
             <li><popculture ref="StarWars">The force will be with you....always</popculture></li>
         </stanza>
         <stanza speaker="JoeyBada$$" type="hook">
-            <li><women>She</women> left and broke my heart like twice</li>
+            <li><women>She</women> left and broke my heart like <group label="a" num="1" slantRhyme="2">twice</group></li>
             <li>(twice twice twice twice)</li>
-            <li>Now everything is dark and it's fucking up my life</li>
+            <li>Now everything is dark and it's fucking up my <group label="a" num="2" slantRhyme="1">life</group></li>
             <li>(life life life)</li>
-            <li>And I just wanna make it right</li>
+            <li>And I just wanna make it <group label="a" num="3" rhyme="4">right</group></li>
             <li>(right right right)</li>
-            <li>But I won't make it through the night</li>
+            <li>But I won't make it through the <group label="a" num="4" rhyme="3">night</group></li>
             <li>(night night night)</li>
         </stanza>
         <stanza speaker="JoeyBada$$" type="verse">
-            <li><struggle>Cause suicide is painless, so I'm about to aim this</struggle></li>
+            <li><struggle>Cause suicide is <group label="b" num="1" rhyme="2">painless</group>, so I'm about to <group label="b" num="2" rhyme="1">aim this</group></struggle></li>
             <li><guns>Weapon of steel</guns> right to my brain and just bang it</li>
-            <li><guns>32 in the clip but one is in the chamber</guns></li>
-            <li><guns>Click clack</guns>, hope it freeze me from my anger</li>
-            <li>If you don't plan on staying, I'm saying</li>
-            <li>I'm better off just laying</li>
-            <li>Six feet deep underneath the fucking pavement</li>
-            <li>At least you work the grave-shift for treating me like ape shit</li>
+            <li><guns>32 in the clip but one is in the <group label="b" num="3" rhyme="4">chamber</group></guns></li>
+            <li><guns>Click clack</guns>, hope it freeze me from my <group label="b" num="4" rhyme="3">anger</group></li>
+            <li>If you don't plan on <group label="b" num="5" rhyme="6 7">staying</group>, I'm <group label="b" num="6" rhyme="5 7">saying</group></li>
+            <li>I'm better off just <group label="b" num="7" rhyme="5 6">laying</group></li>
+            <li>Six feet deep underneath the fucking <group label="b" num="8" slantRhyme="9 10">pavement</group></li>
+            <li>At least you work the <group label="b" num="9" slantRhyme="8 10">grave-shift</group> for treating me like <group label="b" num="10" slantRhyme="8 9">ape shit</group></li>
             <li>I even wrote you love songs but <money>money</money> was your language</li>
             <li>Just look at all the damage that you did</li>
-            <li>Chuckin' up the deuces to the suicidal vital motherfucking nuisance</li>
-            <li>I knew it, and now I'm about to lose it</li>
+            <li>Chuckin' up the <group label="b" num="11" assonance="12 13">deuces</group> to the <group label="b" num="12" assonance="11 13">suicidal</group> vital motherfucking <group label="b" num="13" assonance="11 12">nuisance</group></li>
+            <li>I <group label="b" num="14" rhyme="15">knew it</group>, and now I'm about to <group label="b" num="15" rhyme="14">lose it</group></li>
             <li>Blood splatter on the wall recognize what you did</li>
         </stanza>
         <stanza speaker="JoeyBada$$" type="hook">
@@ -427,20 +415,19 @@
             <li>(night night night)</li>
         </stanza>
         <stanza speaker="JoeyBada$$" type="verse">
-            <li>I mean I just don't understand</li>
-            <li>Thought I was the better man</li>
-            <li>And we had a fucking plan just to make it all work out</li>
-            <li>Turned out, you not the one for me and it wasn't meant to be</li>
-            <li>But I still can't see, need to face reality</li>
-            <li>Cause you're everything I wanted, a <women>goddess</women></li>
-            <li>I said that on your behalf just trying to be modest</li>
-            <li>To be honest, but if I can't have you nobody can</li>
-            <li>Let me see you with another man and it's done for him</li>
-            <li>Call me fucking crazy but baby</li>
-            <li>How you gon' play me? I mean, have you seen me lately?</li>
-            <li>Went from elated to a <popculture ref="PatrickSwayze">swayze,
-                ghostin'</popculture></li>
-            <li>Taking my life the only escape from you potion</li>
+            <li>I mean I just don't <group label="c" num="1" slantRhyme="2">understand</group></li>
+            <li>Thought I was the <group label="c" num="2" slantRhyme="1" rhyme="3">better man</group></li>
+            <li>And we had a <group label="c" num="3" rhyme="2">fucking plan</group> just to make it all <group label="c" num="4" rhyme="5">work out</group></li>
+            <li><group label="c" num="5" rhyme="4">Turned out</group>, you not the <group label="c" num="6" rhyme="7 8 9">one for me</group> and it wasn't <group label="c" num="7" rhyme="6 8 9">meant to be</group></li>
+            <li>But I still <group label="c" num="8" rhyme="6 7 9">can't see</group>, need to <group label="c" num="9" rhyme="6 7 8">face reality</group></li>
+            <li>Cause you're everything I wanted, a <women><group label="c" num="10" slantRhyme="11">goddess</group></women></li>
+            <li>I said that on your behalf just trying to be <group label="c" num="11" slantRhyme="10" rhyme="12">modest</group></li>
+            <li>To be <group label="c" num="12" rhyme="11">honest</group>, but if I can't have you <group label="c" num="13" rhyme="14">nobody can</group></li>
+            <li>Let me see you with <group label="c" num="14" rhyme="13">another man</group> and it's done for him</li>
+            <li>Call me fucking <group label="c" num="15" rhyme="16 17 18 20">crazy</group> but <group label="c" num="16" rhyme="15 17 18 20">baby</group></li>
+            <li>How you gon' <group label="c" num="17" rhyme="15 16 18 20">play me</group>? I mean, have you seen me <group label="c" num="18" rhyme="15 16 17 20">lately</group>?</li>
+            <li>Went from <group label="c" num="19" rhyme="22">elated to</group> a <popculture ref="PatrickSwayze"><group label="c" num="20" rhyme="15 16 17 18">swayze</group>, <group label="c" num="21" rhyme="23">ghostin'</group></popculture></li>
+            <li>Taking my life the only <group label="c" num="22" rhyme="19">escape from you</group> <group label="c" num="23" rhyme="21">potion</group></li>
         </stanza>
         <stanza speaker="JoeyBada$$" type="hook">
             <li><women>She</women> left and broke my heart like twice</li>
@@ -453,19 +440,19 @@
             <li>(night night night)</li>
         </stanza>
         <stanza speaker="JoeyBada$$" type="verse">
-            <li>Cause homicide is painful, bitch you should be thankful</li>
-            <li>I turned that fucking anal licking nigga into an angel</li>
-            <li>Fuck you mad at me for? Because I put the C4 in the car</li>
-            <li>And blew that motherfucker up, swerving off the Detour</li>
-            <li>Well hee haw, boo hoo; Now it's just we two</li>
-            <li>What you propose that we do?</li>
-            <li>(You hate me bitch?) Well me too</li>
-            <li>You turned me to a reject, dejected</li>
-            <li>But that presidental keeps me free stressing, I should be elected</li>
-            <li>I bet I'll win but I'm lost without you</li>
-            <li>Me minus her wonder what I'd amount to</li>
-            <li>Perhaps the suicidal bridal nigga I am currently</li>
-            <li>She ain't with my loving, she just only wanted <money>currency</money></li>
+            <li>Cause homicide is <group label="d" num="1" rhyme="2 3 4">painful</group>, bitch you should be <group label="d" num="2" rhyme="1 3 4">thankful</group></li>
+            <li>I turned that fucking <group label="d" num="3" rhyme="1 2 4">anal</group> licking nigga into an <group label="d" num="4" rhyme="1 2 3">angel</group></li>
+            <li>Fuck you mad at me <group label="d" num="5" rhyme="6 7">for</group>? Because I put the <group label="d" num="6" rhyme="5 7">C4</group> in the car</li>
+            <li>And blew that motherfucker up, swerving off the <group label="d" num="7" rhyme="5 6">Detour</group></li>
+            <li>Well <group label="d" num="8" rhyme="9 10 11">hee haw, boo hoo</group>; Now it's just <group label="d" num="9" rhyme="8 10 11">we two</group></li>
+            <li>What you propose that <group label="d" num="10" rhyme="8 9 11">we do</group>?</li>
+            <li>(You hate me bitch?) Well <group label="d" num="11" rhyme="8 9 10">me too</group></li>
+            <li>You turned me to a <group label="d" num="12" slantRhyme="13">reject</group>, <group label="d" num="13" slantRhyme="12">dejected</group></li>
+            <li>But that <group label="d" num="14" assonance="15 16">presidental</group> keeps me free <group label="d" num="15" assonance="14 16">stressing</group>, I should be <group label="d" num="16" assonance="14 15">elected</group></li>
+            <li>I bet I'll win but I'm lost <group label="d" num="17" rhyme="18">without you</group></li>
+            <li>Me minus her wonder what I'd <group label="d" num="18" rhyme="17">amount to</group></li>
+            <li>Perhaps the <group label="d" num="19" rhyme="20">suicidal</group> <group label="d" num="20" rhyme="19">bridal</group> nigga I am <group label="d" num="21" rhyme="22">currently</group></li>
+            <li>She ain't with my loving, she just only wanted <money><group label="d" num="22" rhyme="21">currency</group></money></li>
         </stanza>
         <stanza speaker="JoeyBada$$" type="hook">
             <li><women>She</women> left and broke my heart like twice</li>
@@ -481,31 +468,23 @@
     <song title="Oh,Deer(BeddarDaze)" production="MFDoom">
         <stanza speaker="JoeyBada$$" type="verse">
             <li>I see you sitting on the top, in your better phase</li>
-            <li>Say, <success>how it feel it feel to be the best</success> and <money>the most
-                    paid</money>?</li>
+            <li>Say, <success>how it feel it feel to be the best</success> and <money>the most paid</money>?</li>
             <li>How it feel to be the <success>most praised</success>?</li>
             <li>Known to blow the most <weed>Haze</weed></li>
             <li>Known to have <women>chicks</women> who go both ways and still down to blow J</li>
-            <li>Remember from <struggle>rags</struggle> to <success>riches</success>, being mad
-                ambitious</li>
+            <li>Remember from <struggle>rags</struggle> to <success>riches</success>, being mad ambitious</li>
             <li>Screaming "Fuck love" cause you was always mad at <women>bitches</women></li>
             <li>When getting <money>money</money> was the fucking motto</li>
-            <li>From the <geo ref="NewYork">place</geo> they put <food>potatoes</food> on their
-                    <guns>nozzles just to silence hollows</guns></li>
-            <li>Shit, you probably went passed that, probably still <weed>chiefing
-                blunts</weed></li>
+            <li>From the <geo ref="NewYork">place</geo> they put <food>potatoes</food> on their <guns>nozzles just to silence hollows</guns></li>
+            <li>Shit, you probably went passed that, probably still <weed>chiefing blunts</weed></li>
             <li>As a matter of fact, you probably don't even pass that</li>
             <li>You probably in the back of a black bach, splitting down the <weed>dutch</weed></li>
             <li>With a <women>dime chick</women> in the tail flap, but her head is up</li>
             <li>I see where the <women>hoes</women> at, but where the bros at?</li>
-            <li>Call Shay and Power, hey, where's your <popculture ref="iPhone">iPhone
-                    44</popculture> at?</li>
-            <li>Or did you end up like most cats who split a lot of
-                    <food><money>cheese</money></food> together?</li>
-            <li>The more <food><money>cheddar</money></food>, the more better, ya'll won't be
-                friends forever</li>
-            <li>And I know it's probably <hiphop ref="Fugees">killing you softly</hiphop>, pardon
-                me</li>
+            <li>Call Shay and Power, hey, where's your <popculture ref="iPhone">iPhone 44</popculture> at?</li>
+            <li>Or did you end up like most cats who split a lot of <food><money>cheese</money></food> together?</li>
+            <li>The more <food><money>cheddar</money></food>, the more better, ya'll won't be friends forever</li>
+            <li>And I know it's probably <hiphop ref="Fugees">killing you softly</hiphop>, pardon me</li>
             <li>Thinking you can handle all of your problems costly</li>
             <li>No matter what the cost be, you're quick to try and buy it off</li>
             <li><success>Everything is win-win</success>, you know you can't afford a loss</li>
@@ -515,8 +494,7 @@
             <li>Shit, you learned to trick <women>broads</women> when your dick got hard</li>
             <li>And if you can do that, ain't shit should be stopping you</li>
             <li>Anything is possible and any obstacle should be hoppable</li>
-            <li>And <success>now you living where it's tropical, you got the most
-                shade</success></li>
+            <li>And <success>now you living where it's tropical, you got the most shade</success></li>
             <li>A letter to my future, sincerely, your broke days</li>
             <li><struggle>Motherfuck them broke days</struggle></li>
             <li>Most praise to the motherfucking <success>most paid</success></li>
