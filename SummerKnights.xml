@@ -824,11 +824,11 @@
             </li>
             <li> Pop up and poop out something like intestine</li>
             <li> No corrections cause the mic been checked in</li>
-            <li> The only time he be asking is when he sexing</li>
+            <li> The only time <AAVE field="syn" type="aspect" tense="progressive">he be asking</AAVE> is when he <AAVE type="deletion" field="syn" class="copula"/>sexing</li>
             <li> My team like <popculture ref="TMNT">Teenage Mutants</popculture> and <popculture
                     ref="X-Men">X-Men</popculture></li>
-            <li> Fire spark when I step in</li>
-            <li> He the <popculture ref="FantasticFour">Human Torch</popculture></li>
+            <li> Fire <AAVE field="syn" type="tense" person="third">spark</AAVE> when I step in</li>
+            <li> He <AAVE type="deletion" field="syn" class="copula"/>the <popculture ref="FantasticFour">Human Torch</popculture></li>
             <li>
                 <weed>Inhaling fumes</weed> of all sorts of course</li>
             <li>
@@ -853,8 +853,8 @@
             <li> Yo, I'm trying to <popculture ref="Oprah">Oprah</popculture> win-win with a
                     <weed>L</weed> in my hand</li>
             <li> Remotely passed off like the generous man</li>
-            <li> And they wonder what it cost to put the pen in my hand</li>
-            <li> But don't understand they the only one who gets the benefit, damn</li>
+            <li> And they wonder what it <AAVE type="tense" field="syn" person="third">cost</AAVE> to put the pen in my hand</li>
+            <li> But don't understand they <AAVE type="deletion" field="syn" class="copula"/>the only one who gets the benefit, damn</li>
             <li> Sometimes I just sit and pray</li>
             <li> They couldn't walk this way in my <fashion>J's</fashion></li>
             <li> It wouldn't feel despair, but disarray</li>
@@ -864,7 +864,7 @@
             <li> Covered with <fashion>Ray-Bans</fashion>, I call it my eyes closed, and I
                 know!</li>
             <li> Even through shades of black</li>
-            <li> I see brighter days looking back in fact</li>
+            <li> I see brighter days <AAVE type="deletion" field="syn" class="copula"/>looking back in fact</li>
             <li> So I relax my mind, see what these tracks can find</li>
             <li> A gold mine that will make me rich in both dimes in mine</li>
             <li> Gotta make it all mine if you don't mind</li>
@@ -884,12 +884,12 @@
             <li> Lives the vicious ways where they spit and spray</li>
             <li> Vicious trey's coming for the ice you kept in yesterday</li>
             <li> It's nothing but the history</li>
-            <li> Protecting ya' from being history</li>
+            <li> Protecting ya from being history</li>
             <li> And then the next day your face is just a mystery</li>
             <li>
-                <haters>For niggas who really <AAVE type="contraction" field="phon" word1="is" word2="not">ain't</AAVE> feeling me are all my fucking
+                <haters>For niggas who really <AAVE type="contraction" field="phon" word1="are" word2="not">ain't</AAVE> feeling me are all my fucking
                 enemies</haters></li>
-            <li> Even the lightest hours requires <guns>heavy artillery</guns></li>
+            <li> Even the lightest hours require <guns>heavy artillery</guns></li>
             <li> Accelerate without the breaks of a break</li>
             <li> And still I'm not eating up to now and there's a lot on my plate</li>
             <li> All in a day's work of God and his grace</li>
