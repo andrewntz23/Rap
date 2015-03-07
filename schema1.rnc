@@ -289,7 +289,9 @@ ref =
              | "McDonalds"
              | "Hansen"
              | "CharlesManson"
-             | "Louisiana")+
+             | "Louisiana"
+             | "JamesBond"
+             | "JimmyNeutron")+
         }
     }
 popculture =
