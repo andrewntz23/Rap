@@ -1,66 +1,380 @@
 start = album
-album = element album {type, meta, song+}
-meta = element meta {albumTitle, source, year, accessDate}
-albumTitle = element albumTitle {"1999"|"B4.DA.$$"|"SummerKnights"|"Rejex"}
-source = element source {text}
-year = element year {text}
-accessDate = element accessDate {text}
-song = element song {title, production, stanza+}
-title = attribute title {text}
-feature = attribute feature {text}
-production = attribute production {text}
-stanza = element stanza {type, speaker, li+}
-speaker = attribute speaker {"2pac" |  "ALa$ole" |  "ActionBronson" |  "CJFly" |  "CapitalSTEEZ" |  "Chronixx" |  "ChuckStrangers" |  "CollieBuddz" |  "DessyHinds" |  "DirtySanchez" |  "DyemondLewis" |  "ElleVarner" |  "JoeyBada$$ BJtheChicagoKid"  |"JoeyBada$$ KirkKnight"|"JoeyBada$$ CJFly"|  "JoeyBada$$" |  "Kieza" |  "KirkKnight" |  "MaverickSabre" |  "NYCkCaution" |  "Nas Youngster" |  "NyckCaution" |  "Pinky JoeyBada$$" |  "ProEra" |  "Raury" |  "Rokamouth" |  "Sample" |  "SaulWilliams" |  "SmokeDZA" |  "T'nahApex" |"Unknown"|  "Unknown CapitalSTEEZ"}
-type = attribute type {"album"|"mixtape"|"verse"|"intro"|"bridge"|"hook"|"skit"|"interlude"|"outro"|"sample"|"deletion"|"contraction"|"tense"|"aspect"|"dropping"|"exo"|"endo"|"negative"}
-li = element li {mixed{markup*}}
-markup = (oldschool|success|women|fashion|struggle|food|money|alcohol|hiphop|haters|guns|popculture|weed|sports|geo|group|AAVE|compound)
-oldschool = element oldschool {mixed {markup*}}
-success = element success {mixed {markup*}}
-women = element women {mixed{markup*}} 
-fashion = element fashion {mixed {markup*}}
-struggle = element struggle {mixed{markup*}}
-food = element food {mixed{markup*}}
-alcohol = element alcohol {mixed{markup*}}
-money = element money {mixed{markup*}}
-haters = element haters {mixed{markup*}}
-guns = element guns {mixed{markup*}}
-weed = element weed {mixed{markup*}}
-sports = element sports {mixed{markup*}}
-hiphop = element hiphop {mixed{ref, markup*}}
-ref = attribute ref {list{("Jay-Z"|"LilWayne"|"LordFinnesse"|"MichaelJackson"|"BonnieandClyde"|"LupeFiasco"|"Tupac"|"Diddy"|"NotoriousBIG"|"50Cent"|"Jay-Z KanyeWest"|"KanyeWest"|"NickiMinaj"|"JDilla"|"DragonBallZ"|"Batman"|"MurderSheWrote"|"DonCheadle"|"MaxKeeble"|"MojoJojo"|"Brooklyn"|"NewYork"|"NewMexico"|"Spain"|"EastCoast"|"Boston"|"Instagram"|"Facebook"|"Twitter"|"Pokemon"|"ShamWoW"|"NikeSB"|"Nike"|"PinkyandtheBrain"|"Egypt"|"KwonSwank"|"EvelKnievel"|"Coachella"|"Interscope"|"HilarySwank"|"Budweiser"|"Newports"|"Audi"|"Cadillac"|"RangeRover"|"TheMatrix"|"HarryPotter"|"DaVinci"|"Lexus"|"SaksFifthAve"|"Superman"|"TMNT"|"X-Men"|"FantasticFour"|"Oprah"|"Scarface"|"Porsche"|"JimmyFallon"|"ProEra"|"Eminem"|"GrandmasterFlash"|"FunkFlex"|"Akon"|"ChiefKeef"|"JoeyBada$$"|"SmokeDZA"|"BrandNubians"|"StatikSelektah"|"CapitalSteez"|"RickRoss"|"ATCQ"|"Flatbush"|"Iceland"|"LittleItaly"|"Sicily"|"Baghdad"|"Bedford-Stuyvesant"|"Melbourne"|"LasVegas"|"Houston"|"LosAngeles"|"Detroit"|"JohnLegend"|"ChanelIman"|"GeorgePataki"|"Sonic"|"HookedonPhonics"|"MortalKombat"|"DJKhaled"|"SantaClaus"|"ProgressiveInsurance"|"MarvinGaye"|"Prince"|"AlGreen"|"BettyWright"|"Kawasaki"|"StarWars"|"Fugees"|"PatrickSwayze"|"RipStik"|"ChakaKhan"|"BenStiller"|"iPhone"|"Olympics"|"ComplexMagazine"|"TheSourceMagazine"|"BobMarley"|"Madlib"|"ChuckStrangers"|"MFDOOM"|"Sunoco"|"KimoraSimmons"|"DoratheExplorer"|"PublicEnemy"|"BacktotheFuture"|"KingArthur"|"LilBDaBasedGod"|"ComicCon"|"Obama"|"Columbine"|"PlaxicoBurress"|"Cam'ron"|"JeanClaudeVanDamme"|"Nas"|"LincolnTerraces"|"Compton"|"Yonkers"|"KirkKnight"|"CJFly"|"JayLee"|"PowP"|"DyemLewis"|"NyckCaution"|"ALa$ole"|"JesusChrist"|"Himalayas"|"IsaiahThomas"|"NoahsArk"|"ColorMeBadd"|"Austin"|"KamaSutra"|"Monopoly"|"McDonalds"|"Hansen"|"CharlesManson"|"Louisiana")+}}
-popculture = element popculture {mixed {ref, markup*}}
-geo = element geo {mixed {ref, markup*}}
-group = element group {mixed {label, num, (alliteration|assonance|assimilation|consonance|repetition|rhyme|slantRhyme)*, markup?}}
-label = attribute label {text}
-num = attribute num {xsd:int}
-alliteration = attribute alliteration { list{ xsd:int+ } }
-assonance = attribute assonance { list{ xsd:int+ } }
-assimilation = attribute assimilation { list{ xsd:int+ } }
-consonance = attribute consonance { list{ xsd:int+ } }
-repetition = attribute repetition { list{ xsd:int+ } }
-rhyme = attribute rhyme { list{ xsd:int+ } }
-slantRhyme = attribute slantRhyme { list{ xsd:int+ } }
-AAVE = element AAVE {mixed {field, type, (sound|position|word1|word2|word3|person|class|tense)*, markup*}}
-compound= element compound {mixed {head, stem, type, markup*}}
-field = attribute field {"syn"|"phon"}
-tense = attribute tense {"progressive"|"present"|"habitual"|"past"|"future"}
-sound = attribute sound {text}
-position = attribute position {"initial"|"middle"|"final"}
-word1 = attribute word1 {text}
-word2 = attribute word2 {text}
-word3 = attribute word3 {text}
-person = attribute person {text}
-class = attribute class {"copula"|"preposition"}
-head = attribute head {text}
-stem = attribute stem {text}
-#If you want to make a group variable for something you just use label=(blah|blah1|blah2|etc.) 
-#and then you can use it instead of repeating yourself 
-#example: datePattern = (day|month|year)
-#date = element date {(when |(from, to)), empty} 
-#when = attribute when {datePattern}
-#from = attribute from {datePattern}
-#to = attribute to {datePattern}
-
-
+album = element album { type, meta, song+ }
+meta = element meta { albumTitle, source, year, accessDate }
+albumTitle = element albumTitle { "1999" | "B4.DA.$$" | "SummerKnights" | "Rejex" }
+source = element source { text }
+year = element year { text }
+accessDate = element accessDate { text }
+song = element song { title, production, stanza+ }
+title = attribute title { text }
+feature = attribute feature { text }
+production = attribute production { text }
+stanza = element stanza { type, speaker, li+ }
+speaker =
+    attribute speaker {
+        "2pac"
+        | "ALa$ole"
+        | "ActionBronson"
+        | "CJFly"
+        | "CapitalSTEEZ"
+        | "Chronixx"
+        | "ChuckStrangers"
+        | "CollieBuddz"
+        | "DessyHinds"
+        | "DirtySanchez"
+        | "DyemondLewis"
+        | "ElleVarner"
+        | "JoeyBada$$ BJtheChicagoKid"
+        | "JoeyBada$$ KirkKnight"
+        | "JoeyBada$$ CJFly"
+        | "JoeyBada$$"
+        | "Kieza"
+        | "KirkKnight"
+        | "MaverickSabre"
+        | "NYCkCaution"
+        | "Nas Youngster"
+        | "NyckCaution"
+        | "Pinky JoeyBada$$"
+        | "ProEra"
+        | "Raury"
+        | "Rokamouth"
+        | "Sample"
+        | "SaulWilliams"
+        | "SmokeDZA"
+        | "T'nahApex"
+        | "Unknown"
+        | "Unknown CapitalSTEEZ"
+    }
+type =
+    attribute type {
+        "album"
+        | "mixtape"
+        | "verse"
+        | "intro"
+        | "bridge"
+        | "hook"
+        | "skit"
+        | "interlude"
+        | "outro"
+        | "sample"
+        | "deletion"
+        | "contraction"
+        | "tense"
+        | "aspect"
+        | "dropping"
+        | "exo"
+        | "endo"
+        | "negative"
+    }
+li =
+    element li {
+        mixed { markup* }
+    }
+markup =
+    oldschool
+    | success
+    | women
+    | fashion
+    | struggle
+    | food
+    | money
+    | alcohol
+    | hiphop
+    | haters
+    | guns
+    | popculture
+    | weed
+    | sports
+    | geo
+    | group
+    | AAVE
+    | compound
+oldschool =
+    element oldschool {
+        mixed { markup* }
+    }
+success =
+    element success {
+        mixed { markup* }
+    }
+women =
+    element women {
+        mixed { markup* }
+    }
+fashion =
+    element fashion {
+        mixed { markup* }
+    }
+struggle =
+    element struggle {
+        mixed { markup* }
+    }
+food =
+    element food {
+        mixed { markup* }
+    }
+alcohol =
+    element alcohol {
+        mixed { markup* }
+    }
+money =
+    element money {
+        mixed { markup* }
+    }
+haters =
+    element haters {
+        mixed { markup* }
+    }
+guns =
+    element guns {
+        mixed { markup* }
+    }
+weed =
+    element weed {
+        mixed { markup* }
+    }
+sports =
+    element sports {
+        mixed { markup* }
+    }
+hiphop =
+    element hiphop {
+        mixed { ref, markup* }
+    }
+ref =
+    attribute ref {
+        list {
+            ("Jay-Z"
+             | "LilWayne"
+             | "LordFinnesse"
+             | "MichaelJackson"
+             | "BonnieandClyde"
+             | "LupeFiasco"
+             | "Tupac"
+             | "Diddy"
+             | "NotoriousBIG"
+             | "50Cent"
+             | "Jay-Z KanyeWest"
+             | "KanyeWest"
+             | "NickiMinaj"
+             | "JDilla"
+             | "DragonBallZ"
+             | "Batman"
+             | "MurderSheWrote"
+             | "DonCheadle"
+             | "MaxKeeble"
+             | "MojoJojo"
+             | "Brooklyn"
+             | "NewYork"
+             | "NewMexico"
+             | "Spain"
+             | "EastCoast"
+             | "Boston"
+             | "Instagram"
+             | "Facebook"
+             | "Twitter"
+             | "Pokemon"
+             | "ShamWoW"
+             | "NikeSB"
+             | "Nike"
+             | "PinkyandtheBrain"
+             | "Egypt"
+             | "KwonSwank"
+             | "EvelKnievel"
+             | "Coachella"
+             | "Interscope"
+             | "HilarySwank"
+             | "Budweiser"
+             | "Newports"
+             | "Audi"
+             | "Cadillac"
+             | "RangeRover"
+             | "TheMatrix"
+             | "HarryPotter"
+             | "DaVinci"
+             | "Lexus"
+             | "SaksFifthAve"
+             | "Superman"
+             | "TMNT"
+             | "X-Men"
+             | "FantasticFour"
+             | "Oprah"
+             | "Scarface"
+             | "Porsche"
+             | "JimmyFallon"
+             | "ProEra"
+             | "Eminem"
+             | "GrandmasterFlash"
+             | "FunkFlex"
+             | "Akon"
+             | "ChiefKeef"
+             | "JoeyBada$$"
+             | "SmokeDZA"
+             | "BrandNubians"
+             | "StatikSelektah"
+             | "CapitalSteez"
+             | "RickRoss"
+             | "ATCQ"
+             | "Flatbush"
+             | "Iceland"
+             | "LittleItaly"
+             | "Sicily"
+             | "Baghdad"
+             | "Bedford-Stuyvesant"
+             | "Melbourne"
+             | "LasVegas"
+             | "Houston"
+             | "LosAngeles"
+             | "Detroit"
+             | "JohnLegend"
+             | "ChanelIman"
+             | "GeorgePataki"
+             | "Sonic"
+             | "HookedonPhonics"
+             | "MortalKombat"
+             | "DJKhaled"
+             | "SantaClaus"
+             | "ProgressiveInsurance"
+             | "MarvinGaye"
+             | "Prince"
+             | "AlGreen"
+             | "BettyWright"
+             | "Kawasaki"
+             | "StarWars"
+             | "Fugees"
+             | "PatrickSwayze"
+             | "RipStik"
+             | "ChakaKhan"
+             | "BenStiller"
+             | "iPhone"
+             | "Olympics"
+             | "ComplexMagazine"
+             | "TheSourceMagazine"
+             | "BobMarley"
+             | "Madlib"
+             | "ChuckStrangers"
+             | "MFDOOM"
+             | "Sunoco"
+             | "KimoraSimmons"
+             | "DoratheExplorer"
+             | "PublicEnemy"
+             | "BacktotheFuture"
+             | "KingArthur"
+             | "LilBDaBasedGod"
+             | "ComicCon"
+             | "Obama"
+             | "Columbine"
+             | "PlaxicoBurress"
+             | "Cam'ron"
+             | "JeanClaudeVanDamme"
+             | "Nas"
+             | "LincolnTerraces"
+             | "Compton"
+             | "Yonkers"
+             | "KirkKnight"
+             | "CJFly"
+             | "JayLee"
+             | "PowP"
+             | "DyemLewis"
+             | "NyckCaution"
+             | "ALa$ole"
+             | "JesusChrist"
+             | "Himalayas"
+             | "IsaiahThomas"
+             | "NoahsArk"
+             | "ColorMeBadd"
+             | "Austin"
+             | "KamaSutra"
+             | "Monopoly"
+             | "McDonalds"
+             | "Hansen"
+             | "CharlesManson"
+             | "Louisiana")+
+        }
+    }
+popculture =
+    element popculture {
+        mixed { ref, markup* }
+    }
+geo =
+    element geo {
+        mixed { ref, markup* }
+    }
+group =
+    element group {
+        mixed {
+            label,
+            num,
+            (alliteration
+             | assonance
+             | assimilation
+             | consonance
+             | repetition
+             | rhyme
+             | slantRhyme)*,
+            markup?
+        }
+    }
+label = attribute label { text }
+num = attribute num { xsd:int }
+alliteration =
+    attribute alliteration {
+        list { xsd:int+ }
+    }
+assonance =
+    attribute assonance {
+        list { xsd:int+ }
+    }
+assimilation =
+    attribute assimilation {
+        list { xsd:int+ }
+    }
+consonance =
+    attribute consonance {
+        list { xsd:int+ }
+    }
+repetition =
+    attribute repetition {
+        list { xsd:int+ }
+    }
+rhyme =
+    attribute rhyme {
+        list { xsd:int+ }
+    }
+slantRhyme =
+    attribute slantRhyme {
+        list { xsd:int+ }
+    }
+AAVE =
+    element AAVE {
+        mixed {
+            field,
+            type,
+            (sound | position | word1 | word2 | word3 | person | class | tense)*,
+            markup*
+        }
+    }
+compound =
+    element compound {
+        mixed { head, stem, type, markup* }
+    }
+field = attribute field { "syn" | "phon" }
+tense = attribute tense { "progressive" | "present" | "habitual" | "past" | "future" }
+sound = attribute sound { text }
+position = attribute position { "initial" | "middle" | "final" }
+word1 = attribute word1 { text }
+word2 = attribute word2 { text }
+word3 = attribute word3 { text }
+person = attribute person { text }
+class = attribute class { "copula" | "preposition" }
+head = attribute head { text }
+stem = attribute stem { text }
+# If you want to make a group variable for something you just use label=(blah|blah1|blah2|etc.) 
+# and then you can use it instead of repeating yourself 
+# example: datePattern = (day|month|year)
+# date = element date {(when |(from, to)), empty} 
+# when = attribute when {datePattern}
+# from = attribute from {datePattern}
+# to = attribute to {datePattern}
 
 #
