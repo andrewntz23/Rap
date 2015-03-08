@@ -806,7 +806,7 @@
             <li> I'm ashing on the bridge, <weed>Mary Jane</weed>, fuck your cigarettes</li>
             <li> I'm laughing out loud, ask me if I'm still stressed, possessed</li>
             <li> Hope the boys in blue don't arrest yours truly</li>
-            <li> Respect but suspect, protect your neck <fashion>jewelry</fashion></li>
+            <li> Respect but suspect, <hiphop ref="WuTangClan">protect your neck</hiphop> <fashion>jewelry</fashion></li>
             <li>
                 <guns>47s</guns> and <guns>Uzis</guns>, well-connected and recruiting</li>
             <li>
@@ -873,7 +873,7 @@
             <li>
                 <women>She</women> said she fell in one of them <weed>Ls</weed>, but lust don't
                 count</li>
-            <li> These <women>chickens</women> don't love me, they love the account</li>
+            <li> These <women>chickens</women> don't love me, they love <money>the account</money></li>
             <li> But they will never know what's the amount, I keep the <women>hoes</women> in
                 check</li>
             <li>
@@ -1024,7 +1024,7 @@
                 <weed>Inhaling fumes</weed> of all sorts of course</li>
             <li>
                 <hiphop ref="CapitalSteez">Steez</hiphop> taught me how to store it in my
-                    <sports>ball    shorts</sports></li>
+                    <sports>ball shorts</sports></li>
             <li> So when we stop by <geo ref="Detroit">the D</geo> we never get caught</li>
             <li> I say it again we face <weed>L's</weed> but never lost</li>
             <li> Either be a warlord for 6 fees short</li>
@@ -1062,7 +1062,7 @@
             <li> I see brighter days <AAVE type="deletion" field="syn" class="copula"/>looking back
                 in fact</li>
             <li> So I relax my mind, see what these tracks can find</li>
-            <li> A gold mine that will make me rich in both dimes in mine</li>
+            <li> A <money><success>gold mine</success></money> that will make me rich in both <money><women>dimes</women></money> in mine</li>
             <li> Gotta make it all mine if you don't mind</li>
             <li> Cause sometimes</li>
         </stanza>
@@ -1079,8 +1079,8 @@
         </stanza>
         <stanza speaker="DessyHinds" type="verse">
             <li> Right on the block where they sit and play</li>
-            <li> Lives the vicious ways where they spit and spray</li>
-            <li> Vicious trey's coming for the ice you kept in yesterday</li>
+            <li> Lives the vicious ways where they spit and <guns>spray</guns></li>
+            <li> <guns><sports>Vicious trey's</sports></guns> coming for the ice you kept in yesterday</li>
             <li> It's nothing but the history</li>
             <li> Protecting ya from being history</li>
             <li> And then the next day your face is just a mystery</li>

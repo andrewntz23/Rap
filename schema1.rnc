@@ -291,7 +291,8 @@ ref =
              | "CharlesManson"
              | "Louisiana"
              | "JamesBond"
-             | "JimmyNeutron")+
+             | "JimmyNeutron"
+             | "WuTangClan")+
         }
     }
 popculture =
