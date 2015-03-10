@@ -8,7 +8,7 @@
         <accessDate>2/04/2015</accessDate>
     </meta>
     <song title="Alowha" production="KirkKnight">
-        <stanza speaker="JoeyBada$$ Queen Latifah" type="intro">
+        <stanza speaker="JoeyBada$$ QueenLatifah" type="intro">
             <li>And the champion</li>
             <li> Reigning that is</li>
             <li> From <geo ref="Flatbush">Flatbush</geo>, <geo ref="Brooklyn">Brooklyn</geo></li>
@@ -62,9 +62,23 @@
             <li> Young scorcher trying to evolve like <popculture ref="Pokemon"><group label="b" num="18" slantRhyme="17">Charmeleon</group></popculture></li>
             <li> <money>Million</money>, yeah nigga, we <AAVE field="syn" type="deletion" class="copula"/><AAVE field="phon" type="contraction" word1="trying" word2="to"
                     >tryna</AAVE> get a <money>million</money></li>
+<<<<<<< HEAD
+<<<<<<< HEAD
+            <li> Got the <weed>bomb</weed> nigga, <geo ref="Baghdad">Baghdad</geo>, I'm <guns>blown away</guns> from a <sports><guns>bad
+                pass</guns></sports></li>
+            <li> Walk on <weed>grass</weed>, below <weed>skunk</weed>, I smell
+                    <fashion>sole</fashion> funk in the <weed>stash</weed></li>
+            <li> My <popculture ref="NikeSB">SB</popculture>'s, antimony I never had</li>
+=======
             <li> Got the bomb nigga, <geo ref="Baghdad">Baghdad</geo>, I'm blown away from a bad <group label="c" num="1" rhyme="2">pass</group></li>
             <li> Walk on <group label="c" num="2" rhyme="1"><weed>grass</weed></group>, <group label="c" num="3" rhyme="4">below <weed>skunk</weed></group>, I smell <group label="c" num="4" rhyme="3"><fashion>sole</fashion> funk</group> in the <weed>stash</weed></li>
             <li> My <fashion>SB's</fashion>, antimony I never had</li>
+>>>>>>> origin/master
+=======
+            <li> Got the bomb nigga, <geo ref="Baghdad">Baghdad</geo>, I'm blown away from a bad <group label="c" num="1" rhyme="2">pass</group></li>
+            <li> Walk on <group label="c" num="2" rhyme="1"><weed>grass</weed></group>, <group label="c" num="3" rhyme="4">below <weed>skunk</weed></group>, I smell <group label="c" num="4" rhyme="3"><fashion>sole</fashion> funk</group> in the <weed>stash</weed></li>
+            <li> My <fashion>SB's</fashion>, antimony I never had</li>
+>>>>>>> origin/master
             <li> I was more arsenic, vaporize when I got heated</li>
             <li> Never jealous, solid as a <AAVE field="phon" type="dropping" sound="g" position="final">rock n'</AAVE>
                 <weed>roll <AAVE field="phon" type="dropping" sound="r" position="final">fo'</AAVE> planes</weed></li>
@@ -688,6 +702,7 @@
     </song>
     <song title="47Goonz" production="LeeBannon">
         <stanza speaker="JoeyBada$$" type="verse">
+<<<<<<< HEAD
             <li> Yo, <hiphop ref="JoeyBada$$">Badass</hiphop> don't <group label="a" num="1" slantRhyme="2 3 4">act or pretend</group>, back <group label="a" num="2" slantRhyme="1 3 4">at it again</group></li>
             <li> Hit it from the back, <women>she</women> a <group label="a" num="3" slantRhyme="1 2 4">addict within</group></li>
             <li> I got <women>her</women> on some shit like <group label="a" num="4" slantRhyme="1 2 3">"I'm <AAVE field="phon" type="dropping" sound="gon" position="initial">a</AAVE> get tatted for him"</group></li>
@@ -704,6 +719,33 @@
             <li> Pack up a <weed>bowl</weed> and we <AAVE type="contraction" field="phon" word1="did" word2="not">ain't</AAVE> even <group label="a" num="20" rhyme="21">eat</group></li>
             <li> But we got a appetite for <food>cookie creases</food> and <group label="a" num="21" rhyme="20">treats</group></li>
             <li> And they all got tricks up <AAVE field="phon" type="dropping" sound="r" position="final">they</AAVE> <group label="a" num="22" slantRhyme="19">sleeve</group></li>
+=======
+            <li> Yo, <hiphop ref="JoeyBada$$">Badass</hiphop> don't act or pretend, back at it
+                again</li>
+            <li> Hit it from the back, <women>she</women> a addict within</li>
+            <li> I got <women>her</women> on some shit like "I'm <AAVE field="phon" type="dropping"
+                    sound="gon" position="initial">a</AAVE> get tatted for him"</li>
+            <li>
+                <women>She</women>
+                <AAVE type="deletion" field="syn" class="copula"/>a ride or die, slim, when she
+                    <AAVE type="deletion" field="syn" class="copula"/>in the denims</li>
+            <li> Remember it like it was yesterday</li>
+            <li> Another case of "I fucked your <women>bitch</women>, nigga" but a more clever way</li>
+            <li> Quarter in the room to elevate, said if you ever may</li>
+            <li> Slip then hit <women>her</women> on the hip where the <guns>Beretta</guns>
+                stay</li>
+            <li> Catch me somersaulting my eyelids</li>
+            <li> Awakened from a dream, just perceived how I live</li>
+            <li> So it's make believe, rather unique</li>
+            <li>
+                <success>Lavish</success>, sweet all live in a rapper physique</li>
+            <li> Hit up a show then after retreat back to the telly with freaks</li>
+            <li> Pack up a <weed>bowl</weed> and we <AAVE type="contraction" field="phon"
+                    word1="did" word2="not">ain't</AAVE> even eat</li>
+            <li> But we got a appetite for <food>cookie creases</food> and treats</li>
+            <li> And they all got tricks up <AAVE field="phon" type="dropping" sound="r"
+                    position="final">they</AAVE> sleeve</li>
+>>>>>>> origin/master
         </stanza>
         <stanza speaker="DirtySanchez" type="verse">
             <li> I'm ashing on the bridge, <weed>Mary Jane</weed>, fuck your cigarettes</li>
