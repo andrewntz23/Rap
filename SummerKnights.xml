@@ -769,31 +769,32 @@
         <stanza speaker="NyckCaution" type="verse">
             <li>
                 <popculture ref="HarryPotter">This <AAVE type="contraction" field="phon" word1="is"
-                        word2="not">ain't</AAVE> Quidditch but you know the snitch <AAVE field="syn"
-                        type="tense" person="third">get</AAVE> caught</popculture></li>
-            <li> Then get bitched like the <women>bitch</women> she brought, throw your fit then
-                walk</li>
-            <li> When they clip all of your Christmas thoughts</li>
-            <li> There's no giving when they take what you got</li>
-            <li> Placed in the crop circle, doc with a smock, see</li>
-            <li> Art what we drop, shopping cart with <popculture ref="DaVinci">Da
+                        word2="not">ain't</AAVE> <group label="c" num="1" rhyme="2">Quidditch</group> but you know the <group label="c" num="2" rhyme="1">snitch</group> <AAVE field="syn"
+                        type="tense" person="third">get</AAVE> <group label="c" num="3" rhyme="6">caught</group></popculture></li>
+            <li> Then get <group label="c" num="4" rhyme="5">bitched</group> like the <women><group label="c" num="5" rhyme="4">bitch</group></women> she <group label="c" num="6" rhyme="3">brought</group>, throw your fit then
+                <group label="c" num="7" slantRhyme="8 9">walk</group></li>
+            <li> When they clip all of your Christmas <group label="c" num="8" slantRhyme="7 9">thoughts</group></li>
+            <li> There's no giving when they take what you <group label="c" num="9" slantRhyme="7 8">got</group></li>
+            <li> Placed in the <group label="c" num="10" rhyme="14">crop</group> circle, <group label="c" num="11" rhyme="12">doc</group> with a <group label="c" num="12" rhyme="11">smock</group>, see</li>
+            <li> <group label="c" num="13" rhyme="15">Art</group> what we <group label="c" num="14" rhyme="10">drop</group>, shopping <group label="c" num="15" rhyme="13">cart</group> with <popculture ref="DaVinci">Da
                     Vinci</popculture></li>
-            <li> Whimpering, leave that risk to your <hiphop ref="ProEra">Pros</hiphop></li>
-            <li> Wrist full of stone, lapidate if they pass me the <weed>smoke</weed></li>
-            <li> I'm <guns>strapped</guns> and irate, daps from the <haters>fake</haters></li>
-            <li> Get me mad and I contemplate irrational mode</li>
-            <li> Don't think about nada, strung you by your collar</li>
-            <li> The flow father who balanced out his chromosomes <AAVE type="deletion" field="syn"
-                    class="copula"/>proper</li>
-            <li> I'm going home partner like Posada, they talk beef</li>
-            <li> But toss the <food>ensalada</food>, peep the blue Impala</li>
-            <li> There's arrogant cops who stay intruding</li>
-            <li> Can't stop the <guns>47</guns> like protagonist in Absolution</li>
-            <li> Them <haters>wack rappers</haters> who track-eluding</li>
-            <li> Critic is a random student who <AAVE field="syn" type="tense" person="third"
-                    >use</AAVE> the <hiphop ref="ProEra">Era</hiphop> as a new rap influence</li>
-            <li> Faster than ransom shootings or some cancer fluid</li>
-            <li> I still kill and you can't lose it</li>
+            <li> Whimpering, leave that <group label="d" num="1" assimilation="2">risk to your <hiphop ref="ProEra">Pros</hiphop></group></li>
+            <li> <group label="d" num="2" assimilation="1" slantRhyme="3">Wrist full of stone</group>, lapidate if they <group label="d" num="3" slantRhyme="2">pass me the <weed>smoke</weed></group></li>
+            <li> I'm <group label="d" num="4" slantRhyme="6"><guns>strapped</guns></group> and <group label="d" num="5" slantRhyme="7" rhyme="8">irate</group>, 
+                <group label="d" num="6" slantRhyme="4">daps</group> from the <group label="d" num="7" slantRhyme="5"><haters>fake</haters></group></li>
+            <li> Get me mad and I <group label="d" num="8" rhyme="5">contemplate</group> irrational mode</li>
+            <li> Don't think about <group label="d" num="9" rhyme="14 15 16">nada</group>, strung you by your <group label="d" num="10" rhyme="11 12 13">collar</group></li>
+            <li> The flow <group label="d" num="11" rhyme="10 12 13">father</group> who balanced out his chromosomes <AAVE type="deletion" field="syn"
+                    class="copula"/><group label="d" num="12" rhyme="10 11 13">proper</group></li>
+            <li> I'm going home <group label="d" num="13" rhyme="10 11 12">partner</group> like <group label="d" num="14" rhyme="9 15 16"><sports>Posada</sports></group>, they talk beef</li>
+            <li> But toss the <food><group label="d" num="15" rhyme="9 14 16">ensalada</group></food>, peep the blue <group label="d" num="16" rhyme="9 14 15">Impala</group></li>
+            <li> There's arrogant cops who stay <group label="e" num="1" rhyme="3" slantRhyme="2">intruding</group></li>
+            <li> Can't stop the <guns>47</guns> like protagonist in <group label="e" num="2" slantRhyme="1">Absolution</group></li>
+            <li> Them <haters>wack rappers</haters> who <group label="e" num="3" rhyme="1">track-eluding</group></li>
+            <li> Critic is a <group label="e" num="4" slantRhyme=" 5 6">random student</group> who <AAVE field="syn" type="tense" person="third"
+                    >use</AAVE> the <hiphop ref="ProEra">Era</hiphop> as a new <group label="e" num="5" slantRhyme="4 6">rap influence</group></li>
+            <li> Faster than <group label="e" num="6" slantRhyme="4 5">ransom shootings</group> or some cancer <group label="e" num="7" slantRhyme="10">fluid</group></li>
+            <li> I <group label="e" num="8" rhyme="9">still</group> <group label="e" num="9" rhyme="8">kill</group> and you can't <group label="e" num="10" slantRhyme="7">lose it</group></li>
         </stanza>
 
     </song>
