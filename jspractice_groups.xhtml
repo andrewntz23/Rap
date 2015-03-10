@@ -2,12 +2,11 @@
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml">
     <head>
+        <link rel="stylesheet" type="text/css" href="proofread.css" />
         <title>jspractice_spans</title>
         <script type="text/javascript">
-            
+            //should set up a better way for dealing with colors; better than random, which too often gets really similar colors, but this is sloppy, and could run into index problems. 
             var colors = ["red", "blue", "green", "purple", "orange", "red", "blue", "green", "purple", "orange", "red", "blue", "green", "purple", "orange"] 
-            /*Should develop a better way to cycle through colors. this is sloppy, and could get out of bounds index if there is a lot of groups in any particular song.*/
-
             window.onload = function(){
                 var foo = document.getElementsByTagName("span");
                 setColor()
@@ -28,7 +27,6 @@
                 */
                 var container = document.createElement("form");  
                 container.setAttribute("id", "container");
-                container.setAttribute("style", "border-style:solid")
                 container.setAttribute("action", "");
                 document.body.appendChild(container);
                 var spans = document.getElementsByTagName("span")
@@ -47,10 +45,10 @@
                         newBox.checked = true;
                         newBox.setAttribute("onclick", "clearAllColor()")
                         newLabel.setAttribute("onclick", "clearAllColor()")
+                        newLabel.appendChild(newBox);
                         newLabel.appendChild(newText);
                         newLabel.id = spans[d].getAttribute("title");
                         newLabel.htmlFor = spans[d].getAttribute("title");
-                        container.appendChild(newBox); 
                         container.appendChild(newLabel);
                     }
                 }
@@ -177,20 +175,19 @@
             <span title="a" data-all="0" data-num="3" data-rhyme="4" data-assonance="125">snags</span> his <span title="a" 
                 data-num="4" data-all="0" data-rhyme="3" data-assonance="125">bags</span> and <span data-all="0" title="a" data-num="5"
                     data-assonance="34">gat</span> <span title="b" data-all="0">cool</span> <span title="c" data-all="0"> and cooler</span></p>
-<!--   Might be better to do this with either XSLT or JS     -->
+<!--   Will do this eventually with either JS or XSLT     -->
         <form action=""> 
-            <input type="radio" name="device" value="all" id="all" checked="checked" onclick="clearAllColor()"/>
-            <label for="all" onclick="clearAllColor()">all</label>
-            <input type="radio" name="device" value="rhyme" id="rhyme" onclick="clearAllColor()"/>
-            <label for="rhyme" onclick="clearAllColor()">rhyme</label>
-            <input type="radio" name="device" value="slant" id="slant" onclick="clearAllColor()"/>
-            <label for="slant" onclick="clearAllColor()">slant rhyme</label>
-            <input type="radio" name="device" value="assonance" id="assonance" onclick="clearAllColor()"/>
-            <label for="assonance" onclick="clearAllColor()">assonance</label>
-            <input type="radio" name="device" value="alliteration" id="alliteration" onclick="clearAllColor()"/>
-            <label for="alliteration" onclick="clearAllColor()">alliteration</label>
-            <input type="radio" name="device" value="assimilation" id="assimilation" onclick="clearAllColor()"/>
-            <label for="assimilation" onclick="clearAllColor()">assimilation</label>
+            <label for="all" onclick="clearAllColor()"><input type="radio" name="device" value="all" id="all" checked="checked" onclick="clearAllColor()"/>all</label>
+            <label for="alliteration" onclick="clearAllColor()"><input type="radio" name="device" value="alliteration" id="alliteration" onclick="clearAllColor()"/>alliteration</label>
+            <label for="assimilation" onclick="clearAllColor()"><input type="radio" name="device" value="assimilation" id="assimilation" onclick="clearAllColor()"/>assimilation</label>
+            <label for="assonance" onclick="clearAllColor()"><input type="radio" name="device" value="assonance" id="assonance" onclick="clearAllColor()"/>assonance</label>
+            <label for="consonance" onclick="clearAllColor()"><input type="radio" name="device" value="consonance" id="consonance" onclick="clearAllColor()"/>consonance</label>
+            <label for="repetition" onclick="clearAllColor()"><input type="radio" name="device" value="repetition" id="repetition" onclick="clearAllColor()"/>repetition</label>
+            <label for="rhyme" onclick="clearAllColor()"><input type="radio" name="device" value="rhyme" id="rhyme" onclick="clearAllColor()"/> rhyme</label>
+            <label for="slant" onclick="clearAllColor()"><input type="radio" name="device" value="slant" id="slant" onclick="clearAllColor()"/> slant rhyme</label>
+            
+            
+            
         </form>
     </body>
 </html>
