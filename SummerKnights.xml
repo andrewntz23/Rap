@@ -494,86 +494,78 @@
             <li> So much charm</li>
         </stanza>
         <stanza speaker="JoeyBada$$" type="verse">
-            <li> The only <women>lady</women> I can ever match bonds with</li>
-            <li> On some atomic bond shit, our love is <compound head="platonic" stem="Pluto"
-                    type="endo">plutonic</compound></li>
-            <li> But I just can't, put my foot on it</li>
+            <li> The only <women>lady</women> I can ever match <group label="a" num="1" slantRhyme="3">bonds with</group></li>
+            <li> On some <group label="a" num="2" rhyme="4">atomic</group> <group label="a" num="3" slantRhyme="1">bond shit</group>, our love is <compound head="platonic" stem="Pluto"
+                    type="endo"><group label="a" num="4" rhyme="2" slantRhyme="5">plutonic</group></compound></li>
+            <li> But I just can't, put my <group label="a" num="5" slantRhyme="4">foot on it</group></li>
             <li> My one and my only</li>
             <li> We <AAVE type="deletion" field="syn" class="copula"/>not only lovers but
-                homies</li>
-            <li> Whenever I'm lonely, right on time <women>she</women> arrives</li>
+                <group label="a" num="6" rhyme="7">homies</group></li>
+            <li> Whenever I'm <group label="a" num="7" rhyme="6">lonely</group>, right on time <women>she</women> <group label="a" num="8" rhyme="13">arrives</group></li>
             <li>
                 <women>She</women>
-                <AAVE field="syn" type="tense" person="third">know</AAVE> the business for some
-                minutes</li>
-            <li> I bury that kitty alive</li>
-            <li> Although I'm kidding but <AAVE field="syn" type="aspect" tense="present">I really
-                    be in it</AAVE></li>
-            <li> And we don't plan on having kiddies but <AAVE field="syn" type="aspect"
+                <AAVE field="syn" type="tense" person="third">know</AAVE> the <group label="a" num="9" slantRhyme="10">business</group> for some
+                <group label="a" num="10" slantRhyme="9">minutes</group></li>
+            <li> I <group label="a" num="11" rhyme="12">bury</group> that <group label="a" num="12" rhyme="11">kitty</group> <group label="a" num="13" rhyme="8">alive</group></li>
+            <li> Although I'm kidding but <AAVE field="syn" type="aspect" tense="present">I <group label="a" num="14" slantRhyme="15">really
+                    be in it</group></AAVE></li>
+            <li> And we don't plan on having kiddies but <group label="a" num="15" slantRhyme="14"><AAVE field="syn" type="aspect"
                     tense="present">I really be <AAVE field="phon" type="dropping" sound="g"
-                        position="final">skinnin'</AAVE></AAVE>
-                <AAVE field="syn" type="aspect" tense="present">really be raw</AAVE></li>
+                        position="final">skinnin'</AAVE></AAVE></group>
+                <AAVE field="syn" type="aspect" tense="present"><group label="a" num="16" slantRhyme="17">really be raw</group></AAVE></li>
             <li> They say sex is the weapon</li>
-            <li> Love is really a war</li>
+            <li> Love is <group label="a" num="17" slantRhyme="16">really a war</group></li>
             <li> And sometimes I feel threatened <AAVE field="phon" type="dropping" sound="be"
-                    position="initial">cos</AAVE> she really <AAVE field="phon" type="tense"
+                    position="initial">cause</AAVE> she really <AAVE field="phon" type="tense"
                     person="third">know</AAVE> all</li>
-            <li> My weaknesses</li>
-            <li> Sometimes we fight, won't speak and shit</li>
-            <li> But we both know what the sequence is</li>
+            <li> My <group label="b" num="1" assimilation="2 3">weaknesses</group></li>
+            <li> Sometimes we fight, won't <group label="b" num="2" assimilation="1 3">speak and shit</group></li>
+            <li> But we both know what the <group label="b" num="3" assimilation="1 2">sequence is</group></li>
             <li> It's like a never-ending cycle</li>
-            <li> Something like your menstrual</li>
-            <li> The day you put your menopause</li>
-            <li> I'll pause the instrumentals</li>
-            <li> That's dussace got me in the mental</li>
+            <li> Something like your <group label="b" num="4" rhyme="5 6">menstrual</group></li>
+            <li> The day you put your men on pause</li>
+            <li> I'll pause the <group label="b" num="5" rhyme="4 6" assimilation="6">instrumentals</group></li>
+            <li> That's dussace got me <group label="b" num="6" rhyme="4 5" assimilation="5" slantRhyme="7">in the mental</group></li>
             <li> Me and you until the end of time</li>
             <li>
                 <AAVE field="phon" type="dropping" sound="un" position="initial">Till</AAVE> we
-                    <AAVE type="deletion" field="syn" class="copula"/>no longer existential</li>
+                    <AAVE type="deletion" field="syn" class="copula"/>no longer <group label="b" num="7" slantRhyme="6">existential</group></li>
         </stanza>
         <stanza speaker="T'nahApex" type="hook">
             <li> Right on time</li>
             <li> You are my love</li>
             <li> (This <AAVE type="contraction" field="phon" word1="is" word2="not">ain't</AAVE>
-                nothing like a consistence, persistence</li>
-            <li> We'll be switching positions</li>
-            <li> My mission's to put you in the best conditions)</li>
+                nothing like <group label="c" num="1" rhyme="2">consistence</group>, <group label="c" num="2" rhyme="1">persistence</group></li>
+            <li> We'll be <group label="c" num="3" slantRhyme="4">switching</group> <group label="c" num="4" slantRhyme="3" rhyme="5 6">positions</group></li>
+            <li> My <group label="c" num="5" rhyme="4 6">mission's</group> to put you in the best <group label="c" num="6" rhyme="4 5">conditions</group>)</li>
         </stanza>
         <stanza speaker="JoeyBada$$" type="verse">
-            <li> They say one man's trash is another man's treasure</li>
-            <li> No, one man's clever, one knows no better</li>
-            <li> I like to go get her to keep her warm in cold weather</li>
-            <li> She blow below better then she goes for endeavors</li>
-            <li> Write our names on the clouds in bold letters</li>
-            <li> If <women>hoes</women> ever touch me she <AAVE type="tense" field="phon"
-                    person="third">load</AAVE>
-                <guns>Berettas</guns></li>
-            <li> But trust me, <women>she's</women> lusty it must be me</li>
-            <li>
-                <AAVE type="dropping" field="phon" sound="g" position="final">Rubbin</AAVE> it off
-                on her skin</li>
-            <li> I can't budge her, a pen?</li>
-            <li> I swear that <women>her</women> love is just a sin</li>
-            <li> We <AAVE type="deletion" field="syn" class="copula"/>back at it again</li>
-            <li>
-                <AAVE type="dropping" field="phon" sound="g" position="final">Fussin</AAVE> and
-                    <AAVE type="dropping" field="phon" sound="g" position="final">fightin</AAVE> I
-                start <AAVE type="dropping" field="phon" sound="g" position="final">cussin</AAVE>
-                she <AAVE type="dropping" field="phon" sound="g" position="final">cryin</AAVE></li>
-            <li> Break up to make up</li>
-            <li> I start <AAVE field="phon" type="dropping" sound="g" position="final"
-                    >cuttin'</AAVE> then slide it in</li>
-            <li> Then we mix the vibe with some <alcohol>Hen</alcohol></li>
-            <li> You got five, I got ten</li>
-            <li> Now we <AAVE field="syn" type="deletion" class="copula"/>some trippy niggas as high
-                as a fin</li>
-            <li> But what's your game love? Already know it</li>
-            <li> We <AAVE field="syn" type="deletion" class="copula"/>some <hiphop ref="JohnLegend"
-                    >ordinary people</hiphop> but extraordinary poets</li>
-            <li> Get lost in the <alcohol>Moet</alcohol> when I po' it</li>
+            <li> They say one <group label="d" num="1" alliteration="2">man's trash</group> is another <group label="d" num="2" alliteration="1" rhyme="3">man's treasure</group></li>
+            <li> No, one <group label="d" num="3" rhyme="2">man's clever</group>, one knows <group label="d" num="4" rhyme="5 6 8">no better</group></li>
+            <li> I like to go get her to keep her warm in <group label="d" num="5" rhyme="4 6 8">cold weather</group></li>
+            <li> She blow <group label="d" num="6" rhyme="4 5 8">below better</group> then she <group label="d" num="7" slantRhyme="8">goes for endeavors</group></li>
+            <li> Write our names on the clouds in <group label="d" num="8" rhyme="4 5 6" slantRhyme="7">bold letters</group></li>
+            <li> If <women>hoes</women> ever <group label="d" num="9" rhyme="10 11 12">touch me</group> she <AAVE type="tense" field="phon" person="third">load</AAVE> <guns>Berettas</guns></li>
+            <li> But <group label="d" num="10" rhyme="9 11 12">trust me</group>, <women>she's</women> <group label="d" num="11" rhyme="9 10 12">lusty</group> it <group label="d" num="12" rhyme="9 10 11">must be</group> me</li>
+            <li> <AAVE type="dropping" field="phon" sound="g" position="final">Rubbin</AAVE> it off on <group label="d" num="13" rhyme="15">her skin</group></li>
+            <li> I can't budge her, <group label="d" num="14" rhyme="16">a pen</group>?</li>
+            <li> I swear that <women>her</women> love is just <group label="d" num="15" rhyme="13">a sin</group></li>
+            <li> We <AAVE type="deletion" field="syn" class="copula"/>back at it <group label="d" num="16" rhyme="14">again</group></li>
+            <li> <group label="e" num="1" rhyme="3"><AAVE type="dropping" field="phon" sound="g" position="final">Fussin</AAVE></group> and
+                <group label="e" num="2" slantRhyme="4"><AAVE type="dropping" field="phon" sound="g" position="final">fightin</AAVE></group> I
+                start <group label="e" num="3" rhyme="1"><AAVE type="dropping" field="phon" sound="g" position="final">cussin</AAVE></group>
+                she <group label="e" num="4" slantRhyme="2"><AAVE type="dropping" field="phon" sound="g" position="final">cryin</AAVE></group></li>
+            <li> <group label="e" num="5" rhyme="6">Break up</group> to <group label="e" num="6" rhyme="5">make up</group></li>
+            <li> I start <AAVE field="phon" type="dropping" sound="g" position="final">cuttin'</AAVE> then slide it <group label="e" num="7" rhyme="10">in</group></li>
+            <li> Then we mix the vibe with some <group label="e" num="8" rhyme="9"><alcohol>Hen</alcohol></group></li>
+            <li> You got five, I got <group label="e" num="9" rhyme="8">ten</group></li>
+            <li> Now we <AAVE field="syn" type="deletion" class="copula"/>some trippy niggas as high as a <group label="e" num="10" rhyme="7">fin</group></li>
+            <li> But what's your game love? Already <group label="e" num="11" rhyme="14 15">know it</group></li>
+            <li> We <AAVE field="syn" type="deletion" class="copula"/>some <hiphop ref="JohnLegend">ordinary people</hiphop> but extraordinary <group label="e" num="12" rhyme="13">poets</group></li>
+            <li> Get lost in the <group label="e" num="13" rhyme="12"><alcohol>Moet</alcohol></group> when I <group label="e" num="14" rhyme="11 15">po' it</group></li>
             <li> Fuck it if we <AAVE type="dropping" field="phon" sound="g" position="final"
                     >drownin</AAVE> in pain <AAVE type="dropping" field="phon" sound="be"
-                    position="initial">'cuz</AAVE> we don't really show it</li>
+                    position="initial">'cuz</AAVE> we don't really <group label="e" num="15" rhyme="11 14">show it</group></li>
         </stanza>
         <stanza speaker="T'nahApex" type="hook">
             <li> Right on time</li>
@@ -591,70 +583,56 @@
     </song>
     <song title="SweetDreams" production="NavieD">
         <stanza speaker="JoeyBada$$" type="verse">
-            <li> First I wake up, wake up, thinking of a plan to get my
-                    <money><food>cake</food></money> up, <money><food>cake</food></money> up</li>
-            <li> Cause <struggle>I can't pay the rent with school papers</struggle></li>
-            <li> I need two acres and more</li>
-            <li>
-                <struggle>I know how it <AAVE field="syn" type="tense" person="third">feel</AAVE>
-                    walking out the door pockets out of
-                <money><food>dough</food></money></struggle></li>
-            <li> Out it doe, be on the flow</li>
-            <li> We <AAVE type="deletion" field="syn" class="copula"/>smoking <weed>indo</weed>, but
-                we out though, adios</li>
-            <li> My audio getting me that <popculture ref="Audi">Audi</popculture> or the
-                    <popculture ref="RangeRover">Range Rov</popculture></li>
-            <li>
-                <fashion>Mahogany colored clothing</fashion>, my hog <AAVE type="deletion"
-                    field="syn" class="copula"/>in the road</li>
-            <li> Drive slow, cruising down memory lane before I hit the streets</li>
-            <li> Have my melody playing, creators just lie with my (?)</li>
-            <li>
-                <weed>Head between clouds</weed>, I think I'm <weed>married to Jane</weed></li>
-            <li> I remember the days when I'd forever complain</li>
-            <li> That's way before they started paying, I was in pain</li>
-            <li> Sick in the brain like I never met a physicist yet</li>
-            <li> Only lyricist on my metaphysics intellect</li>
+            <li> First I wake up, <group label="a" num="1" rhyme="2">wake up</group>, thinking of a plan to get my
+                    <group label="a" num="2" rhyme="1"><money><food>cake</food></money> up</group>, <money><food>cake</food></money> up</li>
+            <li> Cause <struggle>I can't pay the rent with school <group label="a" num="3" rhyme="4">papers</group></struggle></li>
+            <li> I need two <group label="a" num="4" rhyme="3">acres</group> and more</li>
+            <li><struggle>I know how it <AAVE field="syn" type="tense" person="third">feel</AAVE>
+                    walking <group label="a" num="5" assimilation="6 7">out the door</group> pockets <group label="a" num="6" assimilation="5 7">out of <money><food>dough</food></money></struggle></group></li>
+            <li> <group label="a" num="7" assimilation="5 6">Out it doe</group>, be <group label="a" num="8" rhyme="9 10">on the flow</group></li>
+            <li> We <AAVE type="deletion" field="syn" class="copula"/>smoking <group label="a" num="9" rhyme="8 10"><weed>indo</weed></group>, but
+                we <group label="a" num="10" rhyme="8 9">out though</group>, <group label="a" num="11" assimilation="12 13">adios</group></li>
+            <li> My <group label="a" num="12" assimilation="11 13">audio</group> getting me that <group label="a" num="13" assimilation="11 12"><popculture ref="Audi">Audi</popculture></group> or the <popculture ref="RangeRover">Range Rov</popculture></li>
+            <li><fashion>Mahogany colored clothing</fashion>, my hog <AAVE type="deletion" field="syn" class="copula"/>in the road</li>
+            <li> Drive slow, cruising down <group label="a" num="14"  rhyme="16 17">memory lane</group> before I hit the streets</li>
+            <li> Have my <group label="a" num="15" rhyme="18">melody playing</group>, creators just lie with my (?)</li>
+            <li><weed>Head between clouds</weed>, I think I'm <group label="a" num="16" rhyme="14 17"><weed>married to Jane</weed></group></li>
+            <li> I remember the days when I'd <group label="a" num="17" rhyme="14 16">forever complain</group></li>
+            <li> That's way before they <group label="a" num="18" rhyme="15">started paying</group>, I was in pain</li>
+            <li> Sick in the brain like I never <group label="a" num="19" rhyme="20" assimilation="21">met a physicist</group> yet</li>
+            <li> Only <group label="a" num="20" rhyme="19">lyricist</group> on my <group label="a" num="21" assimilation="19">metaphysics</group> intellect</li>
         </stanza>
         <stanza speaker="JoeyBada$$" type="hook">
             <li> Sweet dreams, <oldschool>stuck in the 90s</oldschool></li>
             <li>
-                <oldschool>90s babies</oldschool> it's a matter of timing</li>
+                <oldschool><group label="b" num="1" rhyme="2">90s</group> <group label="b" num="2" rhyme="1">babies</group></oldschool> it's a matter of timing</li>
             <li> Sweet dreams my nigga, I wish you sweet dreams my nigga</li>
             <li> Sweet dreams, <oldschool>stuck in the 90s</oldschool></li>
             <li>
-                <oldschool>90s babies</oldschool> it's a matter of timing</li>
-            <li> And time's not rewinding, yeah</li>
+                <oldschool>90s babies</oldschool> it's a matter of <group label="b" num="3" alliteration="4" rhyme="5">timing</group></li>
+            <li> And <group label="b" num="4" alliteration="3">time's</group> not <group label="b" num="5" rhyme="3">rewinding</group>, yeah</li>
         </stanza>
         <stanza speaker="JoeyBada$$" type="verse">
-            <li> Round two <AAVE type="dropping" field="phon" sound="a" position="initial"
-                    >bout</AAVE>, half of this <weed>loud</weed> through</li>
-            <li>
-                <haters>Don't let them hounds snoop</haters> and get soundproofed</li>
-            <li> High frequency sounds too</li>
-            <li> Has <hiphop ref="StatikSelektah">statik</hiphop> spot over serious <hiphop
-                    ref="StatikSelektah">statik</hiphop> shots</li>
-            <li> Scrap vinyls over them <hiphop ref="StatikSelektah">statik</hiphop> pops</li>
-            <li> Im a fanatic fly but a sporadic guy</li>
-            <li> Never chat a lot, just pass the Lye and guide the youth</li>
-            <li> Stand with the truth, Nigga <AAVE type="deletion" field="syn" class="copula"/><AAVE
-                    field="phon" type="dropping" sound="g" position="final">nothin'</AAVE> less</li>
-            <li> When the playbutton pressed</li>
-            <li> Killswitches feel it hit <AAVE field="phon" type="dropping" sound="r"
-                    position="final">ya</AAVE> chest</li>
-            <li> And meet your death, if im caught on the fence know hell hit ya</li>
-            <li> Yes true vets keeps it real <AAVE field="phon" type="contraction" word1="with"
-                    word2="you">whichya</AAVE></li>
-            <li> Ill wit ya, show you the real picture</li>
-            <li> Only keep the ones around that suffer for <food>meals</food>
-                <AAVE field="phon" type="contraction" word1="with" word2="you">whichya</AAVE></li>
-            <li>
-                <AAVE field="phon" type="dropping" sound="be" position="initial">Cuz</AAVE> when
-                them <AAVE field="phon" type="dropping" sound="r" position="middle">suckas</AAVE>,
-                see ya <food>supper</food></li>
-            <li> And your <AAVE type="deletion" field="syn" class="copula"
-                        /><food><money>cake</money></food> getting richer and your pockets <AAVE
-                    type="deletion" field="syn" class="copula"/>getting thicker</li>
+            <li> <group label="c" num="1" slantRhyme="2">Round two</group> <AAVE type="dropping" field="phon" sound="a" position="initial">bout</AAVE>, half of this <group label="c" num="2" slantRhyme="1"><weed>loud</weed> through</group></li>
+            <li><haters>Don't let them <group label="c" num="3" slantRhyme="4 5">hounds snoop</group></haters> and get <group label="c" num="4" slantRhyme="3 5">soundproofed</group></li>
+            <li> High frequency <group label="c" num="5" slantRhyme="3 4">sounds too</group></li>
+            <li> Has <group label="c" num="6" alliteration="7 8" slantRhyme="8 9"><hiphop ref="StatikSelektah">statik</hiphop>spot</group> over <group label="c" num="7" alliteration="6 8">serious</group> <group label="c" num="8" alliteration="6 7" slantRhyme="6 9"><hiphop ref="StatikSelektah">statik</hiphop>shots</group></li>
+            <li> Scrap vinyls over them <group label="c" num="9" slantRhyme="6 8"><hiphop ref="StatikSelektah">statik</hiphop> pops</group></li>
+            <li> Im a <group label="c" num="10" rhyme="11 12">fanatic fly</group> but a <group label="c" num="11" rhyme="10 12">sporadic guy</group></li>
+            <li> Never chat a lot, just <group label="c" num="12" rhyme="10 11">pass the Lye</group> and <group label="c" num="13" rhyme="14">guide the youth</group></li>
+            <li> <group label="c" num="14" rhyme="13">Stand with the truth</group>, Nigga <AAVE type="deletion" field="syn" class="copula"/>
+                <AAVE field="phon" type="dropping" sound="g" position="final">nothin'</AAVE> <group label="c" num="15" slantRhyme="16 17 18">less</group></li>
+            <li> When the playbutton <group label="c" num="16" slantRhyme="15 17 18">pressed</group></li>
+            <li> Killswitches feel it hit <AAVE field="phon" type="dropping" sound="r" position="final">ya</AAVE> <group label="c" num="17" slantRhyme="15 16 18">chest</group></li>
+            <li> And meet your <group label="c" num="18" slantRhyme="15 16 17">death</group>, if im caught on the fence know hell <group label="c" num="19" rhyme="20">hit ya</group></li>
+            <li> Yes true vets keeps it <group label="c" num="20" rhyme="19" slantRhyme="21 22">real <AAVE field="phon" type="contraction" word1="with" word2="you">whichya</AAVE></group></li>
+            <li> Ill wit ya, show you the <group label="c" num="21" slantRhyme="20 22">real picture</group></li>
+            <li> Only keep the ones around that suffer for <group label="c" num="22" slantRhyme="20 21"><food>meals</food> <AAVE field="phon" type="contraction" word1="with" word2="you">whichya</group></AAVE></li>
+            <li><AAVE field="phon" type="dropping" sound="be" position="initial">Cuz</AAVE> when
+                them<group label="c" num="23" alliteration="24 25"> <AAVE field="phon" type="dropping" sound="r" position="middle">suckas</AAVE></group>,
+                <group label="c" num="24" alliteration="23 25">see</group> ya <group label="c" num="25" alliteration="23 24"><food>supper</food></group></li>
+            <li> And your <AAVE type="deletion" field="syn" class="copula"/><food><money>cake</money></food> <group label="c" num="26" rhyme="27">getting richer</group> and your pockets <AAVE
+                    type="deletion" field="syn" class="copula"/><group label="c" num="27" rhyme="26">getting thicker</group></li>
             <li> Thats when they want you to remember a nigga</li>
             <li> But when I handed you the tape you couldn't remember to listen</li>
         </stanza>
@@ -670,24 +648,25 @@
         </stanza>
         <stanza speaker="JoeyBada$$" type="verse">
             <li>
-                <struggle>Been on my grind</struggle>, I keep it 50-50</li>
-            <li> Thats 100 on the real, no balance scales, still trippy</li>
-            <li> Where I live it's either you know talents well and sell records</li>
-            <li> Or no talent, well we still sell for the record</li>
-            <li> Somehow the rap game reminds me of the trap game</li>
-            <li> In fact is the exact same, and these tracks is my crack caine</li>
-            <li> And if you listening then you a fiend</li>
-            <li> Our music is the cure like some vaccines</li>
-            <li> Exotic to the core so stop asking</li>
-            <li> Got the blueprints to the game, but I read it as king</li>
-            <li> There's <guns>47</guns> ways to get this <money>green</money></li>
-            <li> One is being an enslaved being, the other dreams</li>
+                <struggle>Been on my grind</struggle>, I keep it <group label="d" num="1" rhyme="3">50-50</group></li>
+            <li> Thats 100 on the real, no <group label="d" num="2" slantRhyme="4">balance</group> scales, still <group label="d" num="3" rhyme="1">trippy</group></li>
+            <li> Where I live it's either you know <group label="d" num="4" slantRhyme="2">talents</group> <group label="d" num="5" rhyme="6">well</group> and <group label="d" num="6" rhyme="5">sell</group> 
+                <group label="d" num="7" rhyme="10">records</group></li>
+            <li> Or no talent, <group label="d" num="8" rhyme="9">well</group> we still <group label="d" num="9" rhyme="8">sell</group> for the <group label="d" num="10" rhyme="7">record</group></li>
+            <li> Somehow the <group label="d" num="11" rhyme="12 13">rap game</group> reminds me of the <group label="d" num="12" rhyme="11 13">trap game</group></li>
+            <li> In fact is the <group label="d" num="13" rhyme="11 12" slantRhyme="14">exact same</group>, and these tracks is my <group label="d" num="14" slantRhyme="13">crack caine</group></li>
+            <li> And if you listening then you a <group label="d" num="15" slantRhyme="16">fiend</group></li>
+            <li> Our music is the cure like some <group label="d" num="16" slantRhyme="15">vaccines</group></li>
+            <li> Exotic to the core so stop <group label="d" num="17" assimilation="18">asking</group></li>
+            <li> Got the blueprints to the game, but I read it <group label="d" num="18" assimilation="17">as king</group></li>
+            <li> There's <hiphop ref="ProEra">47</hiphop> ways to get this <group label="d" num="19" rhyme="23"><money>green</money></group></li>
+            <li> One is <group label="d" num="20" rhyme="21">being</group> an enslaved <group label="d" num="21" rhyme="20" slantRhyme="22">being</group>, the other <group label="d" num="22" slantRhyme="21">dreams</group></li>
             <li>
-                <popculture ref="TheMatrix">Red pill or blue bean</popculture>, I can't sit still
-                I'm too lean, nigga</li>
-            <li> Brush my bill on on new beams</li>
+                <popculture ref="TheMatrix">Red pill or blue <group label="d" num="23" rhyme="19">bean</group></popculture>, I can't sit still
+                I'm too <group label="d" num="24" rhyme="26" slantRhyme="25">lean</group>, nigga</li>
+            <li> Brush my bill on new <group label="d" num="25" slantRhyme="24">beams</group></li>
             <li> Niggas <AAVE type="deletion" field="syn" class="copula"/>on my tail now that I blew
-                        <money><weed>green</weed></money></li>
+                        <group label="d" num="26" rhyme="24"><money><weed>green</weed></money></group></li>
         </stanza>
         <stanza speaker="JoeyBada$$" type="hook">
             <li> Sweet dreams, <oldschool>stuck in the 90s</oldschool></li>
@@ -709,58 +688,41 @@
     </song>
     <song title="47Goonz" production="LeeBannon">
         <stanza speaker="JoeyBada$$" type="verse">
-            <li> Yo, <hiphop ref="JoeyBada$$">Badass</hiphop> don't act or pretend, back at it
-                again</li>
-            <li> Hit it from the back, <women>she</women> a addict within</li>
-            <li> I got <women>her</women> on some shit like "I'm <AAVE field="phon" type="dropping"
-                    sound="gon" position="initial">a</AAVE> get tatted for him"</li>
-            <li>
-                <women>She</women>
-                <AAVE type="deletion" field="syn" class="copula"/>a ride or die, slim, when she
-                    <AAVE type="deletion" field="syn" class="copula"/>in the denims</li>
-            <li> Remember it like it was yesterday</li>
-            <li> Another case of "I fucked your bitch, nigga" but a more clever way</li>
-            <li> Quarter in the room to elevate, said if you ever may</li>
-            <li> Slip then hit <women>her</women> on the hip where the <guns>Beretta</guns>
-                stay</li>
-            <li> Catch me somersaulting my eyelids</li>
-            <li> Awakened from a dream, just perceived how I live</li>
-            <li> So it's make believe, rather unique</li>
-            <li>
-                <success>Lavish</success>, sweet all live in a rapper physique</li>
-            <li> Hit up a show then after retreat back to the telly with freaks</li>
-            <li> Pack up a <weed>bowl</weed> and we <AAVE type="contraction" field="phon"
-                    word1="did" word2="not">ain't</AAVE> even eat</li>
-            <li> But we got a appetite for <food>cookie creases</food> and treats</li>
-            <li> And they all got tricks up <AAVE field="phon" type="dropping" sound="r"
-                    position="final">they</AAVE> sleeve</li>
+            <li> Yo, <hiphop ref="JoeyBada$$">Badass</hiphop> don't <group label="a" num="1" slantRhyme="2 3 4">act or pretend</group>, back <group label="a" num="2" slantRhyme="1 3 4">at it again</group></li>
+            <li> Hit it from the back, <women>she</women> a <group label="a" num="3" slantRhyme="1 2 4">addict within</group></li>
+            <li> I got <women>her</women> on some shit like <group label="a" num="4" slantRhyme="1 2 3">"I'm <AAVE field="phon" type="dropping" sound="gon" position="initial">a</AAVE> get tatted for him"</group></li>
+            <li><women>She</women><AAVE type="deletion" field="syn" class="copula"/>a ride or die, slim, when she <AAVE type="deletion" field="syn" class="copula"/>in the denims</li>
+            <li> Remember it like it was <group label="a" num="5" rhyme="6 7 11">yesterday</group></li>
+            <li> Another case of "I fucked your bitch, nigga" but a more <group label="a" num="6" rhyme="5 7 11">clever way</group></li>
+            <li> Quarter in the room to elevate, said if you <group label="a" num="7" rhyme="5 6 11">ever may</group></li>
+            <li> Slip then <group label="a" num="8" alliteration="9 10">hit</group> <group label="a" num="9" rhyme="8 10"><women>her</women></group> on the <group label="a" num="10" rhyme="8 9">hip</group> where the <group label="a" num="11" rhyme="5 6 7"><guns>Beretta</guns> stay</group></li>
+            <li> Catch me somersaulting my <group label="a" num="12" assimilation="14">eyelids</group></li>
+            <li> Awakened from a dream, just <group label="a" num="13" slantRhyme="15">perceived</group> how <group label="a" num="14" assimilation="12">I live</group></li>
+            <li> So it's make <group label="a" num="15" slantRhyme="13">believe</group>, <group label="a" num="16" assimilation="17">rather unique</group></li>
+            <li> <success>Lavish</success>, sweet all live in a <group label="a" num="17" assimilation="16" slantRhyme="18">rapper physique</group></li>
+            <li> Hit up a show then <group label="a" num="18" slantRhyme="17">after retreat</group> back to the telly with <group label="a" num="19" slantRhyme="22">freaks</group></li>
+            <li> Pack up a <weed>bowl</weed> and we <AAVE type="contraction" field="phon" word1="did" word2="not">ain't</AAVE> even <group label="a" num="20" rhyme="21">eat</group></li>
+            <li> But we got a appetite for <food>cookie creases</food> and <group label="a" num="21" rhyme="20">treats</group></li>
+            <li> And they all got tricks up <AAVE field="phon" type="dropping" sound="r" position="final">they</AAVE> <group label="a" num="22" slantRhyme="19">sleeve</group></li>
         </stanza>
         <stanza speaker="DirtySanchez" type="verse">
             <li> I'm ashing on the bridge, <weed>Mary Jane</weed>, fuck your cigarettes</li>
-            <li> I'm laughing out loud, ask me if I'm still stressed, possessed</li>
-            <li> Hope the boys in blue don't arrest yours truly</li>
-            <li> Respect but suspect, <hiphop ref="WuTangClan">protect your neck</hiphop> <fashion>jewelry</fashion></li>
-            <li>
-                <guns>47s</guns> and <guns>Uzis</guns>, well-connected and recruiting</li>
-            <li>
-                <AAVE field="syn" type="aspect" tense="present">I be with my Mexicans</AAVE>, I know
-                they got the <guns>toolie</guns></li>
-            <li> I'm smoking <weed>doobies</weed> with like 20 of my goons</li>
-            <li>
-                <weed>Hotbox</weed> the whip and let <weed>smoke</weed> fill the room</li>
-            <li>
-                <success>Even through my lenses, my sense is on the moon</success></li>
-            <li> Dirty be the name and I came from the black lagoon</li>
-            <li> I'm sick with the ink like infected tattoos</li>
-            <li> Just one love but the <fashion><sports>two-three's</sports>
-                    <AAVE type="deletion" field="syn" class="copula"/>branded on my
-                shoes</fashion></li>
-            <li> You would think I had a <weed>eighth</weed> the way I'm crushing them
-                    <food>grapes</food></li>
-            <li> Had <women>her</women> whining for a taste, that's why she's up in my face</li>
-            <li> Them Apex taking over like we <AAVE type="deletion" field="syn" class="copula"
-                />running with Apes</li>
-            <li> What's the verdict? Nothing but a fucking disgrace, nigga</li>
+            <li> I'm laughing out loud, ask me if I'm still <group label="b" num="1" rhyme="2">stressed</group>, <group label="b" num="2" rhyme="1">possessed</group></li>
+            <li> Hope the boys in <group label="b" num="3" assonance="4">blue</group> don't arrest yours <group label="b" num="4" assonance="3">truly</group></li>
+            <li> <group label="b" num="5" rhyme="6 7">Respect</group> but <group label="b" num="6" rhyme="5 7">suspect</group>, <hiphop ref="WuTangClan">
+                <group label="b" num="7" rhyme="5 6">protect</group> your neck</hiphop> <fashion><group label="b" num="9" slantRhyme="10">jewelry</group></fashion></li>
+            <li><guns>47s</guns> and <guns><group label="b" num="10" slantRhyme="9">Uzis</group></guns>, well-<group label="b" num="11" consonance="12">connected</group> and <group label="b" num="12" consonance="11">recruiting</group></li>
+            <li><AAVE field="syn" type="aspect" tense="present">I be with my Mexicans</AAVE>, I know they got the <guns><group label="b" num="13" rhyme="14">toolie</group></guns></li>
+            <li> I'm smoking <weed><group label="b" num="14" rhyme="13">doobies</group></weed> with like 20 of my <group label="b" num="15" slantRhyme="16" rhyme="19 20">goons</group></li>
+            <li><weed>Hotbox</weed> the whip and let <weed>smoke</weed> fill the <group label="b" num="16" slantRhyme="15">room</group></li>
+            <li><success>Even through my <group label="b" num="17" slantRhyme="18">lenses</group>, my <group label="b" num="18" slantRhyme="17">sense</group> is on the <group label="b" num="19" rhyme="15 20">moon</group></success></li>
+            <li> Dirty be the name and I came from the black <group label="b" num="20" rhyme="15 19">lagoon</group></li>
+            <li> I'm sick with the ink like infected <group label="b" num="21" rhyme="22">tattoos</group></li>
+            <li> Just one love but the <fashion><sports>two-three's</sports> <AAVE type="deletion" field="syn" class="copula"/>branded on <group label="b" num="22" rhyme="21">my shoes</group></fashion></li>
+            <li> You would think I had a <weed><group label="b" num="23">eighth</group></weed> the way I'm crushing them <food><group label="b" num="24" rhyme="28">grapes</group></food></li>
+            <li> Had <women>her</women> whining for a <group label="b" num="25" slantRhyme="26">taste</group>, that's why she's up in my <group label="b" num="26" rhyme="29" slantRhyme="25">face</group></li>
+            <li> Them <group label="b" num="27" slantRhyne="28">Apex</group> taking over like we <AAVE type="deletion" field="syn" class="copula"/>running with <group label="b" num="28" slantRhyme="27" rhyme="24">Apes</group></li>
+            <li> What's the verdict? Nothing but a fucking <group label="b" num="29" rhyme="26">disgrace</group>, nigga</li>
         </stanza>
         <stanza speaker="NyckCaution" type="verse">
             <li>
