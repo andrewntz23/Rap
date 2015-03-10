@@ -292,7 +292,11 @@ ref =
              | "Louisiana"
              | "JamesBond"
              | "JimmyNeutron"
-             | "WuTangClan")+
+             | "WuTangClan"
+             | "MuhammadAli"
+             | "MarcusGarvey"
+             | "Maybach"
+             | "BabyCham")+
         }
     }
 popculture =

@@ -2,26 +2,11 @@
 <!DOCTYPE html>
 <html xmlns="http://www.w3.org/1999/xhtml">
     <head>
+        <link rel="stylesheet" type="text/css" href="proofread.css" />
         <title>jspractice_spans</title>
         <script type="text/javascript">
-            /*As stated, nothing really exciting is going on yet (checkboxes are not associated, color system was sloppily done, cannot account for belonging
-            to multiple groups), and theres some sloppiness, but this is the basis for the proofreading tool. Much of this code will be reusable for display purposes as well.
-            I will also create an XSLT to convert the given xml to the format required for the code to work (basically just tacking "data-" to the desired attribute names-)*/
-            
-            
-            /* 
-            Everything is basically set except for two features: on click of any radio button launch one function, which takes as a parameter the only radio that is checked. 
-            Upon that, turn everything black that either does not have a title attribute of the same value as an associated by id, CHECKED=TRUE checkbox or does not have an 
-            attribute equal to that radio's id. (for example, if only checkbox group d is checked and they press allit radio, only the members associated by alliteration in group d will be
-            still their color. everything else will go black). Problem will be returning original color (honestly, handled well in the clear function), and making work for members of multiple groups. 
-            Everything else should be pretty straightforward; for instance, gathering checked checkboxes will be simply a matter of running document.querySelectAll(checkbox[checked=true])
-            
-            */
-            
-            
+            //should set up a better way for dealing with colors; better than random, which too often gets really similar colors, but this is sloppy, and could run into index problems. 
             var colors = ["red", "blue", "green", "purple", "orange", "red", "blue", "green", "purple", "orange", "red", "blue", "green", "purple", "orange"] 
-            /*Should develop a better way to cycle through colors. this is sloppy, and could get out of bounds index if there is a lot of groups in any particular song.*/
-
             window.onload = function(){
                 var foo = document.getElementsByTagName("span");
                 setColor()
@@ -42,7 +27,6 @@
                 */
                 var container = document.createElement("form");  
                 container.setAttribute("id", "container");
-                container.setAttribute("style", "border-style:solid")
                 container.setAttribute("action", "");
                 document.body.appendChild(container);
                 var spans = document.getElementsByTagName("span")
@@ -59,12 +43,12 @@
                         newBox.value = spans[d].getAttribute("title");
                         newBox.id = spans[d].getAttribute("title");
                         newBox.checked = true;
-                        newBox.setAttribute("onclick", "clearColor(this)")
-                        newLabel.setAttribute("onclick", "clearColor(this)")
+                        newBox.setAttribute("onclick", "clearAllColor()")
+                        newLabel.setAttribute("onclick", "clearAllColor()")
+                        newLabel.appendChild(newBox);
                         newLabel.appendChild(newText);
                         newLabel.id = spans[d].getAttribute("title");
                         newLabel.htmlFor = spans[d].getAttribute("title");
-                        container.appendChild(newBox); 
                         container.appendChild(newLabel);
                     }
                 }
@@ -121,7 +105,7 @@
                        var Xpos = windowWidth - 310
                     };
                     overlay.setAttribute("id", id);
-                 overlay.setAttribute("style", "z-index: 10; background-color: yellow; position: absolute; left: " + Xpos + "px; top: " + Ypos + "px; border: 2px solid black; width: 300px; padding: 2px; margin: 0;")
+                    overlay.setAttribute("style", "z-index: 10; background-color: yellow; position: absolute; left: " + Xpos + "px; top: " + Ypos + "px; border: 2px solid black; width: 300px; padding: 2px; margin: 0;")
                     overlay.setAttribute("onclick", "document.body.removeChild(document.getElementById('" + id + "'))");
                     overlay.setAttribute("class", "overlay");
                     document.body.appendChild(overlay);
@@ -131,11 +115,10 @@
                  var elmt = document.getElementById(id);
                  elmt.remove();
             }
-            
-            function clearColor(elmt){  //cannot overload methods in JavaScript, but CAN have optional parameters. Best move might be to set a second param here evaluate whether it is null or not, use the SINGLE one
+            /*Have basic functionality working here; What I need to do is say that on clicking ANY checkbox, it re-evaluates for every checkbox; same for radio*/
+    /*        function clearColor(elmt){  //cannot overload methods in JavaScript, but CAN have optional parameters. Best move might be to set a second param here evaluate whether it is null or not, use the SINGLE one
             //for the checkboxes and DOBUBLE for the radio, then check if second arg is null (if so, run what currently have; if not, change it to set color based on radio value and this value.)
                 var radio = document.querySelector('input[name="device"]:checked').value; //working, sort of (needs a lot of building still), but the below code is not working because radio!=null. good start. 
-            //    if (radio==null){  
                 var bar = document.getElementsByTagName("span");
                 //I think that I actually need to collect all of the boxes that are checked, and then run a loop over those, with what is belowe as nested for them, because should be able to do this with radios too.
                 if (elmt.checked == false){
@@ -147,36 +130,64 @@
                 }
                 else {
                     for (var i = 0; (i != bar.length); i++) { 
-                        if (bar[i].getAttribute("title") == elmt.getAttribute("id")){
-                            bar[i].setAttribute("style", "color:".concat(colors[(elmt.getAttribute("id").charCodeAt(0) - 97)])); 
+                        if (bar[i].getAttribute("title") == elmt.getAttribute("id") &amp;&amp; bar[i].hasAttribute('data-'.concat(radio)) ){
+                            bar[i].setAttribute("style", "color:".concat(colors[(elmt.getAttribute("id").charCodeAt(0) - 97)])); //will fail if groups ever exceed letters of alphabet, but that shouldn't happen
                         }
                     }
                 }
-               // }
+               
+            }*/
+            
+            //nearly there with this working, just need to add in so that radios will work properly. 
+            function clearAllColor(){  //not based on taking any parameters anymore; why isn't it working for both radio
+                var radio = document.querySelector('input[name="device"]:checked').value; //working, sort of (needs a lot of building still), but the below code is not working because radio!=null. good start. 
+                var boxes = document.querySelectorAll("input[type='checkbox']");
+                var bar = document.getElementsByTagName("span");
+                for (var b = 0; (b != boxes.length); b++){
+                    var elmt = boxes[b];
+                    if (elmt.checked == false){
+                        for (var i = 0; (i != bar.length); i++) { 
+                            if (bar[i].getAttribute("title") == elmt.getAttribute("id")){
+                                bar[i].setAttribute("style", "color:black");
+                            }
+                        }
+                    }
+                    else {
+                        for (var i = 0; (i != bar.length); i++) { 
+                            if (bar[i].getAttribute("title") == elmt.getAttribute("id") &amp;&amp; bar[i].hasAttribute('data-'.concat(radio)) ){
+                                bar[i].setAttribute("style", "color:".concat(colors[(elmt.getAttribute("id").charCodeAt(0) - 97)])); //will fail if groups ever exceed letters of alphabet, but that shouldn't happen
+                            }
+                            else if (bar[i].getAttribute("title") == elmt.getAttribute("id") &amp;&amp; !bar[i].hasAttribute('data-'.concat(radio)) ){
+                                bar[i].setAttribute("style", "color:black");
+                            }
+                        }
+                    }
+               }
             }
+
+            
 
         </script>
     </head>
     <body>
-        <p>The <span title="a" data-num="1" data-rhyme="25" data-assonance="34">fat</span>
-            <span title="a" data-num="2" data-rhyme="15" data-assonance="34">cat</span>
-            <span title="a" data-num="3" data-rhyme="4" data-assonance="125">snags</span> his <span title="a"
-                data-num="4" data-rhyme="3" data-assonance="125">bags</span> and <span title="a" data-num="5"
-                data-assonance="34">gat</span> <span title="b">cool</span> <span title="c"> and cooler</span></p>
-<!--   Might be better to do this with either XSLT or JS     -->
+        <p>The <span title="a" data-all="0" data-num="1" data-rhyme="25" data-assonance="34">fat</span>
+            <span title="a" data-all="0" data-num="2" data-rhyme="15" data-assonance="34">cat</span>
+            <span title="a" data-all="0" data-num="3" data-rhyme="4" data-assonance="125">snags</span> his <span title="a" 
+                data-num="4" data-all="0" data-rhyme="3" data-assonance="125">bags</span> and <span data-all="0" title="a" data-num="5"
+                    data-assonance="34">gat</span> <span title="b" data-all="0">cool</span> <span title="c" data-all="0"> and cooler</span></p>
+<!--   Will do this eventually with either JS or XSLT     -->
         <form action=""> 
-            <input type="radio" name="device" value="all" id="all" checked="checked"/>
-            <label for="all">all</label>
-            <input type="radio" name="device" value="rhyme" id="rhyme"/>
-            <label for="rhyme">rhyme</label>
-            <input type="radio" name="device" value="slant" id="slant"/>
-            <label for="slant">slant rhyme</label>
-            <input type="radio" name="device" value="assonance" id="assonance"/>
-            <label for="assonance">assonance</label>
-            <input type="radio" name="device" value="alliteration" id="alliteration"/>
-            <label for="alliteration">alliteration</label>
-            <input type="radio" name="device" value="assimilation" id="assimilation"/>
-            <label for="assimilation">assimilation</label>
+            <label for="all" onclick="clearAllColor()"><input type="radio" name="device" value="all" id="all" checked="checked" onclick="clearAllColor()"/>all</label>
+            <label for="alliteration" onclick="clearAllColor()"><input type="radio" name="device" value="alliteration" id="alliteration" onclick="clearAllColor()"/>alliteration</label>
+            <label for="assimilation" onclick="clearAllColor()"><input type="radio" name="device" value="assimilation" id="assimilation" onclick="clearAllColor()"/>assimilation</label>
+            <label for="assonance" onclick="clearAllColor()"><input type="radio" name="device" value="assonance" id="assonance" onclick="clearAllColor()"/>assonance</label>
+            <label for="consonance" onclick="clearAllColor()"><input type="radio" name="device" value="consonance" id="consonance" onclick="clearAllColor()"/>consonance</label>
+            <label for="repetition" onclick="clearAllColor()"><input type="radio" name="device" value="repetition" id="repetition" onclick="clearAllColor()"/>repetition</label>
+            <label for="rhyme" onclick="clearAllColor()"><input type="radio" name="device" value="rhyme" id="rhyme" onclick="clearAllColor()"/> rhyme</label>
+            <label for="slant" onclick="clearAllColor()"><input type="radio" name="device" value="slant" id="slant" onclick="clearAllColor()"/> slant rhyme</label>
+            
+            
+            
         </form>
     </body>
 </html>
