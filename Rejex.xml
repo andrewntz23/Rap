@@ -78,7 +78,7 @@
             <li><success>But something down deep tells me I'm the next <group label="c" num="6" rhyme="5">prophet</group></success></li>
             <!--     We've already discussed that we'll need to do a more careful run through of the motif markup, but pay close attentions to moments like this: Muhammad and Marcus Garvey would both be tagged, and
             are important moments-->
-            <li><oldschool>Like the new <popculture ref="MuhammadAli"><sports>Muhammad</sports></popculture> or the new <popculture ref="MarcusGarvey">Marcus <group label="c" num="7" rhyme="8">Garvey</group></popculture></oldschool></li>
+            <li><oldschool>Like the new <popculture ref="ElijahMuhammad">Muhammad</popculture> or the new <popculture ref="MarcusGarvey">Marcus <group label="c" num="7" rhyme="8">Garvey</group></popculture></oldschool></li>
             <li>Or <group label="c" num="8" rhyme="7">probably</group>, it makes sense why I'm so <group label="c" num="9" slantRhyme="10" assimilation="11">heavily guarded</group></li>
             <li>Wait, no, please <group label="c" num="10" slantRhyme="9">restart it</group></li>
             <li>I'm <group label="c" num="11" assimilation="9">heavenly guarded</group>, it's the golden <group label="c" num="12" slantRhyme="13">child</group> and for a <group label="c" num="13" slantRhyme="12" rhyme="14">while</group></li>
@@ -479,6 +479,7 @@
             <li>Shit, you probably went passed that, probably still <weed>chiefing blunts</weed></li>
             <li>As a matter of fact, you probably don't even pass that</li>
 <<<<<<< HEAD
+<<<<<<< HEAD
             <li>You probably in the back of a black <popculture ref="Maybach">bach</popculture>, splitting down the <weed>dutch</weed></li>
             <li>With a <women>dime chick</women> in the tail flap, but her head is up</li>
             <li>I see where the <women>hoes</women> at, but where the bros at?</li>
@@ -498,6 +499,8 @@
             <li>And <success>now you living where it's tropical, you got the most shade</success></li>
             <li>A letter to my future, sincerely, your broke days</li>
 =======
+=======
+>>>>>>> origin/master
             <li>You probably in the <group label="a" num="17" alliteration="18 19">back</group> of a <group label="a" num="18" alliteration="17 19">black</group> <group label="a" num="19" alliteration="17 18">bach</group>, splitting <group label="a" num="20" assimilation="23"><group label="a" num="21" alliteration="22">down</group> the <group label="a" num="22" alliteration="21"><weed>dutch</weed></group></group></li>
             <li>With a <women>dime chick</women> in the tail flap, <group label="a" num="23" assimilation="20">but her head is up</group></li>
             <li>I see where the <group label="a" num="24" rhyme="25"><women>hoes</women> at</group>, but where the <group label="a" num="25" rhyme="24">bros at</group>?</li>
@@ -516,6 +519,9 @@
             <li>Anything is <group label="b" num="13" rhyme="14 15 16">possible</group> and any <group label="b" num="14" rhyme="13 15 16">obstacle</group> should be <group label="b" num="15" assimilation="12" rhyme="13 14 16">hoppable</group></li>
             <li>And <success>now you living where it's <group label="b" num="16" rhyme="13 14 15">tropical</group>, you got the <group label="b" num="17" slantRhyme="18" rhyme="19">most shade</group></success></li>
             <li>A letter to my future, sincerely, your <group label="b" num="18" slantRhyme="17">broke days</group></li>
+<<<<<<< HEAD
+>>>>>>> origin/master
+=======
 >>>>>>> origin/master
             <li><struggle>Motherfuck them broke days</struggle></li>
             <li>Most praise to the motherfucking <success><group label="b" num="19" rhyme="17">most paid</group></success></li>
