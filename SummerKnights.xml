@@ -953,28 +953,24 @@
                         >gon'</AAVE></AAVE> live mine</li>
         </stanza>
         <stanza speaker="JoeyBada$$" type="verse">
-            <li> Yo, I'm trying to <popculture ref="Oprah">Oprah</popculture> win-win with a
-                    <weed>L</weed> in my hand</li>
-            <li> Remotely passed off like the generous man</li>
-            <li> And they wonder what it <AAVE type="tense" field="syn" person="third">cost</AAVE>
-                to put the pen in my hand</li>
-            <li> But don't understand they <AAVE type="deletion" field="syn" class="copula"/>the
-                only one who gets the benefit, damn</li>
-            <li> Sometimes I just sit and pray</li>
-            <li> They couldn't walk this way in my <fashion>J's</fashion></li>
-            <li> It wouldn't feel despair, but disarray</li>
-            <li> Like their souls disappear</li>
-            <li> Son got hot flows, got dropped like disarray</li>
-            <li> Couldn't close my ghost souls, eyes closed</li>
-            <li> Covered with <fashion>Ray-Bans</fashion>, I call it my eyes closed, and I
-                know!</li>
-            <li> Even through shades of black</li>
-            <li> I see brighter days <AAVE type="deletion" field="syn" class="copula"/>looking back
-                in fact</li>
-            <li> So I relax my mind, see what these tracks can find</li>
-            <li> A <money><success>gold mine</success></money> that will make me rich in both <money><women>dimes</women></money> in mine</li>
-            <li> Gotta make it all mine if you don't mind</li>
-            <li> Cause sometimes</li>
+            <li> Yo, I'm trying to <popculture ref="Oprah">Oprah</popculture> win-win with a <weed>L</weed> in my <group label="e" num="1" slantRhyme="2">hand</group></li>
+            <li> Remotely passed off like the generous <group label="e" num="2" slantRhyme="1">man</group></li>
+            <li> And they wonder what it <AAVE type="tense" field="syn" person="third">cost</AAVE> to put the pen in my <group label="e" num="3" rhyme="4">hand</group></li>
+            <li> But don't <group label="e" num="4" rhyme="3" slantRhyme="5">understand</group> they <AAVE type="deletion" field="syn" class="copula"/>the only one who gets the benefit, <group label="e" num="5" slantRhyme="4">damn</group></li>
+            <li> Sometimes I just sit and <group label="e" num="6" rhyme="7 9">pray</group></li>
+            <li> They couldn't walk this way in my <group label="e" num="7" rhyme="6 9"><fashion>J's</fashion></group></li>
+            <li> It wouldn't feel <group label="e" num="8" assimilation="11">despair</group>, but <group label="e" num="9" rhyme="6 7">disarray</group></li>
+            <li> Like their <group label="e" num="10" slantRhyme="12">souls</group> <group label="e" num="11" assimilation="8">disappear</group></li>
+            <li> Son got hot <group label="e" num="12" slantRhyme="10">flows</group>, got dropped like disarray</li>
+            <li> Couldn't <group label="e" num="13" assonance="14 15 16">close</group> my <group label="e" num="14" assonance="13 15 16">ghost</group> <group label="e" num="15" assonance="13 14 16">souls</group>, eyes <group label="e" num="16" assonance="13 14 15">closed</group></li>
+            <li> Covered with <fashion>Ray-Bans</fashion>, I call it my eyes <group label="e" num="17" slantRhyme="18">closed</group>, and I <group label="e" num="18" slantRhyme="17">know</group>!</li>
+            <li> Even through shades of <group label="e" num="19" rhyme="20">black</group></li>
+            <li> I see brighter days <AAVE type="deletion" field="syn" class="copula"/>looking <group label="e" num="20" rhyme="19" slantRhyme="21">back</group> in <group label="e" num="21" slantRhyme="20">fact</group></li>
+            <li> So I <group label="e" num="22" rhyme="23">relax my mind</group>, see what these <group label="e" num="23" rhyme="22">tracks can find</group></li>
+            <li> A <money><success><group label="e" num="24" slantRhyme="25">gold mine</group></success></money> that will make me rich in 
+                <group label="e" num="25" slantRhyme="24">both <money><women>dimes</women></group></money> in <group label="e" num="26" slantRhyme="27 28 29">mine</group></li>
+            <li> Gotta make it all <group label="e" num="27" slantRhyme="26 28 29">mine</group> if you don't <group label="e" num="28" slantRhyme="26 27 29">mind</group></li>
+            <li> Cause <group label="e" num="29" slantRhyme="26 27 28">sometimes</group></li>
         </stanza>
         <stanza speaker="JoeyBada$$" type="hook">
             <li> Sometimes I just sit and pray</li>
@@ -988,26 +984,24 @@
                         >gon'</AAVE></AAVE> live mine</li>
         </stanza>
         <stanza speaker="DessyHinds" type="verse">
-            <li> Right on the block where they sit and play</li>
-            <li> Lives the vicious ways where they spit and <guns>spray</guns></li>
-            <li> <guns><sports>Vicious trey's</sports></guns> coming for the ice you kept in yesterday</li>
-            <li> It's nothing but the history</li>
-            <li> Protecting ya from being history</li>
-            <li> And then the next day your face is just a mystery</li>
-            <li>
-                <haters>For niggas who really <AAVE type="contraction" field="phon" word1="are"
-                        word2="not">ain't</AAVE> feeling me are all my fucking enemies</haters></li>
-            <li> Even the lightest hours require <guns>heavy artillery</guns></li>
-            <li> Accelerate without the breaks of a break</li>
-            <li> And still I'm not eating up to now and there's a lot on my plate</li>
-            <li> All in a day's work of God and his grace</li>
-            <li> You wanna eat then tell God and say grace</li>
-            <li> And avoid the heat getting the boil to surface</li>
-            <li> A soft nigga caught between these rocks and a hard place</li>
-            <li> Because the Mafia is on the look out for the <popculture ref="Scarface"
-                    >Scarface</popculture></li>
-            <li> But the ill-minded child, is ill minded child</li>
-            <li> Got a round of styles</li>
+            <li> Right on the block where they <group>sit and play</group></li>
+            <li> Lives the <group>vicious ways</group> where they <group>spit and <guns>spray</guns></group></li>
+            <li> <group><guns><sports>Vicious trey's</sports></guns></group> coming for the ice you kept in <group>yesterday</group></li>
+            <li> It's nothing but the <group>history</group></li>
+            <li> Protecting ya from being <group>history</group></li>
+            <li> And then the next day your face is just a <group>mystery</group></li>
+            <li> <haters>For niggas who really <AAVE type="contraction" field="phon" word1="are" word2="not">ain't</AAVE> 
+                <group>feeling me</group> are all my <group>fucking enemies</group></haters></li>
+            <li> Even the lightest hours require <group><guns>heavy artillery</guns></group></li>
+            <li> <group>Accelerate</group> without the <group>breaks</group> of a <group>break</group></li>
+            <li> And still I'm not eating up to now and there's a lot on my <group>plate</group></li>
+            <li> All in a day's work of <group>God and his grace</group></li>
+            <li> You wanna eat then tell <group>God and say grace</group></li>
+            <li> And avoid the heat getting the boil to <group>surface</group></li>
+            <li> A soft nigga caught between these rocks and a hard <group>place</group></li>
+            <li> Because the Mafia is on the look out for the <popculture ref="Scarface"><group>Scarface</group></popculture></li>
+            <li> But the <group>ill-minded child</group>, is <group>ill minded child</group></li>
+            <li> Got a round of <group>styles</group></li>
             <li> Killing niggas' mental like a <guns>round of shells</guns></li>
             <li> Very well rounded round it</li>
             <li> Well <AAVE field="phon" type="dropping" sound="un" position="initial">'til</AAVE>
