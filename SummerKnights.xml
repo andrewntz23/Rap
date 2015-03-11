@@ -1175,41 +1175,40 @@
             <li> Don't this shit make my people wanna jump?</li>
         </stanza>
         <stanza speaker="DessyHinds" type="verse">
-            <li> Surround Sounder</li>
-            <li> Come and hear the <weed>blunt-smoking</weed> philosopher</li>
-            <li> Smoking with a <weed>joint</weed> to get you open like a chakra</li>
-            <li> No time for the roster this rap game goes either way</li>
-            <li> Let him lead the way</li>
-            <li> And niggas will know who they need to play</li>
-            <li> Freeing the ways to amplify the idiolect</li>
-            <li> Saw nothing but shots since the project days</li>
-            <li> Like I was <AAVE field="phon" type="dropping" sound="g" position="final"
-                    >eyin'</AAVE> the <guns>Tec</guns></li>
-            <li> Kept the eye in the text</li>
+            <li> <group label="f" num="1" assonance="2">Surround</group> <group label="f" num="2" assonance="1" rhyme="3">Sounder</group></li>
+            <li> Come and hear the <weed>blunt-smoking</weed> <group label="f" num="3" rhyme="2">philosopher</group></li>
+            <li> Smoking with a <weed>joint</weed> to get you open like a <group label="f" num="4" slantRhyme="5">chakra</group></li>
+            <li> No time for the <group label="f" num="5" slantRhyme="4">roster</group> this rap game goes <group label="f" num="6" rhyme="7 8 9 10">either way</group></li>
+            <li> Let him <group label="f" num="7" rhyme="6 8 9 10">lead the way</group></li>
+            <li> And niggas will know who they <group label="f" num="8" rhyme="6 7 9 10">need to play</group></li>
+            <li> <group label="f" num="9" rhyme="6 7 8 10">Freeing the ways</group> to amplify the idiolect</li>
+            <li> Saw nothing but shots since the <group label="f" num="10" rhyme="6 7 8 9">project days</group></li>
+            <li> Like I was <group label="f" num="11" assimilation="12 13"><AAVE field="phon" type="dropping" sound="g" position="final">eyin'</AAVE> the <guns>Tec</guns></group></li>
+            <li> Kept the <group label="f" num="12" assimilation="11 13">eye in the text</group></li>
             <li> Make <AAVE field="phon" type="dropping" sound="un" position="initial">'em</AAVE>
-                see my eye in the <popculture ref="Lexus">Lex</popculture></li>
-            <li> Giving my blood sweat and iron injecting selecting the soul</li>
-            <li> Cause mind body and soul can't be reinstalled</li>
-            <li> Special with the flow to make Niagara fall</li>
-            <li> It's over for the systematic rapping robotics</li>
-            <li> Crashing my logic</li>
-            <li> These niggas hooked on hooks and <popculture ref="HookedonPhonics">Hooked on
-                    Phonics</popculture></li>
-            <li> With hooked on phonics the pot could get em hooked on chronic</li>
-            <li> Cause pain conditions from the page conditions</li>
-            <li> Racing like <popculture ref="Sonic">Sonic</popculture> inhaling the tonic</li>
-            <li> They couldn't grade my brain in a college</li>
-            <li> Themes behind it rob you for ya mind like thieves is behind it</li>
-            <li> So we had to squeeze in knowledge</li>
-            <li> To pile it when the <money>green</money> sees wallet</li>
-            <li> Anything to let the <money>green</money> seize wallet</li>
-            <li> Taking forever and a century with sentence speeds</li>
-            <li> Like a penitentiary to build cell blocks to block your memory</li>
-            <li> Catch me on the enemy's territory</li>
-            <li> Telling terrorist story with a terror</li>
-            <li> The Era ends with a good night story</li>
-            <li> Don't this shit make my people wanna jump?</li>
-            <li> No disrespect, ask my man for the pumps</li>
+                see my <group label="f" num="13" assimilation="11 12">eye in the <popculture ref="Lexus">Lex</popculture></group></li>
+            <li> Giving my blood sweat and iron <group label="f" num="14" rhyme="15">injecting</group> <group label="f" num="15" rhyme="14">selecting</group> the soul</li>
+            <li> Cause mind body and soul can't be <group label="f" num="16" slantRhyme="17">reinstalled</group></li>
+            <li> Special with the flow to make <group label="f" num="17" slantRhyme="16">Niagara fall</group></li>
+            <li> It's over for the systematic <group label="g" num="18" slantRhyme="19">rapping robotics</group></li>
+            <li> <group label="g" num="19" slantRhyme="18">Crashing my logic</group></li>
+            <li> These niggas hooked on hooks and <group label="g" num="1" rhyme="2 3"><popculture ref="HookedonPhonics">Hooked on
+                    Phonics</popculture></group></li>
+            <li> With <group label="g" num="2" rhyme="1 3">hooked on phonics</group> the pot could get em <group label="g" num="3" rhyme="1 2">hooked on chronic</group></li>
+            <li> Cause <group label="g" num="4" rhyme="5">pain conditions</group> from the <group label="g" num="5" rhyme="4">page conditions</group></li>
+            <li> <group label="g" num="6" rhyme="7">Racing like <popculture ref="Sonic">Sonic</popculture></group> <group label="g" num="7" rhyme="6">inhaling the tonic</group></li>
+            <li> They couldn't <group label="g" num="8" assonance="9">grade</group> my <group label="g" num="9" assonance="8">brain</group> in a <group label="g" num="10" rhyme="13">college</group></li>
+            <li> <group label="g" num="11" rhyme="12">Themes behind it</group> rob you for ya mind like <group label="g" num="12" rhyme="11">thieves is behind it</group></li>
+            <li> So we had to squeeze in <group label="g" num="13" rhyme="10">knowledge</group></li>
+            <li> To pile it when the <money>green</money> <group <group label="h" num="1" rhyme="2">sees wallet</group></li>
+            <li> Anything to let the <money>green</money> <group <group label="h" num="2" rhyme="1">seize wallet</group></li>
+            <li> Taking forever and a century with <group <group label="h" num="3" slantRhyme="4">sentence speeds</group></li>
+            <li> Like a <group <group label="h" num="4" slantRhyme="3" rhyme="5 6 7">penitentiary</group> to build cell blocks to block your <group <group label="h" num="5" rhyme="4 6 7">memory</group></li>
+            <li> Catch me on the <group <group label="h" num="6" rhyme="4 5 7">enemy's</group> <group <group label="h" num="7" rhyme="4 5 6">territory</group></li>
+            <li> <group <group label="h" num="8" alliteration="9 10">Telling</group> <group <group label="h" num="9" alliteration="8 10">terrorist</group> story with a <group <group label="h" num="10" alliteration="8 9" slantRhyme="11">terror</group></li>
+            <li> The <group <group label="h" num="11" slantRhyme="10">Era</group> ends with a good night story</li>
+            <li> Don't this shit make my people wanna <group <group label="h" num="12" rhyme="13">jump</group>?</li>
+            <li> No disrespect, ask my man for the <group <group label="h" num="13" rhyme="12">pumps</group></li>
             <li> Don't this shit make my people wanna jump?</li>
         </stanza>
 
