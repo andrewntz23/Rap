@@ -1318,76 +1318,73 @@
             <li> In fact he lets me <group label="a" num="16" slantRhyme="15">call him “me</group>,”</li>
         </stanza>
         <stanza speaker="JoeyBada$$" type="verse">
-            <li> When did rap turn into a <group>fashion show</group>?</li>
-            <li> Too many makeup artists won't let their <group>passion show</group></li>
-            <li> The anti-<group>social</group> <group>mogul</group>, <AAVE field="phon" type="dropping" sound="g"
+            <li> When did rap turn into a <group label="b" num="1" rhyme="2">fashion show</group>?</li>
+            <li> Too many makeup artists won't let their <group label="b" num="2" rhyme="1">passion show</group></li>
+            <li> The anti-<group label="b" num="3" rhyme="4 5">social</group> <group label="b" num="4" rhyme="3 5">mogul</group>, <AAVE field="phon" type="dropping" sound="g"
                     position="final">havin'</AAVE> 20/20 visions</li>
-            <li> In needa bifocals, for your eyes dilated ojos</li>
-            <li> Open wide, never did I owe hoes</li>
-            <li> Suck a dick dilated, tell my old hoes</li>
-            <li> Hit my main bitch in the Poconos</li>
-            <li> I'm not Pinocchio, I never lied I poke her nose</li>
-            <li> With the dopest dope, brand new Pablo, brand new God flow</li>
-            <li> It feel like, Escobar and Apollo</li>
-            <li> Swank apparel, I put a pic on the site ‘<AAVE field="phon" type="dropping"
-                    sound="r" position="final">ya</AAVE> megabytes</li>
-            <li> Y'all niggas ticking me off like headlights</li>
-            <li> Get your head right, it all falls down</li>
-            <li> I bread right on the house</li>
-            <li> Eye was on 106 and Park and still on the couch like, Bitch fuck Jacob</li>
-            <li> I went to meet my maker, with 25 sacred stones</li>
-            <li> Told him save me a few acres</li>
+            <li> In needa <group label="b" num="5" rhyme="3 4" slantRhyme="6">bifocals</group>, for your <group label="b" num="6" slantRhyme="5" rhyme="7 10">eyes dilated ojos</group></li>
+            <li> Open wide, never did I <group label="b" num="7" rhyme="6 10">owe hoes</group></li>
+            <li> Suck a <group label="b" num="8" alliteration="9">dick</group> <group label="b" num="9" alliteration="8">dilated</group>, tell my <group label="b" num="10" rhyme="6 7">old hoes</group></li>
+            <li> Hit my main bitch in the <group label="b" num="11" assimilation="12 13">Poconos</group></li>
+            <li> I'm not <group label="b" num="12" assimilation="11 13">Pinocchio</group>, I never lied I <group label="b" num="13" assimilation="11 12">poke her nose</group></li>
+            <li> With the <group label="b" num="14" alliteration="15">dopest</group> <group label="b" num="15" alliteration="14">dope</group>, 
+                brand new <group label="b" num="16" rhyme="17 18">Pablo</group>, 
+                brand new <group label="b" num="17" rhyme="16 18">God flow</group></li>
+            <li> It feel like, Escobar and <group label="b" num="18" rhyme="16 17">Apollo</group></li>
+            <li> Swank apparel, I put a pic on the <group label="b" num="19" rhyme="20">site</group> ‘<AAVE field="phon" type="dropping"
+                    sound="r" position="final">ya</AAVE> <group label="b" num="20" rhyme="19">megabytes</group></li>
+            <li> Y'all niggas ticking me off like <group label="b" num="21" rhyme="22 23">headlights</group></li>
+            <li> Get your <group label="b" num="22" rhyme="21 23">head right</group>, it all falls down</li>
+            <li> I <group label="b" num="23" rhyme="21 22">bread right</group> <group label="b" num="24" slantRhyme="25">on the house</group></li>
+            <li> Eye was on 106 and Park and still <group label="b" num="25" slantRhyme="24">on the couch</group> like, Bitch fuck Jacob</li>
+            <li> I went to <group label="b" num="26" alliteration="27 28">meet</group> <group label="b" num="27" alliteration="26 28">my</group> <group label="b" num="28" alliteration="26 27" rhyme="29">maker</group>, with 25 sacred stones</li>
+            <li> Told him save me a few <group label="b" num="29" rhyme="28">acres</group></li>
         </stanza>
         <stanza speaker="JoeyBada$$" type="interlude">
             <li> Yeah, cause' we just some Amethyst Rockstars</li>
             <li> Amethyst Rockstar</li>
             <li> Amethyst Rockstar</li>
             <li> Amethyst Rockstar</li>
-            <li> Amethyst Rockstar</li>
-            <li> Try aim at this Rock Star!</li>
+            <li> <group label="c" num="1" assimilation="2">Amethyst Rockstar</group></li>
+            <li> Try<group label="c" num="2" assimilation="1"> aim at this Rock Star</group>!</li>
             <li> Time just keeps on falling, falling, falling</li>
         </stanza>
         <stanza speaker="KirkKnight" type="verse">
-            <li> How is Hip-Hop dead? I'm still <AAVE field="phon" type="dropping" sound="g"
-                    position="final">makin'</AAVE> a <AAVE field="phon" type="dropping" sound="g"
-                    position="final">killin'</AAVE>
-            </li>
-            <li> Banana clip <AAVE field="phon" type="dropping" sound="g" position="final"
-                    >peelin'</AAVE> and ho's I'm still <AAVE field="phon" type="dropping" sound="g"
-                    position="final">stealin'</AAVE>
-            </li>
-            <li> This is not for the soda pop niggas</li>
-            <li> Take me to the leader of the new school or the block dealas</li>
-            <li> Cause all these fakes mcs take from those figures</li>
-            <li> Is what get fake MC's infront of loose triggers</li>
-            <li> Can't knock the hustle though, I may just bust a jigga</li>
+            <li> How is Hip-Hop dead? I'm still <AAVE field="phon" type="dropping" sound="g" position="final">makin'</AAVE> a <group label="d" num="1" slantRhyme="2"><AAVE field="phon" type="dropping" sound="g" position="final">killin'</AAVE></group></li>
+            <li> Banana clip<group label="d" num="2"slantRhyme="1" rhyme="3" > <AAVE field="phon" type="dropping" sound="g" position="final">peelin'</AAVE></group> and ho's I'm still <group label="d" num="3" rhyme="2"><AAVE field="phon" type="dropping" sound="g" position="final">stealin'</AAVE></group> </li>
+            <li> This is not for the soda <group label="d" num="4" rhyme="8" slantRhyme="5">pop niggas</group></li>
+            <li> Take me to the leader of the new school or the <group label="d" num="5" slantRhyme="4">block dealas</group></li>
+            <li> Cause all these fakes mcs take from those <group label="d" num="6" rhyme="7">figures</group></li>
+            <li> Is what get fake MC's infront of loose <group label="d" num="7" rhyme="6"triggers</group></li>
+            <li> Can't knock the hustle though, I may just bust a <group label="d" num="8" rhyme="4" slantRhyme="9">jigga</group></li>
             <li> And <AAVE field="phon" type="dropping" sound="g" position="final">lookin'</AAVE>
-                through my eyes, you can kinda get the picture</li>
-            <li> Mo money mo problems as you get notorious, inglorious, until you're a big
-                Victorious, no show</li>
-            <li> Only way you get to see the kid is through a photo</li>
-            <li> Or burn-ed up logos, and the females come out at night</li>
-            <li> And when they find the pot a gold they strike, seducing me?</li>
-            <li> Wait y-y-yeah, you nice on the mic, yeah yeah, you <AAVE field="phon"
-                    type="dropping" sound="g" position="final">lookin'</AAVE> right</li>
-            <li> Yeah, you just my type, yo</li>
-            <li> (Bitch, don't get me tight!)</li>
-            <li> Her friend split and dipped, damn I should've seen this</li>
-            <li> I'm in a boobie trap and thats some clever ass cleavage</li>
-            <li> Well, I think with my dick, I know you want to blow my mind for that reason</li>
-            <li> She said "You got clever speaking"</li>
-            <li> And after I'm done, I still got it leaking</li>
-            <li> I dipped off ‘cause knowledge a nigga is still <AAVE field="phon" type="dropping"
-                    sound="g" position="final">seekin'</AAVE>
-            </li>
+                through my eyes, you can kinda get the <group label="d" num="9" slantRhyme="8">picture</group></li>
+            <li> Mo money mo problems as you get <group label="d" num="10" rhyme="11">notorious</group>, <group label="d" num="11" rhyme="10">inglorious</group>, until you're a big
+                <group label="d" num="12">Victorious</group>, <group label="d" num="13" rhyme="14 15">no show</group></li>
+            <li> Only way you get to see the kid is through a <group label="d" num="14" rhyme="13 15">photo</group></li>
+            <li> Or burn-ed up <group label="d" num="15" rhyme="13 14">logos</group>, and the females come out at <group label="d" num="16" rhyme="19 21">night</group></li>
+            <li> And when they find the pot a gold they <group label="d" num="17" rhyme="18">strike</group>, seducing me?</li>
+            <li> Wait y-y-yeah, you nice on the <group label="d" num="18" rhyme="17">mic</group>, yeah yeah, you <AAVE field="phon"
+                    type="dropping" sound="g" position="final">lookin'</AAVE> <group label="d" num="19" rhyme="16 21">right</group></li>
+            <li> Yeah, you just my <group label="d" num="20" slantRhyme="21">type</group>, yo</li>
+            <li> (Bitch, don't get me <group label="d" num="21" rhyme="16 19" slantRhyme="20">tight</group>!)</li>
+            <li> Her friend <group label="e" num="1" slantRhyme="2">split</group> and <group label="e" num="2" slantRhyme="1">dipped</group>, 
+                damn I should've <group label="e" num="3" slantRhyme="5">seen this</group></li>
+            <li> I'm in a boobie trap and thats some <group label="e" num="4" alliteration="5">clever</group> ass <group label="e" num="5" slantRhyme="3" alliteration="4">cleavage</group></li>
+            <li> Well, I think with my dick, I know you want to blow my mind for that <group label="e" num="6" slantRhyme="7">reason</group></li>
+            <li> She said "You got clever <group label="e" num="7" slantRhyme="6" rhyme="8 9">speaking</group>"</li>
+            <li> And after I'm done, I still got it <group label="e" num="8" rhyme="7 9">leaking</group></li>
+            <li> I dipped off ‘cause knowledge a nigga is still <group label="e" num="9" rhyme="7 8"><AAVE field="phon" type="dropping"
+                    sound="g" position="final">seekin'</AAVE></group></li>
             <li> What you <AAVE field="phon" type="dropping" sound="g" position="final"
-                    >lookin'</AAVE> at son? I might rob you blind</li>
-            <li> Defined by every line, niggas <AAVE field="phon" type="dropping" sound="g"
-                    position="final">tryin'</AAVE> to outshine</li>
-            <li> We’re both number one enemies, it’s sad though</li>
-            <li> One on one, and it takes two niggas to tango</li>
-            <li> Two niggas to tango</li>
-            <li> Watch me go Rambo</li>
+                    >lookin'</AAVE> at son? I might rob you <group label="e" num="10" rhyme="11">blind</group></li>
+            <li> <group label="e" num="11" rhyme="10">Defined</group> by every <group label="e" num="12" slantRhyme="13" rhyme="14">line</group>, niggas
+                <group label="e" num="13" slantRhyme="12"><AAVE field="phon" type="dropping" sound="g"
+                    position="final">tryin'</AAVE></group> to <group label="e" num="14" rhyme="12">outshine</group></li>
+            <li> We’re both number one enemies, it’s sad <group label="e" num="15" rhyme="16">though</group></li>
+            <li> One on one, and it takes two niggas to <group label="e" num="16" rhyme="15">tango</group></li>
+            <li> Two niggas to <group label="e" num="17" rhyme="18">tango</group></li>
+            <li> Watch me go <group label="e" num="18" rhyme="17">Rambo</group></li>
         </stanza>
         <stanza speaker="JoeyBada$$" type="outro">
             <li> "Don’t Front on a nigga like me</li>
