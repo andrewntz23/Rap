@@ -1215,56 +1215,53 @@
     </song>
     <song title="95TilInfinity" production="LeeBannon">
         <stanza speaker="JoeyBada$$" type="verse">
-            <li> And we smoking, toking potent <weed>herb</weed></li>
-            <li> Preaching spoken words that just might poke your nerves</li>
-            <li> Hope you <AAVE type="contraction" field="phon" word1="is" word2="not">ain't</AAVE>
-                scared, my Jeep go "Scrrrr"</li>
-            <li> I peep the obscured, and what <AAVE type="contraction" field="phon" word1="is"
-                    word2="not">ain't</AAVE> normally easy to observe</li>
-            <li> I swear I'm born abnormally absurd</li>
-            <li> If I give you a piece of mind, you've been disorderly disturbed</li>
-            <li> That's my word, flip similes and verbs, now I'm eating</li>
-            <li> Retreating for seconds and thirds, y'all niggas seasoned (Oh, you salty)</li>
-            <li> Don't worry what we ate, you don't want that plate</li>
-            <li> I combine yours with mine quake, and make the earth shake</li>
-            <li> Supernatural disaster on you half-ass rappers</li>
-            <li> Pass the herb to an actual pastor, word to the black lip bastard</li>
-            <li> I drop knowledge like a Five Percenter</li>
-            <li> Every time I drop a line, it touch like five placentas</li>
-            <li> Schooling your offspring, drop heat all spring</li>
+            <li> And we <group label="a" num="1" rhyme="2">smoking</group>, <group label="a" num="2" rhyme="1">toking</group> <group label="a" num="3" slantRhyme="4 5 6">potent <weed>herb</weed></group></li>
+            <li> Preaching <group label="a" num="4" slantRhyme="3 5 6">spoken words</group> that just might <group label="a" num="5" slantRhyme="3 4 6">poke your nerves</group></li>
+            <li> <group label="a" num="6" slantRhyme="3 4 5">Hope you <AAVE type="contraction" field="phon" word1="is" word2="not">ain't</AAVE>
+                scared</group>, my <group label="a" num="7" slantRhyme="8 9 10 11 13">Jeep go "Scrrrr"</group></li>
+            <li> I <group label="a" num="8" slantRhyme="7 9 10 11 13">peep the obscured</group>, and what <AAVE type="contraction" field="phon" word1="is"
+                    word2="not">ain't</AAVE> normally <group label="a" num="9" slantRhyme="7 8 10 11 13">easy to observe</group></li>
+            <li> I swear I'm born <group label="a" num="10" slantRhyme="7 8 9 11 13">abnormally absurd</group></li>
+            <li> If I give you a piece of mind, you've been <group label="a" num="11" slantRhyme="7 8 9 10 13">disorderly disturbed</group></li>
+            <li> That's my <group label="a" num="12" rhyme="16">word</group>, flip <group label="a" num="13" slantRhyme="7 8 9 10 11">similes and verbs</group>, now I'm <group label="a" num="14" rhyme="15">eating</group></li>
+            <li> <group label="a" num="15" rhyme="14" slantRhyme="17">Retreating</group> for seconds and <group label="a" num="16" rhyme="12">thirds</group>, y'all niggas <group label="a" num="17" slantRhyme="15">seasoned</group> (Oh, you salty)</li>
+            <li> Don't worry what we <group label="b" num="1" rhyme="2">ate</group>, you don't want that <group label="b" num="2" rhyme="1">plate</group></li>
+            <li> I <group label="b" num="3" rhyme="4">combine</group> yours with <group label="b" num="4" rhyme="3">mine</group> <group label="b" num="5" rhyme="6 7">quake</group>, and <group label="b" num="6" rhyme="5 7">make</group> the earth <group label="b" num="7" rhyme="5 6">shake</group></li>
+            <li> <group label="b" num="8" rhyme="10">Supernatural disaster</group> on you <group label="b" num="9" slantRhyme="11">half-ass rappers</li>
+            <li> Pass the herb to an <group label="b" num="10" rhyme="8">actual pastor</group>, word to the <group label="b" num="11" slantRhyme="9">black lip bastard</group></li>
+            <li> I drop knowledge like a <group label="b" num="12" assimilation="13">Five Percenter</group></li>
+            <li> Every time I drop a line, it touch like <group label="b" num="13" assimilation="12">five placentas</group></li>
+            <li> Schooling your <group label="b" num="14" assimilation="15">offspring</group>, drop heat <group label="b" num="15" assimilation="14">all spring</group></li>
             <li> And stay hot for five Novembers, I think y'all niggas lost me</li>
         </stanza>
         <stanza speaker="JoeyBada$$" type="hook">
             <li> 95 <AAVE field="phon" type="dropping" sound="un" position="initial">'til</AAVE>
-                infinity time</li>
-            <li> We in disguise behind enemy lines</li>
-            <li> Women with no identity signs, they can't get my lines</li>
+                <group label="c" num="1" slantRhyme="2 3 4 5">infinity time</group></li>
+            <li> We in disguise behind <group label="c" num="2" slantRhyme="1 3 4 5">enemy lines</group></li>
+            <li> Women with no <group label="c" num="3" slantRhyme="1 2 4 5">identity signs</group>, they can't get my lines</li>
             <li> I used to give a fuck you could find</li>
             <li> 95 <AAVE field="phon" type="dropping" sound="un" position="initial">'til</AAVE>
                 infinity time</li>
-            <li> We in disguise behind enemy lines</li>
-            <li> And I just kill it every time</li>
+            <li> We in disguise behind <group label="c" num="4" slantRhyme="1 2 3 5">enemy lines</group></li>
+            <li> And I just kill it <group label="c" num="5" slantRhyme="1 2 3 4">every time</group></li>
         </stanza>
         <stanza speaker="JoeyBada$$" type="verse">
-            <li> Instead of lead slugs, I spreads the love</li>
-            <li> Like a bed bugaboo does, I'm in the W with your lovable slut</li>
-            <li> I'm in the walls while you bugging her up</li>
-            <li> I'll do your girl like this beat, straight fucking it up</li>
-            <li> Y'all niggas nothing to us, this feels like <AAVE field="phon" type="dropping"
-                    sound="g" position="final">nuttin'</AAVE> to us</li>
-            <li> Son, taught your daughter how to bust a nut for fun</li>
-            <li> Recollect and collect the funds</li>
-            <li> When she see the sun spit the proceeds when I cum</li>
-            <li> '99, <AAVE field="phon" type="dropping" sound="un" position="initial">'til</AAVE>
-                infinity beyond</li>
-            <li> Hold my peace full of energy <AAVE field="phon" type="dropping" sound="un"
-                    position="initial">'til</AAVE> enemies be gone</li>
-            <li> Until then niggas in my vicinity gone</li>
-            <li> Peep the melody we on, but they don't know the remedy to these songs</li>
-            <li> Basic necessities on how to be put on</li>
-            <li> Cause they see my team, we strong, Beastcoast in your region</li>
-            <li> If you get dropped you can't rejoin, they wanna know</li>
-            <li> Whose shoulder we leaning on but all we do is show them who we leading on</li>
+            <li> Instead of <group label="d" num="1" slantRhyme="2 3">lead slugs</group>, I <group label="d" num="2" slantRhyme="1 3">spreads the love</group></li>
+            <li> Like a <group label="d" num="3" slantRhyme="1 2">bed bugaboo does</group>, I'm in the W with your <group label="d" num="4" slantRhyme="5">lovable slut</group></li>
+            <li> I'm in the walls while you <group label="d" num="5" slantRhyme="4" rhyme="6">bugging her up</group></li>
+            <li> I'll do your girl like this beat, straight <group label="d" num="6" rhyme="5">fucking it up</group></li>
+            <li> Y'all niggas <group label="d" num="7" assimilation="8">nothing to us</group>, this feels like <group label="d" num="8" assimilation="7"><AAVE field="phon" type="dropping" sound="g" position="final">nuttin'</AAVE> to us</group></li>
+            <li> <group label="d" num="9" rhyme="12">Son</group>, taught your daughter how to <group label="d" num="10" slantRhyme="11">bust</group> a <group label="d" num="11" slantRhyme="10">nut</group> for <group label="d" num="12" rhyme="9">fun</group></li>
+            <li> <group label="d" num="13" rhyme="14">Recollect</group> and <group label="d" num="14" rhyme="13">collect</group> the <group label="d" num="15" slantRhyme="17 19">funds</group></li>
+            <li> When she <group label="d" num="16" alliteration="17 18">see</group> the <group label="d" num="17" slantRhyme="15 19" alliteration="16 18">sun</group> <group label="d" num="18" alliteration="16 17">spit</group> the proceeds when I <group label="d" num="19" slantRhyme="15 17">cum</group></li>
+            <li> '99, <AAVE field="phon" type="dropping" sound="un" position="initial">'til</AAVE> <group label="d" num="20" slantRhyme="21">infinity beyond</group></li>
+            <li> Hold my peace full of energy <AAVE field="phon" type="dropping" sound="un" position="initial">'til</AAVE> <group label="d" num="21" slantRhyme="20" rhyme="22">enemies be gone</group></li>
+            <li> Until then niggas in my <group label="d" num="22" rhyme="21">vicinity gone</group></li>
+            <li> Peep the <group label="d" num="23" rhyme="25">melody we on</group>, but they don't know the <group label="d" num="24" rhyme="26">remedy to these songs</group></li>
+            <li> Basic necessities on <group label="d" num="25" rhyme="23">how to be put on</group></li>
+            <li> Cause they see<group label="d" num="26" rhyme="24"> my team, we strong</group>, Beastcoast in your <group label="d" num="27" assimilation="28">region</group></li>
+            <li> If you get dropped you can't <group label="d" num="28" assimilation="27">rejoin</group>, they wanna know</li>
+            <li> Whose shoulder we <group label="d" num="29" rhyme="30">leaning on</group> but all we do is show them who we <group label="d" num="30" rhyme="29">leading on</group></li>
         </stanza>
         <stanza speaker="JoeyBada$$" type="hook">
             <li> 95 <AAVE field="phon" type="dropping" sound="un" position="initial">'til</AAVE>
@@ -1278,22 +1275,22 @@
             <li> And I just kill it every time</li>
         </stanza>
         <stanza speaker="JoeyBada$$" type="verse">
-            <li> Cause they will never stop for a young black male</li>
-            <li> Blackmailed in braille that means what he felt</li>
-            <li> And the very reveal could appeal</li>
-            <li> Put you on the Alcatraz trail or railroad to hell</li>
-            <li> Oh well, some of us is taught there is help</li>
-            <li> The other source is lost in all sorts of wealth</li>
-            <li> Uh, roots of all evil</li>
-            <li> The highest stars Evel Knievel</li>
-            <li> I see through people's door, the world may never know</li>
-            <li> How my third pupil show, Incognito and cold needles flow</li>
-            <li> And I don't throw subs, I throw torpedoes</li>
-            <li> The Don, not Cheadle, this don got a Cornelius fro</li>
-            <li> Afro punk festivities</li>
-            <li> This for my negus that's lying with queens like Nefertiti</li>
-            <li> Waking up to pyramids and big kitties</li>
-            <li> Gold soul theory, but what is life really</li>
+            <li> Cause they will never stop for a young <group label="e" num="1" slantRhyme="2" rhyme="3">black male</group></li>
+            <li> <group label="e" num="2" slantRhyme="1">Blackmailed</group> in <group label="e" num="3" rhyme="1">braille</group> that means what he felt</li>
+            <li> And the very <group label="e" num="4" rhyme="5">reveal</group> could <group label="e" num="5" rhyme="4">appeal</group></li>
+            <li> Put you on the <group label="e" num="6" consonance="7">Alcatraz</group> <group label="e" num="7" consonance="6" assonance="8">trail</group> or <group label="e" num="8" assonance="7">railroad</group> to <group label="e" num="9" rhyme="10">hell</group></li>
+            <li> Oh <group label="e" num="10" rhyme="9" slantRhyme="11 14">well</group>, some of us is taught there is <group label="e" num="11" slantRhyme="10 14">help</group></li>
+            <li> The other <group label="e" num="12" slantRhyme="13">source</group> is lost in all <group label="e" num="13" slantRhyme="12">sorts</group> of <group label="e" num="14" slantRhyme="10 11">wealth</group></li>
+            <li> Uh, roots of all <group label="e" num="15" rhyme="16">evil</group></li>
+            <li> The highest stars <group label="e" num="16" rhyme="15">Evel Knievel</group></li>
+            <li> I see through people's door, the world may <group label="e" num="17" rhyme="18">never know</group></li>
+            <li> How my <group label="e" num="18" rhyme="17">third pupil show</group>, <group label="e" num="19" slantRhyme="20">Incognito</group> and <group label="e" num="20" slantRhyme="19">cold needles flow</group></li>
+            <li> And I don't throw subs, I throw <group label="e" num="21" rhyme="23" slantRhyme="22">torpedoes</group></li>
+            <li> The Don, not <group label="e" num="22" slantRhyme="21">Cheadle</group>, this don got a <group label="e" num="23" rhyme="21">Cornelius fro</group></li>
+            <li> Afro punk <group label="e" num="24" rhyme="25 26">festivities</group></li>
+            <li> This for my niggas that's lying with queens like <group label="e" num="25" rhyme="24 26">Nefertiti</group></li>
+            <li> Waking up to pyramids and big <group label="e" num="26" rhyme="24 25">kitties</group></li>
+            <li> <group label="e" num="27" assonance="28">Gold</group> <group label="e" num="28" assonance="27">soul</group> <group label="e" num="29" slantRhyme="30">theory</group>, but what is life <group label="e" num="30" slantRhyme="29">really</group></li>
         </stanza>
         <stanza speaker="JoeyBada$$" type="hook">
             <li> 95 <AAVE field="phon" type="dropping" sound="un" position="initial">'til</AAVE>
@@ -1311,14 +1308,14 @@
     <song title="AmethystRockstar" production="MFDoom">
         <stanza speaker="SaulWilliams" type="intro">
             <li>(Fuck You!)</li>
-            <li> I stand on the corner of the block slinging amethyst rocks</li>
-            <li> Drinking 40s of mother earth’s private nectar stock</li>
-            <li> Dodging cops, cuz’ 50 be the 666 and I need a fix of that purple rain:</li>
-            <li> The type of shit that drives membranes insane</li>
-            <li> Oh yeah, I’m in the fast lane snorting candy yams</li>
-            <li> That free my body and soul and send me like Shazaam</li>
-            <li> Never question who I am, God knows, and I know God personally</li>
-            <li> In fact he lets me call him “me,”</li>
+            <li> I stand on the corner of the <group label="a" num="1" rhyme="2 5">block</group> slinging amethyst <group label="a" num="2" rhyme="1 5">rocks</group></li>
+            <li> Drinking 40s of <group label="a" num="3" assonance="4">mother</group> <group label="a" num="4" assonance="3">earth’s</group> private nectar <group label="a" num="5" rhyme="1 2">stock</group></li>
+            <li> <group label="a" num="6" assonance="7">Dodging</group> <group label="a" num="7" assonance="6">cops</group>, cuz’ 50 be the 666 and I need a fix of that purple <group label="a" num="8" rhyme="9 10 11">rain</group>:</li>
+            <li> The type of shit that drives <group label="a" num="9" rhyme="8 10 11">membranes</group> <group label="a" num="10" rhyme="8 9 11">insane</group></li>
+            <li> Oh yeah, I’m in the fast <group label="a" num="11" rhyme="8 9 10">lane</group> snorting candy <group label="a" num="12" rhyme="13 14">yams</group></li>
+            <li> That free my body and soul and send me like <group label="a" num="13" rhyme="12 14">Shazaam</group></li>
+            <li> Never question who I <group label="a" num="14" rhyme="12 13">am</group>, God knows, and I know God <group label="a" num="15" slantRhyme="16">personally</group></li>
+            <li> In fact he lets me <group label="a" num="16" slantRhyme="15">call him “me</group>,”</li>
         </stanza>
         <stanza speaker="JoeyBada$$" type="verse">
             <li> When did rap turn into a fashion show?</li>
