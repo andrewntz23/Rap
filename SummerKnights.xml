@@ -984,24 +984,24 @@
                         >gon'</AAVE></AAVE> live mine</li>
         </stanza>
         <stanza speaker="DessyHinds" type="verse">
-            <li> Right on the block where they <group>sit and play</group></li>
-            <li> Lives the <group>vicious ways</group> where they <group>spit and <guns>spray</guns></group></li>
-            <li> <group><guns><sports>Vicious trey's</sports></guns></group> coming for the ice you kept in <group>yesterday</group></li>
-            <li> It's nothing but the <group>history</group></li>
-            <li> Protecting ya from being <group>history</group></li>
-            <li> And then the next day your face is just a <group>mystery</group></li>
+            <li> Right on the block where they <group label="f" num="1" rhyme="2 3 4 5">sit and play</group></li>
+            <li> Lives the <group label="f" num="2" rhyme="1 3 4 5">vicious ways</group> where they <group label="f" num="3" rhyme="1 2 4 5">spit and <guns>spray</guns></group></li>
+            <li> <group label="f" num="4" rhyme="1 2 3 5"><guns><sports>Vicious trey's</sports></guns></group> coming for the ice you kept in <group label="f" num="5" rhyme="1 2 3 4">yesterday</group></li>
+            <li> It's nothing but the <group label="f" num="6" rhyme="7 8">history</group></li>
+            <li> Protecting ya from being <group label="f" num="7" rhyme="6 8">history</group></li>
+            <li> And then the next day your face is just a <group label="f" num="8" rhyme="6 7">mystery</group></li>
             <li> <haters>For niggas who really <AAVE type="contraction" field="phon" word1="are" word2="not">ain't</AAVE> 
-                <group>feeling me</group> are all my <group>fucking enemies</group></haters></li>
-            <li> Even the lightest hours require <group><guns>heavy artillery</guns></group></li>
-            <li> <group>Accelerate</group> without the <group>breaks</group> of a <group>break</group></li>
-            <li> And still I'm not eating up to now and there's a lot on my <group>plate</group></li>
-            <li> All in a day's work of <group>God and his grace</group></li>
-            <li> You wanna eat then tell <group>God and say grace</group></li>
-            <li> And avoid the heat getting the boil to <group>surface</group></li>
-            <li> A soft nigga caught between these rocks and a hard <group>place</group></li>
-            <li> Because the Mafia is on the look out for the <popculture ref="Scarface"><group>Scarface</group></popculture></li>
-            <li> But the <group>ill-minded child</group>, is <group>ill minded child</group></li>
-            <li> Got a round of <group>styles</group></li>
+                <group label="f" num="9" rhyme="10 11">feeling me</group> are all my <group label="f" num="10" rhyme="9 11">fucking enemies</group></haters></li>
+            <li> Even the lightest hours require <group label="f" num="11" rhyme="9 10"><guns>heavy artillery</guns></group></li>
+            <li> <group label="f" num="12" rhyme="15">Accelerate</group> without the <group label="f" num="13">breaks</group> of a <group label="f" num="14" slantRhyme="15">break</group></li>
+            <li> And still I'm not eating up to now and there's a lot on my <group label="f" num="15" rhyme="12" slantRhyme="14">plate</group></li>
+            <li> All in a day's work of <group label="f" num="16" rhyme="17">God and his grace</group></li>
+            <li> You wanna eat then tell <group label="f" num="17" rhyme="16">God and say grace</group></li>
+            <li> And avoid the heat getting the boil to <group label="f" num="18" rhyme="19 20">surface</group></li>
+            <li> A soft nigga caught between these rocks and a hard <group label="f" num="19" rhyme="18 20">place</group></li>
+            <li> Because the Mafia is on the look out for the <popculture ref="Scarface"><group label="f" num="20" rhyme="18 19">Scarface</group></popculture></li>
+            <li> But the <group label="f" num="21" rhyme="22">ill-minded child</group>, is <group label="f" num="22" rhyme="21" slantRhyme="23">ill minded child</group></li>
+            <li> Got a round of <group label="f" num="23" slantRhyme="22">styles</group></li>
             <li> Killing niggas' mental like a <guns>round of shells</guns></li>
             <li> Very well rounded round it</li>
             <li> Well <AAVE field="phon" type="dropping" sound="un" position="initial">'til</AAVE>
@@ -1043,53 +1043,52 @@
             <li>
                 <hiphop ref="KanyeWest">Drive slow homie, drive slow</hiphop></li>
             <li>
-                <hiphop ref="KanyeWest">Drive slow homie, drive slow</hiphop></li>
-            <li> Shit, my eyes low</li>
+                <hiphop ref="KanyeWest">Drive slow homie, <group label="a" num="1" rhyme="2">drive slow</group></hiphop></li>
+            <li> Shit, my <group label="a" num="2" rhyme="1">eyes low</group></li>
         </stanza>
         <stanza speaker="JoeyBada$$" type="verse">
-            <li> It's only one way this can work out</li>
-            <li> Drop down, I'mma give you twenty if you scurred out</li>
-            <li> You scurred now, call me the drill sergeant</li>
-            <li> Charge in the apartment like a charger compartment</li>
-            <li> I'm in the walls now, I'm wired up</li>
-            <li> So now the higher up is trying to quiet us, uh</li>
-            <li>
-                <weed>Smoking</weed> on land, lord I light it up</li>
-            <li> Just gettin fired up, now she coming like a fire truck</li>
-            <li>
-                <women>She</women> threw the towel in, score for me oh for she</li>
+            <li> It's only one way this can <group label="b" num="1" rhyme="2">work out</group></li>
+            <li> Drop down, I'mma give you twenty if you <group label="b" num="2" rhyme="1" slantRhyme="3">scurred out</group></li>
+            <li> You <group label="b" num="3" slantRhyme="2">scurred now</group>, call me the drill <group label="b" num="4" rhyme="5">sergeant</group></li>
+            <li> <group label="b" num="5" rhyme="4" assimilation="6">Charge in the apartment</group> like a <group label="b" num="6" assimilation="5">charger compartment</group></li>
+            <li> I'm in the walls now, I'm <group label="b" num="7" rhyme="8 10 11">wired up</group></li>
+            <li> So now the <group label="b" num="8" rhyme="7 10 11" slantRhyme="9">higher up</group> is trying to <group label="b" num="9" slantRhyme="8">quiet us</group>, uh</li>
+            <li><weed>Smoking</weed> on land, lord I <group label="b" num="10" rhyme="7 8 11">light it up</group></li>
+            <li> Just gettin <group label="b" num="11" rhyme="7 8 10" slantRhyme="12">fired up</group>, now she coming like a <group label="b" num="12" slantRhyme="11">fire truck</group></li>
+            <li><women>She</women> threw the towel in, score for me oh for she</li>
             <li> Cause she keep <AAVE field="phon" type="dropping" sound="g" position="final"
-                    >howlin'</AAVE> we showdown like Shaolin</li>
-            <li> Slow down for an hour then, sink it deep into the shallow end</li>
-            <li> How you like beef girl? Keep swallowing</li>
-            <li> Your food, I'm following your mood and it's blue and me too</li>
-            <li> But I can't lie like I blew this <money><weed>green</weed></money> on you</li>
-            <li> I blew it on the <weed>purple fume</weed> and I know I read your mind, right</li>
-            <li> You're bright, you want green of all types like limelight</li>
-            <li> Balance is the <food>kiwi</food> fused in the tunes</li>
-            <li> Third eye sight, <women>she</women> rodent the car with three blind mice</li>
-            <li> They chase <money><food>cheese</food></money> and don't think twice</li>
-            <li> And for that, some niggas in the cut get sliced, she looking back</li>
+                    ><group label="b" num="13" rhyme="14">howlin'</group></AAVE> we showdown like <group label="b" num="14" rhyme="13"><geo ref="DengfengChina">Shaolin</geo></group></li>
+            <li> Slow down for an <group label="b" num="15" slantRhyme="16">hour then</group>, sink it deep into the <group label="b" num="16" slantRhyme="15">shallow end</group></li>
+            <li> How you like beef girl? Keep <group label="c" num="0" rhyme="2">swallowing</group></li>
+            <li> <group label="c" num="1" rhyme="3">Your food</group>, I'm <group label="c" num="2" rhyme="0">following</group> 
+                <group label="c" num="3" rhyme="1">your mood</group> and it's <group label="c" num="4" rhyme="5">blue</group> and me <group label="c" num="5" rhyme="4">too</group></li>
+            <li> But I can't lie like I <group label="c" num="6" rhyme="7">blew</group> this <money><weed>green</weed></money> on <group label="c" num="7" rhyme="6">you</group></li>
+            <li> I <group label="c" num="8" slantRhyme="9">blew</group> it on the <weed>purple <group label="c" num="9" slantRhyme="8">fume</group></weed> and I know I read your mind, 
+                <group label="c" num="10" rhyme="11 12">right</group></li>
+            <li> You're <group label="c" num="11" rhyme="10 12">bright</group>, you want green of all types like <group label="c" num="12" rhyme="10 11">limelight</group></li>
+            <li> Balance is the <food>kiwi</food> <group label="c" num="13" slantRhyme="14">fused</group> in the <group label="c" num="14" slantRhyme="13">tunes</group></li>
+            <li> <group label="c" num="15" slantRhyme="16">Third eye sight</group>, <women>she</women> rodent the car with <group label="c" num="16" slantRhyme="15">three blind mice</group></li>
+            <li> They <group label="c" num="17" alliteration="18">chase</group> <money><food><group label="c" num="18" alliteration="17">cheese</group></food></money> and don't think <group label="c" num="19" rhyme="20">twice</group></li>
+            <li> And for that, some niggas in the cut get <group label="c" num="20" rhyme="19">sliced</group>, she looking back</li>
             <li> Now, cause <women>she</women>
                 <AAVE type="contraction" field="phon" word1="is" word2="not">ain't</AAVE> met a
                 nigga as real in the back</li>
-            <li> Down as shack <women>she</women> throw it back for that, willingly</li>
-            <li>
-                <women>She</women> hope I catch children</li>
-            <li> But the mag sheilding, in other words I wrap feelings</li>
+            <li> Down as <group label="c" num="21" rhyme="22">shack</group> <women>she</women> throw it <group label="c" num="22" rhyme="21" slantRhyme="23">back</group> for <group label="c" num="23" slantRhyme="22">that</group>, willingly</li>
+            <li> <women>She</women> hope I catch <group label="c" num="24" slantRhyme="25">children</group></li>
+            <li> But the mag <group label="c" num="25" slantRhyme="24" rhyme="26">sheilding</group>, in other words I wrap <group label="c" num="26" rhyme="25">feelings</group></li>
         </stanza>
         <stanza speaker="JoeyBada$$" type="outro">
             <li>Yeah <hiphop ref="JoeyBada$$">Joey</hiphop> that cat <AAVE field="phon"
-                    type="dropping" sound="g" position="final">killin'</AAVE> villain</li>
-            <li> I capture the cat in the trap, a door she sealing</li>
-            <li> From Sicilians to Miss Millins, to miss <AAVE field="phon" type="dropping"
-                    sound="g" position="final">missin'</AAVE>
+                    type="dropping" sound="g" position="final"><group label="d" num="1" rhyme="2 4 5">killin'</group></AAVE> <group label="d" num="2" rhyme="1 4 5">villain</group></li>
+            <li> I capture the cat in the trap, a door she <group label="d" num="3" alliteration="4">sealing</group></li>
+            <li> From <group label="d" num="4" rhyme="1 2 5" alliteration="3">Sicilians</group> to <group label="d" num="5" rhyme="1 2 4" alliteration="6">Miss Millins</group>, to <group label="d" num="6" alliteration="5">miss <AAVE field="phon" type="dropping"
+                    sound="g" position="final">missin'</group></AAVE>
             </li>
             <li> From Sicilians to Miss Millins, to miss <AAVE field="phon" type="dropping"
                     sound="g" position="final">missin'</AAVE>
             </li>
-            <li> I keep it lit till I'm burnt out</li>
-            <li> Could tell a <women>chick</women> bye look at how she turned out</li>
+            <li> I keep it lit till I'm <group label="d" num="7" rhyme="8">burnt out</group></li>
+            <li> Could tell a <women>chick</women> bye look at how she <group label="d" num="8" rhyme="7">turned out</group></li>
             <li> Could tell a <women>chick</women> bye look at how she turned out</li>
             <li> Could tell a <women>chick</women> bye look at how she turned out</li>
             <li> Could tell a <women>chick</women> bye look at how she turned out</li>
