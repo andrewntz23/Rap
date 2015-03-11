@@ -1762,16 +1762,18 @@
             <li><success>Best rapper alive</success> hear that line used <group label="d" num="9" slantRhyme="10">less often</group></li>
             <li><success>Word to God I’m the <group label="d" num="10" slantRhyme="9">best offering</group></success></li>
             <li> <group label="d" num="11" rhyme="12">BMX like Hoffman</group>, <group label="d" num="12" rhyme="11"><hiphop ref="RickRoss">BMF like Ross man</hiphop></group></li>
-            <li> Young boss, man, got <popculture ref="JimmyFallon">Jimmy Fallon</popculture> endorsements</li>
-            <li> From porches, to <popculture ref="Porsche">Porsches</popculture>, getting portions of fortune</li>
-            <li> They said next up so I stepped up</li>
-            <li> <fashion>Fly like I dressed up</fashion></li>
-            <li> <women>Bitches</women> try to hang like left nuts</li>
-            <li> Like orangutans in the west of</li>
-            <li> Of the motherland, but I’ve got the swank of no other man</li>
-            <li> Brother man</li>
-            <li> They can’t understand</li>
-            <li> <hiphop ref="ProEra">Pro Era</hiphop> boys pop <money>rubber band</money></li>
+            <li> Young <group label="e" num="1" slantRhyme="2">boss, man</group>, got <group label="e" num="2" slantRhyme="1"><popculture ref="JimmyFallon">Jimmy Fallon</popculture></group> 
+                <group label="e" num="3" assonance="4 5 6 7">endorsements</group></li>
+            <li> From <group label="e" num="4" assonance="3 5 6 7">porches</group>, to <group label="e" num="5" assonance="3 4 6 7"><popculture ref="Porsche">Porsches</popculture></group>, 
+                getting <group label="e" num="6" assonance="3 4 5 7">portions</group> of <group label="e" num="7" assonance="3 4 5 6">fortune</group></li>
+            <li> They said <group label="e" num="8" rhyme="9 10">next up</group> so I <group label="e" num="9" rhyme="8 10">stepped up</group></li>
+            <li> <fashion>Fly like I <group label="e" num="10" rhyme="8 9">dressed up</group></fashion></li>
+            <li> <women>Bitches</women> try to hang like <group label="e" num="11" slantRhyme="12">left nuts</group></li>
+            <li> Like orangutans in the <group label="e" num="12" slantRhyme="11">west of</group></li>
+            <li> Of the <group label="e" num="13" rhyme="16 17">motherland</group>, but I’ve got the swank of <group label="e" num="14" rhyme="15">no other man</group></li>
+            <li> <group label="e" num="15" rhyme="14">Brother man</group></li>
+            <li> They can’t <group label="e" num="16" rhyme="13 17">understand</group></li>
+            <li> <hiphop ref="ProEra">Pro Era</hiphop> boys pop <money><group label="e" num="17" rhyme="13 16">rubber band</group></money></li>
         </stanza>
         <stanza speaker="JoeyBada$$" type="hook">
             <li> Cause <money>money</money> ain’t a thing if I got it I won’t spend</li>
