@@ -1413,37 +1413,34 @@
     </song>
     <song title="Reign" production="ChuckStrangers">
         <stanza speaker="JoeyBada$$" type="hook">
-            <li> When it rains it pours down</li>
-            <li> Used to wanna be king said the reign is on now</li>
-            <li> King me like James straight out of High School</li>
-            <li> To the big games but you know just how I do</li>
+            <li> When it <group label="a" num="1" slantRhyme="2">rains it pours down</group></li>
+            <li> Used to wanna be king said the <group label="a" num="2" slantRhyme="1">reign is on now</group></li>
+            <li> King me like <group label="a" num="3" rhyme="5">James</group> straight out of <group label="a" num="4" slantRhyme="6">High School</group></li>
+            <li> To the big <group label="a" num="5" rhyme="3">games</group> but you know just <group label="a" num="6" slantRhyme="4">how I do</group></li>
             <li> When it rains it pours down</li>
             <li> Used to wanna be king said the reign is on now</li>
             <li> King me like James straight out of High School</li>
             <li> To the big games but you know just how I do</li>
         </stanza>
         <stanza speaker="JoeyBada$$" type="verse ">
-            <li> Adapted to these new ways of living, getting money and sinning</li>
-            <li> Go together like denims diamonds and women</li>
-            <li> Tryna balance it at once but keep hitting these blunts</li>
-            <li> Demons of lust, keep hinting they stunts when I'm drunk</li>
-            <li> What if I jumped off this cloud full of thinking aloud</li>
-            <li> Into a, pool of my sorrow and start sinking in doubt</li>
-            <li> Rethinking it out, cause tomorrow <AAVE type="contraction" field="phon" word1="is"
-                    word2="not">ain't</AAVE> ever promising</li>
-            <li> And ever blink it counts for a prophet who see deposits</li>
-            <li> But he <AAVE type="contraction" field="phon" word1="is" word2="not">ain't</AAVE>
-                always see the positives</li>
-            <li> He used to live in poverty, Thinking probably</li>
-            <li> One day, he strike the lottery</li>
-            <li> Cause dreaming big never been odd to me</li>
-            <li> And since a kid Ive been on a musical odyssey</li>
-            <li> I knew the day would come where I wouldn't be sorry in a pile of G's</li>
-            <li> Or probably be rehearsing a verse on the beach</li>
-            <li> Wait reverse in the speech</li>
-            <li> Cause it <AAVE type="contraction" field="phon" word1="is" word2="not">ain't</AAVE>
-                always sunny on the sunny side</li>
-            <li> But I'll stop shining when bunnies fly</li>
+            <li> Adapted to these new ways of <group label="b" num="1" rhyme="2 3">living</group>, <group label="b" num="2" rhyme="1 3">getting</group> money and <group label="b" num="3" rhyme="1 2">sinning</group></li>
+            <li> Go together like <group label="b" num="4" alliteration="5">denims</group> <group label="b" num="5" alliteration="4">diamonds</group> and women</li>
+            <li> Tryna balance it at <group label="b" num="6" slantRhyme="8 10">once</group> but keep hitting these <group label="b" num="7" rhyme="9">blunts</group></li>
+            <li> Demons of <group label="b" num="8" slantRhyme="6 10">lust</group>, keep hinting they <group label="b" num="9" rhyme="7">stunts</group> when I'm <group label="b" num="10" slantRhyme="6 8">drunk</group></li>
+            <li> What if I jumped off this <group label="b" num="11" rhyme="12">cloud</group> full of thinking <group label="b" num="12" rhyme="11">aloud</group></li>
+            <li> Into a, pool of my <group label="b" num="13" alliteration="14 15">sorrow</group> and <group label="b" num="14" alliteration="13 15">start</group> <group label="b" num="15" alliteration="13 14" rhyme="16">sinking in doubt</li>
+            <li> <group label="b" num="16" rhyme="15">Rethinking it out</group>, cause tomorrow <AAVE type="contraction" field="phon" word1="is" word2="not">ain't</AAVE> ever promising</li>
+            <li> And ever blink it counts for a <group label="b" num="17" rhyme="18">prophet</group> who see <group label="b" num="18" rhyme="17">deposits</group></li>
+            <li> But he <AAVE type="contraction" field="phon" word1="is" word2="not">ain't</AAVE> always see the <group label="b" num="19" alliteration="20 21">positives</group></li>
+            <li> He used to live in <group label="b" num="20" alliteration="19 21" rhyme="21 22">poverty</group>, Thinking <group label="b" num="21" alliteration="19 20" rhyme="20 22">probably</group></li>
+            <li> One day, he strike the <group label="b" num="22" rhyme="20 21">lottery</group></li>
+            <li> Cause dreaming big never been <group label="b" num="23" assimilation="24">odd to me</group></li>
+            <li> And since a kid Ive been on a musical <group label="b" num="24" assimilation="23">odyssey</group></li>
+            <li> I knew the day would come where I wouldn't be sorry in a <group label="b" num="25" slantRhyme="26">pile of G's</group></li>
+            <li> Or <group label="b" num="26" slantRhyme="25">probably</group> be <group label="b" num="27" assimilation="28">rehearsing</group> a <group label="b" num="28" assimilation="27">verse</group> on the <group label="b" num="29" rhyme="30">beach</group></li>
+            <li> Wait reverse in the <group label="b" num="30" rhyme="29">speech</group></li>
+            <li> Cause it <AAVE type="contraction" field="phon" word1="is" word2="not">ain't</AAVE> always sunny on the <group label="b" num="31" slantRhyme="32">sunny side</group></li>
+            <li> But I'll stop shining when <group label="b" num="32" slantRhyme="31">bunnies fly</group></li>
         </stanza>
         <stanza speaker="JoeyBada$$" type="hook">
             <li> When it rains it pours down</li>
@@ -1456,23 +1453,23 @@
             <li> To the big games but you know just how I do</li>
         </stanza>
         <stanza speaker="JoeyBada$$" type="verse">
-            <li> I turn my dreams to reality</li>
-            <li> So, I burn green same time I burn calories though</li>
-            <li> I'm eating now in fact, I'm feasting now</li>
-            <li> No more mistreating, my miss is treated now</li>
-            <li> No more misleading mister leader now,</li>
-            <li> Mister visa now, I got green and cards with no limits</li>
-            <li> Bad boy life but shyne with no diddy</li>
-            <li> But it's no biggie, I spread love the Brooklyn way</li>
-            <li> But when push come to shove I'm bout that Crooklyn wave</li>
-            <li> Shook for days, Don't ever judge a book by a page</li>
+            <li> I turn my <group label="c" num="1" slantRhyme="3">dreams</group> to <group label="c" num="2" rhyme="4">reality</group></li>
+            <li> So, I burn <group label="c" num="3" slantRhyme="1">green</group> same time I burn <group label="c" num="4" rhyme="2">calories</group> though</li>
+            <li> I'm <group label="c" num="5" rhyme="6">eating now</group> in fact, I'm <group label="c" num="6" rhyme="5">feasting now</group></li>
+            <li> No more <group label="c" num="7" assimilation="8">mistreating</group>, my <group label="c" num="8" assimilation="7">miss is treated</group> now</li>
+            <li> No more <group label="c" num="9" assimilation="10">misleading</group> <group label="c" num="10" assimilation="9" rhyme="11">mister leader now</group>,</li>
+            <li> <group label="c" num="11" rhyme="10">Mister visa now</group>, I got green and cards with no limits</li>
+            <li> Bad boy life but shyne with no <group label="c" num="12" rhyme="13">diddy</group></li>
+            <li> But it's no <group label="c" num="13" rhyme="12">biggie</group>, I spread love the <group label="c" num="14" slantRhyme="15">Brooklyn way</group></li>
+            <li> But when push come to shove I'm bout that <group label="c" num="15" slantRhyme="14">Crooklyn wave</group></li>
+            <li> <group label="c" num="16" rhyme="18 19" slantRhyme="17">Shook for days</group>, Don't ever judge a <group label="c" num="17" slantRhyme="16">book by a page</group></li>
             <li> That could be a cover up if you <AAVE type="contraction" field="phon" word1="is"
-                    word2="not">ain't</AAVE> looking that way</li>
-            <li> But what can I say, everything happens for a reason</li>
-            <li> Time will tell cause even fall lasts for a season</li>
-            <li> So keep on believing, you live and learn die and you teach</li>
-            <li> Another, piece of the pie and it's finally sweet</li>
-            <li> But reverse on the speech, cause it <AAVE type="contraction" field="phon"
+                    word2="not">ain't</AAVE> <group label="c" num="18" rhyme="16 19">looking that way</group></li>
+            <li> But <group label="c" num="19" rhyme="16 18">what can I say</group>, everything happens for a <group label="c" num="20" rhyme="21">reason</group></li>
+            <li> Time will tell cause even fall lasts for a <group label="c" num="21" rhyme="20" slantRhyme="22">season</group></li>
+            <li> So keep on <group label="c" num="22" slantRhyme="21">believing</group>, you live and learn <group label="c" num="23" rhyme="24">die</group> and you teach</li>
+            <li> Another, piece of the <group label="c" num="24" rhyme="23">pie</group> and it's finally <group label="c" num="25" slantRhyme="26">sweet</group></li>
+            <li> But reverse on the <group label="c" num="26" slantRhyme="25">speech</group>, cause it <AAVE type="contraction" field="phon"
                     word1="is" word2="not">ain't</AAVE> always sunny on the sunny side</li>
             <li> But I'll stop shining when bunnies fly</li>
         </stanza>
@@ -1488,15 +1485,12 @@
         </stanza>
         <stanza speaker="JoeyBada$$" type="verse">
             <li> Said we done came a long way 365 bong rips later</li>
-            <li> Last year I <AAVE type="contraction" field="phon" word1="is" word2="not"
-                    >ain't</AAVE> make no paper</li>
+            <li> Last year I <AAVE type="contraction" field="phon" word1="is" word2="not">ain't</AAVE> make no paper</li>
             <li> All I earned was some kicks some snares from some haters</li>
             <li> And some favors from some chicks that move there rumps like shakers</li>
-            <li> But what's that shit, I was <AAVE field="phon" type="contraction" word1="trying"
-                    word2="to">tryna</AAVE> be the greatest</li>
+            <li> But what's that shit, I was <AAVE field="phon" type="contraction" word1="trying" word2="to">tryna</AAVE> be the greatest</li>
             <li> Upgrade to the grade A list, but all they do is degrade us</li>
-            <li> And it <AAVE type="contraction" field="phon" word1="is" word2="not">ain't</AAVE> to
-                hard to be famous, Whats hard is sustaining</li>
+            <li> And it <AAVE type="contraction" field="phon" word1="is" word2="not">ain't</AAVE> to hard to be famous, Whats hard is sustaining</li>
             <li> Remaining the same when stuff changing</li>
             <li> Cause I remember days at the bus station, waiting</li>
             <li> Still had no patience, so niggas try to play him</li>
