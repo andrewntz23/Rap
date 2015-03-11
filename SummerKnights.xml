@@ -1097,82 +1097,79 @@
     </song>
     <song title="Satellite" production="LeeBannon">
         <stanza speaker="JoeyBada$$" type="verse">
-            <li> And I guess <success>it's my turn to shine</success></li>
+            <li> And I guess <success>it's my turn to <group label="a" num="1" slantRhyme="2">shine</group></success></li>
             <li> The bright light I was <AAVE field="phon" type="dropping" sound="g"
-                    position="final">starin'</AAVE> at turn lime</li>
-            <li> And the green stuff turned to slime, and grime</li>
-            <li> Everybody want to be your blood cousin</li>
-            <li> When you're buzzing</li>
+                    position="final">starin'</AAVE> at turn <group label="a" num="2" slantRhyme="1" rhyme="3 4">lime</group></li>
+            <li> And the green stuff turned to <group label="a" num="3" rhyme="2 4">slime</group>, and <group label="a" num="4" rhyme="2 3">grime</group></li>
+            <li> Everybody want to be your blood <group label="a" num="5" rhyme="6">cousin</group></li>
+            <li> When you're <group label="a" num="6" rhyme="5">buzzing</group></li>
             <li> Fine, I give <AAVE field="phon" type="dropping" sound="un" position="initial"
-                    >'em</AAVE> my other line, another rhyme</li>
-            <li> Word to mother, I'm goosed up</li>
-            <li> My two fucks in two cups</li>
+                    >'em</AAVE> my <group label="a" num="7" slantRhyme="8">other line</group>, <group label="a" num="8" slantRhyme="7">another rhyme</group></li>
+            <li> Word to mother, I'm <group label="a" num="9" slantRhyme="10 11">goosed up</group></li>
+            <li> My <group label="a" num="10" slantRhyme="9 11">two fucks</group> in <group label="a" num="11" slantRhyme="9 10">two cups</group></li>
             <li> Another double entendre</li>
-            <li>
-                <women>She</women> fell in that Bombay</li>
-            <li> Now <women>she</women> tumble dry lingerie</li>
-            <li> Chardonnay nothing but the bottle of emotion</li>
-            <li> But the love potion when it sprays</li>
-            <li> They just caught up in the days</li>
-            <li> Let me show you how I feel these Jays</li>
-            <li> The <money><food>cheese</food></money> stays high like <sports>Dr. J</sports></li>
-            <li> My flow is like land the boats, dock the planes</li>
-            <li> Hand the dope but cop the chains</li>
-            <li> For more fiends some antidote to stop the pain</li>
-            <li> Now my stream, floods these streets</li>
-            <li> They can't stop the reign</li>
+            <li><women>She</women> fell in that <group label="b" num="1" rhyme="2 3">Bombay</group></li>
+            <li> Now <women>she</women> tumble dry <group label="b" num="2" rhyme="1 3">lingerie</group></li>
+            <li> <group label="b" num="3" rhyme="1 2">Chardonnay</group> nothing but the bottle of <group label="b" num="4" rhyme="5">emotion</group></li>
+            <li> But the love <group label="b" num="5" rhyme="4">potion</group> when it <group label="b" num="6" rhyme="7 8 9">sprays</group></li>
+            <li> They just caught up in the <group label="b" num="7" rhyme="6 8 9">days</group></li>
+            <li> Let me show you how I feel these <group label="b" num="8" rhyme="6 7 9">Jays</group></li>
+            <li> The <money><food>cheese</food></money> <group label="b" num="9" rhyme="6 7 8">stays</group> high like <group label="b" num="10" assimilation="13"><sports>Dr. J</sports></group></li>
+            <li> My <group label="b" num="11" assonance="12">flow</group> is like <group label="b" num="12" assonance="11" assimilation="14 16">land the boats</group>, <group label="b" num="13" assimilation="10">dock the planes</group></li>
+            <li> <group label="b" num="14" assimilation="12 16">Hand the dope</group> but cop the <group label="b" num="15" rhyme="17 20">chains</group></li>
+            <li> For more fiends some <group label="b" num="16" assimilation="12 14">antidote</group> to stop the <group label="b" num="17" rhyme="15 20">pain</group></li>
+            <li> Now my <group label="b" num="18" alliteration="19">stream</group>, floods these <group label="b" num="19" alliteration="18">streets</group></li>
+            <li> They can't stop the <group label="b" num="20" rhyme="15 17">reign</group></li>
             <li> All right I need them back</li>
-            <li> To blast, to blast me out of sight</li>
-            <li> Like a satellite</li>
-            <li> Vibe all night</li>
-            <li> A satellite</li>
+            <li> To blast, to blast me out of <group label="b" num="21" rhyme="22 23 24">sight</group></li>
+            <li> Like a <group label="b" num="22" rhyme="21 23 24">satellite</group></li>
+            <li> Vibe all <group label="b" num="23" rhyme="21 22 24"> night</group></li>
+            <li> A <group label="b" num="24" rhyme="21 22 23">satellite</group></li>
         </stanza>
         <stanza speaker="ChuckStrangers" type="verse">
-            <li> I take a day off</li>
-            <li> Let the <weed>trees</weed> take some weight off</li>
-            <li> My mental's just a fact, Bannon's got the instrumental</li>
+            <li> I take a <group label="c" num="1" rhyme="2">day off</group></li>
+            <li> Let the <weed>trees</weed> take some <group label="c" num="2" rhyme="1">weight off</group></li>
+            <li> My <group label="c" num="3" rhyme="4">mental's</group> just a fact, Bannon's got the <group label="c" num="4" rhyme="3">instrumental</group></li>
             <li> I keep niggas on their toes</li>
-            <li> So you got creases in your Forces</li>
-            <li> My verses they're important, yo your verses they are boring</li>
+            <li> So you got creases in your <fashion>Forces</fashion></li>
+            <li> My <group label="c" num="5" assimilation="6">verses they're important</group>, yo your <group label="c" num="6" assimilation="5">verses they are boring</group></li>
             <li> I am not of this Earth bro</li>
-            <li> I'm a satellite that's bound to fight</li>
-            <li> But we're down to light, 'n light the fuck up</li>
-            <li> Vibe all night</li>
+            <li> I'm a <group label="c" num="7" rhyme="8 9 11">satellite</group> that's bound to <group label="c" num="8" rhyme="7 9 11">fight</group></li>
+            <li> But we're down to <group label="c" num="9" rhyme="7 8 11">light</group>, 'n light the fuck up</li>
+            <li> <group label="c" num="10" slantRhyme="11">Vibe</group> all <group label="c" num="11" rhyme="7 8 9" slantRhyme="10">night</group></li>
         </stanza>
         <stanza speaker="KirkKnight" type="verse">
-            <li> As I roll the die</li>
-            <li> Like my first drink was just the brink of a crooked eye</li>
+            <li> As I roll the <group label="d" num="1" rhyme="1">die</group></li>
+            <li> Like my first <group label="d" num="2" rhyme="3">drink</group> was just the <group label="d" num="3" rhyme="2">brink</group> of a crooked <group label="d" num="4" rhyme="1">eye</group></li>
             <li> But don't blame the ice for the I U KEL</li>
             <li> Oh God couldn't see past <AAVE field="phon" type="dropping" sound="un"
                     position="initial">'em</AAVE></li>
             <li> If his puff pass, notarized</li>
-            <li> Two <weed>dubs</weed> I got 40 on my hit list</li>
-            <li> Just smoking drinks both the broken in-glass like Olde English</li>
-            <li> Are you good bro?</li>
-            <li> Is your eyes dilated from the <weed>kush</weed> 'n Nuvo?</li>
+            <li> Two <weed>dubs</weed> I got 40 on my <group label="d" num="5" slantRhyme="7">hit list</group></li>
+            <li> Just smoking drinks both the broken <group label="d" num="6" assimilation="7">in-glass</group> like Olde <group label="d" num="7" slantRhyme="5" assimilation="6">English</group></li>
+            <li> Are you good <group label="d" num="8" rhyme="9">bro</group>?</li>
+            <li> Is your eyes dilated from the <weed>kush</weed> 'n <group label="d" num="9" rhyme="8">Nuvo</group>?</li>
             <li> This new for the life</li>
-            <li> Like a Nubian with the <weed>doobie</weed> cold eyes</li>
-            <li> Better smell the coffee I'mma coughing</li>
-            <li> That means I'm sick widdit, spit it out</li>
-            <li> Kill it like airborne diseases</li>
-            <li> Is this why the rap game is this easy?</li>
-            <li> Like please eat your <food>vegetables</food></li>
-            <li> So I took a dose of the <food><weed>edible</weed></food></li>
-            <li> Ain't an overdose</li>
-            <li> Already a rap monster fucking overload</li>
+            <li> Like a <group label="d" num="10" slantRhyme="11">Nubian</group> with the <weed><group label="d" num="11" slantRhyme="10">doobie</group></weed> cold eyes</li>
+            <li> Better smell the <group label="d" num="12" alliteration="13">coffee</group> I'mma <group label="d" num="13" alliteration="12">coughing</group></li>
+            <li> That means I'm sick <group label="d" num="14" rhyme="15">widdit</group>, <group label="d" num="15" rhyme="14">spit it</group> out</li>
+            <li> Kill it like airborne <group label="d" num="16" slantRhyme="17">diseases</group></li>
+            <li> Is this why the rap game is <group label="d" num="17" slantRhyme="16">this easy</group>?</li>
+            <li> Like please eat your <food><group label="d" num="18" slantRhyme="19">vegetables</group></food></li>
+            <li> So I took a dose of the <food><weed><group label="d" num="19" slantRhyme="18">edible</group></weed></food></li>
+            <li> Ain't an <group label="e" num="1" slantRhyme="2">overdose</group></li>
+            <li> Already a rap monster fucking <group label="e" num="2" slantRhyme="1">overload</group></li>
             <li> Hopping up on stepping stones</li>
-            <li> So we making stepping stones</li>
-            <li> Turn up that <weed>trichome</weed></li>
+            <li> So we making <group label="e" num="3" alliteration="4">stepping</group> <group label="e" num="4" alliteration="3" slantRhyme="5">stones</group></li>
+            <li> Turn up that <group label="e" num="5" slantRhyme="4"><weed>trichome</weed></group></li>
             <li> We rap game dose</li>
             <li> This is Messiah and the eyes are hopeless</li>
-            <li>
-                <AAVE field="phon" type="dropping" sound="g" position="final">Hopin'</AAVE> my
-                divide eyes through the world flex</li>
-            <li> This ship</li>
-            <li> Don't this shit make my people wanna jump?</li>
-            <li> No disrespect, ask my man for the pumps</li>
+            <li><AAVE field="phon" type="dropping" sound="g" position="final">Hopin'</AAVE> my divide eyes through the world flex</li>
+            <li> <group label="e" num="6" slantRhyme="7">This ship</group></li>
+            <li> Don't <group label="e" num="7" slantRhyme="6">this shit</group> make my people wanna <group label="e" num="8" rhyme="9">jump</group>?</li>
+            <li> No disrespect, ask my man for the <group label="e" num="9" rhyme="8">pumps</group></li>
             <li> Don't this shit</li>
-            <li> To blast, to blast me out of sight like a satellite</li>
+            <li> To blast, to blast me out of <group label="e" num="10" rhyme="11">sight</group> like a <group label="e" num="11" rhyme="10">satellite</group></li>
             <li> Don't this shit make my people wanna jump?</li>
             <li> No disrespect, ask my man for the pumps</li>
             <li> Don't this shit make my people wanna jump?</li>
