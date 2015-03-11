@@ -1727,55 +1727,51 @@
             <li> Why settle for a <group label="b" num="13" slantRhyme="14">office spot</group>?</li>
             <li><struggle>Niggas don’t always make it <group label="b" num="14" slantRhyme="13">off the block</group></struggle></li>
             <li> Unless they <group label="b" num="15" slantRhyme="16">extort rocks</group> or <group label="b" num="16" slantRhyme="15">support the cops</group></li>
-            <li> They still snitchin’ - let me guess: that’s your <group label="b" num="">mannequin</group>?</li>
-            <li> Leave ‘em shook while you’re <group label="b" num="">standing</group> and quit the <group label="b" num="">shenanigans</group></li>
-            <li> Have you <group label="b" num="">panicking</group>, <group label="b" num="">induce damages</group> ‘til you’re <group label="b" num="">vanishing</group></li>
-            <li> Words are told <group label="b" num="">properly</group>, resort <group label="b" num="">top sea</group> <group label="b" num=""><AAVE field="phon" type="dropping"
+            <li> They still snitchin’ - let me guess: that’s your
+                <group label="b" num="17" slantRhyme="19">mannequin</group>?</li>
+            <li> Leave ‘em shook while you’re <group label="b" num="18" rhyme="20 22">standing</group> and quit the <group label="b" num="19" slantRhyme="17">shenanigans</group></li>
+            <li> Have you <group label="b" num="20" rhyme="18 22" slantRhyme="21">panicking</group>, <group label="b" num="21" slantRhyme="20 ">induce damages</group> ‘til you’re <group label="b" num="22" rhyme="18 20">vanishing</group></li>
+            <li> Words are told <group label="b" num="23" rhyme="24">properly</group>, resort <group label="b" num="24" rhyme="23">top sea</group> <group label="b" num="25" slantRhyme="26"><AAVE field="phon" type="dropping"
                     sound="g" position="final">examinin'</AAVE></group> </li>
-            <li> This is for my real hip hop <group label="b" num="">fans and ‘em</group></li>
-            <li> I dispose <group label="b" num="">for <AAVE field="phon" type="dropping" sound="un" position="initial"
-                    >'em</AAVE></group>, leave fake MC’s in the <group label="b" num="">post mortem</group></li>
+            <li> This is for my real hip hop <group label="b" num="26" slantRhyme="25">fans and ‘em</group></li>
+            <li> I dispose <group label="b" num="27" slantRhyme="28">for <AAVE field="phon" type="dropping" sound="un" position="initial"
+                    >'em</AAVE></group>, leave fake MC’s in the <group label="b" num="28" slantRhyme="27">post mortem</group></li>
         </stanza>
         <stanza speaker="JoeyBada$$" type="hook">
-            <li> Cause <money>money</money> ain’t a thing if I got it I won’t spend</li>
-            <li> All I got is my <hiphop ref="ProEra">Pros</hiphop>, I don’t need no friends</li>
-            <li> Feel like this glory road is coming to an end</li>
-            <li> The only soul that won’t sin</li>
-            <li> No he won’t give in</li>
-            <li> Yo this world is bone chillin’</li>
-            <li> Make <food>meals</food> in hell’s kitchen with these dishes</li>
-            <li> Properly delivered drop <weed>trees</weed> in my swisher</li>
-            <li> And bring that back to my property wit ya</li>
+            <li> Cause <money>money</money> ain’t a thing if I got it I won’t <group label="c" num="1" rhyme="2 3">spend</group></li>
+            <li> All I got is my <hiphop ref="ProEra">Pros</hiphop>, I don’t need no <group label="c" num="2" rhyme="1 3">friends</group></li>
+            <li> Feel like this glory road is coming to an <group label="c" num="3" rhyme="1 2">end</group></li>
+            <li> The <group label="c" num="4" assonance="5 6">only</group> <group label="c" num="5" assonance="4 6">soul</group> that <group label="c" num="6" assonance="4 5" rhyme="7">won’t sin</group></li>
+            <li> No he <group label="c" num="7" rhyme="6" slantRhyme="8">won’t give in</group></li>
+            <li> Yo this world is <group label="c" num="8" slantRhyme="7">bone chillin’</group></li>
+            <li> <group label="c" num="9" alliteration="10">Make</group> <group label="c" num="10" alliteration="9"><food>meals</food></group> 
+                in hell’s <group label="c" num="11" slantRhyme="12">kitchen</group> with these <group label="c" num="12" slantRhyme="11">dishes</group></li>
+            <li> <group label="c" num="13" slantRhyme="14 16">Properly</group> delivered <group label="c" num="14" slantRhyme="13 16">drop 
+                <weed>trees</weed></group> in my <group label="c" num="15" slantRhyme="17">swisher</group></li>
+            <li> And bring that back to my <group label="c" num="16" slantRhyme="13 14">property</group> <group label="c" num="17" slantRhyme="15">wit ya</group></li>
         </stanza>
         <stanza speaker="JoeyBada$$" type="verse">
-            <li> It ain’t easy being this royal</li>
+            <li> It ain’t easy being this <group label="d" num="1" rhyme="2 3 4 5">royal</group></li>
             <li> When you got this much going for you</li>
-            <li> It ain’t hard to be disloyal</li>
-            <li> Comin’ straight from the soil with lines that never coil</li>
-            <li> Start to think pretty off new career with this spoil</li>
-            <li> The kid is that sick so expect more coffins</li>
-            <li> I’m the chosen one so you can expect more offerings</li>
-            <li> I be sonning niggas so expect less orphans</li>
-            <li>
-                <success>Best rapper alive</success> hear that line used less often</li>
-            <li>
-                <success>Word to God I’m the best offering</success></li>
-            <li> BMX like Hoffman, <hiphop ref="RickRoss">BMF like Ross man</hiphop></li>
-            <li> Young boss, man, got <popculture ref="JimmyFallon">Jimmy Fallon</popculture>
-                endorsements</li>
-            <li> From porches, to <popculture ref="Porsche">Porsches</popculture>, getting portions
-                of fortune</li>
+            <li> It ain’t hard to be <group label="d" num="2" rhyme="1 3 4 5">disloyal</group></li>
+            <li> Comin’ straight from the <group label="d" num="3" rhyme="1 2 4 5">soil</group> with lines that never <group label="d" num="4" rhyme="1 2 3 5">coil</group></li>
+            <li> Start to think pretty off new career with this <group label="d" num="5" rhyme="1 2 3 4">spoil</group></li>
+            <li> The kid is that sick so <group label="d" num="6" assimilation="7 8">expect more coffins</group></li>
+            <li> I’m the chosen one so you can <group label="d" num="7" assimilation="6 8">expect more offerings</group></li>
+            <li> I be sonning niggas so <group label="d" num="8" assimilation="6 7">expect less orphans</group></li>
+            <li><success>Best rapper alive</success> hear that line used <group label="d" num="9" slantRhyme="10">less often</group></li>
+            <li><success>Word to God I’m the <group label="d" num="10" slantRhyme="9">best offering</group></success></li>
+            <li> <group label="d" num="11" rhyme="12">BMX like Hoffman</group>, <group label="d" num="12" rhyme="11"><hiphop ref="RickRoss">BMF like Ross man</hiphop></group></li>
+            <li> Young boss, man, got <popculture ref="JimmyFallon">Jimmy Fallon</popculture> endorsements</li>
+            <li> From porches, to <popculture ref="Porsche">Porsches</popculture>, getting portions of fortune</li>
             <li> They said next up so I stepped up</li>
-            <li>
-                <fashion>Fly like I dressed up</fashion></li>
-            <li>
-                <women>Bitches</women> try to hang like left nuts</li>
+            <li> <fashion>Fly like I dressed up</fashion></li>
+            <li> <women>Bitches</women> try to hang like left nuts</li>
             <li> Like orangutans in the west of</li>
             <li> Of the motherland, but I’ve got the swank of no other man</li>
             <li> Brother man</li>
             <li> They can’t understand</li>
-            <li>
-                <hiphop ref="ProEra">Pro Era</hiphop> boys pop <money>rubber band</money></li>
+            <li> <hiphop ref="ProEra">Pro Era</hiphop> boys pop <money>rubber band</money></li>
         </stanza>
         <stanza speaker="JoeyBada$$" type="hook">
             <li> Cause <money>money</money> ain’t a thing if I got it I won’t spend</li>
