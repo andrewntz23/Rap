@@ -800,86 +800,73 @@
     </song>
     <song title="WordIsBond" production="StatikSelektah">
         <stanza speaker="JoeyBada$$" type="verse">
-            <li> Got the <sports><weed>reggies from the Bush</weed></sports></li>
-            <li> Get lifted like a saint off the <weed>kush</weed>, man all my niggas push</li>
-            <li> So I always got the <weed>zipstock</weed> in the Ziplock</li>
-            <li> Stay lo, like Ralph lip stock, hit the <weed>Mary</weed>, won't kiss and tell</li>
-            <li> My lips <AAVE type="deletion" field="syn" class="copula"/>locked but my grip's not
+            <li> Got the <sports><weed>reggies from the <group label="a" num="1" rhyme="2 3">Bush</group></weed></sports></li>
+            <li> Get lifted like a saint off the <weed><group label="a" num="2" rhyme="1 3">kush</group></weed>, man all my niggas <group label="a" num="3" rhyme="1 2">push</group></li>
+            <li> So I always got the <weed><group label="a" num="4" rhyme="5 6 7">zipstock</group></weed> in the <group label="a" num="5" rhyme="4 6 7">Ziplock</group></li>
+            <li> Stay <fashion>lo, like Ralph</fashion> <group label="a" num="6" rhyme="4 5 7">lip stock</group>, hit the <weed>Mary</weed>, won't kiss and tell</li>
+            <li> My <group label="a" num="7" rhyme="4 5 6" slantRhyme="8">lips <AAVE type="deletion" field="syn" class="copula"/>locked</group> but my <group label="a" num="8" slantRhyme="7">grip's not</group>
                 so I pass it off</li>
-            <li> Real <guns>burners</guns>, and we ashing off your furniture</li>
-            <li> Fuck your couch, bitch, hush your mouth</li>
-            <li>
-                <women>She</women> said she fell in one of them <weed>Ls</weed>, but lust don't
-                count</li>
-            <li> These <women>chickens</women> don't love me, they love <money>the account</money></li>
-            <li> But they will never know what's the amount, I keep the <women>hoes</women> in
+            <li> Real <group label="a" num="9" slantRhyme="10"><guns>burners</guns></group>, and we ashing off your <group label="a" num="10" slantRhyme="9">furniture</group></li>
+            <li> Fuck your <group label="a" num="11" slantRhyme="12">couch</group>, bitch, hush your <group label="a" num="12" slantRhyme="11">mouth</group></li>
+            <li><women>She</women> said she <group label="a" num="13" rhyme="14">fell</group> in one of them <weed><group label="a" num="14" rhyme="13">Ls</group></weed>, but lust don't
+                <group label="a" num="15" rhyme="16 17">count</group></li>
+            <li> These <women>chickens</women> don't love me, they love <money>the <group label="a" num="16" rhyme="15 17">account</group></money></li>
+            <li> But they will never know what's the <group label="a" num="17" rhyme="15 16">amount</group>, I keep the <women>hoes</women> in
                 check</li>
-            <li>
-                <AAVE field="phon" type="dropping" sound="un" position="initial">'Til</AAVE> they
+            <li><AAVE field="phon" type="dropping" sound="un" position="initial">'Til</AAVE> they
                 bounce, don't ever let a <women>chick</women> see you withdrawn</li>
             <li> These niggas want to know what I draw with</li>
-            <li> But won't respond to what I've drawn</li>
-            <li> Tetrahedrons, take a dose of Patron</li>
-            <li> With knowledge juice and deuce Cubes of Metatron</li>
-            <li> They wouldn't hear the tone through a megaphone, let alone</li>
-            <li> Cella phone, but my line stay hella blown</li>
+            <li> But won't respond to what I've <group label="a" num="18" slantRhyme="19">drawn</group></li>
+            <li> <group label="a" num="19" slantRhyme="18" rhyme="25">Tetrahedrons</group>, take a <group label="a" num="20" assonance="21">dose</group> of <group label="a" num="21" assonance="20">Patron</group></li>
+            <li> With knowledge <group label="a" num="22" rhyme="23" assonance="23 24">juice</group> and <group label="a" num="23" rhyme="22" assonance="22 24">deuce</group> <group label="a" num="24" assonance="22 23">Cubes</group> of <group label="a" num="25" rhyme="19">Metatron</group></li>
+            <li> They wouldn't hear the <group label="a" num="26" rhyme="27 28 29 30">tone</group> through a <group label="a" num="27" rhyme="26 28 29 30">megaphone</group>, let <group label="a" num="28" rhyme="26 27 29 30">alone</group></li>
+            <li> Cella <group label="a" num="29" rhyme="26 27 28 30">phone</group>, but my line stay hella <group label="a" num="30" rhyme="26 27 28 29">blown</group></li>
             <li> Hella blown, hella blown</li>
         </stanza>
         <stanza speaker="JoeyBada$$" type="verse">
-            <li> Yo <geo ref="Houston">Houston</geo>, we got a problem, copy</li>
-            <li> Four, five <women>hotties</women>
-                <AAVE type="deletion" field="syn" class="copula"/>in the lobby</li>
-            <li> Said that they can blow the rockets properly, but blow up spots and never stop</li>
-            <li> Like them aki's, they never get aqui to my property</li>
-            <li> Known around <geo ref="NewYork">my city</geo> like <popculture ref="GeorgePataki"
-                    >George Pataki</popculture></li>
+            <li> Yo <popculture ref="NASA">Houston</popculture>, we got a problem, <group label="b" num="1" rhyme="2 3 4">copy</group></li>
+            <li> Four, five <women><group label="b" num="2" rhyme="1 3 4">hotties</group></women>
+                <AAVE type="deletion" field="syn" class="copula"/>in the <group label="b" num="3" rhyme="1 2 4">lobby</group></li>
+            <li> Said that they can blow the rockets <group label="b" num="4" rhyme="1 2 3">properly</group>, but blow up <group label="b" num="5" slantRhyme="6">spots</group> and never <group label="b" num="6" slantRhyme="5">stop</group></li>
+            <li> Like them <group label="b" num="7" assimilation="8">aki's</group>, they never get <group label="b" num="8" assimilation="7">aqui</group> to my <group label="b" num="9" rhyme="10 11 12">property</group></li>
+            <li> Known around <geo ref="NewYork">my <group label="b" num="10" rhyme="9 11 12">city</group></geo> like <popculture ref="GeorgePataki"
+                    ><group label="b" num="11" rhyme="9 10 12">George Pataki</group></popculture></li>
             <li> Young Jason for them <money>dollars</money> in the mix like
-                <food>teriyaki</food></li>
-            <li> And round four, I force my large <fashion>Versace</fashion></li>
+                <food><group label="b" num="12" rhyme="9 10 11">teriyaki</group></food></li>
+            <li> And round <group label="b" num="13" alliteration="14">four</group>, I <group label="b" num="14" alliteration="13">force</group> my large <fashion><group label="b" num="15" rhyme="16 17">Versace</group></fashion></li>
             <li> Over my big head, cause I don't live here, <women>she</women>
-                <AAVE type="deletion" field="syn" class="copula"/>getting too cocky</li>
+                <AAVE type="deletion" field="syn" class="copula"/>getting too <group label="b" num="16" rhyme="15 17">cocky</group></li>
             <li>
-                <AAVE field="syn" type="negative">Won't spot me in no closet</AAVE></li>
+                <AAVE field="syn" type="negative">Won't <group label="b" num="17" rhyme="15 16">spot me</group> in no closet</AAVE></li>
             <li> I <AAVE type="contraction" field="phon" word1="do" word2="not">ain't</AAVE> like
-                Kels and them</li>
+                <group label="b" num="18" assimilation="19"><hiphop ref="RKelly">Kels</hiphop> and them</group></li>
             <li>
                 <women>Her</women> closet <AAVE type="deletion" field="syn" class="copula"/>full of
-                arm limbs and a skeleton</li>
+                arm limbs and a <group label="b" num="19" assimilation="18">skeleton</group></li>
         </stanza>
         <stanza speaker="JoeyBada$$" type="verse">
-            <li> I spray <guns>nines</guns> on <haters>foes</haters>, bet if you pick five
-                emcees</li>
-            <li> Seven, <AAVE type="contraction" field="phon" word1="is" word2="not">ain't</AAVE>
-                gone flow like me, nigga I'm two-six</li>
-            <li> I mean too sick, sent to Earth just to shit</li>
-            <li>
-                <women>Mami</women>, come steer, some new stick, got a man?, I don't give two
-                shits</li>
-            <li> Better tell that doofus deuces before he catch a whipping</li>
-            <li> Hit him in his Charles Dickens and strip him for his <fashion><sports>Scottie
-                        Pippens</sports></fashion></li>
-            <li> Cause it's all about the <hiphop ref="Jay-Z">big pimping</hiphop></li>
-            <li> Rob him for his <fashion>Nixon</fashion>, and then question him about his
-                timing</li>
-            <li> Right here, it gets reckless, best advice is</li>
-            <li> To tuck your <fashion>necklace</fashion>, and put your arms right back into your
-                    <popculture ref="Lexus">Lexus</popculture></li>
-            <li> Cause G-Stone Crips, they <AAVE type="contraction" field="phon" word1="is"
-                    word2="not">ain't</AAVE> nothing</li>
-            <li> To flex with, and billy gang Pyru, they really on some next shit</li>
-            <li> So if I were you I would probably ride with <guns>two</guns></li>
-            <li> No fool, not two dudes, <guns>two tools</guns></li>
-            <li> As in <guns>deuce-deuce</guns> cause niggas jack you for your soul</li>
-            <li> And your <fashion>new shoes</fashion> and your <fashion>jewels</fashion> too</li>
-            <li> There's something about another nigga having shit</li>
-            <li> That have a nigga spazzing <guns>clips</guns> all up in your back and dip</li>
-            <li> Cause it's all about bagging the baddest <women>chick</women></li>
-            <li> Stacking them chicks up in <fashion><popculture ref="SaksFifthAve">Saks
-                        Fifth</popculture></fashion></li>
-            <li> But word is bond, <AAVE field="syn" type="aspect" tense="progressive">you been
-                    on</AAVE></li>
-            <li> Word is bond, <AAVE field="syn" type="aspect" tense="progressive">you been
-                    on</AAVE></li>
+            <li> I spray <guns>nines</guns> on <haters>foes</haters>, bet if you pick five <group label="c" num="1" rhyme="2">emcees</group></li>
+            <li> Seven, <AAVE type="contraction" field="phon" word1="is" word2="not">ain't</AAVE> gone <group label="c" num="2" rhyme="1">flow like me</group>, nigga I'm <group label="c" num="3" assimilation="4 5 6 7">two-six</group></li>
+            <li> I mean <group label="c" num="4" assimilation="3 5 6 7">too sick</group>, sent to Earth just <group label="c" num="5" assimilation="3 4 6 7">to shit</group></li>
+            <li> <women>Mami</women>, come steer, some <group label="c" num="6" assimilation="3 4 5 7">new stick</group>, got a man?, I don't give <group label="c" num="7" assimilation="3 4 5 6">two shits</group></li>
+            <li> Better tell that <group label="c" num="8" slantRhyme="9">doofus</group> <group label="c" num="9" slantRhyme="8">deuces</group> before he catch a <group label="c" num="10" slantRhyme="11 12 13" rhyme="14">whipping</group></li>
+            <li> Hit him in his Charles <group label="c" num="11" slantRhyme="10 12 13">Dickens</group> and <group label="c" num="12" slantRhyme="10 11 13">strip him</group> for his <fashion><sports>Scottie <group label="c" num="13" slantRhyme="10 11 12">Pippens</group></sports></fashion></li>
+            <li> Cause it's all about the <hiphop ref="Jay-Z">big <group label="c" num="14" rhyme="10">pimping</group></hiphop></li>
+            <li> Rob him for his <fashion>Nixon</fashion>, and then question him about his timing</li>
+            <li> Right here, it gets <group label="c" num="15" rhyme="17 18" slantRhyme="16">reckless</group>, best <group label="c" num="16" slantRhyme="15">advice is</group></li>
+            <li> To tuck your <fashion><group label="c" num="17" rhyme="15 18">necklace</group></fashion>, and put your arms right back into your <popculture ref="Lexus"><group label="c" num="18" rhyme="15 17">Lexus</group></popculture></li>
+            <li> Cause G-Stone Crips, they <AAVE type="contraction" field="phon" word1="is" word2="not">ain't</AAVE> nothing</li>
+            <li> To <group label="d" num="1" slantRhyme="2">flex with</group>, and billy gang Pyru, they really on some <group label="d" num="2" slantRhyme="1">next shit</group></li>
+            <li> So if I were you I would probably ride with <guns><group label="d" num="3" assonance="4 5 6 7">two</group></guns></li>
+            <li> No <group label="d" num="4" assonance="3 5 6 7">fool</group>, not <group label="d" num="5" assonance="3 4 6 7">two dudes</group>, <guns><group label="d" num="6" assonance="3 4 5 7">two tools</group></guns></li>
+            <li> As in <guns><group label="d" num="7" assonance="3 4 5 6">deuce-deuc</group>e</guns> cause niggas jack you for your soul</li>
+            <li> And your <fashion><group label="d" num="8" slantRhyme="9">new shoes</group></fashion> and your <fashion><group label="d" num="9" slantRhyme="8">jewels</group></fashion> too</li>
+            <li> There's something about another nigga <group label="d" num="10" slantRhyme="11 12">having shit</group></li>
+            <li> That have a nigga <group label="d" num="11" slantRhyme="10 12">spazzing <guns>clips</group></guns> all up in your <group label="d" num="12" slantRhyme="10 11">back and dip</group></li>
+            <li> Cause it's all about bagging the <group label="d" num="13" rhyme="14">baddest <women>chick</group></women></li>
+            <li> <group label="d" num="14" rhyme="13" slantRhyme="15">Stacking them chicks</group> up in <fashion><popculture ref="SaksFifthAve"><group label="d" num="15" slantRhyme="14">Saks Fifth</group></popculture></fashion></li>
+            <li> But word is <group label="d" num="16" slantRhyme="17">bond</group>, <AAVE field="syn" type="aspect" tense="progressive">you been <group label="d" num="17" slantRhyme="16">on</group></AAVE></li>
+            <li> Word is bond, <AAVE field="syn" type="aspect" tense="progressive">you been on</AAVE></li>
         </stanza>
 
     </song>
