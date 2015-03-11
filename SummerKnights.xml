@@ -1588,64 +1588,61 @@
             <li> I must admit, I must admit</li>
         </stanza>
         <stanza speaker="DessyHinds" type="verse">
-            <li> The mental <group label="f" num="1">state</group> with a nigga that was penciled for <group label="f" num="2">great</group></li>
-            <li> Following schedules, never scheduled for <group label="f" num="3">break</group></li>
-            <li> But still <group label="f" num="4">embrace</group> he'll put <AAVE field="phon" type="dropping" sound="r"
-                    position="final">ya</AAVE>' neck in a <group label="f" num="5">brace</group></li>
+            <li> The mental <group label="f" num="1" rhyme="2">state</group> with a nigga that was penciled for <group label="f" num="2" rhyme="1" slantRhyme="3">great</group></li>
+            <li> Following schedules, never scheduled for <group label="f" num="3" slantRhyme="2">break</group></li>
+            <li> But still <group label="f" num="4" rhyme="5">embrace</group> he'll put <AAVE field="phon" type="dropping" sound="r"
+                    position="final">ya</AAVE>' neck in a <group label="f" num="5" rhyme="4">brace</group></li>
             <li> Regular days went to getting paid regular</li>
-            <li> Respecting the <hiphop ref="ProEra">Era</hiphop> where the Era’s been <group label="f" num="6">ascending</group>
-                up</li>
-            <li> Got all types of fans that’s always <group label="f" num="7">sending us love</group></li>
-            <li> And ex girls that I loved I now <group label="f" num="8">offend with a glove</group></li>
-            <li> And stayed deeper but still <group label="f" num="9">heading above</group> ‘Cause Mr. Hinds always <AAVE
+            <li> Respecting the <hiphop ref="ProEra">Era</hiphop> where the Era’s been <group label="f" num="6" slantRhyme="7">ascending
+                up</group></li>
+            <li> Got all types of fans that’s always <group label="f" num="7" slantRhyme="6" rhyme="8">sending us love</group></li>
+            <li> And ex girls that I loved I now <group label="f" num="8" rhyme="7">offend with a glove</group></li>
+            <li> And stayed deeper but still <group label="f" num="9" rhyme="10">heading above</group> ‘Cause Mr. Hinds always <AAVE
                     field="phon" type="contraction" word1="got" word2="to">gotta</AAVE> float to let
-                the people know that nigga <group label="f" num="10">head is above</group></li>
-            <li> <group label="f" num="11">Regular sea height</group>, cause they 3rd eye <group label="f" num="12">never seen height</group></li>
-            <li> Cause only this <geo ref="Brooklyn">Brooklyn</geo> <group label="f" num="13">street light</group> gave me shine to
-                shine for <group label="f" num="14">these nights</group></li>
+                the people know that nigga <group label="f" num="10" rhyme="9">head is above</group></li>
+            <li> <group label="f" num="11" assimilation="12">Regular sea height</group>, cause they 3rd eye <group label="f" num="12" assimilation="11">never seen height</group></li>
+            <li> Cause only this <geo ref="Brooklyn">Brooklyn</geo> <group label="f" num="13" slantRhyme="14">street light</group> gave me shine to
+                shine for <group label="f" num="14" slantRhyme="13">these nights</group></li>
             <li> Came with the free ice to bag bodies on the beat sipes</li>
             <li> Bring it down baby</li>
             <li> Bring it down baby, uh</li>
         </stanza>
         <stanza speaker="CJFly" type="verse">
             <li> Looking for who’s in charge, don’t be shocked, I’m the plug</li>
-            <li> Get inside like the socket, the surgeon, the sergeant</li>
-            <li> Energy – I put all in</li>
-            <li> I’m learning the flaw things</li>
-            <li> In the storm you stand out, you can struck and stand up</li>
-            <li> I know how to conduct, feelings electric</li>
-            <li> Well we’re connected, your buttons are pressing</li>
-            <li> Can test the reception, I sent you a message</li>
-            <li> Let me know if you get this, the question</li>
+            <li> Get inside like the <group label="g" num="1" alliteration="2 3">socket</group>, the <group label="g" num="2" alliteration="1 3">surgeon</group>, the <group label="g" num="3" alliteration="1 2">sergeant</group></li>
+            <li> Energy – I put <group label="g" num="4" slantRhyme="5">all in</group></li>
+            <li> I’m learning the <group label="g" num="5" slantRhyme="4">flaw things</group></li>
+            <li> In the storm you <group label="g" num="6" alliteration="7 8">stand</group> out, you can <group label="g" num="7" alliteration="6 8">struck</group> and <group label="g" num="8" alliteration="6 7">stand</group> up</li>
+            <li> I know how to conduct, feelings <group label="g" num="9" slantRhyme="10">electric</group></li>
+            <li> Well we’re <group label="g" num="10" slantRhyme="9">connected</group>, your buttons are <group label="g" num="11" slantRhyme="13">pressing</group></li>
+            <li> Can test the <group label="g" num="12" rhyme="14">reception</group>, I sent you a <group label="g" num="13" slantRhyme="11">message</group></li>
+            <li> Let me know if you get this, the <group label="g" num="14" rhyme="12">question</group></li>
         </stanza>
         <stanza speaker="JoeyBada$$" type="verse">
-            <li> Seen it all in the retrospect, took <oldschool>retro steps</oldschool></li>
-            <li> Like it’s <oldschool>’93 still</oldschool>, got <oldschool>’93 til mic
-                    skills</oldschool></li>
-            <li> Even got the <fashion>Ecko</fashion>
-                <money>check</money></li>
-            <li> Like for real there no testing, my tribe is not some <hiphop ref="ATCQ">Tribe
-                    called Questions</hiphop></li>
-            <li> My professions are not no seconds</li>
-            <li> To no veterans and they minutes of fame</li>
-            <li> I’m a menace, insane, minus the brain as I diminish the flame</li>
-            <li>
-                <money>Make it rain</money>, <alcohol>champagne</alcohol>, <AAVE field="phon"
-                    type="dropping" sound="un" position="initial">'til</AAVE> it falls down the
-                drain</li>
+            <li> Seen it all in the <group label="h" num="1" slantRhyme="2">retrospect</group>, took <group label="h" num="2" slantRhyme="1"><oldschool>retro steps</oldschool></group></li>
+            <li> Like it’s <group label="h" num="3" slantRhyme="4"><oldschool>’93 still</oldschool></group>, got <group label="h" num="4" slantRhyme="3"><oldschool>’93 til mic skills</oldschool></group></li>
+            <li> Even got the <fashion>Ecko</fashion> <money>check</money></li>
+            <li> Like for real there no <group label="h" num="5" slantRhyme="6">testing</group>, my tribe is not some <hiphop ref="ATCQ">Tribe called 
+                <group label="h" num="6" slantRhyme="5" rhyme="7">Questions</group></hiphop></li>
+            <li> My <group label="h" num="7" rhyme="6">professions</group> are not no <group label="h" num="8" slantRhyme="9">seconds</group></li>
+            <li> To no <group label="h" num="9" slantRhyme="8">veterans</group> and they <group label="h" num="10" assimilation="13">minutes of fame</group></li>
+            <li> I’m a <group label="h" num="11" assimilation="12">menace, insane</group>, <group label="h" num="12" assimilation="11">minus the brain</group> as I <
+                group label="h" num="13" assimilation="10">diminish the flame</group></li>
+            <li><money>Make it <group label="h" num="14" rhyme="15 16">rain</group></money>, <group label="h" num="15" rhyme="14 16"><alcohol>champagne</alcohol></group>, 
+                <AAVE field="phon" type="dropping" sound="un" position="initial">'til</AAVE> it falls down the <group label="h" num="16" rhyme="14 15">drain</group></li>
             <li> Got my head up in my dreams</li>
-            <li> Everything <AAVE type="contraction" field="phon" word1="is" word2="not"
-                    >ain't</AAVE> what it be <AAVE field="phon" type="dropping" sound="g"
-                    position="final">seemin'</AAVE>
-            </li>
-            <li> Don’t blame me <women>girl</women>, blame my semen</li>
-            <li> You got <fashion>good jeans</fashion> so your inseams made seamless</li>
-            <li> And off top, you’re ingenious</li>
-            <li> We took a hit of of the <weed>greenest</weed></li>
-            <li> Now <women>she</women> at most fear on the atmosphere but don't intervene us</li>
-            <li> Break <women>her</women> body down to the genus if she leaving</li>
-            <li> She didn’t get the pic and now I see Sophia</li>
-            <li> She get the tone, sorry <hiphop ref="ATCQ">Bonita</hiphop> but</li>
+            <li> Everything <AAVE type="contraction" field="phon" word1="is" word2="not">ain't</AAVE> what it be 
+                <group label="h" num="17" rhyme="18"><AAVE field="phon" type="dropping" sound="g" position="final">seemin'</AAVE></group></li>
+            <li> Don’t blame me <women>girl</women>, blame my <group label="h" num="18" rhyme="17">semen</group></li>
+            <li> You got <fashion>good <group label="h" num="19" slantRhyme="20">jeans</group></fashion> so your 
+                <group label="h" num="20" slantRhyme="19">inseams</group> made <group label="h" num="21" slantRhyme="22 23">seamless</group></li>
+            <li> And off top, you’re <group label="h" num="22" slantRhyme="21 23">ingenious</group></li>
+            <li> We took a hit of of the<group label="h" num="23" slantRhyme="21 22"> <weed>greenest</weed></group></li>
+            <li> Now <women>she</women> <group label="h" num="24" assimilation="25">at most fear</group> on the <group label="h" num="25" assimilation="24">atmosphere</group> but don't 
+                <group label="h" num="26" rhyme="27">intervene us</group></li>
+            <li> Break <women>her</women> body down to the <group label="h" num="27" rhyme="26">genus</group> if she leaving</li>
+            <li> She didn’t get the pic and now I <group label="h" num="28" alliteration="29">see</group> <group label="h" num="29" alliteration="28" rhyme="30">Sophia</group></li>
+            <li> She get the tone, sorry <group label="h" num="30" rhyme="29"><hiphop ref="ATCQ">Bonita</hiphop></group> but</li>
             <li> Sophia got a applebum</li>
             <li> Sophia got a applebum</li>
             <li> I’m thinking I should take it home</li>
@@ -1655,26 +1652,23 @@
     </song>
     <song title="#LongLiveSteelo" production="KirkKnight">
         <stanza speaker="JoeyBada$$" type="verse">
-            <li> Ayo I don't really cry, ask why</li>
-            <li> Cause inside, no one ever really dies</li>
-            <li> Your presence is still alive</li>
-            <li> Your voice I still hear it</li>
-            <li> I still feel your spirit in a room feel heavenly with the scent of ya</li>
-            <li> We wasn't on the issues but couldn't help but notice your views</li>
-            <li> So many aspects of truth</li>
-            <li> In fact you let the past get to you</li>
-            <li> So thoughts on a better future, it couldn't suit you alone</li>
-            <li> We was <weed>stoned</weed>, by the snakes of this life of sin</li>
-            <li> But you taught me a life lesson, the fight within</li>
+            <li> Ayo I don't really <group>cry</group>, ask <group>why</group></li>
+            <li> Cause inside, no one ever really <group>dies</group></li>
+            <li> Your presence is still <group>alive</group></li>
+            <li> Your voice I still <group>hear it</group></li>
+            <li> I still feel your <group>spirit</group> in a room feel heavenly with the scent of ya</li>
+            <li> We wasn't on the <group>issues</group> but couldn't help but notice your <group>views</group></li>
+            <li> So many aspects of <group>truth</group></li>
+            <li> In fact you let the past get <group>to you</group></li>
+            <li> So thoughts on a better <group>future</group>, it couldn't <group>suit you</group> <group>alone</group></li>
+            <li> We was <group><weed>stoned</weed></group>, by the snakes of this <group>life of sin</group></li>
+            <li> But you taught me a <group>life lesson</group>, the <group>fight within</group></li>
             <li> Use the power of our minds, I was confused at some hour in time</li>
             <li> My eyes were dark brown but blind</li>
             <li> But, now I see even the sun shines through blinds</li>
             <li> And now I move enlighten in sightings that I find</li>
-            <li>
-                <AAVE field="phon" type="dropping" sound="g" position="final">Enticin'</AAVE> in my
-                prime, like, look at me now</li>
-            <li> You used to tell me read books, <success>niggas <AAVE field="phon" type="dropping"
-                        sound="g" position="final">bookin'</AAVE> me now</success></li>
+            <li><AAVE field="phon" type="dropping" sound="g" position="final">Enticin'</AAVE> in my prime, like, look at me now</li>
+            <li> You used to tell me read books, <success>niggas <AAVE field="phon" type="dropping" sound="g" position="final">bookin'</AAVE> me now</success></li>
             <li> But how, could I have done it without you though</li>
             <li> You was the big bro I never ever had you know?</li>
             <li> Why you had to go? It hurt me inside</li>
