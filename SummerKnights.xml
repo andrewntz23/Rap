@@ -1484,18 +1484,19 @@
             <li> To the big games but you know just how I do</li>
         </stanza>
         <stanza speaker="JoeyBada$$" type="verse">
-            <li> Said we done came a long way 365 bong rips later</li>
-            <li> Last year I <AAVE type="contraction" field="phon" word1="is" word2="not">ain't</AAVE> make no paper</li>
-            <li> All I earned was some kicks some snares from some haters</li>
-            <li> And some favors from some chicks that move there rumps like shakers</li>
-            <li> But what's that shit, I was <AAVE field="phon" type="contraction" word1="trying" word2="to">tryna</AAVE> be the greatest</li>
-            <li> Upgrade to the grade A list, but all they do is degrade us</li>
-            <li> And it <AAVE type="contraction" field="phon" word1="is" word2="not">ain't</AAVE> to hard to be famous, Whats hard is sustaining</li>
-            <li> Remaining the same when stuff changing</li>
-            <li> Cause I remember days at the bus station, waiting</li>
-            <li> Still had no patience, so niggas try to play him</li>
-            <li> Imaginary players, Imaginary playlist</li>
-            <li> I been your favorite before you even started playing it</li>
+            <li> Said we done came a long way 365 bong rips <group label="d" num="1" rhyme="2 3 4 5">later</group></li>
+            <li> Last year I <AAVE type="contraction" field="phon" word1="is" word2="not">ain't</AAVE> make no <group label="d" num="2" rhyme="1 3 4 5">paper</group></li>
+            <li> All I earned was some kicks some snares from some <group label="d" num="3" rhyme="1 2 4 5">haters</group></li>
+            <li> And some <group label="d" num="4">favors</group> from some chicks that move there rumps like <group label="d" num="5" rhyme="1 2 3 4">shakers</group></li>
+            <li> But what's that shit, I was <AAVE field="phon" type="contraction" word1="trying" word2="to">tryna</AAVE> be the <group label="d" num="6" assimilation="7">greatest</group></li>
+            <li> Upgrade to the <group label="d" num="7" assimilation="6">grade A list</group>, but all they do is <group label="d" num="8" rhyme="9">degrade us</group></li>
+            <li> And it <AAVE type="contraction" field="phon" word1="is" word2="not">ain't</AAVE> to hard to be <group label="d" num="9" rhyme="8">famous</group>, 
+                Whats hard is <group label="d" num="10" rhyme="11 12 14">sustaining</group></li>
+            <li> <group label="d" num="11" rhyme="10 12 14">Remaining</group> the same when stuff <group label="d" num="12" rhyme="10 11 14">changing</group></li>
+            <li> Cause I remember days at the bus <group label="d" num="13" slantRhyme="15">station</group>, <group label="d" num="14" rhyme="10 11 12">waiting</group></li>
+            <li> Still had no <group label="d" num="15" slantRhyme="13">patience</group>, so niggas try to <group label="d" num="16" assonance="17 18">play</group> him</li>
+            <li> Imaginary <group label="d" num="17" assonance="16 18">players</group>, Imaginary <group label="d" num="18" assonance="16 17">playlist</group></li>
+            <li> I been your <group label="d" num="19" rhyme="20">favorite</group> before you even started <group label="d" num="20" rhyme="19">playing it</group></li>
             <li> Who'd of thought that they would come eye wouldn't be sorry</li>
             <li> In a pile of g's, and rehearse a verse on the beach</li>
             <li> But reverse on the speech</li>
@@ -1520,37 +1521,37 @@
     </song>
     <song title="SorryBonita" production="Oddisee">
         <stanza speaker="DyemondLewis" type="verse">
-            <li> It’s all illusions, fixed gear cruising</li>
-            <li> Fixed reality shrouded from governmental pollution</li>
-            <li> I ain’t a saint, the holy ghost up in my aura rebuked it</li>
-            <li> It’s the era of indigo and they go with the preaching</li>
-            <li> I ascend as the seasons, go on and I vanish</li>
-            <li> Cause I notice I’m slowly becoming way more imbalanced</li>
-            <li> A king with the crown, firm grip on the chalice</li>
+            <li> It’s all <group label="a" num="1" slantRhyme="2" rhyme="3">illusions</group>, fixed gear <group label="a" num="2" slantRhyme="1">cruising</group></li>
+            <li> Fixed reality shrouded from governmental <group label="a" num="3" rhyme="1" slantRhyme="6">pollution</group></li>
+            <li> I <group label="a" num="4" rhyme="5">ain’t</group> a <group label="a" num="5" rhyme="4">saint</group>, the holy ghost up in my aura <group label="a" num="6" slantRhyme="3">rebuked it</group></li>
+            <li> It’s the era of indigo and they go with the <group label="a" num="7" slantRhyme="8">preaching</group></li>
+            <li> I ascend as the <group label="a" num="8" slantRhyme="7">seasons</group>, go on and I vanish</li>
+            <li> Cause I notice I’m slowly becoming way more <group label="a" num="9" slantRhyme="10">imbalanced</group></li>
+            <li> A king with the crown, firm grip on the <group label="a" num="10" slantRhyme="9">chalice</group></li>
             <li> Solid gold angel coming back to burn down this Babylon</li>
-            <li> Has told many tales, his flows you could sells</li>
-            <li> Mastering wind elements, I move with the gales</li>
+            <li> Has <group label="a" num="11" slantRhyme="13">told</group> many <group label="a" num="12" rhyme="14">tales</group>, his <group label="a" num="13" slantRhyme="11">flows</group> you could sells</li>
+            <li> Mastering wind elements, I move with the <group label="a" num="14" rhyme="12">gales</group></li>
         </stanza>
         <stanza speaker="ChuckStrangers" type="verse">
-            <li> ‘Cause I’m a socialite in the night, bitch get right enable</li>
-            <li> I’m boxing yo dorm, Put my Nikes on the coffee table</li>
-            <li> My tongue’s below her navel, she makes it where her skills in naval</li>
-            <li> Seals my hands on her extremities, we’re chopping up these remedies</li>
+            <li> ‘Cause I’m a <group label="b" num="1" rhyme="2">socialite</group> in the <group label="b" num="2" rhyme="1">night</group>, bitch get right <group label="b" num="3" rhyme="4">enable</group></li>
+            <li> I’m boxing yo dorm, Put my Nikes on the coffee <group label="b" num="4" rhyme="3">table</group></li>
+            <li> My tongue’s below her <group label="b" num="5" rhyme="6">navel</group>, she makes it where her skills in <group label="b" num="6" rhyme="5">naval</group></li>
+            <li> Seals my hands on her <group label="b" num="7" rhyme="8">extremities</group>, we’re chopping up these <group label="b" num="8" rhyme="7">remedies</group></li>
             <li> Came in between her and I</li>
-            <li> We leave it to the constellations like should we continue relations?</li>
-            <li> I think not cause all I do is smoke pot</li>
-            <li> And make beats, and yo ass just want back shots</li>
+            <li> We leave it to the <group label="b" num="9" slantRhyme="10">constellations</group> like should we <group label="b" num="10" slantRhyme="10">continue relations</group>?</li>
+            <li> I think <group label="b" num="11" rhyme="12 13">not</group> cause all I do is smoke <group label="b" num="12" rhyme="11 13">pot</group></li>
+            <li> And make beats, and yo ass just want back <group label="b" num="13" rhyme="11 12">shots</group></li>
         </stanza>
         <stanza speaker="DirtySanchez" type="verse">
-            <li> Smoker’s club, Michael Jordan how I’m killing 4 quarters</li>
-            <li> You stashing the trash, hoarder</li>
-            <li> Yo girl starting to bath water, it’s Dirty</li>
-            <li> And that’s not an introduction, it’s nutching</li>
-            <li> Dirt on my shoulders, like Hova</li>
-            <li> My niggas turn boulders soft, that’s the shit that me and jovid saw uh</li>
-            <li> And now its like Pro Era in stores</li>
-            <li> All my niggas opening doors,</li>
-            <li> All my bitches is braless, flawless more or less</li>
+            <li> Smoker’s club, Michael Jordan how I’m killing 4 <group label="c" num="1" rhyme="4 5">quarters</group></li>
+            <li> You <group label="c" num="2" slantRhyme="3">stashing</group> the <group label="c" num="3" slantRhyme="2">trash</group>, <group label="c" num="4" rhyme="1 5">hoarder</group></li>
+            <li> Yo girl starting to bath <group label="c" num="5" rhyme="1 4">water</group>, it’s Dirty</li>
+            <li> And that’s not an <group label="c" num="6" slantRhyme="7">introduction</group>, it’s <group label="c" num="7" slantRhyme="6">nutching</group></li>
+            <li> Dirt on my <group label="c" num="8" rhyme="10" slantRhyme="9">shoulders</group>, like <group label="c" num="9" slantRhyme="8">Hova</group></li>
+            <li> My niggas turn <group label="c" num="10" rhyme="8">boulders</group> soft, that’s the shit that me and jovid saw uh</li>
+            <li> And now its like Pro Era in <group label="c" num="11" rhyme="12">stores</group></li>
+            <li> All my niggas opening <group label="c" num="12" rhyme="11">doors</group>,</li>
+            <li> All my bitches is <group label="c" num="13" rhyme="14 15">brainless</group>, <group label="c" num="14" rhyme="13 15">flawless</group> more or <group label="c" num="15" rhyme="13 14">less</group></li>
             <li> Balance was the key, more action less speaking</li>
             <li> Everybody wants a piece</li>
             <li> Peace</li>
@@ -1558,49 +1559,50 @@
             <li> Yo</li>
         </stanza>
         <stanza speaker="ALa$ole" type="verse">
-            <li> When I release the flows I goes over yo dome far</li>
-            <li> The nigga to represent the barrio, we hold bars</li>
-            <li> I shine further, you sons get in the bogart</li>
+            <li> When I release the <group label="d" num="1" rhyme="2">flows</group> I <group label="d" num="2" rhyme="1">goes</group> over yo 
+                <group label="d" num="3" rhyme="4">dome far</group></li>
+            <li> The nigga to represent the barrio, we <group label="d" num="4" rhyme="3" slantRhyme="5">hold bars</group></li>
+            <li> I shine further, you sons get in the <group label="d" num="5" slantRhyme="4">bogart</group></li>
             <li> You <AAVE field="phon" type="contraction" word1="got" word2="to">gotta</AAVE> pick
                 yo road, give it a go, keep the point, God</li>
             <li> Better with the regis my mind, they manifesting</li>
-            <li> Beast coast, yea we the pros, you don’t wanna mess with</li>
-            <li> We leave you breathless, don’t second guess the best who blessed it</li>
-            <li> Less than yo adolescence when I speak my progression</li>
+            <li> Beast coast, yea we the pros, you don’t wanna <group label="d" num="6" slantRhyme="7 8 9 10">mess with</group></li>
+            <li> We leave you <group label="d" num="7" slantRhyme="6 8 9 10">breathless</group>, don’t <group label="d" num="8" slantRhyme="6 7 9 10">second guess</group> the best who <group label="d" num="9" slantRhyme="6 7 8 10">blessed it</group></li>
+            <li> Less than yo adolescence when I speak my <group label="d" num="10" slantRhyme="6 7 8 9">progression</group></li>
             <li> Bring it down baby</li>
             <li> Bring it down baby, uh</li>
         </stanza>
         <stanza speaker="KirkKnight" type="verse">
-            <li> This is what I asked for, asked for</li>
-            <li> Chilling at my back door, back off, mind tweaking on bath salts</li>
-            <li> Confuse my intelligence, maybe I’m irrelevant</li>
-            <li> So eloquent, being riders with a elephant</li>
+            <li> This is what I asked for, <group label="e" num="1" rhyme="2">asked for</group></li>
+            <li> Chilling at my <group label="e" num="2" rhyme="1">back door</group>, <group label="e" num="3" slantRhyme="4">back off</group>, mind tweaking on <group label="e" num="4" slantRhyme="3">bath salts</group></li>
+            <li> Confuse my <group label="e" num="5" slantRhyme="6">intelligence</group>, maybe I’m <group label="e" num="6" slantRhyme="5" rhyme="7 8">irrelevant</group></li>
+            <li> So <group label="e" num="7" rhyme="6 8">eloquent</group>, being riders with a <group label="e" num="8" rhyme="6 7">elephant</group></li>
             <li> The higher rank <AAVE field="phon" type="contraction" word1="trying" word2="to"
                     >tryna</AAVE> pull a trump card</li>
-            <li> When I try and do the things, I deserve all respect</li>
-            <li> Intricit my amount, boy to any amount</li>
-            <li> To any account, probably I gets em out uh</li>
+            <li> When I try and do the things, I deserve all <group label="e" num="9" slantRhyme="10">respect</group></li>
+            <li> <group label="e" num="10" slantRhyme="9">Intricit</group> my <group label="e" num="11" rhyme="12 13 14">amount</group>, boy to any <group label="e" num="12" rhyme="11 13 14">amount</group></li>
+            <li> To any <group label="e" num="13" rhyme="11 12 14">account</group>, probably I gets <group label="e" num="14" rhyme="11 12 13">em out</group> uh</li>
             <li> I can see it through the pyramids</li>
             <li> I can see it through the pyramids</li>
             <li> I can see it through the pyramids</li>
             <li> I must admit, I must admit</li>
         </stanza>
         <stanza speaker="DessyHinds" type="verse">
-            <li> The mental state with a nigga that was penciled for great</li>
-            <li> Following schedules, never scheduled for break</li>
-            <li> But still embrace he'll put <AAVE field="phon" type="dropping" sound="r"
-                    position="final">ya</AAVE>' neck in a brace</li>
+            <li> The mental <group label="f" num="1">state</group> with a nigga that was penciled for <group label="f" num="2">great</group></li>
+            <li> Following schedules, never scheduled for <group label="f" num="3">break</group></li>
+            <li> But still <group label="f" num="4">embrace</group> he'll put <AAVE field="phon" type="dropping" sound="r"
+                    position="final">ya</AAVE>' neck in a <group label="f" num="5">brace</group></li>
             <li> Regular days went to getting paid regular</li>
-            <li> Respecting the <hiphop ref="ProEra">Era</hiphop> where the Era’s been ascending
+            <li> Respecting the <hiphop ref="ProEra">Era</hiphop> where the Era’s been <group label="f" num="6">ascending</group>
                 up</li>
-            <li> Got all types of fans that’s always sending us love</li>
-            <li> And ex girls that I loved I now offend with a glove</li>
-            <li> And stayed deeper but still heading above ‘Cause Mr. Hinds always <AAVE
+            <li> Got all types of fans that’s always <group label="f" num="7">sending us love</group></li>
+            <li> And ex girls that I loved I now <group label="f" num="8">offend with a glove</group></li>
+            <li> And stayed deeper but still <group label="f" num="9">heading above</group> ‘Cause Mr. Hinds always <AAVE
                     field="phon" type="contraction" word1="got" word2="to">gotta</AAVE> float to let
-                the people know that nigga head is above</li>
-            <li> Regular sea height, cause they 3rd eye never seen height</li>
-            <li> Cause only this <geo ref="Brooklyn">Brooklyn</geo> street light gave me shine to
-                shine for these nights</li>
+                the people know that nigga <group label="f" num="10">head is above</group></li>
+            <li> <group label="f" num="11">Regular sea height</group>, cause they 3rd eye <group label="f" num="12">never seen height</group></li>
+            <li> Cause only this <geo ref="Brooklyn">Brooklyn</geo> <group label="f" num="13">street light</group> gave me shine to
+                shine for <group label="f" num="14">these nights</group></li>
             <li> Came with the free ice to bag bodies on the beat sipes</li>
             <li> Bring it down baby</li>
             <li> Bring it down baby, uh</li>
