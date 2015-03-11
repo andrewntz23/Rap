@@ -1318,9 +1318,9 @@
             <li> In fact he lets me <group label="a" num="16" slantRhyme="15">call him “me</group>,”</li>
         </stanza>
         <stanza speaker="JoeyBada$$" type="verse">
-            <li> When did rap turn into a fashion show?</li>
-            <li> Too many makeup artists won't let their passion show</li>
-            <li> The anti-social mogul, <AAVE field="phon" type="dropping" sound="g"
+            <li> When did rap turn into a <group>fashion show</group>?</li>
+            <li> Too many makeup artists won't let their <group>passion show</group></li>
+            <li> The anti-<group>social</group> <group>mogul</group>, <AAVE field="phon" type="dropping" sound="g"
                     position="final">havin'</AAVE> 20/20 visions</li>
             <li> In needa bifocals, for your eyes dilated ojos</li>
             <li> Open wide, never did I owe hoes</li>
