@@ -8,11 +8,13 @@
             <head>
                 <title>Joey Bada$$</title>
                 <link href="splash.css" rel="stylesheet" type="text/css"/>
-                <link href="http://fonts.googleapis.com/css?family=Rock+Salt|Slabo+27px" rel="stylesheet"
-                    type="text/css" />
+                <link href="http://fonts.googleapis.com/css?family=Rock+Salt|Slabo+27px"
+                    rel="stylesheet" type="text/css"/>
             </head>
             <body>
-                <h1 class="headfont">Summer Knights</h1>
+                
+                    <xsl:apply-templates select="//meta/albumTitle"/>
+                
                 <h2 id="top" class="headfont">Track List</h2>
                 <ul>
                     <xsl:apply-templates select="//song" mode="toc">
@@ -21,34 +23,40 @@
                 </ul>
                 <hr/>
                 <xsl:apply-templates select="//song"/>
-                
+                <xsl:apply-templates select="li"/>
             </body>
         </html>
+    </xsl:template>
+    <xsl:template match="meta/albumTitle">
+        <h1 class="headfont">
+            <xsl:apply-templates/>
+        </h1>
     </xsl:template>
     <xsl:template match="song" mode="toc">
         <li>
             <div class="bodyfont">
-                <a href="#song{@title}">
+                <a href="#{generate-id(@title)}">
                     <q>
                         <xsl:apply-templates select="@title" mode="toc"/>
                     </q>
                     <xsl:text> ft. </xsl:text>
-                    
                 </a>
-                
             </div>
         </li>
     </xsl:template>
     <xsl:template match="song">
-<div class="box">        <div class="bodyfont">
-            <a href="#top"><h3 id="song{@title}">
-                <xsl:apply-templates select="@title"/>
-            </h3></a>
-            <p>
-                <xsl:apply-templates select="stanza"/>
-            </p>
-            
-        </div></div>
+        <div class="box">
+            <div class="bodyfont">
+                <a href="#top">
+                    <h3 id="{generate-id(@title)}">
+                        <xsl:apply-templates select="@title"/>
+                    </h3>
+                </a>
+                <p>
+                    <xsl:apply-templates select="stanza"/>
+                </p>
+            </div>
+        </div>
     </xsl:template>
     <xsl:template match="stanza">
         <xsl:apply-templates/>
@@ -58,6 +66,25 @@
     <xsl:template match="li">
         <xsl:apply-templates/>
         <br/>
+    </xsl:template>
+    <xsl:template match="group">
+        <span class="poetics" data-rhyme-type="{@alliteration
+            | @assonance
+            | @assimilation
+            | @consonance
+            | @repetition
+            | @rhyme
+            | @slantRhyme}"></span>
+    </xsl:template>
+    <xsl:template match="AAVE|compound">
+        <span class="linguistics">
+            <xsl:apply-templates/>
+        </span>
+    </xsl:template>
+    <xsl:template match="oldschool|success|women|fashion|struggle|food|money|alcohol|hiphop|haters|guns|popculture|weed|sports|geo">
+        <span class="motif">
+            <xsl:apply-templates/>
+        </span>
     </xsl:template>
 </xsl:stylesheet>
 <!-- generate-id xpath function 
