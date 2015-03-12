@@ -60,3 +60,7 @@
         <br/>
     </xsl:template>
 </xsl:stylesheet>
+<!-- generate-id xpath function 
+change the url 
+change titles to child element
+change markup to span with element value as class-->
