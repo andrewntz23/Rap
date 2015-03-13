@@ -57,8 +57,16 @@
                                 <xsl:text>&#x9;</xsl:text>
                                 <xsl:value-of select="count(//geo)"/>
                     </xsl:for-each>
-                
+                <table>
+                    <tr>
+                        <td>element 1 (start node)</td>
+                        <td>overall occurrence</td>
+                        <td>correlation with end node</td>
+                        <td>element 2 (end node)</td>
+                    </tr>
+                </table>
             </body>
         </html>
         </xsl:template>
+
 </xsl:stylesheet>
