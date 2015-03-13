@@ -6,57 +6,103 @@
     <xsl:template match="/">
         <html>
             <head>
-                <title>1999 Motif Count</title>
+                <h1>1999 Motif Count</h1>
             </head>
             <body>
-                <xsl:for-each select="//song">
-                    <xsl:value-of select="oldschool"/>
-                    <xsl:text>&#x9;</xsl:text>
-                    <xsl:value-of select="count(//oldschool)"/>
-                    <xsl:value-of select="success"/>
-                    <xsl:text>&#x9;</xsl:text>
-                    <xsl:value-of select="count(//success)"/>
-                    <xsl:value-of select="women"/>
-                    <xsl:text>&#x9;</xsl:text>
-                    <xsl:value-of select="count(//women)"/>
-                    <xsl:value-of select="fashion"/>
-                    <xsl:text>&#x9;</xsl:text>
-                    <xsl:value-of select="count(//fashion)"/>
-                    <xsl:value-of select="struggle"/>
-                    <xsl:text>&#x9;</xsl:text>
-                    <xsl:value-of select="count(//struggle)"/>
-                    <xsl:value-of select="food"/>
-                    <xsl:text>&#x9;</xsl:text>
-                    <xsl:value-of select="count(//food)"/>
-                    <xsl:value-of select="money"/>
-                    <xsl:text>&#x9;</xsl:text>
-                    <xsl:value-of select="count(//money)"/>
-                    <xsl:value-of select="alcohol"/>
-                    <xsl:text>&#x9;</xsl:text>
-                    <xsl:value-of select="count(//alcohol)"/>
-                    <xsl:value-of select="hiphop"/>
-                    <xsl:text>&#x9;</xsl:text>
-                    <xsl:value-of select="count(//hiphop)"/>
-                    <xsl:value-of select="haters"/>
-                    <xsl:text>&#x9;</xsl:text>
-                    <xsl:value-of select="count(//haters)"/>
-                    <xsl:value-of select="guns"/>
-                    <xsl:text>&#x9;</xsl:text>
-                    <xsl:value-of select="count(//guns)"/>
-                    <xsl:value-of select="popculture"/>
-                    <xsl:text>&#x9;</xsl:text>
-                    <xsl:value-of select="count(//popculture)"/>
-                    <xsl:value-of select="weed"/>
-                    <xsl:text>&#x9;</xsl:text>
-                    <xsl:value-of select="count(//weed)"/>
-                    <xsl:value-of select="sports"/>
-                    <xsl:text>&#x9;</xsl:text>
-                    <xsl:value-of select="count(//sports)"/>
-                    <xsl:value-of select="geo"/>
-                    <xsl:text>&#x9;</xsl:text>
-                    <xsl:value-of select="count(//geo)"/>
-                </xsl:for-each>
+                <table>
+                    <xsl:for-each select="//song">
+                        <tr>
+                            <td>
+                                <xsl:text>&#x9;</xsl:text>
+                                <xsl:value-of select="@title"/>
+                                <xsl:text>&#x9;</xsl:text>
+                                <xsl:value-of select="count(//oldschool)"/>
+                            </td>
+                            <td>
+                                <xsl:value-of select="success"/>
+                                <xsl:text>&#x9;</xsl:text>
+                                <xsl:value-of select="count(//success)"/>
+                            </td>
+                            <td>
+                                <xsl:value-of select="women"/>
+                                <xsl:text>&#x9;</xsl:text>
+                                <xsl:value-of select="count(//women)"/>
+                            </td>
+                            <td>
+                                <xsl:value-of select="fashion"/>
+                                <xsl:text>&#x9;</xsl:text>
+                                <xsl:value-of select="count(//fashion)"/>
+                            </td>
+                            <td>
+                                <xsl:value-of select="struggle"/>
+                                <xsl:text>&#x9;</xsl:text>
+                                <xsl:value-of select="count(//struggle)"/>
+                            </td>
+                            <td>
+                                <xsl:value-of select="food"/>
+                                <xsl:text>&#x9;</xsl:text>
+                                <xsl:value-of select="count(//food)"/>
+                            </td>
+                            <td>
+                                <xsl:value-of select="money"/>
+                                <xsl:text>&#x9;</xsl:text>
+                                <xsl:value-of select="count(//money)"/>
+                            </td>
+                            <td>
+                                <xsl:value-of select="alcohol"/>
+                                <xsl:text>&#x9;</xsl:text>
+                                <xsl:value-of select="count(//alcohol)"/>
+                            </td>
+                            <td>
+                                <xsl:value-of select="hiphop"/>
+                                <xsl:text>&#x9;</xsl:text>
+                                <xsl:value-of select="count(//hiphop)"/>
+                            </td>
+                            <td>
+                                <xsl:value-of select="haters"/>
+                                <xsl:text>&#x9;</xsl:text>
+                                <xsl:value-of select="count(//haters)"/>
+                            </td>
+                            <td>
+                                <xsl:value-of select="guns"/>
+                                <xsl:text>&#x9;</xsl:text>
+                                <xsl:value-of select="count(//guns)"/>
+                            </td>
+                            <td>
+                                <xsl:value-of select="popculture"/>
+                                <xsl:text>&#x9;</xsl:text>
+                                <xsl:value-of select="count(//popculture)"/>
+                            </td>
+                            <td>
+                                <xsl:value-of select="weed"/>
+                                <xsl:text>&#x9;</xsl:text>
+                                <xsl:value-of select="count(//weed)"/>
+                            </td>
+                            <td>
+                                <xsl:value-of select="sports"/>
+                                <xsl:text>&#x9;</xsl:text>
+                                <xsl:value-of select="count(//sports)"/>
+                            </td>
+                            <td>
+                                <xsl:value-of select="geo"/>
+                                <xsl:text>&#x9;</xsl:text>
+                                <xsl:value-of select="count(//geo)"/>
+                            </td>
+                        </tr>
+                    </xsl:for-each>
+                </table>
             </body>
         </html>
+    </xsl:template>
+    <xsl:template match="song">
+        <li>
+            <div class="bodyfont">
+                <a href="#{generate-id(@title)}">
+                    <q>
+                        <xsl:apply-templates select="@title"/>
+                    </q>
+                </a>
+            </div>
+        </li>
     </xsl:template>
 </xsl:stylesheet>
