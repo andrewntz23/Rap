@@ -312,11 +312,13 @@ ref =
              | "Bahamas"
              | "Pinocchio"
              | "XXLMagazine"
+             | "WordUpMagazine"
              | "TheBeast"
              | "MercedesBenz"
              | "Zeus"
              | "Snapple"
              | "NWA"
+             | "Noreaga"
              | "Invincible"
              | "Rembrandt"
              | "RosaParks"
@@ -328,6 +330,8 @@ ref =
              | "KingSelassie"
              | "JosephKony"
              | "BlueIvy"
+             | "NorthWest"
+             | "KimKardashian"
              | "CypressHill"
              | "IkeTurner"
              | "SojournerTruth"
@@ -342,7 +346,15 @@ ref =
              | "BigPun"
              | "OsamaBinLaden"
              | "Seattle"
-             )+
+             | "TigerBeatMagazine"
+             | "BeastieBoys"
+             | "Playboy"
+             | "NASA"
+             | "ThePalms"
+             | "OlDirtyBastard"
+             | "IrvGotti"
+             | "WizardofOz"
+             | "MarleyandMe")+
         }
     }
 popculture =
