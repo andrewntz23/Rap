@@ -302,7 +302,19 @@ ref =
              | "Chicago"
              | "JackSparrow"
              | "Drake"
-             | "SerenaWilliams")+
+             | "SerenaWilliams"
+             | "WyclefJean"
+             | "GoodFellas"
+             | "SchoolboyQ"
+             | "Figueroa"
+             | "LemonySnicket"
+             | "PaulRosenberg"
+             | "Pinocchio"
+             | "XXLMagazine"
+             | "TheBeast"
+             | "MercedesBenz"
+             | "Zeus"
+             | "Snapple")+
         }
     }
 popculture =
