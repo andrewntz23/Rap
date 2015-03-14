@@ -314,7 +314,9 @@ ref =
              | "TheBeast"
              | "MercedesBenz"
              | "Zeus"
-             | "Snapple")+
+             | "Snapple"
+             | "NWA"
+             | "Invincible")+
         }
     }
 popculture =
