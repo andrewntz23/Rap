@@ -297,7 +297,12 @@ ref =
              | "ElijahMuhammad"
              | "MarcusGarvey"
              | "Maybach"
-             | "BabyCham")+
+             | "BabyCham"
+             | "Darwin"
+             | "Chicago"
+             | "JackSparrow"
+             | "Drake"
+             | "SerenaWilliams")+
         }
     }
 popculture =
