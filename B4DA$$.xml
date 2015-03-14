@@ -157,7 +157,7 @@
             <li><money><success>We'll never be broke again</success></money></li>
         </stanza>
     </song>
-    <song title="PaperTrail$" production="DJPrimier">
+    <song title="PaperTrail$" production="DJPremier">
         <stanza type="hook" speaker="JoeyBada$$">
             <li>Before the <money>money</money>, there was love</li>
             <li><struggle>But before the <money>money</money>, it was tough</struggle></li>
@@ -393,7 +393,7 @@
             <li>Oh you heard that shit!</li>
         </stanza>
     </song>
-    <song title="BigDusty" production="">
+    <song title="BigDusty" production="KirkKnight">
         <stanza type="hook" speaker="JoeyBada$$">
             <li>Check my style, check, check, check it out</li>
             <li>Check my style, check, check, check it out</li>
@@ -502,7 +502,7 @@
             <li>Check my style, check, check, check it out</li>
         </stanza>
     </song>
-    <song title="HazeusView" production="">
+    <song title="HazeusView" production="KirkKnight">
         <stanza type="intro" speaker="JoeyBada$$">
             <li>Will I see you through my <popculture ref="JesusChrist"><weed>Hazeus</weed></popculture> View?</li>
             <li>Will I see you through my <popculture ref="JesusChrist"><weed>Hazeus</weed></popculture> View?</li>
@@ -589,7 +589,7 @@
             <li>Hey <popculture ref="JesusChrist">Jesus</popculture> will I ever get to see you through my <popculture ref="JesusChrist"><weed>Hazeus</weed></popculture> View?</li>
         </stanza>
     </song>
-    <song title="LikeMe" production="">
+    <song title="LikeMe" production="JDilla TheRoots">
         <stanza type="intro" speaker="JoeyBada$$">
             <li>One time what's the word</li>
             <li>What's the word</li>
@@ -734,7 +734,7 @@
             <li>Just pray there's hope for a nigga like me</li>
         </stanza>
     </song>
-    <song title="BellyOfTheBeast" production="">
+    <song title="BellyOfTheBeast" production="Hit-Boy">
         <stanza type="intro" speaker="JoeyBada$$">
             <li>Dangerous, dangerous</li>
             <li>These niggas can't hang with us hang with us</li>
@@ -821,7 +821,7 @@
             <li>Deeper and deeper</li>
         </stanza>
     </song>
-    <song title="No.99" production="">
+    <song title="No.99" production="StatikSelektah">
         <stanza type="hook" speaker="JoeyBada$$">
             <li>What's my name? What's my name?</li>
             <li><hiphop ref="JoeyBada$$">Badmon</hiphop></li>
@@ -937,7 +937,7 @@
             <li><hiphop ref="CypressHill">Lick a <guns>shot</guns></hiphop> one time</li>
         </stanza>
     </song>
-    <song title="ChristConscious" production="">
+    <song title="ChristConscious" production="Basquiat">
         <stanza type="intro" speaker="JoeyBada$$">
             <li>Mother, <compound head="sucker" stem="mother" type="exo">mothersucker</compound>,
                 yeah, oh, this is what you want, huh?</li>
@@ -1025,7 +1025,7 @@
             <li>Niggas know, niggas, niggas, niggas know</li>
         </stanza>
     </song>
-    <song title="OnandOn" production="">
+    <song title="OnandOn" production="FreddieJoachim">
         <stanza type="intro" speaker="JoeyBada$$">
             <li>Mama <success>I just booked a first class ticket to my destiny</success> by the way</li>
             <li>Yeah</li>
@@ -1181,7 +1181,7 @@
             <li>One day we will fly away (Fly away, fly away)</li>
         </stanza>
     </song>
-    <song title="Escape120" production="">
+    <song title="Escape120" production="ChuckStrangers">
         <stanza type="hook" speaker="JoeyBada$$">
             <li>An ode to <struggle>the worst of my days</struggle></li>
             <li>I've been working away</li>
@@ -1296,7 +1296,7 @@
             <li>With me, one day, one day, one day, one day, one day</li>
         </stanza>
     </song>
-    <song title="BlackBeetles" production="">
+    <song title="BlackBeetles" production="ChuckStrangers">
         <stanza type="hook" speaker="JoeyBada$$">
             <li><struggle>Low on self-esteem</struggle>, <AAVE field="syn" type="aspect" tense="past"><haters>fools</haters> been
                     out</AAVE> for me</li>
@@ -1391,7 +1391,7 @@
                 dead</li>
         </stanza>
     </song>
-    <song title="OCB" production="">
+    <song title="OCB" production="Samiyam TheSoulRebels">
         <stanza type="hook" speaker="JoeyBada$$">
             <li>These are the only child blues</li>
             <li>The only child blues</li>
@@ -1497,7 +1497,7 @@
             <li>You don't have to</li>
         </stanza>
     </song>
-    <song title="CurryChicken" production="">
+    <song title="CurryChicken" production="StatikSelektah">
         <stanza type="skit" speaker="JoeyBada$$">
             <li>Like "Oh he's broke! I told you he was broke!</li>
             <li>I told you <AAVE field="syn" type="negative">he <AAVE field="syn" type="contraction"
@@ -1599,7 +1599,7 @@
             <li>Break it down</li>
         </stanza>
     </song>
-    <song title="RunUpOnYa" production="">
+    <song title="RunUpOnYa" production="StatikSelektah">
         <stanza type="intro" speaker="JoeyBada$$">
             <li>Yeah, run up on <AAVE field="phon" type="dropping" sound="r" position="final"
                     >ya</AAVE> bitch like</li>
@@ -1716,7 +1716,7 @@
             <li>Driving me crazy</li>
         </stanza>
     </song>
-    <song title="TeachMe" production="">
+    <song title="TeachMe" production="ChuckStrangers">
         <stanza type="bridge" speaker="JoeyBada$$">
             <li>Won't you teach me how to dance, how to dance</li>
             <li>Won't you teach me how to dance, teach how to dance</li>
@@ -1746,7 +1746,7 @@
             <li>Won't you teach me how to dance, teach how to dance</li>
         </stanza>
         <stanza type="hook" speaker="Kieza">
-            <li>Let me show you how to grove, babe</li>
+            <li>Let me show you how to groove, babe</li>
             <li>How to move about a suitcase</li>
             <li>Take a trip without a shoelace</li>
             <li>I can leave you if you want</li>
@@ -1799,11 +1799,11 @@
             <li>Won't you teach me how to dance, teach how to dance</li>
         </stanza>
         <stanza type="hook" speaker="Kieza">
-            <li>Let me show you how to grove, babe</li>
+            <li>Let me show you how to groove, babe</li>
             <li>How to move about a suitcase</li>
             <li>Take a trip without a shoelace</li>
             <li>I can leave you if you want</li>
-            <li><AAVE field="syn" type="contraction" word1="let" word2="me">E>Lemme</AAVE> help you
+            <li><AAVE field="syn" type="contraction" word1="let" word2="me">Lemme</AAVE> help you
                 move</li>
             <li>Baby slide it, give you a little bit of guidance</li>
             <li>Enjoy the ride, I'll be your pilot</li>
