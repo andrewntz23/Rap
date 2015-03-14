@@ -316,7 +316,8 @@ ref =
              | "Zeus"
              | "Snapple"
              | "NWA"
-             | "Invincible")+
+             | "Invincible"
+             )+
         }
     }
 popculture =
