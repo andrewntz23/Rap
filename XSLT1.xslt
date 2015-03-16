@@ -94,13 +94,14 @@
        </span>
     </xsl:template>
     <xsl:template match="AAVE|compound">
-        <span class="linguistics">
+        <span class="{@type}">
+            
             <xsl:apply-templates/>
         </span>
     </xsl:template>
     <xsl:template
         match="oldschool|success|women|fashion|struggle|food|money|alcohol|hiphop|haters|guns|popculture|weed|sports|geo">
-        <span class="motif">
+        <span class="{name()}">
             <xsl:apply-templates/>
         </span>
     </xsl:template>
