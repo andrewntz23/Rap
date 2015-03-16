@@ -12,9 +12,9 @@
                     rel="stylesheet" type="text/css"/>
             </head>
             <body>
-                
-                    <xsl:apply-templates select="//meta/albumTitle"/>
-                
+
+                <xsl:apply-templates select="//meta/albumTitle"/>
+
                 <h2 id="top" class="headfont">Track List</h2>
                 <ul>
                     <xsl:apply-templates select="//song" mode="toc">
@@ -64,36 +64,42 @@
         <xsl:apply-templates select="li"/>
     </xsl:template>
     <xsl:template match="li">
-        <xsl:apply-templates/>F
+        <xsl:apply-templates/>
         <br/>
     </xsl:template>
-    <xsl:template match="group[@alliteration]">
-        <span class="poetics" data-alliteration="{@alliteration}"/>
-    </xsl:template>
-    <xsl:template match="group[@assonance]">
-        <span class="poetics" data-assonance="{@assonance}"/>
-    </xsl:template>
-    <xsl:template match="group[@assimilation]">
-        <span class="poetics" data-assimilation="{@assimilation}"/>
-    </xsl:template>
-    <xsl:template match="group[@consonance]">
-        <span class="poetics" data-consonance="{@consonance}"/>
-    </xsl:template>
-    <xsl:template match="group[@repetition]">
-        <span class="poetics" data-repetition="{@repetition}"/>
-    </xsl:template>
-    <xsl:template match="group[@rhyme]">
-        <span class="poetics" data-rhyme="{@rhyme}"/>
-    </xsl:template>
-    <xsl:template match="group[@slantRhyme]">
-        <span class="poetics" data-slantRhyme="{@slantRhyme}"/>
+    <xsl:template match="group">
+        <span class="poetics">
+        <xsl:if test="@alliteration">
+            <xsl:attribute name="data-alliteration" select="@alliteration"/>
+        </xsl:if>
+        <xsl:if test="@assonance">
+            <xsl:attribute name="data-assonance" select="@assonance"/>
+        </xsl:if>
+            <xsl:if test="@assimilation">
+                <xsl:attribute name="data-assimilation" select="@assimilation"/>
+            </xsl:if>    
+            <xsl:if test="@consonance">
+                <xsl:attribute name="data-consonance" select="@consonance"/>
+            </xsl:if>
+            <xsl:if test="@repetition">
+                <xsl:attribute name="data-repetition" select="@repetition"/>
+            </xsl:if>
+            <xsl:if test="@rhyme">
+                <xsl:attribute name="data-rhyme" select="@rhyme"/>
+            </xsl:if>
+            <xsl:if test="@slantRhyme">
+                <xsl:attribute name="data-slantRhyme" select="@slantRhyme"/>
+            </xsl:if>
+            <xsl:apply-templates/>
+       </span>
     </xsl:template>
     <xsl:template match="AAVE|compound">
         <span class="linguistics">
             <xsl:apply-templates/>
         </span>
     </xsl:template>
-    <xsl:template match="oldschool|success|women|fashion|struggle|food|money|alcohol|hiphop|haters|guns|popculture|weed|sports|geo">
+    <xsl:template
+        match="oldschool|success|women|fashion|struggle|food|money|alcohol|hiphop|haters|guns|popculture|weed|sports|geo">
         <span class="motif">
             <xsl:apply-templates/>
         </span>
