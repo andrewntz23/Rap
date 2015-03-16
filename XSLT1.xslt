@@ -64,17 +64,29 @@
         <xsl:apply-templates select="li"/>
     </xsl:template>
     <xsl:template match="li">
-        <xsl:apply-templates/>
+        <xsl:apply-templates/>F
         <br/>
     </xsl:template>
-    <xsl:template match="group">
-        <span class="poetics" data-rhyme-type="{@alliteration
-            | @assonance
-            | @assimilation
-            | @consonance
-            | @repetition
-            | @rhyme
-            | @slantRhyme}"></span>
+    <xsl:template match="group[@alliteration]">
+        <span class="poetics" data-alliteration="{@alliteration}"/>
+    </xsl:template>
+    <xsl:template match="group[@assonance]">
+        <span class="poetics" data-assonance="{@assonance}"/>
+    </xsl:template>
+    <xsl:template match="group[@assimilation]">
+        <span class="poetics" data-assimilation="{@assimilation}"/>
+    </xsl:template>
+    <xsl:template match="group[@consonance]">
+        <span class="poetics" data-consonance="{@consonance}"/>
+    </xsl:template>
+    <xsl:template match="group[@repetition]">
+        <span class="poetics" data-repetition="{@repetition}"/>
+    </xsl:template>
+    <xsl:template match="group[@rhyme]">
+        <span class="poetics" data-rhyme="{@rhyme}"/>
+    </xsl:template>
+    <xsl:template match="group[@slantRhyme]">
+        <span class="poetics" data-slantRhyme="{@slantRhyme}"/>
     </xsl:template>
     <xsl:template match="AAVE|compound">
         <span class="linguistics">
