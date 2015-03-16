@@ -1,72 +1,21 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
-    xmlns:xs="http://www.w3.org/2001/XMLSchema" exclude-result-prefixes="xs" version="2.0"
-    xmlns="http://www.w3.org/1999/xhtml">
+<xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" version="2.0">
     <xsl:output method="text"/>
     <xsl:template match="/">
-        <html>
-            <head>
-                <h1>1999 Motif Count</h1>
-            </head>
-            <body>
-                    <xsl:for-each select="//song">
-                                <xsl:text>&#x9;</xsl:text>
-                                <xsl:value-of select="@title"/>
-                                <xsl:text>&#x9;</xsl:text>
-                                <xsl:value-of select="count(//oldschool)"/>
-                                <xsl:value-of select="success"/>
-                                <xsl:text>&#x9;</xsl:text>
-                                <xsl:value-of select="count(//success)"/>
-                                <xsl:value-of select="women"/>
-                                <xsl:text>&#x9;</xsl:text>
-                                <xsl:value-of select="count(//women)"/>
-                                <xsl:value-of select="fashion"/>
-                                <xsl:text>&#x9;</xsl:text>
-                                <xsl:value-of select="count(//fashion)"/>
-                                <xsl:value-of select="struggle"/>
-                                <xsl:text>&#x9;</xsl:text>
-                                <xsl:value-of select="count(//struggle)"/>
-                                <xsl:value-of select="food"/>
-                                <xsl:text>&#x9;</xsl:text>
-                                <xsl:value-of select="count(//food)"/>
-                                <xsl:value-of select="money"/>
-                                <xsl:text>&#x9;</xsl:text>
-                                <xsl:value-of select="count(//money)"/>
-                                <xsl:value-of select="alcohol"/>
-                                <xsl:text>&#x9;</xsl:text>
-                                <xsl:value-of select="count(//alcohol)"/>
-                                <xsl:value-of select="hiphop"/>
-                                <xsl:text>&#x9;</xsl:text>
-                                <xsl:value-of select="count(//hiphop)"/>
-                                <xsl:value-of select="haters"/>
-                                <xsl:text>&#x9;</xsl:text>
-                                <xsl:value-of select="count(//haters)"/>
-                                <xsl:value-of select="guns"/>
-                                <xsl:text>&#x9;</xsl:text>
-                                <xsl:value-of select="count(//guns)"/>
-                                <xsl:value-of select="popculture"/>
-                                <xsl:text>&#x9;</xsl:text>
-                                <xsl:value-of select="count(//popculture)"/>
-                                <xsl:value-of select="weed"/>
-                                <xsl:text>&#x9;</xsl:text>
-                                <xsl:value-of select="count(//weed)"/>
-                                <xsl:value-of select="sports"/>
-                                <xsl:text>&#x9;</xsl:text>
-                                <xsl:value-of select="count(//sports)"/>
-                                <xsl:value-of select="geo"/>
-                                <xsl:text>&#x9;</xsl:text>
-                                <xsl:value-of select="count(//geo)"/>
-                    </xsl:for-each>
-                <table>
-                    <tr>
-                        <td>element 1 (start node)</td>
-                        <td>overall occurrence</td>
-                        <td>correlation with end node</td>
-                        <td>element 2 (end node)</td>
-                    </tr>
-                </table>
-            </body>
-        </html>
-        </xsl:template>
-
+        <xsl:variable name="motifs" select="distinct-values(//li/descendant::*[not(self::group)][not(self::AAVE)]/name())"/>
+        <xsl:variable name="pos" select="position()" />
+        <xsl:variable name="doc" select="/"/>
+        <xsl:for-each select="$motifs">
+            <xsl:value-of select="."/>
+            <xsl:text>
+    
+</xsl:text>
+            <xsl:variable name="oldschool" select="."/>
+            <xsl:variable name="motifs" select="remove($motifs, position())"/>
+            <xsl:value-of select="$oldschool"/>
+            <xsl:for-each select="$motifs">
+                <xsl:variable name="oldschool" select="."/>
+            </xsl:for-each>
+        </xsl:for-each>
+    </xsl:template>
 </xsl:stylesheet>
