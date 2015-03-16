@@ -377,7 +377,7 @@ group =
              | repetition
              | rhyme
              | slantRhyme)*,
-            markup?
+            markup*
         }
     }
 label = attribute label { text }
