@@ -19,7 +19,8 @@
                 <xsl:text>
 </xsl:text>
                 <xsl:value-of select="$thisSpeaker"/>
-                <xsl:value-of select=" ', ', $count, ', intersection, '"/>
+                <xsl:value-of select=" ', ', $count"/>
+                <xsl:value-of select="', intersection, '"/>
                 <xsl:value-of select="."/>
             </xsl:if>
         </xsl:for-each>
