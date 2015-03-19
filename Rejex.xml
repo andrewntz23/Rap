@@ -404,7 +404,7 @@
     </song>
     <song title="OGKilluminati" production="Knxwledge">
         <stanza speaker="Sample" type="intro">
-            <li>Yes, Strawberries!</li>
+            <li>Yes, <food>Strawberries</food>!</li>
         </stanza>
         <stanza speaker="JoeyBada$$" type="verse">
             <li>I'm a beast with these flows</li>
