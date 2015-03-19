@@ -5,7 +5,7 @@
     <xsl:template match="/">
         <!--   tokenize(//song[@title='RighteousMinds']//stanza[@type="interlude"]/@speaker, '\s+') works to tokenize      -->
         <xsl:variable name="doc" select="/"/>
-        <xsl:variable name="speakers" select="distinct-values(//stanza/@speaker)"/>
+        <xsl:variable name="speakers" select="distinct-values(tokenize(string-join(//stanza/@speaker, ' '), ' '))"/>
         <xsl:for-each select="$speakers">
 
             <xsl:variable name="thisSpeaker" select="."/>
