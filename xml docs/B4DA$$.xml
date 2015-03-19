@@ -145,7 +145,7 @@
     <song title="Greenbax(Interlude)" production="LeeBannon">
         <stanza type="verse" speaker="KirkKnight">
             <li>I'm <AAVE field="phon" type="dropping" sound="g" position="final">tryin'</AAVE> to
-                get that <money>green</money> back</li>
+                get that <money>green back</money></li>
             <li><success><hiphop ref="ProEra">Pro Era</hiphop> <AAVE field="syn" type="deletion" class="copula"/>on the rise,</success> man you tape
                 that</li>
             <li><success><money>We'll never be broke again</money></success></li>
