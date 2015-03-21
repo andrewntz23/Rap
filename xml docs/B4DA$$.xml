@@ -10,8 +10,8 @@
     </meta>
     <song title="SaveTheChildren" production="StatikSelektah">
         <stanza type="verse" speaker="JoeyBada$$">
-            <li>It's all a hidden history, and mysteries</li>
-            <li>I see vividly, hysteria</li>
+            <li>It's all a <group>hidden</group> <group>history</group>, and <group>mysteries</group></li>
+            <li>I see <group>vividly</group>, hysteria</li>
             <li>Cause misery on the interior</li>
             <li>Shit gets more scarier, I'm never in fear</li>
             <li>Just a little inferior in some areas</li>
