@@ -728,7 +728,7 @@
             <li> Just one love but the <fashion><sports>two-three's</sports> <AAVE type="deletion" field="syn" class="copula"/>branded on <group label="b" num="22" rhyme="21">my shoes</group></fashion></li>
             <li> You would think I had a <weed><group label="b" num="23">eighth</group></weed> the way I'm crushing them <food><group label="b" num="24" rhyme="28">grapes</group></food></li>
             <li> Had <women>her</women> whining for a <group label="b" num="25" slantRhyme="26">taste</group>, that's why she's up in my <group label="b" num="26" rhyme="29" slantRhyme="25">face</group></li>
-            <li> Them <group label="b" num="27" slantRhyne="28">Apex</group> taking over like we <AAVE type="deletion" field="syn" class="copula"/>running with <group label="b" num="28" slantRhyme="27" rhyme="24">Apes</group></li>
+            <li> Them <group label="b" num="27" slantRhyme="28">Apex</group> taking over like we <AAVE type="deletion" field="syn" class="copula"/>running with <group label="b" num="28" slantRhyme="27" rhyme="24">Apes</group></li>
             <li> What's the verdict? Nothing but a fucking <group label="b" num="29" rhyme="26">disgrace</group>, nigga</li>
         </stanza>
         <stanza speaker="NyckCaution" type="verse">
@@ -872,21 +872,21 @@
             <li><AAVE field="syn" type="negative"><hiphop ref="Jay-Z">There <AAVE type="contraction" field="phon" word1="is" word2="not">ain't
             </AAVE> no love</hiphop></AAVE></li>
             <li><hiphop ref="Jay-Z">In the heart of the city</hiphop></li>
-            <li> Looking where <AAVE field="phon" type="dropping" sound="r" position="final">they</AAVE><group label="b" num="5" assimilation="6 7"><AAVE field="">car be at</AAVE></group></li>
+            <li> Looking where <AAVE field="phon" type="dropping" sound="r" position="final">they</AAVE><group label="b" num="5" assimilation="6 7"><AAVE field="syn" type="aspect" tense="present">car be at</AAVE></group></li>
             <li> And they <group label="b" num="6" assimilation="5 7">party at</group></li>
             <li> <group label="b" num="7" assimilation="5 6">Cardiac</group> arrest can <group label="b" num="8" slantRhyme="9">feel risky</group></li>
             <li> <group label="b" num="9" slantRhyme="8" assimilation="10">Real pissy</group> I chase <money><food>cheese</food></money> and <group label="b" num="10" assimilation="9">real <women>pussy</women></group> yeah</li>
             <li><haters>Cats</haters><struggle>used to yawn on his rap</struggle> now 
                 <group label="c" num="1" assimilation="2">look at <AAVE field="phon" type="dropping" sound="un" position="initial">'em</AAVE></group></li>
-            <li><success>Shit <AAVE type="contraction" field="phon" word1="is" word2="not">ain't</AAVE> been the same since them niggas started 
+            <li><success>Shit <AAVE type="contraction" field="phon" word1="has" word2="not">ain't</AAVE> been the same since them niggas started 
                 <group label="c" num="2" assimilation="1">booking <AAVE field="phon" type="dropping" sound="un" position="initial">'em</AAVE></group></success></li>
             <li> <group label="c" num="3" rhyme="4">Pull up</group> with your <group label="c" num="4" rhyme="3">pen up</group>, looking sharper than a <group label="c" num="5" assimilation="6">bulletin</group></li>
-            <li> With <fashion>pin stripes</fashion> and <guns>hollow tip <group label="c" num="6" assimilation="5">bullets in</group></guns> it</li>
+            <li> With <fashion>pin stripes</fashion><!-- probably a Yankees reference not fashion --> and <guns>hollow tip <group label="c" num="6" assimilation="5">bullets in</group></guns> it</li>
             <li> He's something that you'd <group label="c" num="7" rhyme="8 11">invest in</group></li>
             <li> Catch him live on late night, but he <AAVE type="contraction" field="phon" word1="is" word2="not">ain't</AAVE>
                <group label="c" num="8" rhyme="7 11"> <AAVE field="phon" type="dropping" sound="g" position="final">interestin'</AAVE></group></li>
             <li> <group label="c" num="9" alliteration="10">Pop</group> up and <group label="c" num="10" alliteration="9">poop</group> out something like <group label="c" num="11" rhyme="7 8">intestine</group></li>
-            <li> No <group label="c" num="12" alliteration="13" rhyme="14">corrections</group> <group label="c" num="13" alliteration="12">cause</group> the mic been <group label="c" num="14" rhyme="12">checked in</group></li>
+            <li> No <group label="c" num="12" alliteration="13" rhyme="14">corrections</group> <group label="c" num="13" alliteration="12">cause</group> the <AAVE field="syn" type="aspect" tense="past">mic been <group label="c" num="14" rhyme="12">checked in</group></AAVE></li>
             <li> The only time <AAVE field="syn" type="aspect" tense="progressive">he be
                     <group label="c" num="15" rhyme="16">asking</group></AAVE> is when he <AAVE type="deletion" field="syn" class="copula"
                 /><group label="c" num="16" rhyme="15">sexing</group></li>
