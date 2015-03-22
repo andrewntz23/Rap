@@ -281,8 +281,8 @@
                         type="dropping" sound="g" position="final">killin'</AAVE></AAVE>now</li>
             <li><haters>Forever<AAVE field="phon" type="dropping" sound="g" position="final">bitin'</AAVE>my
                 forbidden style</haters></li>
-            <li>Laying low for a minute in the game</li>
-            <li>Since I came all these niggas<AAVE field="syn" type="deletion" class="copula"/><AAVE
+            <li>Laying low for a minute in the <group label="a" num="1" rhyme="2">game</group></li>
+            <li>Since I <group label="a" num="2" rhyme="1">came</group> all these niggas<AAVE field="syn" type="deletion" class="copula"/><AAVE
                     field="phon" type="dropping" sound="g" position="final">lookin'</AAVE>timid</li>
             <li>My life can never <compound head="" stem="" type="exo">dimeth</compound>, the Lord
                 is my shepherd</li>
@@ -293,33 +293,33 @@
             <li>And I <AAVE field="syn" type="contraction" word1="have" word2="not">ain't</AAVE>
                 been the same since I left 6th grade</li>
             <li>My mind's <AAVE field="phon" type="dropping" sound="g" position="final"
-                    >strayin'</AAVE>, you think I had the biggest heart</li>
-            <li>Taking walks with abuela in the park just to tell her</li>
+                    >strayin'</AAVE>, you think I had the biggest <group label="a" num="3" slantRhyme="4">heart</group></li>
+            <li>Taking walks with abuela in the <group label="a" num="4" slantRhyme="3">park</group> just to <group label="a" num="5" rhyme="6">tell her</group></li>
             <li><AAVE field="syn" type="contraction" word1="I'm" word2="goning" word3="to"
-                    >I'ma</AAVE> grow propellers one day and be a <popculture ref="GoodFellas">good fella</popculture></li>
-            <li>Play the hero or whoever, the hood<AAVE field="phon" type="dropping" sound="na"
+                    >I'ma</AAVE> grow <group label="a" num="6" rhyme="5" slantRhyme="7">propellers</group> one day and be a <group label="a" num="7" slantRhyme="6"><popculture ref="GoodFellas">good fella</popculture></group></li>
+            <li>Play the <group label="a" num="8" alliteration="9 10">hero</group> or <group label="a" num="9" alliteration="8 10">whoever</group>, the <group label="a" num="10" alliteration="8 9">hood</group><AAVE field="phon" type="dropping" sound="na"
                     position="final"><AAVE field="syn" type="contraction" word1="going" word2="to"
                         >gon'</AAVE></AAVE>tell us</li>
             <li>Let's just pray it <AAVE field="syn" type="contraction" word1="is" word2="not"
-                    >ain't</AAVE> the villain</li>
+                    >ain't</AAVE> the <group label="a" num="11" assimilation="12">villain</group></li>
             <li>Tell <AAVE field="phon" type="dropping" sound="th" position="initial">'em</AAVE>
-                <AAVE field="syn" type="aspect" tense="present">I be feeling</AAVE> some way</li>
+                <AAVE field="syn" type="aspect" tense="present">I be <group label="a" num="12" assimilation="11">feeling</group></AAVE> <group label="a" num="13" rhyme="14 15">some way</group></li>
             <li><AAVE field="phon" type="dropping" sound="g" position="final">Thinkin'</AAVE> I can
-                get the <popculture ref="Maybach">Maybach</popculture> off <guns>gun play</guns></li>
-            <li>Instead I let the words play with 90 beats a minute</li>
+                get the <popculture ref="Maybach">Maybach</popculture> off <group label="a" num="14" rhyme="13 15"><guns>gun play</guns></group></li>
+            <li>Instead I let the <group label="a" num="15" rhyme="13 14">words play</group> with 90 beats a <group label="a" num="16" slantRhyme="17">minute</group></li>
             <li>Bet the streets lose a heart beat before the verse <AAVE field="syn" type="deletion"
-                    class="copula"/>finish</li>
-            <li>But life goes on, basic rules still apply</li>
-            <li>And you can feel that lot in any hood that you live by</li>
-            <li>From <geo ref="Flatbush">Flatbush</geo>, to <geo ref="Figueroa">Figg side</geo>, I was a <hiphop ref="SchoolboyQ">school boy too</hiphop></li>
+                    class="copula"/><group label="a" num="17" slantRhyme="16">finish</group></li>
+            <li>But life goes on, basic rules still <group label="a" num="18" rhyme="19">apply</group></li>
+            <li>And you can feel that lot in any hood that you <group label="a" num="19" rhyme="18" slantRhyme="21">live by</group></li>
+            <li>From <group label="a" num="20" alliteration="21"><geo ref="Flatbush">Flatbush</geo></group>, to <group label="a" num="21" slantRhyme="19" alliteration="20"><geo ref="Figueroa">Figg side</geo></group>, I was a <group label="a" num="22" rhyme="23"><hiphop ref="SchoolboyQ">school boy too</hiphop></group></li>
             <li><AAVE field="phon" type="dropping" sound="g" position="final">Hoppin'</AAVE> trains,
-                I just missed my cue</li>
+                I <group label="a" num="23" rhyme="22">just missed my cue</group></li>
         </stanza>
         <stanza type="hook" speaker="JoeyBada$$">
-            <li>And what's life like for me, it's but a dream</li>
+            <li>And what's life like for me, it's but a <group label="b" num="1" rhyme="2">dream</group></li>
             <li>Everything <AAVE field="syn" type="contraction" word1="is" word2="not">ain't</AAVE>
-                what it seems, up underneath</li>
-            <li>The surface is but a screen, we only see</li>
+                what it <group label="b" num="2" rhyme="1" assonance="3">seems</group>, up <group label="b" num="3" assonance="2">underneath</group></li>
+            <li>The <group label="b" num="4" alliteration="5 6">surface</group> is but a <group label="b" num="5" alliteration="4 6" assonance="6">screen</group>, we only <group label="b" num="6" alliteration="4 5" assonance="5">see</group></li>
             <li>What we know</li>
             <li>And what's life like for me, it's but a dream</li>
             <li>Everything <AAVE field="syn" type="contraction" word1="is" word2="not">ain't</AAVE>
@@ -328,33 +328,31 @@
             <li>What we know</li>
         </stanza>
         <stanza type="verse" speaker="JoeyBada$$">
-            <li>And what's life like now, I can't figure out</li>
-            <li>They put my mans on trial, say he <AAVE field="syn" type="deletion" class="copula"
-                />a killer now</li>
-            <li>Conspiracies, we<AAVE field="phon" type="dropping" sound="na" position="final"><AAVE
-                        field="syn" type="contraction" word1="going" word2="to"
-                >gon'</AAVE></AAVE>get you out</li>
-            <li>Just keep ya head up G, shit is wild</li>
+            <li>And what's life like <group label="c" num="1" slantRhyme="2">now</group>, I can't figure <group label="c" num="2" slantRhyme="1">out</group></li>
+            <li>They put my mans on trial, say he <AAVE field="syn" type="deletion" class="copula"/>a killer now</li>
+            <li>Conspiracies, we<AAVE field="phon" type="dropping" sound="na" position="final">
+                <AAVE field="syn" type="contraction" word1="going" word2="to">gon'</AAVE></AAVE>get you out</li>
+            <li>Just keep ya head up G, shit is <group label="c" num="3" rhyme="4">wild</group></li>
             <li><struggle><hiphop ref="Nas">It's bugged out</hiphop> <AAVE field="phon" type="dropping" sound="be" position="initial"
-                    >cause'</AAVE> I know you<AAVE field="syn" type="contraction" word1="trying"
-                    word2="to">tryna</AAVE>, see your child</struggle></li>
+                >cause'</AAVE> I know you<AAVE field="syn" type="contraction" word1="trying"
+                    word2="to">tryna</AAVE>, see your <group label="c" num="4" rhyme="3">child</group></struggle></li>
             <li>But <AAVE field="phon" type="contraction" word1="I'm" word2="going" word3="to"
                     >I'mma</AAVE> hold you down still <AAVE field="phon" type="dropping" sound="be"
-                    position="initial">cause'</AAVE> you my brother</li>
+                    position="initial">cause'</AAVE> you my <group label="c" num="5" rhyme="6">brother</group></li>
             <li>I just gave Will <money>a lil'<AAVE field="phon" type="dropping" sound="g" position="final"
-                    >somethin'</AAVE></money> for your baby mother</li>
-            <li>But don't stress, know you caught up in some b.s</li>
-            <li>But next time you see us, we gonna be our best</li>
-            <li>Love you my nigga, word is bond, you'll stay strong</li>
-            <li>Out in <geo ref="NewYork">New York</geo> this same shit is<AAVE field="phon" type="dropping" sound="g"
-                    position="final">goin'</AAVE>on</li>
+                    >somethin'</AAVE></money> for your baby <group label="c" num="6" rhyme="5">mother</group></li>
+            <li>But don't <group label="c" num="7" rhyme="8">stress</group>, know you caught up in some <group label="c" num="8" rhyme="7" slantRhyme="9">b.s</group></li>
+            <li>But next time you see us, we gonna be our <group label="c" num="9" slantRhyme="8">best</group></li>
+            <li>Love you my nigga, word is <group label="c" num="10" slantRhyme="11">bond</group>, you'll stay <group label="c" num="11" slantRhyme="10">strong</group></li>
+            <li>Out in <geo ref="NewYork">New York</geo> this same shit is<group label="c" num="12" rhyme="13"><AAVE field="phon" type="dropping" sound="g"
+                    position="final">goin'</AAVE>on</group></li>
             <li>Peace to all my brothers who keep still<AAVE field="phon" type="dropping" sound="g"
-                    position="final"><guns>holdin'</guns></AAVE>on</li>
-            <li>Been away so long, feel like a<AAVE field="phon" type="dropping" sound="g"
-                    position="final">tickin'</AAVE>time bomb</li>
-            <li><struggle>They make judgement to my kind, whom the odds is against</struggle></li>
-            <li><struggle>Put our backs on the fence</struggle>, <guns>so we self defence</guns></li>
-            <li>Followed by <popculture ref="LemonySnicket">a series of unfortunate events</popculture></li>
+                    position="final"><group label="c" num="13" rhyme="12" ><guns>holdin'</guns></AAVE>on</group></li>
+            <li>Been away so <group label="c" num="14" slantRhyme="17">long</group>, feel like a<AAVE field="phon" type="dropping" sound="g"
+                    position="final"><group label="c" num="15" alliteration="16">tickin'</group></AAVE><group label="c" num="16" alliteration="15">time</group> <group label="c" num="17" slantRhyme="13">bomb</group></li>
+            <li><struggle>They make judgement to my kind, whom the odds is <group label="c" num="18" slantRhyme="21">against</group></struggle></li>
+            <li><struggle>Put our backs on the <group label="c" num="19" rhyme="20">fence</group></struggle>, <guns>so we self <group label="c" num="20" rhyme="19">defence</group></guns></li>
+            <li>Followed by <popculture ref="LemonySnicket">a series of unfortunate <group label="c" num="21" slantRhyme="18">events</group></popculture></li>
             <li><struggle>Looking like white America got a brother again</struggle></li>
         </stanza>
         <stanza type="hook" speaker="JoeyBada$$">
@@ -403,21 +401,21 @@
             <li>Check my style, check, check, check it out</li>
         </stanza>
         <stanza type="verse" speaker="JoeyBada$$">
-            <li>Fuck jumping the broom, honey moons, I, I hit the <weed>pot</weed></li>
-            <li>Soak me up like a mop, Know <weed>I'm up</weed>, know there's levels</li>
-            <li>Staring down at the devil, hello, guess I got the memo</li>
-            <li>Pulling strings like <popculture ref="Pinocchio">Geppetto</popculture>, you <AAVE field="syn" type="deletion" class="copula"
-                />just <popculture ref="Pinocchio">a puppet</popculture>, fellow</li>
-            <li>I came up out of the tomb, don’t drop a L</li>
-            <li>Uh, you don't want to see <hiphop ref="Jay-Z">the evils</hiphop>, which I dwell in hell</li>
-            <li>To excel, this shit never fails, always excels</li>
-            <li><AAVE field="syn" type="aspect" tense="progressive">They been swallowing</AAVE> sons
-                before the <hiphop ref="XXLMagazine">double XL</hiphop></li>
-            <li>Sex cell, ex ask why it never work out</li>
-            <li>I guess I exercise too much when I work out</li>
-            <li>Show's too turnt out return home burnt out</li>
-            <li>Now I got to hear all the shit that you heard <AAVE field="phon" type="dropping"
-                    sound="a" position="initial">'bout</AAVE></li>
+            <li>Fuck jumping the <group label="a" num="1" slantRhyme="2">broom</group>, honey <group label="a" num="2" slantRhyme="1">moons</group>, I, I hit the <group label="a" num="3" slantRhyme="4"><weed>pot</weed></group></li>
+            <li>Soak me up like a <group label="a" num="4" slantRhyme="3">mop</group>, Know <weed>I'm up</weed>, know there's <group label="a" num="5" rhyme="6">levels</group></li>
+            <li>Staring down at the <group label="a" num="6" rhyme="5">devil</group>, <group label="a" num="7" rhyme="8 9 10">hello</group>, guess I got the <group label="a" num="8" rhyme="7 9 10">memo</group></li>
+            <li>Pulling strings like <group label="a" num="9" rhyme="7 8 10"><popculture ref="Pinocchio">Geppetto</popculture></group>, you <AAVE field="syn" type="deletion" class="copula"
+                />just <popculture ref="Pinocchio">a puppet</popculture>, <group label="a" num="10" rhyme="7 8 9">fellow</group></li>
+            <li>I came up out of the tomb, don’t drop a <group label="a" num="11" rhyme="">L</group></li>
+            <li>Uh, you don't want to see <hiphop ref="Jay-Z">the evils</hiphop>, which I <group label="a" num="12">dwell</group> in <group label="a" num="13">hell</group></li>
+            <li>To <group label="a" num="14">excel</group>, this shit never <group label="a" num="15">fails</group>, always <group label="a" num="16">excels</group></li>
+            <li><AAVE field="syn" type="aspect" tense="progressive">They been <group>swallowing</group></AAVE> <group>sons</group>
+                before the <hiphop ref="XXLMagazine">double <group label="a" num="17">XL</group></hiphop></li>
+            <li><group label="a" num="18">Sex</group> <group label="a" num="19">sell</group>, <group label="a" num="20">ex</group> ask why it never <group label="a" num="21">work out</group></li>
+            <li>I guess I exercise too much when I <group label="a" num="22">work out</group></li>
+            <li>Show's too <group label="a" num="23">turnt out</group> return home <group label="a" num="24">burnt out</group></li>
+            <li>Now I got to hear all the shit that you <group label="a" num="25">heard <AAVE field="phon" type="dropping"
+                    sound="a" position="initial">'bout</AAVE></group></li>
             <li><hiphop ref="Jay-Z">Can I live?</hiphop> What, these niggas want me off a bridge?</li>
             <li>If I say it's turnt down, do I burn that shit?</li>
             <li>Truth is, if it <AAVE field="syn" type="contraction" word1="is" word2="not"
