@@ -4,12 +4,12 @@ let $info := (
      doc("xml_docs/SummerKnights.xml") ,
      doc("xml_docs/Rejex.xml")
 )
-let $motifs := distinct-values($info//li/*/name()[not(.='AAVE')][not(.='group')])
+let $motifs := distinct-values($info//li/*/name()[not(.='AAVE')][not(.='group')][not(.='compound')])
 for $motif in $motifs
 order by $motif
-return $motif, "SPLIT"
+return $info//*[name()=$motif]
 
-(:$info/*[1][name()=$motif]
+(:$info//*[name()=$motif]
 
 unless I'm mistaken, @artist is going to be replaced with 
  an attribute @speaker. Updated to fit that. (If I was mistaken,

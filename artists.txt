@@ -1,92 +1,2927 @@
-JoeyBada$$,rappedTogether,CollieBuddz
-JoeyBada$$,rappedTogether,SmokeDZA
-JoeyBada$$,rappedTogether,T'nahApex
-JoeyBada$$,rappedTogether,T'nahApex
-JoeyBada$$,rappedTogether,DirtySanchez
-JoeyBada$$,rappedTogether,DirtySanchez
-JoeyBada$$,rappedTogether,NyckCaution
-JoeyBada$$,rappedTogether,DessyHinds
-JoeyBada$$,rappedTogether,DessyHinds
-JoeyBada$$,rappedTogether,DessyHinds
-JoeyBada$$,rappedTogether,ChuckStrangers
-JoeyBada$$,rappedTogether,ChuckStrangers
-JoeyBada$$,rappedTogether,KirkKnight
-JoeyBada$$,rappedTogether,KirkKnight
-JoeyBada$$,rappedTogether,KirkKnight
-JoeyBada$$,rappedTogether,SaulWilliams
-JoeyBada$$,rappedTogether,DyemondLewis
-JoeyBada$$,rappedTogether,ALa$ole
-JoeyBada$$,rappedTogether,CJFly
-CollieBuddz,rappedTogether,JoeyBada$$
-SmokeDZA,rappedTogether,JoeyBada$$
-T'nahApex,rappedTogether,JoeyBada$$
-T'nahApex,rappedTogether,JoeyBada$$
-T'nahApex,rappedTogether,DessyHinds
-DirtySanchez,rappedTogether,JoeyBada$$
-DirtySanchez,rappedTogether,JoeyBada$$
-DirtySanchez,rappedTogether,NyckCaution
-DirtySanchez,rappedTogether,DessyHinds
-DirtySanchez,rappedTogether,ChuckStrangers
-DirtySanchez,rappedTogether,KirkKnight
-DirtySanchez,rappedTogether,DyemondLewis
-DirtySanchez,rappedTogether,ALa$ole
-DirtySanchez,rappedTogether,CJFly
-NyckCaution,rappedTogether,JoeyBada$$
-NyckCaution,rappedTogether,DirtySanchez
-DessyHinds,rappedTogether,JoeyBada$$
-DessyHinds,rappedTogether,JoeyBada$$
-DessyHinds,rappedTogether,JoeyBada$$
-DessyHinds,rappedTogether,T'nahApex
-DessyHinds,rappedTogether,DirtySanchez
-DessyHinds,rappedTogether,ChuckStrangers
-DessyHinds,rappedTogether,ChuckStrangers
-DessyHinds,rappedTogether,KirkKnight
-DessyHinds,rappedTogether,KirkKnight
-DessyHinds,rappedTogether,DyemondLewis
-DessyHinds,rappedTogether,ALa$ole
-DessyHinds,rappedTogether,CJFly
-ChuckStrangers,rappedTogether,JoeyBada$$
-ChuckStrangers,rappedTogether,JoeyBada$$
-ChuckStrangers,rappedTogether,DirtySanchez
-ChuckStrangers,rappedTogether,DessyHinds
-ChuckStrangers,rappedTogether,DessyHinds
-ChuckStrangers,rappedTogether,KirkKnight
-ChuckStrangers,rappedTogether,KirkKnight
-ChuckStrangers,rappedTogether,DyemondLewis
-ChuckStrangers,rappedTogether,ALa$ole
-ChuckStrangers,rappedTogether,CJFly
-KirkKnight,rappedTogether,JoeyBada$$
-KirkKnight,rappedTogether,JoeyBada$$
-KirkKnight,rappedTogether,JoeyBada$$
-KirkKnight,rappedTogether,DirtySanchez
-KirkKnight,rappedTogether,DessyHinds
-KirkKnight,rappedTogether,DessyHinds
-KirkKnight,rappedTogether,ChuckStrangers
-KirkKnight,rappedTogether,ChuckStrangers
-KirkKnight,rappedTogether,SaulWilliams
-KirkKnight,rappedTogether,DyemondLewis
-KirkKnight,rappedTogether,ALa$ole
-KirkKnight,rappedTogether,CJFly
-SaulWilliams,rappedTogether,JoeyBada$$
-SaulWilliams,rappedTogether,KirkKnight
-DyemondLewis,rappedTogether,JoeyBada$$
-DyemondLewis,rappedTogether,DirtySanchez
-DyemondLewis,rappedTogether,DessyHinds
-DyemondLewis,rappedTogether,ChuckStrangers
-DyemondLewis,rappedTogether,KirkKnight
-DyemondLewis,rappedTogether,ALa$ole
-DyemondLewis,rappedTogether,CJFly
-ALa$ole,rappedTogether,JoeyBada$$
-ALa$ole,rappedTogether,DirtySanchez
-ALa$ole,rappedTogether,DessyHinds
-ALa$ole,rappedTogether,ChuckStrangers
-ALa$ole,rappedTogether,KirkKnight
-ALa$ole,rappedTogether,DyemondLewis
-ALa$ole,rappedTogether,CJFly
-CJFly,rappedTogether,JoeyBada$$
-CJFly,rappedTogether,DirtySanchez
-CJFly,rappedTogether,DessyHinds
-CJFly,rappedTogether,ChuckStrangers
-CJFly,rappedTogether,KirkKnight
-CJFly,rappedTogether,DyemondLewis
-CJFly,rappedTogether,ALa$ole
+<?xml version="1.0" encoding="UTF-8"?>
+<alcohol>Henny agua</alcohol>
+<alcohol>shots</alcohol>
+<alcohol>shots</alcohol>
+<alcohol>sangritas</alcohol>
+<alcohol>tequila</alcohol>
+<alcohol>liquor</alcohol>
+<alcohol>beer pong</alcohol>
+<alcohol>6 pack</alcohol>
+<alcohol>40</alcohol>
+<alcohol>alcohol</alcohol>
+<alcohol>booze</alcohol>
+<alcohol>hard <group label="b" num="14" rhyme="8 9 10 12 13 15">liquor</group>
+</alcohol>
+<alcohol>
+   <group label="f" num="2" assonance="1">bent</group>
+</alcohol>
+<alcohol>intoxicated</alcohol>
+<alcohol>Hen</alcohol>
+<alcohol>Moet</alcohol>
+<alcohol>champagne</alcohol>
+<alcohol>Coladas</alcohol>
+<alcohol>
+   <group label="c" num="7" rhyme="1 2 3 4 5 6 8 9 10">Roso</group>
+</alcohol>
+<alcohol>6 pack</alcohol>
+<fashion>Carry a vest</fashion>
+<fashion>Pradas</fashion>
+<fashion>Balenciagas</fashion>
+<fashion>jeans</fashion>
+<fashion>runway fresh</fashion>
+<fashion>
+   <money>jewelry</money>
+</fashion>
+<fashion>purse</fashion>
+<fashion>chinchillas</fashion>
+<fashion>lace</fashion>
+<fashion>Margiela</fashion>
+<fashion>Doneva</fashion>
+<fashion>
+   <sports>FILA Velour shorts</sports>
+</fashion>
+<fashion>the sandals</fashion>
+<fashion>skirt</fashion>
+<fashion>Swimming trunks</fashion>
+<fashion>throwback</fashion>
+<fashion>waves</fashion>
+<fashion>hood</fashion>
+<fashion>trendin
+                        fashions</fashion>
+<fashion>shoes</fashion>
+<fashion>weave</fashion>
+<fashion>Louie <group label="e" num="8" repetition="9">bag</group>
+</fashion>
+<fashion>jeans</fashion>
+<fashion>pants</fashion>
+<fashion>
+   <group label="c" num="14" consonance="16">gold</group>
+                        <group label="c" num="15" consonance="17">chains</group> and <group label="c" num="16" consonance="14">diamond</group>
+                        <group label="c" num="17" consonance="15">rings</group>
+</fashion>
+<fashion>
+   <group label="e" num="3" rhyme="2 5">Braids</group> and <group label="e" num="4" rhyme="1">waves</group> never matter when you catch the <group label="e" num="5" rhyme="2 3">fade</group>
+</fashion>
+<fashion>
+   <group label="f" num="14" consonance="16">gold</group>
+                        <group label="f" num="15" consonance="17">chains</group> and <group label="f" num="16" consonance="14">diamond</group>
+                        <group label="f" num="17" consonance="15">rings</group>
+</fashion>
+<fashion>gold chains and diamond rings</fashion>
+<fashion>lip gloss</fashion>
+<fashion>jeans</fashion>
+<fashion>nice <group label="c" num="2" slantRhyme="1">clothes</group>
+</fashion>
+<fashion>Nikes</fashion>
+<fashion>new
+                    balance</fashion>
+<fashion>hot topic</fashion>
+<fashion>material linen</fashion>
+<fashion>sole</fashion>
+<fashion>sole</fashion>
+<fashion>SB's</fashion>
+<fashion>shoes</fashion>
+<fashion>Gold and ices</fashion>
+<fashion>Soccer tees</fashion>
+<fashion>Nikes</fashion>
+<fashion>Straight <group label="f" num="13" assonance="14 15 16">jeans</group>
+</fashion>
+<fashion>white <group label="f" num="14" assonance="13 15 16">tees</group>
+</fashion>
+<fashion>40 ‘Low boots</fashion>
+<fashion>
+   <group label="c" num="12" alliteration="13">Vintage</group> 
+   <group label="c" num="13" alliteration="12">Vanson's</group>
+</fashion>
+<fashion>Mahogany colored clothing</fashion>
+<fashion>
+   <group label="b" num="9" slantRhyme="10">jewelry</group>
+</fashion>
+<fashion>
+   <sports>two-three's</sports> 
+   <AAVE type="deletion" field="syn" class="copula"/>branded on <group label="b" num="22" rhyme="21">my shoes</group>
+</fashion>
+<fashion>lo, like Ralph</fashion>
+<fashion>
+   <group label="b" num="15" rhyme="16 17">Versace</group>
+</fashion>
+<fashion>
+   <sports>Scottie <group label="c" num="13" slantRhyme="10 11 12">Pippens</group>
+   </sports>
+</fashion>
+<fashion>Nixon</fashion>
+<fashion>
+   <group label="c" num="17" rhyme="15 18">necklace</group>
+</fashion>
+<fashion>
+   <group label="d" num="8" slantRhyme="9">new shoes</group>
+</fashion>
+<fashion>
+   <group label="d" num="9" slantRhyme="8">jewels</group>
+</fashion>
+<fashion>
+   <popculture ref="SaksFifthAve">
+      <group label="d" num="15" slantRhyme="14">Saks Fifth</group>
+   </popculture>
+</fashion>
+<fashion>pin stripes</fashion>
+<fashion>J's</fashion>
+<fashion>Ray-Bans</fashion>
+<fashion>Forces</fashion>
+<fashion>Ecko</fashion>
+<fashion>good <group label="h" num="19" slantRhyme="20">jeans</group>
+</fashion>
+<fashion>Fly like I <group label="e" num="10" rhyme="8 9">dressed up</group>
+</fashion>
+<fashion>hard
+                    to find linens</fashion>
+<fashion>
+   <group label="c" num="8" assimilation="9">poo
+                        stains</group> in your <group label="c" num="9" assimilation="8">new
+                        jeans</group>
+</fashion>
+<fashion>new J's</fashion>
+<fashion>
+   <group label="b" num="1" slantRhyme="2">cloak</group>
+</fashion>
+<fashion>the man on my <group label="c" num="4" rhyme="1 2 3 5 6 7 8 9 10">polo</group>
+</fashion>
+<fashion>Mr. Nicewatch</fashion>
+<fashion>red bottoms</fashion>
+<fashion>
+   <sports>
+      <group label="a" num="7" rhyme="9">Pippens</group>
+   </sports>
+</fashion>
+<fashion>
+   <group label="a" num="14" rhyme="10 11 13">Victoria's
+                    Secret</group>
+</fashion>
+<fashion>Polo draws</fashion>
+<fashion>MAC</fashion>
+<fashion>Diamond
+                        Supply</fashion>
+<fashion>jeans blue <group label="b" num="12" rhyme="11">dye</group>
+</fashion>
+<fashion>Ralph <group label="a" num="5" rhyme="6">Lipschitz</group>
+</fashion>
+<food>
+   <money>cake</money>
+</food>
+<food>
+   <money>cream</money>
+</food>
+<food>cuisine</food>
+<food>chicken</food>
+<food>beef</food>
+<food>cattle</food>
+<food>high fructose</food>
+<food>toast</food>
+<food>high fructose</food>
+<food>toast</food>
+<food>
+   <money>eat</money>
+</food>
+<food>empanada</food>
+<food>feast</food>
+<food>candy</food>
+<food>Now and Laters</food>
+<food>eat</food>
+<food>pizza <money>dough</money>
+</food>
+<food>peaches</food>
+<food>apple</food>
+<food>Snapple</food>
+<food>eat</food>
+<food>eat</food>
+<food>
+   <money>cheddar</money>
+</food>
+<food>
+   <money>bread</money>
+</food>
+<food>iceberg <money>lettuce</money>
+</food>
+<food>eat</food>
+<food>venison meat</food>
+<food>
+   <struggle>beef</struggle>
+</food>
+<food>fish</food>
+<food>fajitas</food>
+<food>
+   <money>bacon</money>
+</food>
+<food>vanilla</food>
+<food>eating</food>
+<food>eatin’</food>
+<food>
+   <money>caking</money>
+</food>
+<food>guava</food>
+<food>coconut
+                beverage</food>
+<food>dinner</food>
+<food>Curry</food>
+<food>Chicken</food>
+<food>dinner</food>
+<food>Vanilla</food>
+<food>hunny</food>
+<food>juice</food>
+<food>apple</food>
+<food>tofu</food>
+<food>alfredo</food>
+<food>cheese</food>
+<food>cheese</food>
+<food>P-E-Nuts</food>
+<food>Strawberries</food>
+<food>
+   <money>cheese</money>
+</food>
+<food>
+   <struggle>beef</struggle>
+</food>
+<food>spoonful</food>
+<food>pot</food>
+<food>strawberries</food>
+<food>jam</food>
+<food>beef</food>
+<food>lunch</food>
+<food>cheddar</food>
+<food>lettuce</food>
+<food>bread</food>
+<food>top <group label="c" num="13" slantRhyme="12">ramen'</group>
+</food>
+<food>beef</food>
+<food>noodles</food>
+<food>beef</food>
+<food>noodles</food>
+<food>Wonton</food>
+<food>lunch</food>
+<food>ice <group label="c" num="14" assonance="1 2 4 8 10 12 13 15">creams</group>
+</food>
+<food>ice creams</food>
+<food>ice creams</food>
+<food>ice creams</food>
+<food>ice creams</food>
+<food>raisins</food>
+<food>beef</food>
+<food>caesar
+                        <group label="d" num="13" slantRhyme="12">salad</group>
+</food>
+<food>
+   <group label="f" num="21" alliteration="20">berry</group>
+</food>
+<food>
+   <group label="f" num="22" slantRhyme="19">fruit</group>
+</food>
+<food>
+   <money>cheddar</money>
+</food>
+<food>
+   <haters>lemons</haters>
+</food>
+<food>lemonade</food>
+<food>cinnamon</food>
+<food>deli</food>
+<food>school's <group label="i" num="31" rhyme="29 32 33 34">lunch line</group>
+</food>
+<food>
+   <money>cheese</money>
+</food>
+<food>cheddar</food>
+<food>deep <group label="d" num="4" alliteration="5">fried</group>
+</food>
+<food>
+   <group label="d" num="6" rhyme="7">dumplings</group>
+</food>
+<food>cake</food>
+<food>cake</food>
+<food>dough</food>
+<food>meals</food>
+<food>supper</food>
+<food>
+   <money>cake</money>
+</food>
+<food>cookie creases</food>
+<food>
+   <group label="b" num="24" rhyme="28">grapes</group>
+</food>
+<food>
+   <group label="d" num="15" rhyme="9 14 16">ensalada</group>
+</food>
+<food>
+   <group label="b" num="12" rhyme="9 10 11">teriyaki</group>
+</food>
+<food>cheese</food>
+<food>kiwi</food>
+<food>
+   <group label="c" num="18" alliteration="17">cheese</group>
+</food>
+<food>cheese</food>
+<food>
+   <group label="d" num="18" slantRhyme="19">vegetables</group>
+</food>
+<food>
+   <weed>
+      <group label="d" num="19" slantRhyme="18">edible</group>
+   </weed>
+</food>
+<food>cheese</food>
+<food>cheddar</food>
+<food>meals</food>
+<food>meals</food>
+<food>
+   <money>Cake</money> like Entenmann's </food>
+<food>flow sweet like
+                    cinnamon</food>
+<food>jelly</food>
+<food>jam</food>
+<food>
+   <money>But, he <AAVE field="phon" type="contraction" word1="got" word2="to">gotta</AAVE> 
+      <group label="b" num="5" rhyme="7">eat</group>
+   </money>
+</food>
+<food>Until you <AAVE field="syn" type="deletion" class="copula"/>out <group label="b" num="9" slantRhyme="8" rhyme="10">
+      <AAVE field="phon" type="dropping" sound="g" position="final">feastin'</AAVE>
+   </group>
+</food>
+<food>
+   <group label="a" num="5" rhyme="1 3">oodables</group>(?)</food>
+<food>
+   <group label="a" num="11" slantRhyme="10">pasta</group>
+</food>
+<food>Eat them like they <group label="a" num="12" assimilation="13">pasta</group>
+</food>
+<food>flounder</food>
+<food>Strawberries</food>
+<food>
+   <money>cheese</money>
+</food>
+<food>beef</food>
+<food>nuts</food>
+<food>
+   <group label="b" num="6" rhyme="7">cookie</group>
+</food>
+<food>
+   <money>
+      <group label="b" num="7" assonance="8">cabbage</group>
+   </money>
+</food>
+<food>
+   <group label="a" num="14" alliteration="12 13" rhyme="11 16">potatoes</group>
+</food>
+<food>
+   <money>cheese</money>
+</food>
+<food>
+   <money>cheddar</money>
+</food>
+<food>
+   <money>cheese</money>
+</food>
+<food>
+   <money>
+      <group label="a" num="29" rhyme="28 30 31">cheddar</group>
+   </money>
+</food>
+<food>sweet like <group label="b" num="8" rhyme="7 9">cinnamon</group>
+</food>
+<food>
+   <group label="d" num="8" slantRhyme="7">beverages</group>
+</food>
+<food>
+   <group label="c" num="2" rhyme="1">souffle</group>
+</food>
+<food>
+   <money>
+      <group label="c" num="5" rhyme="3 4">cake</group>
+   </money>
+</food>
+<food>
+   <group label="c" num="7" rhyme="6 8 9">maple</group>
+</food>
+<geo ref="Chicago">Chi-raq</geo>
+<geo ref="Flatbush">Flatbush</geo>
+<geo ref="Figueroa">Figg side</geo>
+<geo ref="NewYork">New York</geo>
+<geo ref="EastCoast">beast</geo>
+<geo ref="NewYork">Empire State</geo>
+<geo ref="NewYork">rotting the <food>apple</food>
+</geo>
+<geo ref="NewYork">New York City</geo>
+<geo ref="Brooklyn">Brooklyn</geo>
+<geo ref="NewYork">city</geo>
+<geo ref="NewYork">city</geo>
+<geo ref="NewYork">city</geo>
+<geo ref="EastCoast">Beast coast</geo>
+<geo ref="Bahamas">the Bahamas</geo>
+<geo ref="Seattle">Seattle</geo>
+<geo ref="Seattle">Seattle</geo>
+<geo ref="Seattle">Seattle</geo>
+<geo ref="Seattle">Seattle</geo>
+<geo ref="Seattle">Seattle</geo>
+<geo ref="Brooklyn">Brooklyn</geo>
+<geo ref="Brooklyn">Brooklyn</geo>
+<geo ref="Brooklyn">Brooklyn</geo>
+<geo ref="Brooklyn">Brooklyn</geo>
+<geo ref="Brooklyn">Brooklyn</geo>
+<geo ref="Brooklyn">Brooklyn</geo>
+<geo ref="Brooklyn">Brooklyn</geo>
+<geo ref="Brooklyn">Brooklyn</geo>
+<geo ref="Brooklyn">Brooklyn's</geo>
+<geo ref="EastCoast">beast coast</geo>
+<geo ref="NewYork">New York</geo>
+<geo ref="NewMexico">New Mexico</geo>
+<geo ref="Bedford-Stuyvesant">Stuy</geo>
+<geo ref="LincolnTerraces">Lincoln Terraces</geo>
+<geo ref="Egypt">Egyptians</geo>
+<geo ref="NewYork">Empire State</geo>
+<geo ref="Compton">Compton</geo>
+<geo ref="Yonkers">Yonkers</geo>
+<geo ref="Himalayas">Himalayas</geo>
+<geo ref="NewYork">NY</geo>
+<geo ref="Compton">Compton</geo>
+<geo ref="Austin">Austin</geo>
+<geo ref="Louisiana">Louisiana</geo>
+<geo ref="Flatbush">Flatbush</geo>
+<geo ref="Brooklyn">Brooklyn</geo>
+<geo ref="Baghdad">Baghdad</geo>
+<geo ref="Baghdad">Baghdad</geo>
+<geo ref="Brooklyn">Brooklyn's</geo>
+<geo ref="Iceland">
+   <group label="a" num="14" slantRhyme="15">Icelands</group>
+</geo>
+<geo ref="LittleItaly">
+   <group label="b" num="12" rhyme="10 11 13 14">Little
+                Italy</group>
+</geo>
+<geo ref="Sicily">
+   <group label="b" num="13" rhyme="10 11 12 14">Sicily</group>
+</geo>
+<geo ref="Bedford-Stuyvesant">Bedford-<group label="b" num="12" assimilation="11">Stuyvesant</group>
+</geo>
+<geo ref="Melbourne">Melbourne</geo>
+<geo ref="NewYork">
+   <group label="c" num="27" rhyme="22 26 28">New yitty</group>
+</geo>
+<geo ref="LasVegas">
+   <group label="d" num="11" alliteration="10">Sin City</group>
+</geo>
+<geo ref="NewYork">my <group label="b" num="10" rhyme="9 11 12">city</group>
+</geo>
+<geo ref="NewYork">NY</geo>
+<geo ref="LosAngeles">Los <group label="b" num="4" assimilation="2 3">Angeles</group>
+</geo>
+<geo ref="Detroit">the D</geo>
+<geo ref="DengfengChina">Shaolin</geo>
+<geo ref="Brooklyn">Brooklyn</geo>
+<geo ref="Brooklyn">Brooklyn</geo>
+<geo ref="Spain">
+   <group label="b" num="7" rhyme="5 6 8 9 10 11">Espana</group>
+</geo>
+<geo ref="Brooklyn">
+   <group label="d" num="6" rhyme="7">BK</group>
+</geo>
+<geo ref="EastCoast">beast coast</geo>
+<geo ref="NewYork">New York</geo>
+<geo ref="NewMexico">New Mexico</geo>
+<geo ref="NewYork">NYC</geo>
+<geo ref="Boston">
+   <group label="c" num="17" slantRhyme="16">Burston</group>, I mean Boston</geo>
+<geo ref="NewYork">
+   <group label="a" num="12" alliteration="13 14">place</group>
+</geo>
+<guns>war and armory</guns>
+<guns>cock your gun back</guns>
+<guns>
+   <weed>Get smoked out</weed>
+</guns>
+<guns>
+   <fashion>Carry a vest</fashion>
+</guns>
+<guns>pistols</guns>
+<guns>red dot</guns>
+<guns>gun play</guns>
+<guns>holdin'</guns>
+<guns>so we self defence</guns>
+<guns>my piece</guns>
+<guns>that heat seek</guns>
+<guns>release and squeeze</guns>
+<guns>
+   <AAVE type="tense" field="syn" person="third">get</AAVE> blown</guns>
+<guns>Get his head <AAVE field="phon" type="dropping" sound="d" position="final">explode</AAVE>
+</guns>
+<guns>Put him on the floor</guns>
+<guns>Blacks get their ass sprayed</guns>
+<guns>catch a bullet</guns>
+<guns>slugs</guns>
+<guns>trigger happiest thugs</guns>
+<guns>strafe</guns>
+<guns>stray gun shot</guns>
+<guns>a thousand guns</guns>
+<guns>gun</guns>
+<guns>shootin'</guns>
+<guns>lethal weapon</guns>
+<guns>shot</guns>
+<guns>Smith and Wesson</guns>
+<guns>the heater</guns>
+<guns>shot</guns>
+<guns>weapons</guns>
+<guns>You shoot, I shoot back</guns>
+<guns>.44 clap</guns>
+<guns>Click-clack-boom</guns>
+<guns>semi-auto</guns>
+<guns>shots</guns>
+<guns>equippin</guns>
+<guns>clip</guns>
+<guns>guns</guns>
+<guns>gats</guns>
+<guns>bazooka
+                        <group label="e" num="9" rhyme="8">straps</group>
+</guns>
+<guns>pump lead</guns>
+<guns>Columbine</guns>
+<guns>Uzi's</guns>
+<guns>Little
+                weapon</guns>
+<guns>Smith and Wesson</guns>
+<guns>catch a bullet</guns>
+<guns>clapped</guns>
+<guns>Better shoot yourself</guns>
+<guns>two shots</guns>
+<guns>iron</guns>
+<guns>semi</guns>
+<guns>shots</guns>
+<guns>Smith and <group label="h" num="18" rhyme="20">Wesson’s</group>
+</guns>
+<guns>killers</guns>
+<guns>
+   <group label="i" num="16" rhyme="13 14 17">Glock</group>
+                    <group label="i" num="17" rhyme="13 14 16" alliteration="18">cocked</group>
+</guns>
+<guns>guns</guns>
+<guns>Beretta’s</guns>
+<guns>guns</guns>
+<guns>TEC-9</guns>
+<guns>lifeless</guns>
+<guns>TEC-9</guns>
+<guns>lifeless</guns>
+<guns>TEC-9</guns>
+<guns>lifeless</guns>
+<guns>TEC-9</guns>
+<guns>TEC</guns>
+<guns>lifeless</guns>
+<guns>TEC-9</guns>
+<guns>lifeless</guns>
+<guns>TEC-9</guns>
+<guns>lifeless</guns>
+<guns>TEC-9</guns>
+<guns>lifeless</guns>
+<guns>TEC-9</guns>
+<guns>Berettas</guns>
+<guns>gat</guns>
+<guns>click-clack</guns>
+<guns>lifeless</guns>
+<guns>TEC-9</guns>
+<guns>lifeless</guns>
+<guns>TEC-9</guns>
+<guns>lifeless</guns>
+<guns>TEC-9</guns>
+<guns>lifeless</guns>
+<guns>TEC-9</guns>
+<guns>gun</guns>
+<guns>wig pushed back</guns>
+<guns>wig <group label="a" num="3" rhyme="4 5">get</group>
+                    <group label="a" num="4" rhyme="3 5">split</group>
+</guns>
+<guns>wig pushed back</guns>
+<guns>wig get split</guns>
+<guns>wig pushed back</guns>
+<guns>wig pushed back</guns>
+<guns>wig get split</guns>
+<guns>
+   <group label="b" num="3" rhyme="4 5 6">bust lead</group>
+</guns>
+<guns>wig pushed back</guns>
+<guns>wig get split</guns>
+<guns>wig pushed back</guns>
+<guns>wig get split</guns>
+<guns>guns</guns>
+<guns>wig pushed back</guns>
+<guns>wig get split</guns>
+<guns>wig pushed back</guns>
+<guns>wig get split</guns>
+<guns>wig pushed back</guns>
+<guns>wig get split</guns>
+<guns>wig pushed back</guns>
+<guns>wig get split</guns>
+<guns>wig pushed back</guns>
+<guns>wig get split</guns>
+<guns>wig pushed back</guns>
+<guns>wig get split</guns>
+<guns>clapped</guns>
+<guns>wig pushed back</guns>
+<guns>wig get split</guns>
+<guns>wig pushed back</guns>
+<guns>wig get split</guns>
+<guns>wig pushed back</guns>
+<guns>wig pushed back</guns>
+<guns>wig get split</guns>
+<guns>wig pushed back</guns>
+<guns>wig get split</guns>
+<guns>wig pushed back</guns>
+<guns>wig get split</guns>
+<guns>wig pushed back</guns>
+<guns>wig get split</guns>
+<guns>wig pushed back</guns>
+<guns>wig get split</guns>
+<guns>wig pushed back</guns>
+<guns>wig get split</guns>
+<guns>magnum</guns>
+<guns>blown away</guns>
+<guns>bad
+                pass</guns>
+<guns>gun</guns>
+<guns>mac</guns>
+<guns>deuce</guns>
+<guns>deuce</guns>
+<guns>Berettas</guns>
+<guns>Beretta</guns>
+<guns>47s</guns>
+<guns>
+   <group label="b" num="10" slantRhyme="9">Uzis</group>
+</guns>
+<guns>
+   <group label="b" num="13" rhyme="14">toolie</group>
+</guns>
+<guns>strapped</guns>
+<guns>47</guns>
+<guns>burners</guns>
+<guns>nines</guns>
+<guns>
+   <group label="d" num="3" assonance="4 5 6 7">two</group>
+</guns>
+<guns>
+   <group label="d" num="6" assonance="3 4 5 7">two tools</group>
+</guns>
+<guns>
+   <group label="d" num="7" assonance="3 4 5 6">deuce-deuc</group>e</guns>
+<guns>clips</guns>
+<guns>hollow tip <group label="c" num="6" assimilation="5">bullets in</group>
+</guns>
+<guns>spray</guns>
+<guns>
+   <sports>Vicious trey's</sports>
+</guns>
+<guns>heavy artillery</guns>
+<guns>round of shells</guns>
+<guns>Tec</guns>
+<guns>nines and
+                        Berettas</guns>
+<guns>
+   <group label="c" num="4" assonance="1 2 3">Glock</group>
+</guns>
+<guns>twelve gauge</guns>
+<guns>fuck guns</guns>
+<guns>Don't get clapped</guns>
+<guns>shoot yourself</guns>
+<guns>Weapon of steel</guns>
+<guns>32 in the clip but one is in the <group label="b" num="3" rhyme="4">chamber</group>
+</guns>
+<guns>Click clack</guns>
+<guns>
+   <group label="a" num="15" assonance="16">nozzles</group> just to silence <group label="a" num="16" assonance="15" rhyme="11 14">hollows</group>
+</guns>
+<guns>
+   <group label="a" num="20" assimilation="18" rhyme="19">duck those strays</group>
+</guns>
+<guns>
+   <group label="a" num="21" assimilation="22">buck those Tre's</group>
+</guns>
+<guns>
+   <group label="c" num="13" assimilation="14">deus
+                        pop</group>
+</guns>
+<guns>Never held a <group label="d" num="4" rhyme="3">pistol</group>
+</guns>
+<guns>Never packed a tool</guns>
+<guns>choppa</guns>
+<haters>They</haters>
+<haters>They</haters>
+<haters>They</haters>
+<haters>They</haters>
+<haters>Why do they sweat us?</haters>
+<haters>Dead us, they just met us,</haters>
+<haters>Closed-minded men</haters>
+<haters>pussies</haters>
+<haters>I swear these niggas love to copy,</haters>
+<haters>You're novice,</haters>
+<haters>Forever<AAVE field="phon" type="dropping" sound="g" position="final">bitin'</AAVE>my
+                forbidden style</haters>
+<haters>See these foes <AAVE field="syn" type="deletion" class="copula"/>biting the flows,
+                they even jooks the pose</haters>
+<haters>All of these rappers are just a bunch of <food>Now and Laters</food>
+</haters>
+<haters>fake thugs</haters>
+<haters>they wanna see my life decease</haters>
+<haters>Some niggas<AAVE field="syn" type="deletion" class="copula"/>
+   <AAVE field="phon" type="dropping" sound="g" position="final">bitin'</AAVE>flows yo, that's
+                burglary</haters>
+<haters>Same niggas<AAVE field="syn" type="deletion" class="copula"/>
+   <AAVE field="phon" type="dropping" sound="g" position="final">actin'</AAVE>like they never heard of
+                me</haters>
+<haters>fuck nigga</haters>
+<haters>haters</haters>
+<haters>They stay scheming</haters>
+<haters>they too fake</haters>
+<haters>fools</haters>
+<haters>fools</haters>
+<haters>fools</haters>
+<haters>fools</haters>
+<haters>fools</haters>
+<haters>fools</haters>
+<haters>some other people</haters>
+<haters>nobody in the hood was fucking with my <group label="a" num="4" repetition="3 5">shit</group>
+</haters>
+<haters>
+   <group label="b" num="2" repetition="3">ya'll</group> ain't real
+                    spitters, <group label="b" num="3" repetition="2">ya'll</group>
+                    <group label="b" num="4" slantRhyme="8">lips <group label="b" num="5" rhyme="1">chapped</group>
+   </group>
+</haters>
+<haters>If you ain't <group label="i" num="31" alliteration="30" rhyme="32 33 34">prejudice</group> you still a <group label="i" num="32" rhyme="31 33 34">nemesis</group>
+</haters>
+<haters>these bloggers too <group label="e" num="16" assimilation="15">emotional</group>
+</haters>
+<haters>
+   <group label="a" num="13" rhyme="14">sucka</group>
+                        <group label="a" num="14" rhyme="13">nigga</group>
+</haters>
+<haters>Suspect niggas</haters>
+<haters>lemons</haters>
+<haters>Suspect niggas</haters>
+<haters>Suspect niggas</haters>
+<haters>chumps</haters>
+<haters>Suspect niggas</haters>
+<haters>Suspect niggas</haters>
+<haters>Suspect niggas</haters>
+<haters>Suspect niggas</haters>
+<haters>Suspect niggas</haters>
+<haters>Suspect niggas</haters>
+<haters>Suspect niggas</haters>
+<haters>Suspect niggas</haters>
+<haters>Suspect niggas</haters>
+<haters>Suspect niggas</haters>
+<haters>suspect niggas</haters>
+<haters>Suspect niggas</haters>
+<haters>Suspect niggas</haters>
+<haters>Suspect niggas</haters>
+<haters>Suspect niggas</haters>
+<haters>Suspect niggas</haters>
+<haters>Suspect niggas</haters>
+<haters>government <group label="j" num="4" rhyme="5">spies</group>
+</haters>
+<haters>Suspect niggas</haters>
+<haters>Suspect niggas</haters>
+<haters>They</haters>
+<haters>Don't let them <group label="c" num="3" slantRhyme="4 5">hounds snoop</group>
+</haters>
+<haters>fake</haters>
+<haters>wack rappers</haters>
+<haters>foes</haters>
+<haters>Cats</haters>
+<haters>For niggas who really <AAVE type="contraction" field="phon" word1="are" word2="not">ain't</AAVE> 
+                <group label="f" num="9" rhyme="10 11">feeling me</group> are all my <group label="f" num="10" rhyme="9 11">fucking enemies</group>
+</haters>
+<haters>The ones who say you ain't hot be your biggest fan</haters>
+<haters>Haters tell me I should <group label="c" num="1" assonance="2 3 4">stop</group>
+</haters>
+<haters>My enemies <AAVE field="syn" type="deletion" class="copula"/>
+   <AAVE field="phon" type="dropping" sound="g" position="final">tryin'</AAVE> see me in the <group label="c" num="2" assonance="1 3 4">box</group>
+</haters>
+<haters>Cause these niggas faking and they <group label="b" num="5" rhyme="6 7 8 9 10 11">nada</group>
+</haters>
+<haters>The one-handed shit you got <group label="c" num="17" rhyme="13 14 15 16 18">to say</group>
+</haters>
+<haters>
+   <hiphop ref="Jay-Z">Niggas can never knock the, <group label="a" num="14" rhyme="17 18 19 20 21">hustling</group>
+   </hiphop>
+</haters>
+<haters>Keep false <group label="b" num="12" rhyme="14 15">announcing</group>
+</haters>
+<haters>Ya'll some <group label="c" num="5" rhyme="1 2 3 4 6 7 8 9 10">bozos</group>
+</haters>
+<haters>They hate the price on son's life</haters>
+<haters>Who is you? I don't give a <group label="d" num="5" assonance="6">F</group>
+</haters>
+<hiphop ref="ProEra">Era</hiphop>
+<hiphop ref="ProEra">Era</hiphop>
+<hiphop ref="ProEra">Pro Era</hiphop>
+<hiphop ref="ProEra">Pro Era</hiphop>
+<hiphop ref="Drake">started from the bottom</hiphop>
+<hiphop ref="NotoriousBIG">Biggie</hiphop>
+<hiphop ref="ProEra">Pros</hiphop>
+<hiphop ref="JoeyBada$$">Joey Bad</hiphop>
+<hiphop ref="WyclefJean">
+   <money>dollar dollar bill</money>, y'all</hiphop>
+<hiphop ref="SchoolboyQ">school boy too</hiphop>
+<hiphop ref="Nas">It's bugged out</hiphop>
+<hiphop ref="KirkKnight">Kirk</hiphop>
+<hiphop ref="PeterRosenberg">Rosenberg</hiphop>
+<hiphop ref="Jay-Z">the evils</hiphop>
+<hiphop ref="XXLMagazine">double XL</hiphop>
+<hiphop ref="Jay-Z">Can I live?</hiphop>
+<hiphop ref="NotoriousBIG">the
+                illest</hiphop>
+<hiphop ref="ProEra">my whole camp</hiphop>
+<hiphop ref="ProEra">Pro's</hiphop>
+<hiphop ref="TheBeast">the <geo ref="EastCoast">beast</geo>
+</hiphop>
+<hiphop ref="Nas">ether</hiphop>
+<hiphop ref="ProEra">Era</hiphop>
+<hiphop ref="JoeyBada$$">Get your wig pushed back tonight, to 1999</hiphop>
+<hiphop ref="CapitalSteez">Since my homie died</hiphop>
+<hiphop ref="NWA">"fuck the police"</hiphop>
+<hiphop ref="Nas">That’s why we <weed>get high</weed>
+</hiphop>
+<hiphop ref="NWA">"fuck the police"</hiphop>
+<hiphop ref="Nas">That’s why we <weed>get high</weed>
+</hiphop>
+<hiphop ref="NWA">"fuck the police"</hiphop>
+<hiphop ref="ProEra">PE</hiphop>
+<hiphop ref="ProEra">pro</hiphop>
+<hiphop ref="NotoriousBIG">Biggie</hiphop>
+<hiphop ref="NotoriousBIG">Big up big up, it's a stick up stick up</hiphop>
+<hiphop ref="NotoriousBIG">Niggas hit a nigga quick if he hiccup hiccup</hiphop>
+<hiphop ref="NotoriousBIG">Big up big up, it's a stick up stick up</hiphop>
+<hiphop ref="NotoriousBIG">Niggas hit a nigga quick if he hiccup hiccup</hiphop>
+<hiphop ref="JoeyBada$$">Badmon named Jozif</hiphop>
+<hiphop ref="ProEra">Pro Era</hiphop>
+<hiphop ref="ProEra">Pro Era</hiphop>
+<hiphop ref="Chronixx">Chronixx</hiphop>
+<hiphop ref="JoeyBada$$">Joe Badmon</hiphop>
+<hiphop ref="JoeyBada$$">Badmon</hiphop>
+<hiphop ref="JoeyBada$$">Badmon</hiphop>
+<hiphop ref="JoeyBada$$">Badmon</hiphop>
+<hiphop ref="JoeyBada$$">Badmon</hiphop>
+<hiphop ref="ProEra">47 Goonz</hiphop>
+<hiphop ref="JoeyBada$$">Badmon</hiphop>
+<hiphop ref="JoeyBada$$">Badmon</hiphop>
+<hiphop ref="JoeyBada$$">Badmon</hiphop>
+<hiphop ref="JoeyBada$$">Badmon</hiphop>
+<hiphop ref="Jay-Z">blueprint</hiphop>
+<hiphop ref="JoeyBada$$">
+   <hiphop ref="Jay-Z">Jay</hiphop> to the Oh Vee</hiphop>
+<hiphop ref="Jay-Z">Jay</hiphop>
+<hiphop ref="ProEra">P-R-O E-R-A</hiphop>
+<hiphop ref="JoeyBada$$">Badmon</hiphop>
+<hiphop ref="JoeyBada$$">Badmon</hiphop>
+<hiphop ref="JoeyBada$$">Badmon</hiphop>
+<hiphop ref="JoeyBada$$">Badmon</hiphop>
+<hiphop ref="CypressHill">Lick a <guns>shot</guns>
+</hiphop>
+<hiphop ref="TopDawgEntertainment">Top rottweiler</hiphop>
+<hiphop ref="Three6Mafia">since I popped my collar</hiphop>
+<hiphop ref="JDilla">Dilla</hiphop>
+<hiphop ref="ProEra">Pro Era</hiphop>
+<hiphop ref="LaurynHill">I just lost one</hiphop>
+<hiphop ref="ProEra">47 friends in my circumference</hiphop>
+<hiphop ref="Nas">God's son</hiphop>
+<hiphop ref="CapitalSteez">you
+                    <AAVE field="syn" type="contraction" word1="got" word2="to">gotta</AAVE> move
+                on</hiphop>
+<hiphop ref="CapitalSteez">STEEZy</hiphop>
+<hiphop ref="CapitalSteez">my partner</hiphop>
+<hiphop ref="NotoriousBIG">Big Poppa</hiphop>
+<hiphop ref="Tupac">2 Pacs</hiphop>
+<hiphop ref="BigL">big L</hiphop>
+<hiphop ref="BigPun">big pun</hiphop>
+<hiphop ref="CapitalSteez">you
+                    <AAVE field="syn" type="contraction" word1="got" word2="to">gotta</AAVE> move
+                on</hiphop>
+<hiphop ref="CapitalSteez">you
+                    <AAVE field="syn" type="contraction" word1="got" word2="to">gotta</AAVE> move
+                on</hiphop>
+<hiphop ref="ProEra">my camp</hiphop>
+<hiphop ref="Jay-Z">never ever change</hiphop>
+<hiphop ref="Jay-Z">never ever change</hiphop>
+<hiphop ref="Jay-Z">never ever change</hiphop>
+<hiphop ref="IrvGotti">Irv Gotti been Inc. and Murder</hiphop>
+<hiphop ref="JoeyBada$$">Jo-Vaughn</hiphop>
+<hiphop ref="OlDirtyBastard">ODB</hiphop>
+<hiphop ref="OlDirtyBastard">ODB</hiphop>
+<hiphop ref="JoeyBada$$">Jo-Vaughn</hiphop>
+<hiphop ref="OlDirtyBastard">ODB</hiphop>
+<hiphop ref="OlDirtyBastard">ODB</hiphop>
+<hiphop ref="JoeyBada$$">Joey</hiphop>
+<hiphop ref="JoeyBada$$">Joey Bad</hiphop>
+<hiphop ref="CJFly">Fly</hiphop>
+<hiphop ref="StatikSelektah">Statik</hiphop>
+<hiphop ref="JoeyBada$$">Jo-Vaughn</hiphop>
+<hiphop ref="Tupac">2Pac</hiphop>
+<hiphop ref="JoeyBada$$">Joey</hiphop>
+<hiphop ref="BeastieBoys">It's no sleep <AAVE field="phon" type="dropping" sound="un" position="initial">'til</AAVE> 
+   <geo ref="Brooklyn">Brooklyn</geo>,</hiphop>
+<hiphop ref="BeastieBoys">beastie boy</hiphop>
+<hiphop ref="Noreaga">Getting head in the whip and not crashing it</hiphop>
+<hiphop ref="JoeyBada$$">the Papi</hiphop>
+<hiphop ref="Jay-Z">Hova</hiphop>
+<hiphop ref="Madlib">Madlib</hiphop>
+<hiphop ref="JoeyBada$$">Joey Bad</hiphop>
+<hiphop ref="ChuckStrangers">Chuck
+                        <group label="a" num="1" slantRhyme="2">Strangers</group>
+</hiphop>
+<hiphop ref="MFDOOM">Young villain hop up on the <group label="c" num="11" repetition="12">track</group> then the <group label="c" num="12" repetition="11">track</group>
+                    <group label="c" num="13" slantRhyme="10">doomed</group>
+</hiphop>
+<hiphop ref="ProEra">era</hiphop>
+<hiphop ref="ProEra">era</hiphop>
+<hiphop ref="ProEra">era</hiphop>
+<hiphop ref="CapitalSteez">STEEZ</hiphop>
+<hiphop ref="ProEra">P.E</hiphop>
+<hiphop ref="ProEra">P.E</hiphop>
+<hiphop ref="PublicEnemy">Public Enemy</hiphop>
+<hiphop ref="LilBDaBasedGod">Based <group label="g" num="2" slantRhyme="3">God</group>
+</hiphop>
+<hiphop ref="ProEra">P.E's</hiphop>
+<hiphop ref="ProEra">P.E. boys</hiphop>
+<hiphop ref="Tupac">2Pac</hiphop>
+<hiphop ref="JoeyBada$$">BADA$$</hiphop>
+<hiphop ref="Cam'ron">
+   <group label="f" num="5" alliteration="6">Killa</group>
+                    <group label="f" num="6" alliteration="5" assonance="7">Cam's</group>
+</hiphop>
+<hiphop ref="Nas">I’m out for <group label="h" num="9" slantRhyme="11">
+      <money>presidents</money>
+   </group> to <group label="h" num="10" assimilation="12 13 14 15">
+      <group label="h" num="11" slantRhyme="9">represent</group> me</group>
+</hiphop>
+<hiphop ref="JoeyBada$$">Joey Bada$$</hiphop>
+<hiphop ref="JoeyBada$$">Joey</hiphop>
+<hiphop ref="Jay-Z">Blueprints</hiphop>
+<hiphop ref="Nas">Illmatics</hiphop>
+<hiphop ref="KwonSwank">Kwon</hiphop>
+<hiphop ref="LilBDaBasedGod">Based <group label="a" num="3" assonance="4">God</group>
+</hiphop>
+<hiphop ref="JoeyBada$$">Joey</hiphop>
+<hiphop ref="Jay-Z">I couldn't see it coming down <group label="e" num="1" assonance="2">my</group>
+                    <group label="e" num="2" assonance="1" rhyme="3">eye</group>
+</hiphop>
+<hiphop ref="Jay-Z">So I had to make the song <group label="e" num="3" rhyme="2">cry</group>
+</hiphop>
+<hiphop ref="Jay-Z">I couldn't see it coming down <group label="e" num="4" assonance="5">my</group>
+                    <group label="e" num="5" assonance="4" rhyme="6">eye</group>
+</hiphop>
+<hiphop ref="Jay-Z">So I got to make the song <group label="e" num="6" rhyme="5">cry</group>
+</hiphop>
+<hiphop ref="Jay-Z">I couldn't see it coming down <group label="e" num="7" assonance="8">my</group>
+                    <group label="e" num="8" assonance="7" rhyme="9">eye</group>
+</hiphop>
+<hiphop ref="Jay-Z">So I had to make the song <group label="e" num="9" rhyme="8">cry</group>
+</hiphop>
+<hiphop ref="Jay-Z">I couldn't see it coming down <group label="e" num="10" assonance="11">my</group>
+                    <group label="e" num="11" assonance="10" rhyme="12">eye</group>
+</hiphop>
+<hiphop ref="Jay-Z">So I got to make the song <group label="e" num="12" rhyme="11">cry</group>
+</hiphop>
+<hiphop ref="LordFinnesse">Lord Finnesse</hiphop>
+<hiphop ref="KwonSwank">Kwon</hiphop>
+<hiphop ref="ProEra">PE</hiphop>
+<hiphop ref="CapitalSteez">Jay STEEZ</hiphop>
+<hiphop ref="ALa$ole">A-La $ole</hiphop>
+<hiphop ref="KirkKnight">Kirk Knight</hiphop>
+<hiphop ref="CJFly">CJ Fly</hiphop>
+<hiphop ref="PowP">Pow P</hiphop>
+<hiphop ref="JayLee">Jay Lee</hiphop>
+<hiphop ref="DyemLewis">Dyem Lewis</hiphop>
+<hiphop ref="Jay-Z">Jay</hiphop>
+<hiphop ref="ProEra">The Pro Era <group label="e" num="6" assonance="7">crew</group>
+</hiphop>
+<hiphop ref="Jay-Z">Jigga</hiphop>
+<hiphop ref="Jay-Z KanyeWest">watch your
+                        <group label="d" num="9" assimilation="7 8">throne
+                seat</group>
+</hiphop>
+<hiphop ref="NotoriousBIG">BIG</hiphop>
+<hiphop ref="MFDOOM">
+   <group label="b" num="1" assimilation="2">special <weed>herb</weed>
+   </group>
+</hiphop>
+<hiphop ref="ProEra">Era</hiphop>
+<hiphop ref="CapitalSteez">STEEZ</hiphop>
+<hiphop ref="KirkKnight">Kirk</hiphop>
+<hiphop ref="JayLee">Lee</hiphop>
+<hiphop ref="Jay-Z KanyeWest">no chuch when you're living in the <group label="a" num="10" assimilation="8">wild</group>
+</hiphop>
+<hiphop ref="ATCQ">
+   <haters>
+      <group label="a" num="13" rhyme="14">sucka</group>
+                        <group label="a" num="14" rhyme="13">nigga</group>
+   </haters>
+</hiphop>
+<hiphop ref="KwonSwank">Kwon</hiphop>
+<hiphop ref="ATCQ">vibrant
+                    thang</hiphop>
+<hiphop ref="ProEra">Pros</hiphop>
+<hiphop ref="ProEra">Progressive <group label="c" num="19" slantRhyme="18">Era</group>
+</hiphop>
+<hiphop ref="NyckCaution">Nyck</hiphop>
+<hiphop ref="ProEra">Pros</hiphop>
+<hiphop ref="ProEra">Pros</hiphop>
+<hiphop ref="ChuckStrangers">Chuck</hiphop>
+<hiphop ref="NotoriousBIG">Bigs</hiphop>
+<hiphop ref="Tupac">two
+                    Pacs</hiphop>
+<hiphop ref="ProEra">The <group label="j" num="31" assimilation="30">Era</group>
+</hiphop>
+<hiphop ref="BabyCham">Baby Cham</hiphop>
+<hiphop ref="ProEra">Pro</hiphop>
+<hiphop ref="Eminem">shady</hiphop>
+<hiphop ref="ProEra">Pros</hiphop>
+<hiphop ref="GrandmasterFlash">So don't <group label="a" num="24" rhyme="25">push me</group>, Uh, I'm close to the <group label="a" num="25" rhyme="24">
+      <women>pussy</women>
+   </group>, even</hiphop>
+<hiphop ref="Jay-Z">Jigga</hiphop>
+<hiphop ref="FunkFlex">flex</hiphop>
+<hiphop ref="Akon">Akon</hiphop>
+<hiphop ref="Akon">Convict music</hiphop>
+<hiphop ref="ChiefKeef">
+   <group label="e" num="8">Sosa</group>
+</hiphop>
+<hiphop ref="Jay-Z">Hard <group label="b" num="12" rhyme="11">Knock</group>
+</hiphop>
+<hiphop ref="112">112 <group label="c" num="16" rhyme="17">song</group>
+</hiphop>
+<hiphop ref="JoeyBada$$">Joey Bada$$</hiphop>
+<hiphop ref="SmokeDZA">DZA</hiphop>
+<hiphop ref="BrandNubians">
+   <group label="d" num="7" rhyme="6" slantRhyme="8">Brand Nubian</group>
+</hiphop>
+<hiphop ref="JohnLegend">ordinary people</hiphop>
+<hiphop ref="StatikSelektah">statik</hiphop>
+<hiphop ref="StatikSelektah">statik</hiphop>
+<hiphop ref="StatikSelektah">statik</hiphop>
+<hiphop ref="ProEra">47</hiphop>
+<hiphop ref="JoeyBada$$">Badass</hiphop>
+<hiphop ref="WuTangClan">
+                <group label="b" num="7" rhyme="5 6">protect</group> your neck</hiphop>
+<hiphop ref="ProEra">Pros</hiphop>
+<hiphop ref="ProEra">Era</hiphop>
+<hiphop ref="RKelly">Kels</hiphop>
+<hiphop ref="Jay-Z">big <group label="c" num="14" rhyme="10">pimping</group>
+</hiphop>
+<hiphop ref="Jay-Z">There <AAVE type="contraction" field="phon" word1="is" word2="not">ain't
+            </AAVE> no love</hiphop>
+<hiphop ref="Jay-Z">In the heart of the city</hiphop>
+<hiphop ref="CapitalSteez">Steez</hiphop>
+<hiphop ref="KanyeWest">Drive slow homie, drive slow</hiphop>
+<hiphop ref="KanyeWest">Drive slow homie, drive slow</hiphop>
+<hiphop ref="KanyeWest">Drive slow homie, <group label="a" num="1" rhyme="2">drive slow</group>
+</hiphop>
+<hiphop ref="JoeyBada$$">Joey</hiphop>
+<hiphop ref="ProEra">Era</hiphop>
+<hiphop ref="ATCQ">Tribe called 
+                <group label="h" num="6" slantRhyme="5" rhyme="7">Questions</group>
+</hiphop>
+<hiphop ref="ATCQ">Bonita</hiphop>
+<hiphop ref="CapitalSteez">Steelo</hiphop>
+<hiphop ref="CapitalSteez">King Capital</hiphop>
+<hiphop ref="ProEra">Pros</hiphop>
+<hiphop ref="RickRoss">BMF like Ross man</hiphop>
+<hiphop ref="ProEra">Pro Era</hiphop>
+<hiphop ref="ProEra">Pros</hiphop>
+<hiphop ref="Jay-Z">Big <AAVE field="phon" type="dropping" sound="g" position="final">pimpin'</AAVE>
+</hiphop>
+<hiphop ref="Jay-Z">Jigga
+                    Man</hiphop>
+<hiphop ref="LilWayne">I'm a young <group label="b" num="15" rhyme="16">Wayne</group>
+</hiphop>
+<hiphop ref="LupeFiasco">the
+                    next young <group label="c" num="16" rhyme="13 14 15 17 18">Lupe</group>
+</hiphop>
+<hiphop ref="Tupac">you can
+                    still see the <group label="d" num="8" rhyme="3 4 5">Pac in
+                us</group>
+</hiphop>
+<hiphop ref="Diddy">no disrespect to <group label="d" num="9" rhyme="10 11 14 15 16 17">Diddy</group>
+</hiphop>
+<hiphop ref="NotoriousBIG">it's <group label="d" num="13" rhyme="12">no</group>
+                    <group label="d" num="14" rhyme="9 10 11 15 16 17">Biggie</group>
+</hiphop>
+<hiphop ref="NotoriousBIG">No <group label="d" num="15" rhyme="9 10 11 14 16 17">really</group>, it's no <group label="d" num="16" rhyme="9 10 11 14 17">biggy</group>
+</hiphop>
+<hiphop ref="50Cent">
+   <group label="d" num="17" rhyme="9 10 11 14 15 16">50</group>
+                    <group label="d" num="18" rhyme="19">can't bother</group>
+</hiphop>
+<hiphop ref="Jay-Z">Mr. <group label="d" num="19" rhyme="18">Shawn Carter</group>
+</hiphop>
+<hiphop ref="DJKhaled">All I do is win</hiphop>
+<hiphop ref="Jay-Z">Niggas can never knock the, <group label="a" num="14" rhyme="17 18 19 20 21">hustling</group>
+</hiphop>
+<hiphop ref="ProEra">Progressive</hiphop>
+<hiphop ref="Tupac">two shots for 2Pac killer</hiphop>
+<hiphop ref="KanyeWest">
+   <group label="b" num="9" rhyme="10 11">Yeezy</group>
+</hiphop>
+<hiphop ref="LilWayne">a <group label="d" num="1" rhyme="2 3 4 6 7">Milli</group>
+</hiphop>
+<hiphop ref="NickiMinaj">Nicki</hiphop>
+<hiphop ref="Fugees">killing you softly</hiphop>
+<hiphop ref="Fugees">killing you <group label="b" num="2" rhyme="1 3 4 5">softly</group>
+</hiphop>
+<hiphop ref="KanyeWest">Spit it through the wire like I'm <popculture ref="ChakaKhan">
+      <group label="b" num="2" slantRhyme="1">Chaka
+                    Khan</group>
+   </popculture>
+</hiphop>
+<hiphop ref="JDilla">Dilla</hiphop>
+<hiphop ref="NotoriousBIG">Together, <group label="a" num="15" rhyme="16">Fly
+                        together</group>, <group label="a" num="16" rhyme="15">Ride
+                    together</group>
+</hiphop>
+<money>wealth</money>
+<money>
+   <success>pockets <AAVE field="syn" type="deletion" class="copula"/>healthy
+                green</success>
+</money>
+<money>cake</money>
+<money>cream</money>
+<money>green back</money>
+<money>We'll never be broke again</money>
+<money>
+   <success>We'll never be broke again</success>
+</money>
+<money>money</money>
+<money>money</money>
+<money>money</money>
+<money>prices</money>
+<money>eat</money>
+<money>penny</money>
+<money>worth</money>
+<money>
+   <success>a deal</success>
+</money>
+<money>cream</money>
+<money>green</money>
+<money>dollar</money>
+<money>Cash</money>
+<money>Cash</money>
+<money>Cash</money>
+<money>money</money>
+<money>money</money>
+<money>paper trails</money>
+<money>paper trails</money>
+<money>pay their bills</money>
+<money>pay their bills</money>
+<money>pay their bills</money>
+<money>pay their bills</money>
+<money>dollar dollar bill</money>
+<money>dollar dollar bill</money>
+<money>dollar bill</money>
+<money>dollar dollar bill</money>
+<money>dollar bill</money>
+<money>dollar dollar bill</money>
+<money>dollar bill</money>
+<money>dollar dollar bill</money>
+<money>dollar bill</money>
+<money>money</money>
+<money>money</money>
+<money>money</money>
+<money>a lil'<AAVE field="phon" type="dropping" sound="g" position="final">somethin'</AAVE>
+</money>
+<money>dough</money>
+<money>penny</money>
+<money>Cash</money>
+<money>bucks</money>
+<money>cash</money>
+<money>dollar</money>
+<money>47
+                cents</money>
+<money>cheddar</money>
+<money>bread</money>
+<money>lettuce</money>
+<money>bacon</money>
+<money>top dollar</money>
+<money>pot-of-golds</money>
+<money>caking</money>
+<money>bond</money>
+<money>a hundred</money>
+<money>money</money>
+<money>ends</money>
+<money>money</money>
+<money>time</money>
+<money>a million dollars</money>
+<money>dollar</money>
+<money>every single piece of change</money>
+<money>money</money>
+<money>record contracts</money>
+<money>hundreds</money>
+<money>a nickel</money>
+<money>cash</money>
+<money>stash</money>
+<money>jewelry</money>
+<money>money</money>
+<money>some platinum and some gold</money>
+<money>
+   <fashion>purse</fashion>
+</money>
+<money>two stacks</money>
+<money>bank</money>
+<money>
+   <success>million dollar salary</success>
+</money>
+<money>Euros'll</money>
+<money>cash</money>
+<money>Cash</money>
+<money>decimals</money>
+<money>
+   <food>cheese</food>
+</money>
+<money>
+   <food>cheese</food>
+</money>
+<money>pile of
+                        G's</money>
+<money>pay</money>
+<money>pesos</money>
+<money>money</money>
+<money>
+   <success>gold</success>
+</money>
+<money>cash</money>
+<money>cheese</money>
+<money>
+   <fashion>
+      <group label="c" num="14" consonance="16">gold</group>
+                        <group label="c" num="15" consonance="17">chains</group> and <group label="c" num="16" consonance="14">diamond</group>
+                        <group label="c" num="17" consonance="15">rings</group>
+   </fashion>
+</money>
+<money>
+   <fashion>
+      <group label="f" num="14" consonance="16">gold</group>
+                        <group label="f" num="15" consonance="17">chains</group> and <group label="f" num="16" consonance="14">diamond</group>
+                        <group label="f" num="17" consonance="15">rings</group>
+   </fashion>
+</money>
+<money>a million bucks</money>
+<money>presidents</money>
+<money>hundred dollar billers</money>
+<money>
+   <food>cheddar</food>
+</money>
+<money>
+   <food>lettuce</food>
+</money>
+<money>percentages</money>
+<money>presidents</money>
+<money>
+   <food>bread</food>
+</money>
+<money>
+   <fashion>gold chains and diamond rings</fashion>
+</money>
+<money>dough</money>
+<money>cash</money>
+<money>cash</money>
+<money>money</money>
+<money>mil</money>
+<money>hundreds</money>
+<money>
+   <weed>green</weed>
+</money>
+<money>paper</money>
+<money>fortune</money>
+<money>prices</money>
+<money>prices</money>
+<money>prices</money>
+<money>prices</money>
+<money>dollars</money>
+<money>prices</money>
+<money>prices</money>
+<money>prices</money>
+<money>prices</money>
+<money>cheddar</money>
+<money>prices</money>
+<money>prices</money>
+<money>prices</money>
+<money>prices</money>
+<money>funds</money>
+<money>dime</money>
+<money>debit</money>
+<money>amount</money>
+<money>account</money>
+<money>profit</money>
+<money>green</money>
+<money>cream</money>
+<money>gold</money>
+<money>cheese</money>
+<money>
+   <food>cheddar</food>
+</money>
+<money>
+   <weed>green</weed>
+</money>
+<money>stacks</money>
+<money>Million</money>
+<money>million</money>
+<money>fortune</money>
+<money>finances</money>
+<money>
+   <group label="b" num="14" rhyme="10 11 12 13">milli</group>
+</money>
+<money>dimes</money>
+<money>
+   <group label="e" num="5" rhyme="2 3 4">mill</group>
+</money>
+<money>bread</money>
+<money>
+   <food>cake</food>
+</money>
+<money>
+   <food>cake</food>
+</money>
+<money>
+   <food>dough</food>
+</money>
+<money>cake</money>
+<money>green</money>
+<money>
+   <weed>green</weed>
+</money>
+<money>the <group label="a" num="16" rhyme="15 17">account</group>
+</money>
+<money>dollars</money>
+<money>
+   <food>cheese</food>
+</money>
+<money>million dollar</money>
+<money>
+   <success>
+      <group label="e" num="24" slantRhyme="25">gold mine</group>
+   </success>
+</money>
+<money>
+   <women>dimes</women>
+</money>
+<money>
+   <weed>green</weed>
+</money>
+<money>
+   <food>
+      <group label="c" num="18" alliteration="17">cheese</group>
+   </food>
+</money>
+<money>
+   <food>cheese</food>
+</money>
+<money>green</money>
+<money>green</money>
+<money>check</money>
+<money>Make it <group label="h" num="14" rhyme="15 16">rain</group>
+</money>
+<money>
+   <food>cheese</food>
+</money>
+<money>
+   <food>cheddar</food>
+</money>
+<money>3 million</money>
+<money>money</money>
+<money>
+   <group label="e" num="17" rhyme="13 16">rubber band</group>
+</money>
+<money>money</money>
+<money>a
+                living</money>
+<money>Cake</money>
+<money>grands</money>
+<money>
+   <AAVE field="phon" type="dropping" sound="g" position="final">cakin'</AAVE>
+</money>
+<money>But, he <AAVE field="phon" type="contraction" word1="got" word2="to">gotta</AAVE> 
+   <group label="b" num="5" rhyme="7">eat</group>
+</money>
+<money>Cause ain't shit <group label="b" num="6" rhyme="4">cheap</group>
+</money>
+<money>money I'm <group label="b" num="15" rhyme="12 14" consonance="16 17">counting</group>
+</money>
+<money>gold</money>
+<money>No cash flashed</money>
+<money>cheese</money>
+<money>
+   <group label="b" num="7" assonance="8">cabbage</group>
+</money>
+<money>money</money>
+<money>
+   <group label="d" num="22" rhyme="21">currency</group>
+</money>
+<money>the <group label="a" num="1" assimilation="2 3">most paid</group>
+</money>
+<money>money</money>
+<money>cheese</money>
+<money>cheddar</money>
+<money>cheese</money>
+<money>
+   <group label="a" num="29" rhyme="28 30 31">cheddar</group>
+</money>
+<money>
+   <group label="a" num="23" slantRhyme="25">get bucks</group>, <group label="a" num="24" rhyme="26 27">get paid</group>
+</money>
+<money>shine</money>
+<money>
+   <group label="c" num="1" slantRhyme="2">sure to
+                        get paid</group>
+</money>
+<money>
+   <group label="c" num="5" rhyme="3 4">cake</group>
+</money>
+<oldschool>Sumerians</oldschool>
+<oldschool>smacked me at my christening</oldschool>
+<oldschool>Watch your tradition</oldschool>
+<oldschool>back in the days</oldschool>
+<oldschool>when we was in pre-school</oldschool>
+<oldschool>You remember back in the <group label="a" num="1" slantRhyme="2">days</group>
+</oldschool>
+<oldschool>9-5</oldschool>
+<oldschool>Boom-Bap</oldschool>
+<oldschool>school</oldschool>
+<oldschool>OG</oldschool>
+<oldschool>When I was thirteen</oldschool>
+<oldschool>old homies</oldschool>
+<oldschool>When I was <group label="c" num="14" rhyme="15">fourteen</group>, up
+                    late, eyes glued to the sampler <group label="c" num="15" rhyme="14" slantRhyme="16">screen</group>
+</oldschool>
+<oldschool>got em sounding
+                    like <group label="e" num="4" rhyme="7">
+      <popculture ref="Hansen">Hansen</popculture>
+   </group> in the <group label="e" num="5" rhyme="6 8 9">nineties</group>
+</oldschool>
+<oldschool>stuck in the 90s</oldschool>
+<oldschool>
+   <group label="b" num="1" rhyme="2">90s</group> 
+   <group label="b" num="2" rhyme="1">babies</group>
+</oldschool>
+<oldschool>stuck in the 90s</oldschool>
+<oldschool>90s babies</oldschool>
+<oldschool>stuck in the 90s</oldschool>
+<oldschool>90s babies</oldschool>
+<oldschool>stuck in the 90s</oldschool>
+<oldschool>90s babies</oldschool>
+<oldschool>stuck in the 90s</oldschool>
+<oldschool>90s babies</oldschool>
+<oldschool>stuck in the 90s</oldschool>
+<oldschool>90s babies</oldschool>
+<oldschool>stuck in the 90's</oldschool>
+<oldschool>Stuck in the 90's nigga</oldschool>
+<oldschool>stuck in the 90's niggas</oldschool>
+<oldschool>retro steps</oldschool>
+<oldschool>’93 still</oldschool>
+<oldschool>’93 til mic skills</oldschool>
+<oldschool>Back when rappers <AAVE field="syn" type="tense" person="third plural">was</AAVE> really rappers</oldschool>
+<oldschool>It's been a minute</oldschool>
+<oldschool>Like the new <popculture ref="ElijahMuhammad">Muhammad</popculture>
+   <!-- I feel like this is more a reference to the prophet Muhammad because of the last line --> or
+                    the new <popculture ref="MarcusGarvey">Marcus <group label="c" num="7" rhyme="8">Garvey</group>
+   </popculture>
+</oldschool>
+<oldschool>The junior Frank <group label="c" num="17" rhyme="18">Sinatra</group>
+</oldschool>
+<popculture ref="Darwin">survival of the fittest</popculture>
+<popculture ref="JackSparrow">jack the booty like I'm Sparrow</popculture>
+<popculture ref="SerenaWilliams">Serena</popculture>
+<popculture ref="GoodFellas">good fella</popculture>
+<popculture ref="Maybach">Maybach</popculture>
+<popculture ref="LemonySnicket">a series of unfortunate events</popculture>
+<popculture ref="Pinocchio">Geppetto</popculture>
+<popculture ref="Pinocchio">a puppet</popculture>
+<popculture ref="MercedesBenz">Mercedes</popculture>
+<popculture ref="JesusChrist">
+   <weed>Hazeus</weed>
+</popculture>
+<popculture ref="JesusChrist">
+   <weed>Hazeus</weed>
+</popculture>
+<popculture ref="JesusChrist">
+   <weed>Hazeus</weed>
+</popculture>
+<popculture ref="JesusChrist">
+   <weed>Hazeus</weed>
+</popculture>
+<popculture ref="JesusChrist">
+   <weed>Hazeus</weed>
+</popculture>
+<popculture ref="JesusChrist">
+   <weed>Hazeus</weed>
+</popculture>
+<popculture ref="JesusChrist">
+   <weed>Hazeus</weed>
+</popculture>
+<popculture ref="Zeus">Zeus</popculture>
+<popculture ref="JesusChrist">Jesus</popculture>
+<popculture ref="JesusChrist">
+   <weed>Hazeus</weed>
+</popculture>
+<popculture ref="JesusChrist">Jesus</popculture>
+<popculture ref="JesusChrist">
+   <weed>Hazeus</weed>
+</popculture>
+<popculture ref="JesusChrist">Lord</popculture>
+<popculture ref="JesusChrist">Jesus</popculture>
+<popculture ref="JesusChrist">
+   <weed>Hazeus</weed>
+</popculture>
+<popculture ref="JesusChrist">Jesus</popculture>
+<popculture ref="JesusChrist">
+   <weed>Hazeus</weed>
+</popculture>
+<popculture ref="Snapple">
+   <food>Snapple</food>
+</popculture>
+<popculture ref="JesusChrist">Lord</popculture>
+<popculture ref="Invincible">invincible, like McMahon</popculture>
+<popculture ref="Rembrandt">Rembrandt</popculture>
+<popculture ref="RosaParks">Rosa
+                Parks</popculture>
+<popculture ref="Crips">Crips</popculture>
+<popculture ref="Bloods">Bloods</popculture>
+<popculture ref="UndergroundRailroad">Underground Railroad</popculture>
+<popculture ref="MannyPacquiao">
+   <sports>Pacquiao</sports>
+</popculture>
+<popculture ref="KingSelassie">King Selassie</popculture>
+<popculture ref="VladimirPutin">Vladimir Putin</popculture>
+<popculture ref="BlueIvy">Blue</popculture>
+<popculture ref="JosephKony">Joseph Kony</popculture>
+<popculture ref="IkeTurner">Ike</popculture>
+<popculture ref="SojournerTruth">truth, like Sojourner</popculture>
+<popculture ref="DragonBallZ">dragon balls</popculture>
+<popculture ref="DragonBallZ">Vegeta</popculture>
+<popculture ref="MichaelJackson">Jackson</popculture>
+<popculture ref="MichaelJackson">thriller</popculture>
+<popculture ref="MichaelJackson">I'm the nigga that you see when you're in the mirror</popculture>
+<popculture ref="Candyman">Say my name five times</popculture>
+<popculture ref="ToroidalFlow">Toroidal Flow</popculture>
+<popculture ref="JesusChrist">Christ</popculture>
+<popculture ref="ToroidalFlow">Toroidal Flow</popculture>
+<popculture ref="JesusChrist">Christ</popculture>
+<popculture ref="MartinLutherKingJr">I had a dream</popculture>
+<popculture ref="PrinceofBelAir">young prince</popculture>
+<popculture ref="OsamaBinLaden">Osama</popculture>
+<popculture ref="MartinLutherKingJr">Martin</popculture>
+<popculture ref="MarcusGarvey">Marcus Garvey</popculture>
+<popculture ref="MarleyandMe">
+   <popculture ref="BobMarley">
+      <weed>Marley</weed>
+   </popculture> and me</popculture>
+<popculture ref="BobMarley">
+   <weed>Marley</weed>
+</popculture>
+<popculture ref="WizardofOz">yellow brick road</popculture>
+<popculture ref="ThePalms">The Palms</popculture>
+<popculture ref="NorthWest">north west</popculture>
+<popculture ref="KimKardashian">Kardashian</popculture>
+<popculture ref="NASA">NASA</popculture>
+<popculture ref="Playboy">playboy bunnies</popculture>
+<popculture ref="WordUpMagazine">Word Up</popculture>
+<popculture ref="TigerBeatMagazine">Tiger Beat</popculture>
+<popculture ref="ComplexMagazine">Complex</popculture>
+<popculture ref="TheSourceMagazine">The <group label="g" num="5" rhyme="6">Source</group>
+</popculture>
+<popculture ref="RangeRover">Rover</popculture>
+<popculture ref="BobMarley">Bob Mar</popculture>
+<popculture ref="Sunoco">Sunoco</popculture>
+<popculture ref="KimoraSimmons">Kimora</popculture>
+<popculture ref="DoratheExplorer">Dora</popculture>
+<popculture ref="BacktotheFuture">Marty McFly</popculture>
+<popculture ref="BacktotheFuture">the future's <group label="f" num="3" rhyme="1 2">back</group>
+</popculture>
+<popculture ref="BacktotheFuture">hoverboards</popculture>
+<popculture ref="KingArthur">King
+                        Arthur</popculture>
+<popculture ref="Obama">Obama</popculture>
+<popculture ref="Columbine">
+   <guns>Columbine</guns>
+</popculture>
+<popculture ref="ChakaKhan">Chaka
+                        Khan</popculture>
+<popculture ref="Pokemon">Pokémon</popculture>
+<popculture ref="ComicCon">Comic-Con</popculture>
+<popculture ref="PlaxicoBurress">Plaxico</popculture>
+<popculture ref="JeanClaudeVanDamme">Mr. Van
+                Damme</popculture>
+<popculture ref="Nike">Nike</popculture>
+<popculture ref="PinkyandtheBrain">Brain</popculture>
+<popculture ref="PinkyandtheBrain">Pinky</popculture>
+<popculture ref="TheMatrix">Neo</popculture>
+<popculture ref="TheMatrix">Matrix</popculture>
+<popculture ref="MichaelJackson">Michael</popculture>
+<popculture ref="MichaelJackson">billie
+                        <fashion>jeans</fashion>
+</popculture>
+<popculture ref="Interscope">inter-scopin'</popculture>
+<popculture ref="Obama">President</popculture>
+<popculture ref="JesusChrist">Christ</popculture>
+<popculture ref="BonnieandClyde">Bonnie and I <group label="b" num="3" assonance="4 5">collide</group>
+</popculture>
+<popculture ref="IsaiahThomas">Isaiah</popculture>
+<popculture ref="NoahsArk">Ark</popculture>
+<popculture ref="NoahsArk">Noah</popculture>
+<popculture ref="ColorMeBadd">Color Me <group label="a" num="2" rhyme="1">Badd</group>
+</popculture>
+<popculture ref="Nike">Nike
+                        Airs</popculture>
+<popculture ref="Superman">kryptonite</popculture>
+<popculture ref="Cadillac">caddy</popculture>
+<popculture ref="TheMatrix">The Matrix</popculture>
+<popculture ref="KamaSutra">
+   <group label="b" num="24" assimilation="25">Kama
+                        Sutra</group>
+</popculture>
+<popculture ref="Monopoly">Monopoly</popculture>
+<popculture ref="McDonalds">McDonald's</popculture>
+<popculture ref="HarryPotter">Hermione</popculture>
+<popculture ref="Hansen">Hansen</popculture>
+<popculture ref="CharlesManson">
+   <group label="e" num="6" rhyme="5 8 9">Charlie</group>
+                    <group label="e" num="7" rhyme="4">Manson</group>
+</popculture>
+<popculture ref="EvelKnievel">
+   <group label="j" num="26" rhyme="25">knievel</group>
+</popculture>
+<popculture ref="ShamWoW">
+   <group label="a" num="13" rhyme="10">ShamWoW</group>
+</popculture>
+<popculture ref="Pokemon">
+   <group label="b" num="18" slantRhyme="17">Charmeleon</group>
+</popculture>
+<popculture ref="NikeSB">SB</popculture>
+<popculture ref="Coachella">Coachella</popculture>
+<popculture ref="Interscope">Interscope</popculture>
+<popculture ref="EvelKnievel">Evel</popculture>
+<popculture ref="HilarySwank">Hilary Swanking</popculture>
+<popculture ref="Budweiser">
+   <weed>bud</weed>
+                    wiser</popculture>
+<popculture ref="ChanelIman">Chanel <group label="c" num="8" assimilation="11">Iman</group>
+</popculture>
+<popculture ref="Newports">Newport <group label="c" num="17" rhyme="16">Long</group>
+</popculture>
+<popculture ref="Audi">Audi</popculture>
+<popculture ref="RangeRover">Range Rov</popculture>
+<popculture ref="TheMatrix">Red pill or blue <group label="d" num="23" rhyme="19">bean</group>
+</popculture>
+<popculture ref="HarryPotter">This <AAVE type="contraction" field="phon" word1="is" word2="not">ain't</AAVE> 
+   <group label="c" num="1" rhyme="2">Quidditch</group> but you know the <group label="c" num="2" rhyme="1">snitch</group> 
+   <AAVE field="syn" type="tense" person="third">get</AAVE> 
+   <group label="c" num="3" rhyme="6">caught</group>
+</popculture>
+<popculture ref="DaVinci">Da
+                    Vinci</popculture>
+<popculture ref="NASA">Houston</popculture>
+<popculture ref="GeorgePataki">
+   <group label="b" num="11" rhyme="9 10 12">George Pataki</group>
+</popculture>
+<popculture ref="Lexus">
+   <group label="c" num="18" rhyme="15 17">Lexus</group>
+</popculture>
+<popculture ref="SaksFifthAve">
+   <group label="d" num="15" slantRhyme="14">Saks Fifth</group>
+</popculture>
+<popculture ref="TMNT">Teenage Mutants</popculture>
+<popculture ref="X-Men">
+   <group label="c" num="17" slantRhyme="18">X-Men</group>
+</popculture>
+<popculture ref="FantasticFour">Human <group label="d" num="1" slantRhyme="2 3 4">Torch</group>
+</popculture>
+<popculture ref="Oprah">Oprah</popculture>
+<popculture ref="Scarface">
+   <group label="f" num="20" rhyme="18 19">Scarface</group>
+</popculture>
+<popculture ref="Lexus">Lex</popculture>
+<popculture ref="HookedonPhonics">Hooked on
+                    Phonics</popculture>
+<popculture ref="Sonic">Sonic</popculture>
+<popculture ref="JimmyFallon">Jimmy Fallon</popculture>
+<popculture ref="Porsche">Porsches</popculture>
+<popculture ref="Instagram">instant gram</popculture>
+<popculture ref="ElijahMuhammad">Muhammad</popculture>
+<popculture ref="MarcusGarvey">Marcus <group label="c" num="7" rhyme="8">Garvey</group>
+</popculture>
+<popculture ref="MortalKombat">Liu <group label="b" num="17" rhyme="16">Kang</group>
+</popculture>
+<popculture ref="DragonBallZ">Super <group label="b" num="18" rhyme="19 20">Saiyan</group>
+</popculture>
+<popculture ref="Batman">Bruce <group label="c" num="12" slantRhyme="11">Wayne</group>
+</popculture>
+<popculture ref="MurderSheWrote">murder what he
+                        <group label="b" num="2" slantRhyme="1">wrote</group>
+</popculture>
+<popculture ref="MaxKeeble">Max, no <group label="b" num="3" rhyme="5 6">Keeble</group>
+</popculture>
+<popculture ref="DonCheadle">Don like <group label="b" num="5" slantRhyme="4" rhyme="3 6">Cheadle</group>
+</popculture>
+<popculture ref="MojoJojo">mojo, I'll show you what <group label="b" num="27" slantRhyme="26">apes like</group>
+</popculture>
+<popculture ref="SantaClaus">Chris Cringley</popculture>
+<popculture ref="ProgressiveInsurance">
+   <hiphop ref="ProEra">Progressive</hiphop>
+</popculture>
+<popculture ref="MarvinGaye">Marvin Gaye</popculture>
+<popculture ref="AlGreen">
+   <group label="b" num="18" rhyme="17">Al
+                        Green</group>
+</popculture>
+<popculture ref="Prince">
+   <group label="b" num="19" slantRhyme="20 21">Prince</group>
+</popculture>
+<popculture ref="BettyWright">Betty <group label="b" num="23" rhyme="22">Wright</group>
+</popculture>
+<popculture ref="Twitter">
+   <group label="c" num="14" rhyme="15">Twitter</group>
+</popculture>
+<popculture ref="JimmyNeutron">neutrons on my <group label="d" num="3" rhyme="1 2 4 6 7">jimmy</group>
+</popculture>
+<popculture ref="StarWars">The force will be with you always</popculture>
+<popculture ref="Kawasaki">
+   <group label="a" num="1" rhyme="2 3 4 5 8">Kawasaki</group>
+</popculture>
+<popculture ref="StarWars">The force will be with you....always</popculture>
+<popculture ref="PatrickSwayze">
+   <group label="c" num="20" rhyme="15 16 17 18">swayze</group>, <group label="c" num="21" rhyme="23">
+      <AAVE field="phon" type="dropping" sound="g" position="final">ghostin'</AAVE>
+   </group>
+</popculture>
+<popculture ref="Maybach">bach</popculture>
+<popculture ref="iPhone">iPhone
+                    44</popculture>
+<popculture ref="iPhone">iPhone
+                    44</popculture>
+<popculture ref="Olympics">
+   <group label="a" num="11" rhyme="12">Olympics</group>
+</popculture>
+<popculture ref="RipStik">
+   <group label="a" num="12" rhyme="11">RipStik</group>
+</popculture>
+<popculture ref="ChakaKhan">
+   <group label="b" num="2" slantRhyme="1">Chaka
+                    Khan</group>
+</popculture>
+<popculture ref="BenStiller">Ben <group label="b" num="5" assimilation="6">Stiller in</group>
+</popculture>
+<popculture ref="Facebook">profile pic</popculture>
+<popculture ref="Facebook">Facebook</popculture>
+<popculture ref="JamesBond">double like seven and James, that's how we <group label="a" num="14" slantRhyme="13">bond</group>
+</popculture>
+<sports>soccer</sports>
+<sports>arenas</sports>
+<sports>brackets</sports>
+<sports>racket</sports>
+<sports>
+   <popculture ref="SerenaWilliams">Serena</popculture>
+</sports>
+<sports>Pacquiao</sports>
+<sports>can't box me out</sports>
+<sports>FILA Velour shorts</sports>
+<sports>cheating refs <AAVE type="deletion" field="syn" class="copula"/>calling fouls
+                on me</sports>
+<sports>Break the fucking whistle off in his ass</sports>
+<sports>Maravich</sports>
+<sports>interception</sports>
+<sports>foul ball</sports>
+<sports>bowling <group label="c" num="17" rhyme="16">lane</group>
+</sports>
+<sports>hoops</sports>
+<sports>hoops</sports>
+<sports>hoops</sports>
+<sports>hoops</sports>
+<sports>hoops</sports>
+<sports>stadium playing</sports>
+<sports>player</sports>
+<sports>
+   <popculture ref="IsaiahThomas">Isaiah</popculture>
+</sports>
+<sports>coach</sports>
+<sports>Jordan</sports>
+<sports>scorin'</sports>
+<sports>Al <group label="d" num="10" assimilation="8 9">Pujols</group>
+</sports>
+<sports>pitch like curveballs</sports>
+<sports>
+   <guns>bad
+                pass</guns>
+</sports>
+<sports>
+   <group label="c" num="22" alliteration="21 23 24 25" rhyme="26 27 28">bitty</group>
+</sports>
+<sports>two-three's</sports>
+<sports>Posada</sports>
+<sports>
+   <weed>reggies from the <group label="a" num="1" rhyme="2 3">Bush</group>
+   </weed>
+</sports>
+<sports>Scottie <group label="c" num="13" slantRhyme="10 11 12">Pippens</group>
+</sports>
+<sports>ball <group label="d" num="5" slantRhyme="6 7">shorts</group>
+</sports>
+<sports>Vicious trey's</sports>
+<sports>Dr. J</sports>
+<sports>never
+                        <group label="a" num="17" rhyme="14 18 19 20 21">fumbling</group>
+</sports>
+<sports>
+   <group label="b" num="4" slantRhyme="5">Speedo</group>
+</sports>
+<sports>Better <guns>shoot yourself</guns> Plaxico</sports>
+<sports>
+   <group label="a" num="7" rhyme="9">Pippens</group>
+</sports>
+<sports>hit
+                        it</sports>
+<sports>pitch it</sports>
+<sports>rookie</sports>
+<sports>intercepted</sports>
+<sports>skate</sports>
+<sports>
+   <group label="a" num="22" assimilation="21">Bust those tre's</group>
+</sports>
+<sports>ball</sports>
+<struggle>I too had no pot to piss in</struggle>
+<struggle>I won't stand under no man</struggle>
+<struggle>But before the <money>money</money>, it was tough</struggle>
+<struggle>Really <hiphop ref="Drake">started from the bottom</hiphop>, boy, cotton</struggle>
+<struggle>
+   <money>Cash</money> ruined everything around me</struggle>
+<struggle>
+   <money>Cash</money> ruined everything around me</struggle>
+<struggle>
+   <money>Cash</money> ruined everything around me</struggle>
+<struggle>
+   <money>dollar bill</money> that kills</struggle>
+<struggle>
+   <money>dollar bill</money> that kills</struggle>
+<struggle>
+   <money>dollar bill</money> that kills</struggle>
+<struggle>
+   <money>dollar bill</money> that kills</struggle>
+<struggle>But before the <money>money</money>, it was tough</struggle>
+<struggle>
+   <hiphop ref="Nas">It's bugged out</hiphop> 
+   <AAVE field="phon" type="dropping" sound="be" position="initial">cause'</AAVE> I know you<AAVE field="syn" type="contraction" word1="trying" word2="to">tryna</AAVE>, see your child</struggle>
+<struggle>They make judgement to my kind, whom the odds is against</struggle>
+<struggle>Put our backs on the fence</struggle>
+<struggle>Looking like white America got a brother again</struggle>
+<struggle>And I'm from the blocks where they sell</struggle>
+<struggle>It's even hard for that man standing next to me</struggle>
+<struggle>Cause he could <guns>catch a bullet</guns> that was really meant for me</struggle>
+<struggle>every breath I get closer to the death of me</struggle>
+<struggle>all my life <AAVE field="syn" type="aspect" tense="present">I been
+                    around</AAVE> 
+   <popculture ref="Crips">Crips</popculture> and <popculture ref="Bloods">Bloods</popculture>
+</struggle>
+<struggle>Crips and <guns>slugs</guns>, the <guns>trigger happiest thugs</guns>
+</struggle>
+<struggle>Feel like I was raised by Clans One Order</struggle>
+<struggle>beef</struggle>
+<struggle>never trust no swine</struggle>
+<struggle>Spit my heart again, <AAVE field="phon" type="dropping" sound="be" position="initial">cause'</AAVE> the pain'll never end</struggle>
+<struggle>Happiness is temporary</struggle>
+<struggle>Things get severe for everybody, everywhere</struggle>
+<struggle>I trudge through harm's way with heavy boulders on my arm</struggle>
+<struggle>Go to bed with hunger pains</struggle>
+<struggle>the worst of my days</struggle>
+<struggle>
+   <AAVE type="tense" field="syn" case="determiner">them</AAVE>
+                gloomy days</struggle>
+<struggle>the worst of my days</struggle>
+<struggle>the worst of my days</struggle>
+<struggle>That's why you can't spell summer without trouble</struggle>
+<struggle>Low on self-esteem</struggle>
+<struggle>Low on self-esteem</struggle>
+<struggle>I guess we <AAVE type="deletion" field="syn" class="copula"/>them little black
+                beetles</struggle>
+<struggle>sometimes I feel like I'm see-thru</struggle>
+<struggle>Low on self-esteem</struggle>
+<struggle>Low on self-esteem</struggle>
+<struggle>Low on self-esteem</struggle>
+<struggle>Low on self-esteem</struggle>
+<struggle>Woke up one morning, papa was gone</struggle>
+<struggle>Young and lost</struggle>
+<struggle>Like "Oh he's broke! I told you he was broke!</struggle>
+<struggle>No more <AAVE field="phon" type="dropping" sound="be" position="initial">cause'</AAVE> back when I was four, and we <AAVE field="syn" type="tense" person="we">was</AAVE> poor</struggle>
+<struggle>boy you <AAVE field="syn" type="deletion" class="copula"/>
+   <AAVE field="phon" type="dropping" sound="g" position="final">lookin'</AAVE> thinner</struggle>
+<struggle>
+   <AAVE field="phon" type="dropping" sound="g" position="final">lookin'</AAVE> thinner</struggle>
+<struggle>momma been working <group label="b" num="2" repetition="2 ">nine-five</group>
+</struggle>
+<struggle>the landlord fed up with <group label="b" num="3" assimilation="7 10">our lies</group>
+</struggle>
+<struggle>the same mistakes you know that we did</struggle>
+<struggle>It's either, them or you</struggle>
+<struggle>It's sort of like, survival you know. Survival of the fittest you
+                    know</struggle>
+<struggle>You do what you do to stay alive</struggle>
+<struggle>That's your biggest <group label="d" num="9" rhyme="7 8">rival</group>, in
+                    your whole <group label="d" num="10" slantRhyme="11">life</group>
+</struggle>
+<struggle>half our <group label="h" num="8" slantRhyme="7">students</group>
+                    fallen <group label="h" num="9" slantRhyme="10">victim</group> to the <group label="h" num="10" rhyme="7 13" slantRhyme="9">institution</group>
+</struggle>
+<struggle>Jobs are scarce</struggle>
+<struggle>beef</struggle>
+<struggle>Trapped in a <group label="e" num="6" assonance="7 8">maze</group>
+</struggle>
+<struggle>Used to beg mom dukes for <food>lunch</food>
+                    <group label="a" num="7" rhyme="8 9 10">
+      <money>money</money>
+   </group>
+</struggle>
+<struggle>when pockets was dust <group label="a" num="9" rhyme="7 8 10">bunnies</group>
+</struggle>
+<struggle>The <group label="c" num="2" assonance="1 4 8 10 12 13 14 15">streets</group> are <group label="c" num="3" assonance="5 6 7 9 11">cooped</group>
+                    <group label="c" num="4" assonance="1 2 8 10 12 13 14 15">fiends</group>
+</struggle>
+<struggle>The streets are cooped fiends</struggle>
+<struggle>The streets are cooped fiends</struggle>
+<struggle>The streets are cooped fiends</struggle>
+<struggle>The streets are cooped fiends</struggle>
+<struggle>these motherfuckas <group label="b" num="6" slantRhyme="5">racist</group>
+</struggle>
+<struggle>Adopted by the <group label="b" num="9" assonance="10 11">slums</group>,
+                        <group label="b" num="10" assonance="9 11">son</group> of <group label="b" num="11" assonance="9 10">
+      <guns>guns</guns>
+   </group> this is how they <group label="b" num="12" assimilation="13 14 15 16">raised
+                us</group>
+</struggle>
+<struggle>you're tryin' to fight for your <group label="b" num="19" slantRhyme="17 18">existence</group>
+</struggle>
+<struggle>To escape the <group label="e" num="7" slantRhyme="8 9 10 11">pain</group>, you join a <group label="e" num="8" slantRhyme="7 9 10 11">gang</group>
+</struggle>
+<struggle>nothing in life gets <group label="a" num="6" rhyme="5 7 8 9">handout</group>
+</struggle>
+<struggle>The <group label="a" num="8" assonance="9">slice</group> 
+   <AAVE type="contraction" field="phon" word1="is" word2="not">ain't</AAVE> 
+   <group label="a"
+          num="9"
+          assonance="8"
+          assimilation="7"
+          slantRhyme="10"> quite ripe</group>
+</struggle>
+<struggle>I've been hurting <group label="g" num="2" assimilation="4">way too <group label="g" num="3" rhyme="1">long</group>
+   </group>
+</struggle>
+<struggle>I've been hurting way too long</struggle>
+<struggle>I've been hurting way too long</struggle>
+<struggle>I can't pay the rent with school <group label="a" num="3" rhyme="4">papers</group>
+</struggle>
+<struggle>I know how it <AAVE field="syn" type="tense" person="third">feel</AAVE>
+                walking <group label="a" num="5" assimilation="6 7">out the door</group> pockets <group label="a" num="6" assimilation="5 7">out of <money>
+         <food>dough</food>
+      </money>
+   </group>
+</struggle>
+<struggle>Been on my grind</struggle>
+<struggle>used to yawn on his rap</struggle>
+<struggle>Niggas don’t always make it <group label="b" num="14" slantRhyme="13">off the block</group>
+</struggle>
+<struggle>Remember those days it was hard to find <money>a
+                living</money>
+</struggle>
+<struggle>rob <AAVE field="phon" type="dropping" sound="th" position="initial">em'</AAVE> for they innocence</struggle>
+<struggle>I could have been sucked right up into the <group label="a" num="1" rhyme="2 3">setup</group>
+</struggle>
+<struggle>every time I fell I would <group label="a" num="3" rhyme="1 2">get
+                        up</group>
+</struggle>
+<struggle>bad hood couldn’t match his good <group label="a" num="20" rhyme="19" slantRhyme="21">spirit</group>
+</struggle>
+<struggle>making rations</struggle>
+<struggle>So the streets tell me to <group label="c" num="3" assonance="1 2 4">cop</group> a <guns>
+      <group label="c" num="4" assonance="1 2 3">Glock</group>
+   </guns> and <group label="c" num="5" rhyme="6">popit</group>
+</struggle>
+<struggle>I never sleep, Got the heavy bags, <group label="a" num="21" rhyme="14 17 18 19 20">struggling</group>
+</struggle>
+<struggle>Cause suicide is <group label="b" num="1" rhyme="2">painless</group>, so
+                    I'm about to <group label="b" num="2" rhyme="1">aim this</group>
+</struggle>
+<struggle>
+   <group label="a" num="7" alliteration="6 8">rags</group>
+</struggle>
+<struggle>Motherfuck them broke days</struggle>
+<struggle>born in a <group label="a" num="19" rhyme="20">maze</group>
+</struggle>
+<struggle>She like "<group label="b" num="4" assonance="5">What to
+                    do</group>?"</struggle>
+<struggle>seen so many <group label="b" num="8" rhyme="7 10">lies</group>
+</struggle>
+<struggle>cried
+                    so many <group label="b" num="10" rhyme="7 8" slantRhyme="9">cries</group>
+</struggle>
+<struggle>she stuck in the <group label="b" num="17" rhyme="13 14 15 16">hood</group>
+</struggle>
+<struggle>Mama's on <group label="c" num="1" rhyme="2 3">crack</group>
+</struggle>
+<struggle>jobs ain't calling her <group label="c" num="2" rhyme="1 3">back</group>
+</struggle>
+<struggle>her baby brother half <group label="c" num="4" slantRhyme="5">retarded</group>
+</struggle>
+<struggle>the land-lord want them out of the <group label="c" num="5" slantRhyme="4">apartment</group>
+</struggle>
+<struggle>Since the <group label="c" num="8" rhyme="6 7 9">cradle</group>, she wanna
+                    leave</struggle>
+<success>pockets <AAVE field="syn" type="deletion" class="copula"/>healthy
+                green</success>
+<success>Jet streaming having <food>cuisine</food>
+</success>
+<success>legends live long</success>
+<success>legends live long</success>
+<success>but they won't forget us</success>
+<success>first
+                place</success>
+<success>
+   <hiphop ref="ProEra">Pro Era</hiphop> 
+   <AAVE field="syn" type="deletion" class="copula"/>on the rise,</success>
+<success>
+   <money>We'll never be broke again</money>
+</success>
+<success>Whole damn world <AAVE field="syn" type="deletion" class="copula"/>in the palm of my
+                hands</success>
+<success>
+   <hiphop ref="ProEra">Pro Era</hiphop> 
+   <AAVE field="syn" type="deletion" class="copula"/>on the rise,</success>
+<success>We'll never be broke again</success>
+<success>multiply my <money>worth</money>
+</success>
+<success>position on the top</success>
+<success>I got dreams filling <sports>arenas</sports> and breaking <sports>brackets</sports>
+</success>
+<success>a deal</success>
+<success>Lines <AAVE field="syn" type="deletion" class="copula"/>so deep a great shark is
+                what I reel up</success>
+<success>Cause <AAVE field="syn" type="tense" person="third">this really be</AAVE> the year
+                that I <food>feast</food>, capisce?</success>
+<success>I'm the best and def your favorite</success>
+<success>Reigning rap supreme in this bitch</success>
+<success>Throw up the right scheme <AAVE field="syn" type="tense" person="third">everything
+                    else align</AAVE>
+</success>
+<success>One day my voice will be heard</success>
+<success>On every radio station</success>
+<success>I'm something like the chairman of the board</success>
+<success>the lab <AAVE field="syn" type="aspect" tense="past">rat done made it</AAVE>
+                out the maze</success>
+<success>Got you on that mental plane with my project jet</success>
+<success>On tracks<AAVE type="deletion" field="syn" class="copula"/>
+   <AAVE field="phon" type="dropping" sound="g" position="final">wreckin'</AAVE>shit</success>
+<success>The badmon young kingpin</success>
+<success>The world <AAVE type="deletion" field="syn" class="copula"/>in my pocket, kick you
+                out <AAVE type="deletion" field="syn" class="preposition"/>your continent</success>
+<success>The world <AAVE type="deletion" field="syn" class="copula"/>in my pocket, kick you
+                out <AAVE type="deletion" field="syn" class="preposition"/>your continent</success>
+<success>I just booked a first class ticket to my destiny</success>
+<success>I knew that I was first up</success>
+<success>sometimes I win</success>
+<success>Hollywood acts and <money>record contracts</money>
+</success>
+<success>Now I'm a rap star, OMG OMG</success>
+<success>Now I'm a rap star, OMG OMG</success>
+<success>"Oh <AAVE field="syn" type="aspect" tense="past">
+      <hiphop ref="JoeyBada$$">Joey</hiphop> done made it</AAVE>! He bought
+                a crib! He this, he that"</success>
+<success>I know one day I'm earning me <money>some platinum and some gold</money>
+</success>
+<success>Seen you on TV again,</success>
+<success>But you<AAVE field="syn" type="deletion" class="copula"/>
+   <AAVE field="phon" type="dropping" sound="g" position="final">lookin'</AAVE>like a winner, aye</success>
+<success>Nearly 20 years later we <AAVE field="syn" type="deletion" class="copula"/>on a
+                plane to <popculture ref="ThePalms">The Palms</popculture>
+</success>
+<success>
+   <AAVE field="syn" type="aspect" tense="past">Mama seen me</AAVE> on TV again</success>
+<success>But I'm<AAVE field="phon" type="dropping" sound="g" position="final">lookin'</AAVE>like a winner, aye</success>
+<success>High class whip, be above the average</success>
+<success>We could be living <AAVE field="phon" type="dropping" sound="ly" position="final">lavish</AAVE>
+</success>
+<success>million dollar salary</success>
+<success>Hundred <women>girls</women> in the lobby after the show that I body</success>
+<success>Til I'm an <group label="h" num="4" rhyme="1 3 5">owner</group> of the
+                    world's finest <group label="h" num="5" rhyme="1 3 4" slantRhyme="6">motors</group>
+</success>
+<success>in your daughter's room on a <group label="h" num="7" rhyme="8 9 10 11 12">poster</group>
+</success>
+<success>Go gold</success>
+<success>They sayin' I'm the best, I'm like you're so <group label="d" num="12" rhyme="11 13">right</group>
+</success>
+<success>my man
+                    the flyest <group label="f" num="15" rhyme="14">with it</group>
+</success>
+<success>gold</success>
+<success>We blowin' up like a <group label="f" num="3" slantRhyme="1">ceiling</group>
+                    <group label="f" num="4" rhyme="2">fan</group>
+</success>
+<success>I'm killin' this shit</success>
+<success>who the <group label="h" num="13" assimilation="10 12 14 15">bestest MC</group>? They be <group label="h" num="14" assimilation="10 12 13 15">mentioning me</group>
+</success>
+<success>I’m on the higer <group label="c" num="9" assimilation="10 11">platform</group>, look at the way they <group label="c" num="10" assimilation="9 11">clap for ‘em</group>
+</success>
+<success>It’s world <group label="d" num="1" rhyme="2">domination</group>
+</success>
+<success>son shine like a solar <group label="c" num="13" assonance="11 12">strike</group>
+</success>
+<success>From the <group label="a" num="1" assonance="2" rhyme="5 6">block</group>
+                    to the <group label="a" num="2" assonance="1">top</group>
+</success>
+<success>Only thing that changed now is we ain't runnin' out of <group label="a" num="6" rhyme="1 5">stock</group>
+</success>
+<success>we done
+                    came up and <group label="a" num="11" slantRhyme="12">conquered</group>
+</success>
+<success>the future lookin' <group label="a" num="12" slantRhyme="11" rhyme="13">bonkers</group>
+</success>
+<success>n the <group label="h" num="3" rhyme="1 2 4">posters</group>
+</success>
+<success>I deserve my respect</success>
+<success>I deserve my respect</success>
+<success>I deserve my respect</success>
+<success>I deserve my respect</success>
+<success>I deserve my respect</success>
+<success>I deserve my respect</success>
+<success>my shine</success>
+<success>Now these niggas see me <group label="c" num="9" rhyme="10">getting
+                        it</group>
+</success>
+<success>I deserve my respect</success>
+<success>I deserve my respect</success>
+<success>I deserve my respect</success>
+<success>I deserve my respect</success>
+<success>I deserve my respect</success>
+<success>I deserve my respect</success>
+<success>I deserve my respect</success>
+<success>I deserve my respect</success>
+<success>I deserve my respect</success>
+<success>I deserve my respect</success>
+<success>I deserve my respect</success>
+<success>I deserve my respect</success>
+<success>I deserve my respect</success>
+<success>I deserve my respect</success>
+<success>headed to the top</success>
+<success>I ain't ask to be this good, they just made me <group label="j" num="27" rhyme="28 29 30">better</group>
+</success>
+<success>I deserve my respect</success>
+<success>I deserve my respect</success>
+<success>Now we <AAVE field="syn" type="deletion" class="copula"/>the popular band</success>
+<success>they can't keep their hands off of the <group label="a" num="10" rhyme="13">man now</group>
+</success>
+<success>
+   <money>finances</money> nice</success>
+<success>She <AAVE field="syn" type="deletion" class="copula"/>like "<AAVE field="syn" type="deletion" class="copula"/>This you on the cover for real?
+                    Ah you <AAVE field="syn" type="deletion" class="copula"/>so
+                <group label="b" num="7" slantRhyme="8">official</group>."</success>
+<success>all we do is 
+                <group label="e" num="5" assimilation="6">flex on the weekends</group>
+</success>
+<success>Lavish</success>
+<success>Even through my <group label="b" num="17" slantRhyme="18">lenses</group>, my <group label="b" num="18" slantRhyme="17">sense</group> is on the <group label="b" num="19" rhyme="15 20">moon</group>
+</success>
+<success>Shit <AAVE type="contraction" field="phon" word1="is" word2="not">ain't</AAVE> been the same since them niggas started 
+                <group label="c" num="2" assimilation="1">booking <AAVE field="phon" type="dropping" sound="un" position="initial">'em</AAVE>
+   </group>
+</success>
+<success>
+   <group label="e" num="24" slantRhyme="25">gold mine</group>
+</success>
+<success>it's my turn to <group label="a" num="1" slantRhyme="2">shine</group>
+</success>
+<success>niggas <group label="b" num="11" assimilation="10">
+      <AAVE field="phon" type="dropping" sound="g" position="final">bookin'</AAVE> me now</group>
+</success>
+<success>Best rapper alive</success>
+<success>Word to God I’m the <group label="d" num="10" slantRhyme="9">best offering</group>
+</success>
+<success>Clouds'll stay limits</success>
+<success>but we <AAVE field="syn" type="deletion" class="copula"/>winning</success>
+<success>But now we got ends</success>
+<success>its only the
+                beginning</success>
+<success>now everybody say they <AAVE field="syn" type="deletion" class="copula"/>distant fam</success>
+<success>Know the haters <AAVE field="syn" type="deletion" class="copula"/>still <food>jelly</food>
+</success>
+<success>one day his mom and dad will be <group label="a" num="21" slantRhyme="20">
+      <AAVE field="phon" type="dropping" sound="g" position="final">cheerin'</AAVE>
+   </group> to his Grammy <group label="a" num="22" rhyme="23 24">nomination</group>
+</success>
+<success>proclamation to his world <group label="a" num="23" rhyme="22 24">domination</group>
+</success>
+<success>
+   <money>
+      <AAVE field="phon" type="dropping" sound="g" position="final">cakin'</AAVE>
+   </money>
+</success>
+<success>But something down deep tells me I'm the next <group label="c" num="6" rhyme="5">prophet</group>
+</success>
+<success>
+   <AAVE field="phon" type="dropping" sound="g" position="final">Watchin'</AAVE> me <group label="c" num="15" rhyme="16">prosper</group>
+</success>
+<success>I'm
+                    number one in the <group label="b" num="4" slantRhyme="3">rankings</group>
+</success>
+<success>
+   <hiphop ref="DJKhaled">All I do is win</hiphop>
+</success>
+<success>In a few years my <group label="b" num="16" consonance="15 17">accountants</group> need <group label="b" num="17" consonance="15 16">accountants</group>
+</success>
+<success>how it feel it feel to be the best</success>
+<success>
+   <group label="a" num="2" assimilation="1 3">most
+                        praised</group>
+</success>
+<success>
+   <group label="a"
+          num="8"
+          alliteration="6 7"
+          rhyme="10"
+          slantRhyme="9">riches</group>
+</success>
+<success>Everything is win-win</success>
+<success>blowing up was always the main dream</success>
+<success>now you living where it's tropical, you got the most
+                shade</success>
+<success>Everything is win-win</success>
+<success>blowing up was always the <group label="b" num="8" rhyme="9">main
+                        dream</group>
+</success>
+<success>now you living where it's <group label="b" num="16" rhyme="13 14 15">tropical</group>, you got the <group label="b" num="17" slantRhyme="18" rhyme="19">most shade</group>
+</success>
+<success>
+   <group label="b" num="19" rhyme="17">most
+                        paid</group>
+</success>
+<success>I got up and still passed, <group label="a" num="29" rhyme="28">great</group>
+</success>
+<success>I been <group label="b" num="3" rhyme="4">killing <AAVE field="phon" type="dropping" sound="g" position="final">
+         <AAVE field="phon" type="dropping" sound="th" position="initial">'em</AAVE>
+      </AAVE>
+   </group>
+</success>
+<success>Nobody <group label="b" num="6" assimilation="5">iller than</group> him at
+                    the top</success>
+<success>shine like <group label="d" num="3" rhyme="4">crystals</group>
+</success>
+<weed>Get smoked out</weed>
+<weed>toke out</weed>
+<weed>toked out</weed>
+<weed>L's</weed>
+<weed>L's</weed>
+<weed>fire</weed>
+<weed>spliff</weed>
+<weed>chronic</weed>
+<weed>pot</weed>
+<weed>I'm up</weed>
+<weed>pound of green</weed>
+<weed>Hazeus</weed>
+<weed>Hazeus</weed>
+<weed>Hazeus</weed>
+<weed>Hazeus</weed>
+<weed>Hazeus</weed>
+<weed>Hazeus</weed>
+<weed>Hazeus</weed>
+<weed>lighting up</weed>
+<weed>Hazeus</weed>
+<weed>Hazeus</weed>
+<weed>weed</weed>
+<weed>Hazeus</weed>
+<weed>Hazeus</weed>
+<weed>mary jane</weed>
+<weed>we twist it up</weed>
+<weed>put it in the air</weed>
+<weed>j's</weed>
+<weed>get high</weed>
+<weed>get high</weed>
+<weed>get high</weed>
+<weed>smoking on that loud</weed>
+<weed>heavily medicated</weed>
+<weed>he <hiphop ref="BigL">big L</hiphop> rolled proper</weed>
+<weed>trees</weed>
+<weed>high</weed>
+<weed>high</weed>
+<weed>Weeding</weed>
+<weed>Smoking herb</weed>
+<weed>Marley</weed>
+<weed>OCB</weed>
+<weed>OCB</weed>
+<weed>OCB</weed>
+<weed>OCB</weed>
+<weed>Backwood</weed>
+<weed>residue</weed>
+<weed>stoner</weed>
+<weed>Marijuana</weed>
+<weed>herbs</weed>
+<weed>buddha</weed>
+<weed>stoned</weed>
+<weed>light these bongs</weed>
+<weed>grass</weed>
+<weed>Puff</weed>
+<weed>stoned</weed>
+<weed>trees
+                    rolled</weed>
+<weed>herb</weed>
+<weed>spliff</weed>
+<weed>pot</weed>
+<weed>L</weed>
+<weed>spliff</weed>
+<weed>
+   <group label="g" num="4" alliteration="3">blowing</group>
+                    <group label="g" num="5" slantRhyme="3 11">loud</group>
+</weed>
+<weed>Glock</weed>
+<weed>Smoking on the <group label="i" num="33" rhyme="31 32 34">Clematis</group>
+</weed>
+<weed>regs</weed>
+<weed>haze</weed>
+<weed>spliff</weed>
+<weed>stramonium</weed>
+<weed>chem strains</weed>
+<weed>doobie</weed>
+<weed>eighth lit</weed>
+<weed>trees</weed>
+<weed>sticky</weed>
+<weed>Dutch</weed>
+<weed>exotic
+                        piff</weed>
+<weed>Buddha</weed>
+<weed>green</weed>
+<weed>Marijuana</weed>
+<weed>dutch</weed>
+<weed>
+   <alcohol>
+      <group label="f" num="2" assonance="1">bent</group>
+   </alcohol>
+</weed>
+<weed>flowers</weed>
+<weed>herbs</weed>
+<weed>herbs</weed>
+<weed>herbs</weed>
+<weed>burn</weed>
+<weed>herb</weed>
+<weed>weed</weed>
+<weed>
+   <group label="d" num="7" slantRhyme="8">herb</group>
+</weed>
+<weed>blunt</weed>
+<weed>
+   <group label="d" num="14" alliteration="13 15">best</group>
+                    <group label="d" num="15" alliteration="13 14">buds</group>
+</weed>
+<weed>Mary <group label="e" num="10" slantRhyme="7 8 9 11">Jane</group>
+</weed>
+<weed>blow a whole pound</weed>
+<weed>loud</weed>
+<weed>endo</weed>
+<weed>dutch</weed>
+<weed>blazing</weed>
+<weed>sour</weed>
+<weed>different
+                    highs</weed>
+<weed>different <group label="b" num="23" rhyme="21 22">haze</group>
+</weed>
+<weed>
+   <women>Miss Mary
+                Jane</women>
+</weed>
+<weed>
+   <group label="b" num="4" rhyme="3 5 6">puff meds</group>
+</weed>
+<weed>Raws with filter <group label="c" num="3" slantRhyme="4">tips</group>
+</weed>
+<weed>sour</weed>
+<weed>Smoking</weed>
+<weed>Jack <group label="c" num="18" rhyme="17" slantRhyme="19">Herer</group>
+</weed>
+<weed>something</weed>
+<weed>
+   <money>amount</money>
+</weed>
+<weed>weed smoke</weed>
+<weed>weed</weed>
+<weed>
+   <money>green</money>
+</weed>
+<weed>puffing <group label="j" num="2" rhyme="1 3">lye</group>
+</weed>
+<weed>
+   <group label="j" num="9" rhyme="7 8">flower</group> of life is <group label="j" num="10" rhyme="11">(s)ours</group>
+</weed>
+<weed>high</weed>
+<weed>green</weed>
+<weed>pot</weed>
+<weed>bomb</weed>
+<weed>grass</weed>
+<weed>skunk</weed>
+<weed>stash</weed>
+<weed>grass</weed>
+<weed>skunk</weed>
+<weed>stash</weed>
+<weed>roll <AAVE field="phon" type="dropping" sound="r" position="final">fo'</AAVE> planes</weed>
+<weed>loud pack</weed>
+<weed>put it in the <group label="a" num="1" slantRhyme="2">air</group>
+</weed>
+<weed>that loud</weed>
+<weed>bud</weed>
+<weed>loud</weed>
+<weed>the <group label="c" num="3" assonance="1 2">smoke</group>
+</weed>
+<weed>I <AAVE field="syn" type="deletion" class="copula"/>sky high, my sky
+                    high</weed>
+<weed>Sky high, sky high</weed>
+<weed>loud</weed>
+<weed>the smoke</weed>
+<weed>I <AAVE field="syn" type="deletion" class="copula"/>sky high, my sky
+                    high</weed>
+<weed>Sky high, sky high</weed>
+<weed>loud</weed>
+<weed>the smoke</weed>
+<weed>I <AAVE field="syn" type="deletion" class="copula"/>sky high,</weed>
+<weed>Sky high, sky high</weed>
+<weed>loud</weed>
+<weed>the smoke</weed>
+<weed>I <AAVE field="syn" type="deletion" class="copula"/>sky high,</weed>
+<weed>Sky high, sky high</weed>
+<weed>Grassroots with grass roots</weed>
+<weed>weed</weed>
+<weed>loud</weed>
+<weed>the smoke</weed>
+<weed>I <AAVE field="syn" type="deletion" class="copula"/>sky high,</weed>
+<weed>Sky high, sky high</weed>
+<weed>loud</weed>
+<weed>the smoke</weed>
+<weed>I <AAVE field="syn" type="deletion" class="copula"/>sky high,</weed>
+<weed>Sky high, sky high</weed>
+<weed>hitting the <group label="g" num="1" rhyme="3">strong</group>
+</weed>
+<weed>hitting the strong,</weed>
+<weed>high</weed>
+<weed>blunts</weed>
+<weed>high</weed>
+<weed>blunts</weed>
+<weed>L's</weed>
+<weed>
+   <group label="c" num="14" rhyme="15">chron</group>
+</weed>
+<weed>Kush</weed>
+<weed>high</weed>
+<weed>blunts</weed>
+<weed>the green</weed>
+<weed>high</weed>
+<weed>blunts</weed>
+<weed>indo</weed>
+<weed>Head between clouds</weed>
+<weed>married to Jane</weed>
+<weed>loud</weed>
+<weed>green</weed>
+<weed>bowl</weed>
+<weed>Mary Jane</weed>
+<weed>
+   <group label="b" num="14" rhyme="13">doobies</group>
+</weed>
+<weed>Hotbox</weed>
+<weed>smoke</weed>
+<weed>
+   <group label="b" num="23">eighth</group>
+</weed>
+<weed>smoke</weed>
+<weed>reggies from the <group label="a" num="1" rhyme="2 3">Bush</group>
+</weed>
+<weed>
+   <group label="a" num="2" rhyme="1 3">kush</group>
+</weed>
+<weed>
+   <group label="a" num="4" rhyme="5 6 7">zipstock</group>
+</weed>
+<weed>Mary</weed>
+<weed>
+   <group label="a" num="14" rhyme="13">Ls</group>
+</weed>
+<weed>Inhaling fumes</weed>
+<weed>L's</weed>
+<weed>L</weed>
+<weed>Smoking</weed>
+<weed>green</weed>
+<weed>purple <group label="c" num="9" slantRhyme="8">fume</group>
+</weed>
+<weed>trees</weed>
+<weed>dubs</weed>
+<weed>kush</weed>
+<weed>
+   <group label="d" num="11" slantRhyme="10">doobie</group>
+</weed>
+<weed>
+   <group label="d" num="19" slantRhyme="18">edible</group>
+</weed>
+<weed>trichome</weed>
+<weed>blunt-smoking</weed>
+<weed>joint</weed>
+<weed>herb</weed>
+<weed>greenest</weed>
+<weed>stoned</weed>
+<weed>trees</weed>
+<weed>trees</weed>
+<weed>herbs</weed>
+<weed>herbs</weed>
+<weed>herbs</weed>
+<weed>herbs</weed>
+<weed>herbs</weed>
+<weed>herbs</weed>
+<weed>herbs</weed>
+<weed>herbs</weed>
+<weed>
+   <AAVE field="phon" type="dropping" sound="be" position="initial">cuz</AAVE> we
+                    in <AAVE field="phon" type="dropping" sound="th" position="initial">
+      <AAVE field="phon" type="dropping" sound="th" position="initial">em'</AAVE>
+   </AAVE>
+</weed>
+<weed>Eyes low, squinting, more L's</weed>
+<weed>doobs <group label="b" num="21" slantRhyme="22">flamed</group>
+</weed>
+<weed>I'm higher than <group label="b" num="11" rhyme="13">mountains</group>
+</weed>
+<weed>one stoned</weed>
+<weed>trees
+                rolled</weed>
+<weed>piff</weed>
+<weed>blowing double o's</weed>
+<weed>Haze</weed>
+<weed>chiefing
+                blunts</weed>
+<weed>dutch</weed>
+<weed>dutch</weed>
+<weed>Puffing on that <group label="a" num="1" assimilation="2">Eucalyptus</group>
+</weed>
+<weed>
+   <group label="a" num="8" alliteration="10">Puffing</group> that <group label="a" num="9" rhyme="7">
+      <group label="a" num="10" alliteration="8">piff</group> shit</group>
+</weed>
+<weed>
+   <group label="c" num="10" assimilation="7 8 9 11 12">freaking
+                        trees</group>
+</weed>
+<weed>get <group label="c" num="4" rhyme="3 5">baked</group>
+</weed>
+<weed>
+   <group label="c" num="6" slantRhyme="7">8th</group>
+</weed>
+<weed>8 doobies to the <group label="c" num="7" slantRhyme="6">face</group>
+</weed>
+<weed>I got that <group label="d" num="2" rhyme="4">fire</group>
+</weed>
+<weed>I got
+                    the <group label="d" num="3" slantRhyme="1" rhyme="6 7">trees</group>
+</weed>
+<weed>let's get <group label="d" num="4" rhyme="2">higher</group>
+</weed>
+<weed>I got that fire</weed>
+<weed>I got the trees</weed>
+<weed>let's get higher</weed>
+<weed>Let's get higher</weed>
+<weed>Let's get higher</weed>
+<women>strip teasers</women>
+<women>Thighs, legs and the breast part is the cleavage</women>
+<women>She</women>
+<women>She</women>
+<women>bitches</women>
+<women>bitch</women>
+<women>bitches</women>
+<women>bitches</women>
+<women>Bitches</women>
+<women>Bitches</women>
+<women>your señorita</women>
+<women>her</women>
+<women>she</women>
+<women>She</women>
+<women>she</women>
+<women>She</women>
+<women>she</women>
+<women>she</women>
+<women>her</women>
+<women>hoes</women>
+<women>Women</women>
+<women>bitches</women>
+<women>titties</women>
+<women>Girlfriend</women>
+<women>bitches</women>
+<women>her</women>
+<women>Stripper</women>
+<women>attractive singles</women>
+<women>she</women>
+<women>women</women>
+<women>bad bitch</women>
+<women>lady</women>
+<women>miss</women>
+<women>the pussy</women>
+<women>that pussy's</women>
+<women>her</women>
+<women>hon</women>
+<women>honeys</women>
+<women>mommies</women>
+<women>
+   <popculture ref="Playboy">playboy bunnies</popculture>
+</women>
+<women>hoes</women>
+<women>my baby</women>
+<women>my lady</women>
+<women>she</women>
+<women>she</women>
+<women>her</women>
+<women>girl</women>
+<women>little mama</women>
+<women>shorties</women>
+<women>women</women>
+<women>girls</women>
+<women>
+   <food>hunny</food>
+</women>
+<women>the pussy</women>
+<women>Shorty</women>
+<women>wife</women>
+<women>dimes</women>
+<women>girl</women>
+<women>she</women>
+<women>her</women>
+<women>She</women>
+<women>hoes</women>
+<women>rip
+                        thongs</women>
+<women>Bitch</women>
+<women>Bitch</women>
+<women>her</women>
+<women>chick</women>
+<women>she</women>
+<women>bitch</women>
+<women>girls</women>
+<women>chick</women>
+<women>bitch</women>
+<women>bitch</women>
+<women>she</women>
+<women>shorty</women>
+<women>her</women>
+<women>Lorraine</women>
+<women>ladies</women>
+<women>ho</women>
+<women>broads</women>
+<women>bad bitch</women>
+<women>chicks</women>
+<women>bitches</women>
+<women>bitches</women>
+<women>bitches</women>
+<women>bitches</women>
+<women>bitches</women>
+<women>bitches</women>
+<women>bitches</women>
+<women>bitches</women>
+<women>Your <group label="e" num="11" alliteration="12 13">girl</group>
+</women>
+<women>her</women>
+<women>bad chicks</women>
+<women>bitches</women>
+<women>bitches</women>
+<women>bitches</women>
+<women>bitches</women>
+<women>bitches</women>
+<women>bitches</women>
+<women>bitches</women>
+<women>bitches</women>
+<women>hoes</women>
+<women>hoes</women>
+<women>hoes</women>
+<women>hoes</women>
+<women>hoes</women>
+<women>hoes</women>
+<women>hoes</women>
+<women>hoes</women>
+<women>hoes</women>
+<women>hoes</women>
+<women>hoes</women>
+<women>hoes</women>
+<women>hoes</women>
+<women>hoes</women>
+<women>hoes</women>
+<women>hoes</women>
+<women>Honeys</women>
+<women>broads</women>
+<women>shorty</women>
+<women>She</women>
+<women>shorties</women>
+<women>she</women>
+<women>her</women>
+<women>her</women>
+<women>her</women>
+<women>her</women>
+<women>She</women>
+<women>her</women>
+<women>women</women>
+<women>female</women>
+<women>bitches</women>
+<women>hoes</women>
+<women>she</women>
+<women>her</women>
+<women>her</women>
+<women>her</women>
+<women>her</women>
+<women>her</women>
+<women>She</women>
+<women>her</women>
+<women>her</women>
+<women>her</women>
+<women>she</women>
+<women>ho</women>
+<women>her</women>
+<women>girl</women>
+<women>her</women>
+<women>She</women>
+<women>bitches</women>
+<women>hoes</women>
+<women>she's</women>
+<women>her</women>
+<women>sweetheart</women>
+<women>her</women>
+<women>her</women>
+<women>her</women>
+<women>her</women>
+<women>your bitch</women>
+<women>She</women>
+<women>Mothers</women>
+<women>shorty</women>
+<women>women</women>
+<women>bad chicks</women>
+<women>tight</women>
+<women>bitches</women>
+<women>hun</women>
+<women>her</women>
+<women>hoes</women>
+<women>her</women>
+<women>She's</women>
+<women>her</women>
+<women>Miss Mary
+                Jane</women>
+<women>her</women>
+<women>she</women>
+<women>Her</women>
+<women>she</women>
+<women>chick</women>
+<women>bitches</women>
+<women>Miss</women>
+<women>felines</women>
+<women>bitch</women>
+<women>lady</women>
+<women>some Trini girl</women>
+<women>Stella</women>
+<women>pussy</women>
+<women>ladies</women>
+<women>her</women>
+<women>pussy</women>
+<women>wife-girl</women>
+<women>her</women>
+<women>baby</women>
+<women>pussy</women>
+<women>hoes</women>
+<women>
+   <group label="c" num="9" alliteration="10 11">her</group>
+</women>
+<women>
+   <group label="c" num="24" alliteration="21 22 23 25">bad</group> 
+   <group label="c" num="25" alliteration="21 22 23 24">bitches</group>
+</women>
+<women>pussy</women>
+<women>
+   <group label="d" num="17" rhyme="15 19">bitty</group>
+</women>
+<women>bitches</women>
+<women>pussy</women>
+<women>lady</women>
+<women>she</women>
+<women>She</women>
+<women>hoes</women>
+<women>she's</women>
+<women>her</women>
+<women>she</women>
+<women>her</women>
+<women>She</women>
+<women>her</women>
+<women>her</women>
+<women>
+   <group label="c" num="5" rhyme="4">bitch</group>
+</women>
+<women>She</women>
+<women>chickens</women>
+<women>hoes</women>
+<women>chick</women>
+<women>
+   <group label="b" num="2" rhyme="1 3 4">hotties</group>
+</women>
+<women>she</women>
+<women>Her</women>
+<women>Mami</women>
+<women>chick</women>
+<women>pussy</women>
+<women>dimes</women>
+<women>her</women>
+<women>Her</women>
+<women>She</women>
+<women>she</women>
+<women>she</women>
+<women>she</women>
+<women>She</women>
+<women>chick</women>
+<women>chick</women>
+<women>chick</women>
+<women>chick</women>
+<women>She</women>
+<women>she</women>
+<women>girl</women>
+<women>she</women>
+<women>her</women>
+<women>Bitches</women>
+<women>women</women>
+<women>
+   <AAVE field="phon" type="dropping" sound="g" position="final">foolin'</AAVE> dimes</women>
+<women>
+   <AAVE field="phon" type="dropping" sound="r" position="final">yo'</AAVE> chick</women>
+<women>hide the
+                        <group label="a" num="17">women</group>
+</women>
+<women>chick <group label="b" num="9" rhyme="5 6 7 8 10 11">tatas</group>
+</women>
+<women>met the gal</women>
+<women>I
+                    bone her like <group label="c" num="2" assonance="1">museum</group>
+</women>
+<women>watch her <group label="c" num="5" alliteration="6 7">bring</group> it <group label="c" num="6" alliteration="5 7">back</group>
+</women>
+<women>pull a
+                        <group label="c" num="20" assonance="19">dyke</group>
+</women>
+<women>Bitches on my <group label="a" num="4" rhyme="2 6">cuticles</group>
+</women>
+<women>I got booty like prostate <group label="a" num="9" rhyme="7 8">doctor</group>
+</women>
+<women>
+   <group label="a" num="15" alliteration="16">Bitches</group> on my <group label="a" num="16" alliteration="15">balls</group>
+</women>
+<women>hunnies</women>
+<women>
+   <group label="c" num="10" rhyme="1 2 3 4 5 6 7 8 9">ho-ho</group>
+</women>
+<women>Two birds</women>
+<women>baby</women>
+<women>Pussy</women>
+<women>
+   <group label="a" num="3" rhyme="1 2 4 5 8">hotty</group>
+</women>
+<women>
+   <group label="a" num="7" rhyme="6">hoes</group>
+</women>
+<women>She</women>
+<women>She</women>
+<women>
+   <group label="c" num="10" slantRhyme="11">goddess</group>
+</women>
+<women>She</women>
+<women>bitch</women>
+<women>bitch</women>
+<women>her</women>
+<women>She</women>
+<women>she</women>
+<women>She</women>
+<women>chicks</women>
+<women>
+   <group label="a" num="10" rhyme="8">bitches</group>
+</women>
+<women>dime chick</women>
+<women>hoes</women>
+<women>broads</women>
+<women>dime chick</women>
+<women>hoes</women>
+<women>broads</women>
+<women>
+   <group label="a" num="25" slantRhyme="23">get butt</group>, <group label="a" num="26" rhyme="24 27">get laid</group>
+</women>
+<women>bitch</women>
+<women>Name a chick that I ain't <group label="b" num="9" rhyme="7 8">swimming
+                        in</group>
+</women>
+<women>
+   <group label="c" num="5" rhyme="4 6">bitches</group>
+</women>
+<women>She</women>
+<women>
+   <group label="a" num="6" rhyme="7">baby</group>
+</women>
+<women>baby</women>
+<women>Girl</women>
+<women>
+   <group label="c" num="5" slantRhyme="6">girl</group>
+</women>
+<women>Girl</women>

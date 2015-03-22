@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<anything>
+    <alcohol>Moet</alcohol>
+    <fashion>lo, like Ralph</fashion>
+    <food>kiwi</food>
+    <geo ref="Brooklyn">Brooklyn</geo>
+    <guns>the heater</guns>
+    <haters>Closed-minded men</haters>
+    <hiphop ref="NotoriousBIG">Big Poppa</hiphop>
+    <hiphop ref="ProEra">47 friends in my circumference</hiphop>
+    <money>
+        <group label="d" num="22" rhyme="21">currency</group>
+    </money>
+    <oldschool>back in the days</oldschool>
+    <popculture ref="JackSparrow">jack the booty like I'm Sparrow</popculture> <!--revisit later-->
+    <sports>Dr. J</sports>
+    <struggle>And I'm from the blocks where they sell</struggle>
+    <success>Whole damn world <AAVE field="syn" type="deletion" class="copula"/>in the palm of my
+        hands</success>
+    <weed>exotic
+        piff</weed>
+    <women>your señorita</women>
+</anything>
