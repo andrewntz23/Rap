@@ -922,40 +922,43 @@
         </stanza>
         <stanza type="verse" speaker="JoeyBada$$">
             <li>These niggas <AAVE field="syn" type="contraction" word1="are" word2="not"
-                    >ain't</AAVE> ready for the war</li>
+                    >ain't</AAVE> ready for the <group label="c" num="1" rhyme="2">war</group></li>
             <li>Know what I'm <AAVE field="phon" type="dropping" sound="a" position="initial"
-                    >'bout</AAVE>, cut the <food><money>cheddar</money></food>, close your drawer</li>
-            <li>Please put your <food><money>bread</money></food> up</li>
+                    >'bout</AAVE>, cut the <food><money>cheddar</money></food>, close your <group label="c" num="2" rhyme="1">drawer</group></li>
+            <li>Please put your <group label="c" num="3" slantRhyme="4"><food><money>bread</money></food> up</group></li>
             <li>We <AAVE field="syn" type="contraction" word1="are" word2="not">ain't</AAVE><AAVE
                     field="phon" type="dropping" sound="na" position="final"><AAVE field="syn"
                         type="contraction" word1="going" word2="to">gon'</AAVE></AAVE> settle for no
-                <food>iceberg <money>lettuce</money></food></li>
-            <li>Let us <AAVE type="deletion" field="syn" class="to"/><food>eat</food> when there's war</li>
-            <li>Or end up like <food>venison meat</food> in the street</li>
-            <li>They're not ready for <food><struggle>beef</struggle></food></li>
-            <li>Let the <food>fish</food> burn in the pot, niggas <AAVE type="deletion" field="syn"
-                    class="copula"/>all in the spot</li>
-            <li>When it turns 12 'o clock then, we'll be<AAVE field="phon" type="dropping" sound="g"
-                    position="final">curvin'</AAVE>the block</li>
+                <food>iceberg <group label="c" num="4" slantRhyme="3" rhyme="5"><money>lettuce</money></group></food></li>
+            <li><group label="c" num="5" rhyme="4">Let us</group> <AAVE type="deletion" field="syn" class="to"/><food>eat</food> when there's war</li>
+            <li>Or end up like <food>venison <group label="c" num="6" rhyme="7">meat</group></food> in the <group label="c" num="7" rhyme="6" slantRhyme="8">street</group></li>
+            <li>They're not ready for <group label="c" num="8" slantRhyme="7"><food><struggle>beef</struggle></food></group></li>
+            <li>Let the <food>fish</food> burn in the <group label="c" num="9" rhyme="10">pot</group>, niggas <AAVE type="deletion" field="syn"
+                    class="copula"/>all in the <group label="c" num="10" rhyme="9">spot</group></li>
+            <li>When it turns 12 <group label="c" num="11" rhyme="12">'o clock</group> then, we'll be<AAVE field="phon" type="dropping" sound="g"
+                    position="final">curvin'</AAVE>the <group label="c" num="12" rhyme="11">block</group></li>
             <li>Yo cut this shit</li>
-            <li>Man, I'm the best in the sector</li>
-            <li>Get your ear buds to grip, then I dissect ya</li>
-            <li>Inject ya with my <guns>lethal weapon</guns></li>
-            <li>Plant a mine in the deepest section, guess who's least expected</li>
-            <li>Mothafucka please respect it</li>
-            <li>The last one to pull my card was easily dealt with</li>
-            <li>They felt it, the shift, records can't be reckoned with</li>
-            <li><success>On tracks<AAVE type="deletion" field="syn" class="copula"/><AAVE field="phon"
-                    type="dropping" sound="g" position="final">wreckin'</AAVE>shit</success>, ask me why I'm
-                reckless</li>
-            <li>Break a wrist, approach my demo with a risk</li>
-            <li>Brought my demo listens, I'm a demolition specialist</li>
-            <li>I got the <hiphop ref="Jay-Z">blueprint</hiphop> to this shit, <hiphop ref="JoeyBada$$"><hiphop ref="Jay-Z">Jay</hiphop> to the Oh Vee</hiphop></li>
-            <li>If <popculture ref="BlueIvy">Blue</popculture> was a prince, I'm still <popculture ref="JosephKony">Joseph Kony</popculture></li>
-            <li>Niggas know they can't ever little bro me</li>
-            <li>No matter how big they blow, they <AAVE type="deletion" field="syn" class="copula"
-                />still a little below</li>
-            <li>It's the <hiphop ref="ProEra">P-R-O E-R-A</hiphop>, indigo with the killer flow</li>
+            <li>Man, I'm <group label="d" num="1" slantRhyme="2">the best in the sector</group></li>
+            <li>Get your ear buds to grip, then I <group label="d" num="2" slantRhyme="1" rhyme="3">dissect ya</group></li>
+            <li><group label="d" num="3" rhyme="2">Inject ya</group> with my <group label="d" num="4" slantRhyme="5"><guns>lethal weapon</guns></group></li>
+            <li>Plant a mine in the <group label="d" num="5" slantRhyme="4">deepest section</group>, guess who's <group label="d" num="6" slantRhyme="7">least expected</group></li>
+            <li>Mothafucka <group label="d" num="7" slantRhyme="6">please respect it</group></li>
+            <li>The last one to pull my card was easily <group label="d" num="7" slantRhyme="8">dealt with</group></li>
+            <li>They <group label="d" num="8" slantRhyme="7">felt it</group>, the shift, records can't be reckoned with</li>
+            <li><success>On tracks<group label="d" num="9" assonance="10"><AAVE type="deletion" field="syn" class="copula"/><AAVE field="phon"
+                    type="dropping" sound="g" position="final">wreckin'</AAVE></group>shit</success>, ask me why I'm
+                <group label="d" num="10" assonance="9">reckless</group></li>
+            <li>Break a <group label="d" num="11" slantRhyme="12">wrist</group>, approach my demo with a <group label="d" num="12" slantRhyme="11">risk</group></li>
+            <li>Brought my <group label="d" num="13" assimilation="14">demo listens</group>, I'm a <group label="d" num="14" assimilation="13" consonance="15">demolition</group>
+                <group label="d" num="15" consonance="14">specialist</group></li>
+            <li>I got the <group label="d" num="16" slantRhyme="17" assimilation="19"><hiphop ref="Jay-Z">blueprint</hiphop></group> to this <group label="d" num="17" slantRhyme="16">shit</group>, 
+                <group label="d" num="18" rhyme="20 21"><hiphop ref="JoeyBada$$"><hiphop ref="Jay-Z">Jay</hiphop> to the Oh Vee</hiphop></group></li>
+            <li>If <group label="d" num="19" assimilation="16"><popculture ref="BlueIvy">Blue</popculture> was a prince</group>, I'm still 
+                <group label="d" num="20" rhyme="18 21"><popculture ref="JosephKony">Joseph Kony</popculture></group></li>
+            <li>Niggas know they can't ever <group label="d" num="21" rhyme="18 20">little bro me</group></li>
+            <li>No matter how <group label="d" num="22" rhyme="23 24 25">big they blow</group>, they <AAVE type="deletion" field="syn" class="copula"
+                />still a <group label="d" num="23" rhyme="22 24 25">little below</group></li>
+            <li>It's the <hiphop ref="ProEra">P-R-O E-R-A</hiphop>, <group label="d" num="24" rhyme="22 23 25">indigo</group> with the <group label="d" num="25" rhyme="22 23 24">killer flow</group></li>
             <li>Guaranteed the realest that you ever saw</li>
         </stanza>
         <stanza type="hook" speaker="JoeyBada$$">
@@ -970,15 +973,15 @@
             <li>What's my motherfuckin'...</li>
         </stanza>
         <stanza type="verse" speaker="JoeyBada$$">
-            <li><success>The badmon young kingpin</success></li>
-            <li>I move dope with that ink pen</li>
+            <li><success>The badmon young <group label="e" num="1" assimilation="2">kingpin</group></success></li>
+            <li>I move dope with that <group label="e" num="2" assimilation="1" slantRhyme="3">ink pen</group></li>
             <li>Been up all night, my third eye <AAVE field="syn" type="contraction" word1="is"
-                    word2="not">ain't</AAVE> even <AAVE field="phon" type="dropping" sound="g"
-                    position="final">blinkin'</AAVE></li>
-            <li>Fuck what you <AAVE field="phon" type="dropping" sound="g" position="final"
-                    >thinkin'</AAVE></li>
-            <li>Number 99, <AAVE field="syn" type="negative"><struggle>never trust no swine</struggle></AAVE></li>
-            <li><hiphop ref="CypressHill">Lick a <guns>shot</guns></hiphop> one time</li>
+                    word2="not">ain't</AAVE> even <group label="e" num="3" rhyme="4"><AAVE field="phon" type="dropping" sound="g"
+                    position="final">blinkin'</AAVE></group></li>
+            <li>Fuck what you <group label="e" num="4" rhyme="3"><AAVE field="phon" type="dropping" sound="g" position="final"
+                    >thinkin'</AAVE></group></li>
+            <li>Number <group label="e" num="5" rhyme="6">99</group>, <AAVE field="syn" type="negative">never trust no <group label="e" num="6" rhyme="5" slantRhyme="7">swine</group></AAVE></li>
+            <li><hiphop ref="CypressHill">Lick a <guns>shot</guns></hiphop> one <group label="e" num="7" slantRhyme="6">time</group></li>
         </stanza>
     </song>
     <song title="ChristConscious" production="Basquiat">
