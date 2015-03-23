@@ -406,23 +406,24 @@
             <li>Staring down at the <group label="a" num="6" rhyme="5">devil</group>, <group label="a" num="7" rhyme="8 9 10">hello</group>, guess I got the <group label="a" num="8" rhyme="7 9 10">memo</group></li>
             <li>Pulling strings like <group label="a" num="9" rhyme="7 8 10"><popculture ref="Pinocchio">Geppetto</popculture></group>, you <AAVE field="syn" type="deletion" class="copula"
                 />just <popculture ref="Pinocchio">a puppet</popculture>, <group label="a" num="10" rhyme="7 8 9">fellow</group></li>
-            <li>I came up out of the tomb, don’t drop a <group label="a" num="11" rhyme="">L</group></li>
-            <li>Uh, you don't want to see <hiphop ref="Jay-Z">the evils</hiphop>, which I <group label="a" num="12">dwell</group> in <group label="a" num="13">hell</group></li>
-            <li>To <group label="a" num="14">excel</group>, this shit never <group label="a" num="15">fails</group>, always <group label="a" num="16">excels</group></li>
-            <li><AAVE field="syn" type="aspect" tense="progressive">They been <group>swallowing</group></AAVE> <group>sons</group>
-                before the <hiphop ref="XXLMagazine">double <group label="a" num="17">XL</group></hiphop></li>
-            <li><group label="a" num="18">Sex</group> <group label="a" num="19">sell</group>, <group label="a" num="20">ex</group> ask why it never <group label="a" num="21">work out</group></li>
-            <li>I guess I exercise too much when I <group label="a" num="22">work out</group></li>
-            <li>Show's too <group label="a" num="23">turnt out</group> return home <group label="a" num="24">burnt out</group></li>
-            <li>Now I got to hear all the shit that you <group label="a" num="25">heard <AAVE field="phon" type="dropping"
+            <li>I came up out of the tomb, don’t drop a <group label="a" num="11" rhyme="12 13 14 16 19 21">L</group></li>
+            <li>Uh, you don't want to see <hiphop ref="Jay-Z">the evils</hiphop>, which I <group label="a" num="12" rhyme="11 13 14 16 19 21">dwell</group> in <group label="a" num="13" rhyme="11 12 14 16 19 21">hell</group></li>
+            <li>To <group label="a" num="14" rhyme="11 12 13 16 19 21" slantRhyme="15">excel</group>, this shit never <group label="a" num="15" slantRhyme="14">fails</group>, always <group label="a" num="16" rhyme="11 12 13 14 19 21">excels</group></li>
+            <li><AAVE field="syn" type="aspect" tense="progressive">They been <group label="a" num="17" alliteration="18">swallowing</group></AAVE> <group label="a" num="18" alliteration="17">sons</group>
+                before the <hiphop ref="XXLMagazine">double <group label="a" num="19" rhyme="11 12 13 14 16 21">XL</group></hiphop></li>
+            <li><group label="a" num="20" alliteration="21" rhyme="22">Sex</group> <group label="a" num="21" rhyme="11 12 13 14 16 19" alliteration="20">sell</group>, <group label="a" num="22" rhyme="20">ex</group>
+                ask why it never <group label="a" num="23" rhyme="24 26 28 29">work out</group></li>
+            <li>I guess I exercise too much when I <group label="a" num="24" rhyme="23 26 28 29">work out</group></li>
+            <li>Show's <group label="a" num="25" consonance="26 27 28">too</group> <group label="a" num="26" rhyme="23 24 28 29" consonance="25 27 28">turnt out</group> <group label="a" num="27" consonance="25 26 28">return</group> home <group label="a" num="28" rhyme="23 24 26 29" consonance="25 26 27">burnt out</group></li>
+            <li>Now I got to hear all the shit that you <group label="a" num="29" rhyme="23 24 26 28">heard <AAVE field="phon" type="dropping"
                     sound="a" position="initial">'bout</AAVE></group></li>
-            <li><hiphop ref="Jay-Z">Can I live?</hiphop> What, these niggas want me off a bridge?</li>
+            <li><hiphop ref="Jay-Z">Can I <group label="b" num="1" slantRhyme="2">live</group>?</hiphop> What, these niggas want me off a <group label="b" num="2" slantRhyme="1">bridge</group>?</li>
             <li>If I say it's turnt down, do I burn that shit?</li>
             <li>Truth is, if it <AAVE field="syn" type="contraction" word1="is" word2="not"
-                    >ain't</AAVE> real, I don't feel it</li>
-            <li>If <AAVE field="syn" type="tense" person="third">it don't</AAVE> hit my spirit, I
-                don't get near it</li>
-            <li>And that's point blank period, know some niggas that fear it</li>
+                    >ain't</AAVE> <group label="b" num="3" rhyme="4">real</group>, I don't <group label="b" num="4" rhyme="3">feel</group> it</li>
+            <li>If <AAVE field="syn" type="tense" person="third">it don't</AAVE> hit my <group label="b" num="5" rhyme="6 9">spirit</group>, I
+                don't get <group label="b" num="6" rhyme="5 9">near it</group></li>
+            <li>And that's <group label="b" num="7" alliteration="8">point</group> blank <group label="b" num="8" alliteration="7" slantRhyme="9">period</group>, know some niggas that <group label="b" num="9" rhyme="5 6" slantRhyme="8">fear it</group></li>
             <li>Same niggas who know that we <AAVE field="syn" type="deletion" class="copula"/><hiphop ref="NotoriousBIG">the
                 illest</hiphop></li>
             <li><success>Lines <AAVE field="syn" type="deletion" class="copula"/>so deep a great shark is
