@@ -443,38 +443,46 @@
             <li>(Check, check, it out)</li>
         </stanza>
         <stanza type="verse" speaker="JoeyBada$$">
-            <li>I stand juxtaposed to all my <hiphop ref="ProEra">Pro's</hiphop>, realest illest niggas I know</li>
-            <li><haters>See these foes <AAVE field="syn" type="deletion" class="copula"/>biting the flows,
-                they even jooks the pose</haters></li>
+            <li>I stand <group label="c" num="1" slantRhyme="2" assimilation="8">juxtaposed</group> to all my <group label="c" num="2" slantRhyme="1" rhyme="5 6 7"><hiphop ref="ProEra">Pro's</hiphop></group>, 
+                <group label="c" num="3" rhyme="4">realest</group> <group label="c" num="4" rhyme="3">illest</group> niggas I <group label="c" num="5" rhyme="2 6 7">know</group></li>
+            <li><haters>See these <group label="c" num="6" rhyme="2 5 7">foes</group> 
+                <AAVE field="syn" type="deletion" class="copula"/>biting the <group label="c" num="7" rhyme="2 5 6">flows</group>,
+                they even <group label="c" num="8" assimilation="1" slantRhyme="9">jooks the pose</group></haters></li>
             <li>I guess my CD <AAVE field="syn" type="deletion" class="copula"/>really shaking the
-                coast</li>
+                <group label="c" num="9" slantRhyme="8">coast</group></li>
             <li><success>Cause <AAVE field="syn" type="tense" person="third">this really be</AAVE> the year
-                that I <food>feast</food>, capisce?</success></li>
-            <li>Nothing defeats <hiphop ref="TheBeast">the <geo ref="EastCoast">beast</geo></hiphop>, I speak <guns>my piece</guns></li>
-            <li>Know niggas in the streets <guns>that heat seek</guns> for me, <guns>release and squeeze</guns></li>
-            <li>Might put a Halloween between your spleen</li>
-            <li>Retreat or trickle down to your last <weed>pound of green</weed>, know what I mean?</li>
-            <li>Shit it's like taking <food>candy</food> from the babies</li>
-            <li><haters>All of these rappers are just a bunch of <food>Now and Laters</food></haters></li>
-            <li>They <AAVE field="syn" type="deletion" class="copula"/>too sweet, plus they lease
-                their <popculture ref="MercedesBenz">Mercedes</popculture></li>
-            <li>Can't be second greatest, <success>I'm the best and def your favorite</success></li>
+                that I <group label="c" num="10" assonance="11 12 13 14 15"><food>feast</food></group>, <group label="c" num="11" assonance="10 12 13 14 15">capisce</group>?</success></li>
+            <li>Nothing <group label="c" num="12" assonance="10 11 13 14 15">defeats</group> <hiphop ref="TheBeast">the 
+                <group label="c" num="13" assonance="10 11 12 14 15"><geo ref="EastCoast">beast</geo></group></hiphop>, I 
+                <group label="c" num="14" assonance="10 11 12 13 15">speak</group> <guns>my <group label="c" num="15" assonance="10 11 12 13 14">piece</group></guns></li>
+            <li>Know niggas in the <group label="c" num="16" assonance="17 18 19 20">streets</group> <guns>that <group label="c" num="17" assonance="16 18 19 20">heat</group> 
+                <group label="c" num="18" assonance="16 17 19 20">seek</group></guns> for me, <guns><group label="c" num="19" assonance="16 17 18 20">release</group> and <group label="c" num="20" assonance="16 17 18 19">squeeze</group></guns></li>
+            <li>Might put a <group label="c" num="21" rhyme="22 23">Halloween</group> <group label="c" num="22" rhyme="21 23">between</group> your <group label="c" num="23" rhyme="21 22">spleen</group></li>
+            <li><group label="c" num="24" consonance="25">Retreat</group> or <group label="c" num="25" consonance="24">trickle</group> down to your last 
+                <weed>pound of <group label="c" num="26" rhyme="27">green</group></weed>, know what I <group label="c" num="27" rhyme="26">mean</group>?</li>
+            <li>Shit it's like taking <group label="d" num="1" rhyme="2 7"><food>candy</food></group> from the <group label="d" num="2" rhyme="1 7">babies</group></li>
+            <li><haters>All of these <group label="d" num="3" rhyme="4">rappers</group> are just a bunch of <food>Now and <group label="d" num="4" rhyme="3">Laters</group></food></haters></li>
+            <li>They <AAVE field="syn" type="deletion" class="copula"/>too <group label="d" num="5" assonance="6">sweet</group>, plus they <group label="d" num="6" assonance="5">lease</group>
+                their <group label="d" num="7" rhyme="1 2"><popculture ref="MercedesBenz">Mercedes</popculture></group></li>
+            <li>Can't be second <group label="d" num="8" rhyme="9" slantRhyme="11">greatest</group>, <success>I'm the <group label="d" num="9" rhyme="8" assonance="10">best</group> and <group label="d" num="10" assonance="9">def</group> 
+                your <group label="d" num="11" slantRhyme="8">favorite</group></success></li>
             <li>My flow <AAVE field="syn" type="deletion" class="copula"/>in-depth nigga, I got my
                 wave up</li>
-            <li>It's either get your tidal waved, or you could be my neighbor</li>
-            <li>Cause if I can't <food>eat</food>, then you can't either</li>
-            <li>I need to know, need the <food>pizza <money>dough</money></food> fuck I'm spitting <hiphop ref="Nas">ether</hiphop> for?</li>
+            <li>It's either get your tidal waved, or you could be my <group label="d" num="12" rhyme="14">neighbor</group></li>
+            <li>Cause if I <group label="d" num="13" assimilation="14">can't <food>eat</food></group>, then you <group label="d" num="14" rhyme="12" assimilation="13">can't either</group></li>
+            <li>I <group label="d" num="15" rhyme="16">need to know</group>, <group label="d" num="16" rhyme="15" slantRhyme="17">need the <food>pizza <money>dough</money></food></group> 
+                fuck I'm spitting <group label="d" num="17" slantRhyme="16"><hiphop ref="Nas">ether</hiphop> for</group>?</li>
         </stanza>
         <stanza type="bridge" speaker="JoeyBada$$">
             <li>Yeah nigga</li>
-            <li><success>Reigning rap supreme in this bitch</success></li>
+            <li><success><group label="e" num="1" alliteration="2">Reigning</group> <group label="e" num="2" alliteration="1" consonance="3">rap</group> <group label="e" num="3" consonance="2">supreme</group> in this bitch</success></li>
             <li>Cause <women>bitches</women> lie niggas lie numbers, too</li>
             <li>Cause <women>bitches</women> lie niggas lie numbers, too</li>
             <li><women>Bitches</women> lie niggas lie numbers, too</li>
-            <li><women>Bitches</women> lie niggas lie numbers, too</li>
-            <li>What the fuck you<AAVE field="phon" type="dropping" sound="na" position="final"
+            <li><women>Bitches</women> lie niggas lie numbers, <group label="e" num="4" rhyme="5 6 7">too</group></li>
+            <li>What the fuck <group label="e" num="5" rhyme="4 6 7">you</group><AAVE field="phon" type="dropping" sound="na" position="final"
                         ><AAVE field="syn" type="contraction" word1="going" word2="to"
-                    >gon'</AAVE></AAVE>do when the <hiphop ref="ProEra">Era</hiphop> come for you?</li>
+                    >gon'</AAVE></AAVE><group label="e" num="6" rhyme="4 5 7">do</group> when the <hiphop ref="ProEra">Era</hiphop> come for <group label="e" num="7" rhyme="4 5 6">you</group>?</li>
         </stanza>
         <stanza type="hook" speaker="JoeyBada$$">
             <li>Check my style, check, check, check it out</li>
@@ -484,11 +492,13 @@
             <li>Don't jock my style</li>
         </stanza>
         <stanza type="verse" speaker="JoeyBada$$">
-            <li><struggle>And I'm from the blocks where they sell</struggle></li>
-            <li>Cell blocks rock my mental</li>
-            <li>See them <haters>fake thugs</haters> that you see before can't even spell</li>
-            <li>My flows <AAVE field="syn" type="deletion" class="copula"/>filled with words you
-                can't pronounce, stories you can't tell</li>
+            <li><struggle>And I'm from the blocks where they <group label="f" num="1" rhyme="2 5 6 9">sell</group></struggle></li>
+            <li><group label="f" num="2" rhyme="1 5 6 9">Cell</group> <group label="f" num="3" rhyme="4">blocks</group> 
+                <group label="f" num="4" rhyme="3">rock</group> my <group label="f" num="5" rhyme="1 2 6 9">mental</group></li>
+            <li>See them <haters>fake thugs</haters> that you see before can't even <group label="f" num="6" rhyme="1 2 5 9">spell</group></li>
+            <li>My <group label="f" num="7" alliteration="8">flows</group> <AAVE field="syn" type="deletion" class="copula"/>
+                <group label="f" num="8" alliteration="7">filled</group> with words you
+                can't pronounce, stories you can't <group label="f" num="9" rhyme="1 2 5 6">tell</group></li>
         </stanza>
         <stanza type="outro" speaker="JoeyBada$$">
             <li>Check my style, check, check, check it out</li>
