@@ -19,10 +19,76 @@
             <div id="content">
                 <div class="box">
                     <div class="headfont">
+                        <h2 id="overview">Methodology Overview</h2>
+                    </div>
+                    <div class="bodyfont">
+                        <p>The purpose of this project was to discover the ways in which Joey Bada$$
+                            has grown as an artist since the release of his first mixtape to the
+                            release of his first studio album. In determining how he has grown and
+                            evolved, we have decided to look at three areas of study. The first area
+                            of study is poetics; with this we hoped to see what poetic devises Joey
+                            uses most prominently and if these devices changes over time. The second
+                            area we looked at is linguistics, with this we tracked the use of
+                            compounds and how/if they evolved as well as the use of African American
+                            Vernacular English (AAVE) and how the use of the AAVE dialect changes as
+                            he becomes more mainstream. Finally we looked at motifs, and how various
+                            themes present themselves in various songs and projects as Joey
+                            grows.</p>
+                    </div>
+                </div>
+                <div class="box">
+                    <div class="headfont">
                         <h2 id="ling">Linguistics</h2>
                     </div>
                     <div class="bodyfont">
-                        <p>This will contain info on Linguistic markup</p>
+                        <h3>African American Vernacular English (AAVE) Markup</h3>
+                        <p>All AAVE markup has a field and a type attribute. The field attribute can
+                            have one of two values, either “syn" for syntax or morphology markup or
+                            “phon" for phonological or phonetic markup. The type attribute marks the
+                            linguistic category that the text falls into. Below describes the type
+                            tag and the tags that follow the tag depending on category:</p>
+                        <h4>dropping:</h4>
+                        <p>This attribute is used when a sound is dropped from a word. For example,
+                            the word somthin’ would be tagged as <code><AAVE field="phon"
+                                    type="dropping" sound="g" position="initial"
+                                >somthin’</AAVE></code>. The tag also includes a sound attribute
+                            that describes the sound that is being dropped as well as the position
+                            of that sound.</p>
+                        <h4>tense:</h4>
+                        <p>This attribute is used when the wrong tense is used in a phrase. For
+                            instance ‘We wasn’t on the grind’ would be tagged as <code>We <AAVE
+                                    field="syn" type="tense" person="first plural">wasn't</AAVE>on
+                                the grind</code>. This is accompanied by the attribute person which
+                            is marked as the person that the word should be, in this case first
+                            person plural.</p>
+                        <h4>deletion:</h4>
+                        <p>This attribute is used when a word is deleted from a sentence. It is like
+                            dropping but on a sentence level. The tag is typically used for copula
+                            deletion (the deletion of to be words) and is always an empty tag that
+                            looks like this <code><AAVE field="syn" type="deletion" class="copula"
+                                ></AAVE></code>. It is accompanied by the class attribute which
+                            describes the word class of the missing word. It can be one of the
+                            following: "copula", "preposition", "auxiliary", "to", "object".</p>
+                        <h4>aspect:</h4>
+                        <p>This attribute is used when a phrase uses tense/aspect in a manner that
+                            is different than Standard American English (SAE) The tag is typically
+                            used as follows: <code><AAVE field="syn" type="aspect" tense="habitual"
+                                    >sounds been profound</AAVE></code>. This attribute is
+                            accompanied by the tense attribute which describes one of the tenses
+                            used, which are described below: TABLE</p>
+                        <h4>negative</h4>
+                        <p>This attribute is used when there is a double negative or a negative
+                            concord. This is commonly seen in phrases like <code>‘Cause it <AAVE
+                                    field="syn" type="negative">ain’t no fun if the homies don’t get
+                                    none</AAVE></code>. This has no accompanying attributes</p>
+                        <h4>contraction</h4>
+                        <p>This attribute is used when a word is contracted that
+                            is abnormal to SAE. This means that words like ‘it’s’ will not be tagged
+                            by words like ‘tryna’ will be tagged. The tag looks like <code><AAVE
+                                    field="phon" type="contraction" word1="trying" word2="to"
+                                    >tryna</AAVE></code>. The attribute is accompanied with the
+                            word1, word2, and an optional word3 attribute. These describe the
+                            non-concatenated words.</p>
                     </div>
                 </div>
                 <div class="box">
