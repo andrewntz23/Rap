@@ -195,14 +195,14 @@
                     label="a" num="20" rhyme="21">cautious</group></li>
             <li>A homie keeps a <group label="a" num="21" rhyme="20">gorgeous</group>
                 <guns>twelve gauge</guns></li>
-            <li>So if you run your mouth, your jaw gone</li>
+            <li>So if you run your mouth, your <AAVE type="deletion" field="syn" class="copula"/>jaw gone</li>
             <li>The double <group label="b" num="1" rhyme="2">entendre</group>, <group label="b"
                     num="2" rhyme="1">monster</group></li>
             <li>Niggas <group label="b" num="3" slantRhyme="4">thank me</group>, say <success>I'm
                     number one in the <group label="b" num="4" slantRhyme="3"
                     >rankings</group></success></li>
-            <li>I tell <AAVE field="phon" type="dropping" sound="g" position="final"><AAVE field="phon" type="dropping" sound="th" position="initial">'em</AAVE></AAVE> it's an honor</li>
-            <li><haters>Cause these niggas faking and they <group label="b" num="5"
+            <li>I tell <AAVE field="phon" type="dropping" sound="th" position="initial">'em</AAVE> it's an honor</li>
+            <li><haters>Cause these niggas <AAVE type="deletion" field="syn" class="copula"/>faking and they <AAVE type="deletion" field="syn" class="copula"/><group label="b" num="5"
                         rhyme="6 7 8 9 10 11">nada</group></haters></li>
             <li><AAVE field="phon" type="dropping" sound="g" position="final">Fuckin'</AAVE> stupid
                     <group label="b" num="6" rhyme="5 7 8 9 10 11">Malagas</group>, part of the <geo
@@ -214,7 +214,7 @@
             <li><AAVE field="syn" type="dropping" sound="un" position="initial">'till</AAVE> I bust like <group label="b" num="10" rhyme="5 6 7 8 9 11"
                 >pinatas</group></li>
             <li>Only true <group label="b" num="11" rhyme="5 6 7 8 9 10" slantRhyme="12"
-                    >Shotta</group>, come kill <AAVE field="phon" type="dropping" sound="g" position="final"><AAVE field="phon" type="dropping" sound="th" position="initial">'em</AAVE></AAVE> with the <group label="b" num="12"
+                    >Shotta</group>, come kill <AAVE field="phon" type="dropping" sound="th" position="initial">'em</AAVE> with the <group label="b" num="12"
                     slantRhyme="11">Patois</group></li>
             <li>Same time, <women>met the gal</women>, and up for <group label="b" num="13"
                     rhyme="14">dagga</group>, that's word to <group label="b" num="14" rhyme="13"
