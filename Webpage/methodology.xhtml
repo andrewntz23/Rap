@@ -21,7 +21,7 @@
                     <div class="headfont">
                         <h2 id="overview">Methodology Overview</h2>
                     </div>
-                    <div class="bodyfont">
+                    <div class="leftfont">
                         <p>The purpose of this project was to discover the ways in which Joey Bada$$
                             has grown as an artist since the release of his first mixtape to the
                             release of his first studio album. In determining how he has grown and
@@ -40,7 +40,7 @@
                     <div class="headfont">
                         <h2 id="ling">Linguistics</h2>
                     </div>
-                    <div class="bodyfont">
+                    <div class="leftfont">
                         <h3>African American Vernacular English (AAVE) Markup</h3>
                         <p>All AAVE markup has a field and a type attribute. The field attribute can
                             have one of two values, either “syn" for syntax or morphology markup or
@@ -72,7 +72,7 @@
                         <h4>aspect:</h4>
                         <p>This attribute is used when a phrase uses tense/aspect in a manner that
                             is different than Standard American English (SAE) The tag is typically
-                            used as follows: <textarea><AAVE field="syn" type="aspect" tense="habitual"
+                            used as follows: <code><AAVE field="syn" type="aspect" tense="habitual"
                                     >sounds been profound</AAVE></code>. This attribute is
                             accompanied by the tense attribute which describes one of the tenses
                             used, which are described below: TABLE</p>
@@ -82,12 +82,12 @@
                                     field="syn" type="negative">ain’t no fun if the homies don’t get
                                     none</AAVE></code>. This has no accompanying attributes</p>
                         <h4>contraction</h4>
-                        <p>This attribute is used when a word is contracted that
-                            is abnormal to SAE. This means that words like ‘it’s’ will not be tagged
-                            by words like ‘tryna’ will be tagged. The tag looks like <code><AAVE
-                                    field="phon" type="contraction" word1="trying" word2="to"
-                                    >tryna</AAVE></code>. The attribute is accompanied with the
-                            word1, word2, and an optional word3 attribute. These describe the
+                        <p>This attribute is used when a word is contracted that is abnormal to SAE.
+                            This means that words like ‘it’s’ will not be tagged by words like
+                            ‘tryna’ will be tagged. The tag looks like <code><AAVE field="phon"
+                                    type="contraction" word1="trying" word2="to"
+                            >tryna</AAVE></code>. The attribute is accompanied with the word1,
+                            word2, and an optional word3 attribute. These describe the
                             non-concatenated words.</p>
                     </div>
                 </div>
@@ -95,7 +95,7 @@
                     <div class="headfont">
                         <h2 id="motif">Motifs</h2>
                     </div>
-                    <div class="bodyfont">
+                    <div class="leftfont">
                         <p>This will contain info on Motif markup</p>
                     </div>
                 </div>
@@ -103,8 +103,77 @@
                     <div class="headfont">
                         <h2 id="poetry">Poetry</h2>
                     </div>
-                    <div class="bodyfont">
-                        <p>This will contain info on Poetry markup</p>
+                    <div class="leftfont">
+                        <h3>Poetic Devices</h3>
+                        <p>Joey Bada$$ employs a number of poetic devices throughout his lyrics, the
+                            six devices that this project is concerned with are as follows,
+                            alliteration, assimilation, assonance, consonance,rhyme, and slant
+                            rhyme. Prior to delving into the criteria for each of the six devices,
+                            it should be noted that the process of interpreting poetic devices is
+                            not an exact science. Unfortunately, as with any other type of
+                            interpretation of data, there may be cases in which arguments could be
+                            made in favor of an alternative label for a given poetic device. This
+                            possibility of differing interpretations can be largely attributed to
+                            the manner in which one hears a rappers "delivery" of their lyrics
+                            (voice inflection, stressing of particular syllables, etc.). However,
+                            listening to a given rappers flow still allows one to interpret and
+                            categorize the type of poetic device used more accurately than simply
+                            reading the lyrics online.</p>
+                        <h4>Alliteration:</h4>
+                        <p>A poetic device in which there is a repetition of the first consonant in
+                            a series of multiple words. e.g. "pride is higher than the prices on
+                            your Pradas"</p>
+                        <h4>Assimilation:</h4>
+                        <p>A poetic device in which one word becomes more phonologically similar to
+                            at least one other word, esentially the rappers delivery of the words
+                            produces a transformation in which the previously dissimilar words not
+                            seem to rhyme. e.g. And I know the landlord fed up with our lies<br />
+                            So we pray to the Gods, the Jahs, and the Allahs<br /> To keep us safe
+                            and watch our lives.<br /></p>
+                        <h4>Assonance:</h4>
+                        <p>A poetic device in which words near each other have a repetition of a
+                            vowel in nonrhyming stressed syllables. e.g. Tend this racket while I'm
+                            cracking a Serena.</p>
+                        <h4>Consonance:</h4>
+                        <p>A poetic device in which words near each other have a repetition of a
+                            consonants in nonrhyming stressed syllables. e.g. Show's too turnt out
+                            return home burnt out</p>
+                        <h4>Rhyme:</h4>
+                        <p>A poetic device in which there is a correspondence of sound between words
+                            or the endings of words. e.g.I know she always think of little me, but
+                            now I got big literally<br /> Worldwide and physically<br /> I'm saying
+                            I used to take walks around Little Italy<br /> Now I roam 'round
+                            Sicily<br /> And I'm plotting on a milli<br /></p>
+                        <h4>Slant Rhyme:</h4>
+                        <p>A poetic device in which a rhyme is formed by words with similar but not
+                            identical sounds. Typically, either the vowels are different while the
+                            consonants are identical, or the consonants are different while the
+                            vowels are identical. e.g. But it's definite I spit more than speech
+                            impediments<br /> Brooklyn's the residence, the best and it's
+                            evident<br /></p>
+                        <h4>Example Poetic Markup:</h4>
+                        <code><li>It's all a <group label="a" num="1" alliteration="2"
+                                    >hidden</group>
+                                <group label="a" num="2" alliteration="1" rhyme="3 4 6"
+                                    >history</group>, and <group label="a" num="3" rhyme="2 4 6"
+                                    >mysteries</group></li><br />
+                            <li>I see <group label="a" num="4" rhyme="2 3 6">vividly</group>, <group
+                                    label="a" num="5" slantRhyme="7">hysteria</group></li><br />
+                            <li>Cause <group label="a" num="6" rhyme="2 3 4">misery</group> on the
+                                    <group label="a" num="7" slantRhyme="5" rhyme="8 9 11"
+                                    >interior</group></li><br />
+                            <li>Shit gets more <group label="a" num="8" rhyme="7 9 11"
+                                    >scarier</group>, I'm <group label="a" num="9" rhyme="7 8 11"
+                                    >never</group>
+                                <group label="a" num="10" assimilation="11">in fear</group></li><br />
+                            <li>Just a little <group label="a" num="11" assimilation="10"
+                                    rhyme="7 8 9">inferior</group> in <group label="a" num="12"
+                                    assimilation="14">some areas</group></li><br />
+                            <li>But I <group label="a" num="13" rhyme="15">share</group>, wisdom
+                                with <group label="a" num="14" assimilation="12"
+                                        ><oldschool>Sumerians</oldschool></group></li><br />
+                            <li><group label="a" num="15" rhyme="13">Somewhere</group> we in the
+                                place</li><br /></code>
                     </div>
                 </div><!-- ends box -->
             </div><!-- ends content -->

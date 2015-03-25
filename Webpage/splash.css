@@ -112,12 +112,13 @@ div#navbar ul ul li {
     top: 50px;
 }
 #content {
-    width: 90%;
+    width: 95%;
+    margin: auto;
     position: relative;
     top: 650px;
     padding: 20px;
     background: rgba(245,245,245,.9);
-    height: 1500px;
+    height: 100%;
     border-radius: 10px;
     box-shadow: v-shadow blur;
 }
@@ -133,6 +134,14 @@ div#navbar ul ul li {
     color: white;
     text-align: center;
     margin: 0px;
+    text-decoration:none;
+    list-style:none;
+}
+.leftfont {
+    font-family: 'Slabo 27px', serif;
+    color: white;
+    text-align: left;
+    margin: 10px;
     text-decoration:none;
     list-style:none;
 }
@@ -163,4 +172,42 @@ hr {
     height: auto;
     margin: 5px;
 }
-fix content size 
+div#methodnav { 
+   margin: 0;  
+   width: 100%; 
+   text-align: center; 
+   } 
+div#methodnav ul { 
+   list-style: none; 
+   margin: 0; 
+   padding: 0;
+   position: relative
+   } 
+div#methodnav ul li { 
+   margin: 0; 
+   padding: 0; 
+   display: inline-block; 
+   font-size: large;
+   font-family: 'Slabo 27px', serif;
+   font-weight: bold;
+    } 
+div#mthodnav ul li:hover {
+    background-color: #fafafa;
+}
+div#methodnav ul li a,visited {
+    color: #140404;
+    display: block;
+    padding: 15px;
+    text-decoration: none
+    }
+div#methodnav ul li:hover ul{
+    display: block;
+}
+div#methodnav ul ul {
+    display: none;
+    position: absolute;
+    background-color: #fafafa;
+}
+div#methodnav ul ul li {
+    display: block;
+}
