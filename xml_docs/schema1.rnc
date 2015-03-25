@@ -354,7 +354,30 @@ ref =
              | "OlDirtyBastard"
              | "IrvGotti"
              | "WizardofOz"
-             | "MarleyandMe")+
+             | "MarleyandMe"
+             | "112"
+             | "DengfengChina"
+             | "RKelly"
+             | "HellsKitchen"
+             | "Jeep"
+             | "AbSoul"
+             | "Alcatraz"
+             | "Nefertiti"
+             | "Poconos"
+             | "PabloEscobar"
+             | "Apollo"
+             | "106andPark"
+             | "LeadersoftheNewSchool"
+             | "Whodini"
+             | "Rambo"
+             | "LebronJames"
+             | "Shyne"
+             | "BadBoyRecords"
+             | "Babylon"
+             | "Smoker'sClub"
+             | "MichaelJordan"
+             | "ActionBronson"
+             | "DessyHinds")+
         }
     }
 popculture =
