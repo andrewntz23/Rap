@@ -1,24 +1,68 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform"
-    version="1.0">
-    <xsl:output method="xhtml"/>
+    xmlns:xs="http://www.w3.org/2001/XMLSchema" exclude-result-prefixes="xs" version="2.0"
+    xmlns="http://www.w3.org/1999/xhtml">
+    <xsl:output method="xml" indent="yes" doctype-system="about:legacy-compat"/>
     <xsl:template match="/">
-        <head>
-<!--     All of the stuff here      -->
-        </head>
-        <xsl:apply-templates/>
+        <html>
+            <head>
+                <title>Joey Bada$$</title>
+                <link rel="stylesheet" type="text/css" href="proofread.css"/>
+                <script type="text/javascript" src="proofread.js">//</script>
+            </head>
+            <body>
+                
+                <xsl:apply-templates select="//meta/albumTitle"/>
+                
+                <hr/>
+                
+                <xsl:apply-templates select="//song"/>
+                <xsl:apply-templates select="li"/>
+                <form action="">
+                    <label for="all" onclick="clearAllColor()"><input type="radio" name="device" value="all"
+                        id="all" checked="checked" onclick="clearAllColor()" />all</label>
+                    <label for="alliteration" onclick="clearAllColor()"><input type="radio" name="device"
+                        value="alliteration" id="alliteration" onclick="clearAllColor()"
+                    />alliteration</label>
+                    <label for="assimilation" onclick="clearAllColor()"><input type="radio" name="device"
+                        value="assimilation" id="assimilation" onclick="clearAllColor()"
+                    />assimilation</label>
+                    <label for="assonance" onclick="clearAllColor()"><input type="radio" name="device"
+                        value="assonance" id="assonance" onclick="clearAllColor()" />assonance</label>
+                    <label for="consonance" onclick="clearAllColor()"><input type="radio" name="device"
+                        value="consonance" id="consonance" onclick="clearAllColor()"
+                    />consonance</label>
+                    <label for="repetition" onclick="clearAllColor()"><input type="radio" name="device"
+                        value="repetition" id="repetition" onclick="clearAllColor()"
+                    />repetition</label>
+                    <label for="rhyme" onclick="clearAllColor()"><input type="radio" name="device"
+                        value="rhyme" id="rhyme" onclick="clearAllColor()" /> rhyme</label>
+                    <label for="slant" onclick="clearAllColor()"><input type="radio" name="device"
+                        value="slant" id="slant" onclick="clearAllColor()" /> slant rhyme</label>
+                </form>
+            </body>
+        </html>
     </xsl:template>
-    <xsl:template match="song">
-        <div class="song"><xsl:apply-templates/></div>
+    <xsl:template match="meta/albumTitle">
+        <h1 class="headfont">
+            <xsl:apply-templates/>
+        </h1>
     </xsl:template>
+    
     <xsl:template match="stanza">
-        <div class="stanza"><xsl:apply-templates/></div>
+        <xsl:apply-templates/>
+        <br/>
+        <xsl:apply-templates select="li"/>
     </xsl:template>
     <xsl:template match="li">
-        <xsl:apply-templates/><br/>
+        <xsl:apply-templates/>
+        <br/>
     </xsl:template>
     <xsl:template match="group">
-        <span class="poetics">
+        <div class="spanWrapper"><span>
+            <xsl:attribute name="data-all" select="0"/>
+            <xsl:attribute name="title" select="@label"/>
+            <xsl:attribute name="data-num" select="@num"/>
             <xsl:if test="@alliteration">
                 <xsl:attribute name="data-alliteration" select="@alliteration"/>
             </xsl:if>
@@ -41,6 +85,11 @@
                 <xsl:attribute name="data-slantRhyme" select="@slantRhyme"/>
             </xsl:if>
             <xsl:apply-templates/>
-        </span>
+        </span></div>
     </xsl:template>
+
 </xsl:stylesheet>
+<!-- generate-id xpath function 
+change the url 
+change titles to child element
+change markup to span with element value as class-->

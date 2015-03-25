@@ -1,10 +1,3 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<!DOCTYPE html>
-<html xmlns="http://www.w3.org/1999/xhtml">
-    <head>
-        <link rel="stylesheet" type="text/css" href="proofread.css" />
-        <title>jspractice_spans</title>
-        <script type="text/javascript">
             /*
             Set it up so that on hover, if the "all" radio is selected, nothing happens; if any other radio is selected, it shows the value of the associated data- attribute,
             and the number of every other member of the group pops up a bit opaque over it. 
@@ -12,7 +5,7 @@
             //should set up a better way for dealing with colors; better than random, which too often gets really similar colors, but this is sloppy, and could run into index problems. 
             var colors = ["red", "blue", "green", "purple", "orange", "red", "blue", "green", "purple", "orange", "red", "blue", "green", "purple", "orange"] 
             window.onload = function(){
-                var foo = document.getElementsByTagName("span");
+                var foo = document.getElementsByClassName("spanWrapper");
                 setColor()
                 for(var i = 0; (i != foo.length); i++) { 
                     var num = foo[i].getAttribute('data-num');
@@ -100,7 +93,7 @@
             
             }*/
             function overlay(id, elmt) { 
-                 if (elmt.getAttribute("style") == "color:black") return; //if text is black, is not highlighted, and we don't want to work with it. else, proceed. 
+                 if (elmt.children[0].getAttribute("style") == "color:black") return; //if text is black, is not highlighted, and we don't want to work with it. else, proceed. 
                  if (document.getElementById(id)) return; // don't create a popup if there's already one open for this id
                  var overlay = document.createElement("div");
                  var XMousePos = window.event.clientX;
@@ -113,34 +106,36 @@
                        var Xpos = windowWidth - 310
                  };
                  var radio = document.querySelector('input[name="device"]:checked').value;
-                 var newText = document.createTextNode(radio);
+                 if (radio == "all"){
+                    var newText = document.createTextNode("all: ".concat(elmt.children[0].getAttribute("data-num")));
+                    }
+                 else{
+                    var attNums = elmt.children[0].getAttribute("data-".concat(radio));
+                    var newText = document.createTextNode(attNums);} //fix this so that I am getting the value of the data attribute related to this number
                  overlay.appendChild(newText);
                  overlay.setAttribute("id", id);
                  overlay.setAttribute("style", "z-index: 10; background-color: AliceBlue; position: absolute; left: " + Xpos + "px; top: " + Ypos + "px; border: 2px solid black; border-radius: 7px; width: 80px; padding: 2px; margin: 0; text-align:center")
                  overlay.setAttribute("onclick", "document.body.removeChild(document.getElementById('" + id + "'))");
                  overlay.setAttribute("class", "overlay");
                  document.body.appendChild(overlay);
-                 var foo = document.getElementsByTagName("span")
-                 for (var i = 0; (i != foo.length); i++){  //these appear to not be going away, but they are in reality, it's just we're making a bunch in the same spot. 
-                    if (foo[i].getAttribute("style")!="color:black" &amp;&amp; foo[i] != elmt){
+                 var foo = document.getElementsByClassName("spanWrapper");
+                 for (var i = 0; (i != foo.length); i++){  //these appear to not be going away properly 
+                    if (foo[i].children[0].getAttribute("style")!="color:black" && foo[i] != elmt){
                         var otherlay = document.createElement("div");
-                        var otherText = document.createTextNode("1");
+                        var otherText = document.createTextNode(foo[i].children[0].getAttribute("data-num"));
                         otherlay.appendChild(otherText);
                         otherlay.setAttribute("style", "z-index: 10; background-color: AliceBlue; position: fixed; border: 2px solid black; border-radius: 7px; width: 10px; padding: 2px; margin: 0; text-align:center")
                         otherlay.setAttribute("class", "overlay");
                         foo[i].appendChild(otherlay);
-                        foo[i].setAttribute("data-swagger", "size:100px");
                     }
                  }
             }
             
             function wipeOverlay(myClass){
-                // var elmt = document.getElementById(id)
-                 var foo = document.getElementsByClassName(myClass);
-                 for (var i = 0; (i != foo.length); i++){
-                    foo[i].parentNode.removeChild(foo[i]);
-                 }
-                 //will also need to delete the extraneous popups over other spans that show their numbers 
+                 var elements = document.getElementsByClassName("overlay");
+                 while(elements.length > 0){
+                       elements[0].parentNode.removeChild(elements[0]);
+    }
             }
             
 
@@ -159,10 +154,10 @@
                     }
                     else {
                         for (var i = 0; (i != bar.length); i++) { 
-                            if (bar[i].getAttribute("title") == elmt.getAttribute("id") &amp;&amp; bar[i].hasAttribute('data-'.concat(radio)) ){
+                            if (bar[i].getAttribute("title") == elmt.getAttribute("id") && bar[i].hasAttribute('data-'.concat(radio)) ){
                                 bar[i].setAttribute("style", "color:".concat(colors[(elmt.getAttribute("id").charCodeAt(0) - 97)])); //will fail if groups ever exceed letters of alphabet, but that shouldn't happen
                             }
-                            else if (bar[i].getAttribute("title") == elmt.getAttribute("id") &amp;&amp; !bar[i].hasAttribute('data-'.concat(radio)) ){
+                            else if (bar[i].getAttribute("title") == elmt.getAttribute("id") && !bar[i].hasAttribute('data-'.concat(radio)) ){
                                 bar[i].setAttribute("style", "color:black");
                             }
                         }
@@ -172,41 +167,3 @@
 
             
 
-        </script>
-    </head>
-    <body>
-        <div>The <div><span title="a" data-all="0" data-num="1" data-rhyme="25" data-assonance="34"
-                >fat</span></div>
-            <div><span title="a" data-all="0" data-num="2" data-rhyme="15" data-assonance="34">cat</span></div>
-            <div><span title="a" data-all="0" data-num="3" data-rhyme="4" data-assonance="125"
-                >snags</span></div> his <div><span title="a" data-num="4" data-all="0" data-rhyme="3"
-                data-assonance="125">bags</span></div> and <div><span data-all="0" title="a" data-num="5"
-                data-assonance="34">gat</span></div>
-            <div><span title="b" data-all="0">cool</span></div>
-            <div><span title="c" data-all="0"> and cooler</span></div>
-        </div>
-        <!--   Will eventually do this with either JS or XSLT     -->
-        <form action="">
-            <label for="all" onclick="clearAllColor()"><input type="radio" name="device" value="all"
-                    id="all" checked="checked" onclick="clearAllColor()" />all</label>
-            <label for="alliteration" onclick="clearAllColor()"><input type="radio" name="device"
-                    value="alliteration" id="alliteration" onclick="clearAllColor()"
-                 />alliteration</label>
-            <label for="assimilation" onclick="clearAllColor()"><input type="radio" name="device"
-                    value="assimilation" id="assimilation" onclick="clearAllColor()"
-                 />assimilation</label>
-            <label for="assonance" onclick="clearAllColor()"><input type="radio" name="device"
-                    value="assonance" id="assonance" onclick="clearAllColor()" />assonance</label>
-            <label for="consonance" onclick="clearAllColor()"><input type="radio" name="device"
-                    value="consonance" id="consonance" onclick="clearAllColor()"
-                 />consonance</label>
-            <label for="repetition" onclick="clearAllColor()"><input type="radio" name="device"
-                    value="repetition" id="repetition" onclick="clearAllColor()"
-                 />repetition</label>
-            <label for="rhyme" onclick="clearAllColor()"><input type="radio" name="device"
-                    value="rhyme" id="rhyme" onclick="clearAllColor()" /> rhyme</label>
-            <label for="slant" onclick="clearAllColor()"><input type="radio" name="device"
-                    value="slant" id="slant" onclick="clearAllColor()" /> slant rhyme</label>
-        </form>
-    </body>
-</html>
