@@ -1,0 +1,64 @@
+for the markup descriptions, put brackets in to show an example of the actual tag. Also consider having those as links. 
+
+-Network graph of the motifs: 
+
+-Referentiality network; EVERYONE, producers
+
+-Graphing the geo tags, considering rappers as geo references based on their home zone?
+
+-Motif proofreading:
+	everyone do it together. What do we need to add in? 
+
+
+Success: having vs. wanting, 
+Women: have a separate tag for sex than women
+	(use regex to tag every pronoun)
+Money: having vs. wanting
+Violence: positive vs. negative
+Guns: positive vs. negative
+Spirituality (God, Third Eye stuff)
+fortySeven
+Ancient history/history/ something
+Power motif 
+
+
+DO tag the double entendres
+
+
+***DATA EXTRACTION / REPRESENTATION
+
+Poetic:
+Rhyme over time
+	Strings of more than two
+	(add in line numbers, take difference of those. arbitrarily say that that makes it 	more complex)
+
+Use of assimilation over time. (line graph—how exactly to stage timeframe)
+	-could use js to change motif of interest to avoid having a bare graph. 
+
+Linguistic:
+-some are just counts; for contractions and tense, will be slightly more intense
+
+Motif:
+Bar graph; each motif. Comparison of all motifs in any given project, and then one line 	graph
+
+
+Proofreading motifs will be everyone
+
+EVERYONE:
+motif proofreading 
+
+ZACH:
+to finish markup and proofreading.
+
+BEN:
+xQuery to get a count of all the group tag with an assimilation attribute in any given album. Do the same for count. 
+xQuery 
+
+Descriptions for the website. 
+
+Contact people to get permission for the song files. 
+
+PAIGE: 
+
+XSLT
+	-Write an XSLT to make a bar graph with one bar for each motif the height of which is just the count probably multiplied by something to make it look good. 
