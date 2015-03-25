@@ -865,7 +865,7 @@
             <li>I see you sitting on the top, in your better phase</li>
             <li>Say, <success>how it feel it feel to be the best</success> and <money>the <group
                         label="a" num="1" assimilation="2 3">most paid</group></money>?</li>
-            <li>How it feel to be the <success><group label="a" num="2" assimilation="1 3">most
+            <li>How it <AAVE type="tense" field="syn" person="third">feel</AAVE> to be the <success><group label="a" num="2" assimilation="1 3">most
                         praised</group></success>?</li>
             <li>Known to blow the <group label="a" num="3" assimilation="1 2">most
                     <weed>Haze</weed></group></li>
