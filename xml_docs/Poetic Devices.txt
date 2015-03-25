@@ -31,3 +31,12 @@ e.g.I know she always think of little me, but now I got big literally
 Typically, either the vowels are different while the consonants are identical, or the consonants are different while the vowels are identical.
 e.g. But it's definite I spit more than speech impediments
      Brooklyn's the residence, the best and it's evident
+     
+<h4>Example Poetic Markup:</h4>
+            <li>It's all a <group label="a" num="1" alliteration="2">hidden</group> <group label="a" num="2" alliteration="1" rhyme="3 4 6">history</group>, and <group label="a" num="3" rhyme="2 4 6">mysteries</group></li>
+            <li>I see <group label="a" num="4" rhyme="2 3 6">vividly</group>, <group label="a" num="5" slantRhyme="7">hysteria</group></li>
+            <li>Cause <group label="a" num="6" rhyme="2 3 4">misery</group> on the <group label="a" num="7" slantRhyme="5" rhyme="8 9 11">interior</group></li>
+            <li>Shit gets more <group label="a" num="8" rhyme="7 9 11">scarier</group>, I'm <group label="a" num="9" rhyme="7 8 11">never</group> <group label="a" num="10" assimilation="11">in fear</group></li>
+            <li>Just a little <group label="a" num="11" assimilation="10" rhyme="7 8 9">inferior</group> in <group label="a" num="12" assimilation="14">some areas</group></li>
+            <li>But I <group label="a" num="13" rhyme="15">share</group>, wisdom with <group label="a" num="14" assimilation="12"><oldschool>Sumerians</oldschool></group></li>
+            <li><group label="a" num="15" rhyme="13">Somewhere</group> we in the place</li>
