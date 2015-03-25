@@ -1,7 +1,7 @@
-            /*
-            Set it up so that on hover, if the "all" radio is selected, nothing happens; if any other radio is selected, it shows the value of the associated data- attribute,
-            and the number of every other member of the group pops up a bit opaque over it. 
-            */
+/**
+Last things to finish off: contain to stanza, and get main popup in the right spot. 
+
+*/
             //should set up a better way for dealing with colors; better than random, which too often gets really similar colors, but this is sloppy, and could run into index problems. 
             var colors = ["red", "blue", "green", "purple", "orange", "red", "blue", "green", "purple", "orange", "red", "blue", "green", "purple", "orange"] 
             window.onload = function(){
@@ -11,12 +11,9 @@
                     var num = foo[i].getAttribute('data-num');
                     var text = foo[i].getAttribute('data-rhyme');
                     var layover = "overlay('popup".concat(num,  "', this)"); 
-                 //   var layunder = "wipeOverlay('popup".concat(num, "')");  
                     var layunder = "wipeOverlay('overlay')"
                     foo[i].setAttribute("onmouseover", layover);
-                  //  foo[i].setAttribute("onmouseout", layunder);
                     foo[i].setAttribute("onmouseout", layunder);
-                //    foo[i].setAttribute("onclick", "highlighter(this)");
                 }
             }
             
@@ -95,7 +92,7 @@
             function overlay(id, elmt) { 
                  if (elmt.children[0].getAttribute("style") == "color:black") return; //if text is black, is not highlighted, and we don't want to work with it. else, proceed. 
                  if (document.getElementById(id)) return; // don't create a popup if there's already one open for this id
-                 var overlay = document.createElement("div");
+                 var overlay = document.createElement("div"); //this is not being appended in the right spot; all else seem to be.
                  var XMousePos = window.event.clientX;
                  var Ypos = window.event.clientY;
                  var windowWidth = window.innerWidth;
@@ -114,17 +111,20 @@
                     var newText = document.createTextNode(attNums);} //fix this so that I am getting the value of the data attribute related to this number
                  overlay.appendChild(newText);
                  overlay.setAttribute("id", id);
-                 overlay.setAttribute("style", "z-index: 10; background-color: AliceBlue; position: absolute; left: " + Xpos + "px; top: " + Ypos + "px; border: 2px solid black; border-radius: 7px; width: 80px; padding: 2px; margin: 0; text-align:center")
+                 overlay.setAttribute("style", " width: 80px;")
                  overlay.setAttribute("onclick", "document.body.removeChild(document.getElementById('" + id + "'))");
                  overlay.setAttribute("class", "overlay");
-                 document.body.appendChild(overlay);
-                 var foo = document.getElementsByClassName("spanWrapper");
-                 for (var i = 0; (i != foo.length); i++){  //these appear to not be going away properly 
-                    if (foo[i].children[0].getAttribute("style")!="color:black" && foo[i] != elmt){
+                 elmt.appendChild(overlay); //append this to the parent div rather than to document.
+                 //add into the xslt to put songs in song divs, and then use ancestor or parentNode to set variable song, and do below
+                 //here, add in a variable song, and then go by the song.getElementsByClass rather than document; too many in document and its slowing us down.
+                 var mySong = getClosest(elmt, '.song'); //for some reason wont work yet for stanza, but already quicker.
+                 var foo = mySong.getElementsByClassName("spanWrapper");
+                 for (var i = 0; (i != foo.length); i++){  
+                    if (foo[i].children[0].getAttribute("style")!="color:black" && foo[i] != elmt && (foo[i].children[0].getAttribute("title") == elmt.children[0].getAttribute("title"))){
                         var otherlay = document.createElement("div");
                         var otherText = document.createTextNode(foo[i].children[0].getAttribute("data-num"));
                         otherlay.appendChild(otherText);
-                        otherlay.setAttribute("style", "z-index: 10; background-color: AliceBlue; position: fixed; border: 2px solid black; border-radius: 7px; width: 10px; padding: 2px; margin: 0; text-align:center")
+                       // otherlay.setAttribute("style", "z-index: 10; background-color: AliceBlue; position: fixed; border: 2px solid black; border-radius: 7px; width: 10px; padding: 2px; margin: 0; text-align:center")
                         otherlay.setAttribute("class", "overlay");
                         foo[i].appendChild(otherlay);
                     }
@@ -164,6 +164,51 @@
                     }
                }
             }
+            
+            /** snagged from http://gomakethings.com/climbing-up-and-down-the-dom-tree-with-vanilla-javascript/
+            * Get closest DOM element up the tree that contains a class, ID, or data attribute
+            * @param  {Node} elem The base element
+            * @param  {String} selector The class, id, data attribute, or tag to look for
+            * @return {Node} Null if no match
+            */
+           var getClosest = function (elem, selector) {
+           
+               var firstChar = selector.charAt(0);
+           
+               // Get closest match
+               for ( ; elem && elem !== document; elem = elem.parentNode ) {
+           
+                   // If selector is a class
+                   if ( firstChar === '.' ) {
+                       if ( elem.classList.contains( selector.substr(1) ) ) {
+                           return elem;
+                       }
+                   }
+           
+                   // If selector is an ID
+                   if ( firstChar === '#' ) {
+                       if ( elem.id === selector.substr(1) ) {
+                           return elem;
+                       }
+                   } 
+           
+                   // If selector is a data attribute
+                   if ( firstChar === '[' ) {
+                       if ( elem.hasAttribute( selector.substr(1, selector.length - 2) ) ) {
+                           return elem;
+                       }
+                   }
+           
+                   // If selector is a tag
+                   if ( elem.tagName.toLowerCase() === selector ) {
+                       return elem;
+                   }
+           
+               }
+           
+               return false;
+           
+           };
 
             
 

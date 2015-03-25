@@ -18,7 +18,7 @@
                 
                 <xsl:apply-templates select="//song"/>
                 <xsl:apply-templates select="li"/>
-                <form action="">
+                <form action="" id="radios">
                     <label for="all" onclick="clearAllColor()"><input type="radio" name="device" value="all"
                         id="all" checked="checked" onclick="clearAllColor()" />all</label>
                     <label for="alliteration" onclick="clearAllColor()"><input type="radio" name="device"
@@ -48,14 +48,21 @@
             <xsl:apply-templates/>
         </h1>
     </xsl:template>
-    
+    <xsl:template match="song">
+        <h2><xsl:value-of select="@title"/></h2>
+        <div class="song">
+            <xsl:apply-templates/>
+        </div>
+    </xsl:template>
     <xsl:template match="stanza">
-        <xsl:apply-templates/>
+        <div class="stanza">
+            <xsl:apply-templates/>
+        </div>
         <br/>
-        <xsl:apply-templates select="li"/>
     </xsl:template>
     <xsl:template match="li">
         <xsl:apply-templates/>
+        <br/>
         <br/>
     </xsl:template>
     <xsl:template match="group">
