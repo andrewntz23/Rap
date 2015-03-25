@@ -49,17 +49,7 @@ div#navbar ul ul li {
     display: block;
 }
 #homebanner {
-    background: url(Joey.jpg) no-repeat;
-    background-size: cover;
-    width: 100%;
-    height: 100%;
-    left: 0px;
-    position: fixed;
-    top: 20px;
-}
-
-#methodbanner {
-    background: url(meditate.jpg) no-repeat;
+    background: url(splashheader.png) no-repeat;
     background-size: cover;
     width: 100%;
     height: 100%;
@@ -68,7 +58,16 @@ div#navbar ul ul li {
     top: 50px;
 }
 #projectbanner {
-    background: url(drums.jpg) no-repeat;
+    background: url(meditate.jpg) no-repeat;
+    background-size: cover;
+    width: 100%;
+    height: 100%;
+    left: 0px;
+    position: fixed;
+    top: 50px;
+}
+#methodbanner {
+    background: url(Joey.jpg) no-repeat;
     background-size: cover;
     width: 100%;
     height: 100%;
@@ -86,7 +85,7 @@ div#navbar ul ul li {
     top: 50px;
 }
 #rejexbanner {
-    background: url(Joey-Bad.jpg) no-repeat;
+    background: url(rejex.jpg) no-repeat;
     background-size: cover;
     width: 100%;
     height: 100%;
