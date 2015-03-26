@@ -9,7 +9,6 @@ Last things to finish off: contain to stanza, and get main popup in the right sp
                 setColor()
                 for(var i = 0; (i != foo.length); i++) { 
                     var num = foo[i].getAttribute('data-num');
-                    var text = foo[i].getAttribute('data-rhyme');
                     var layover = "overlay('popup".concat(num,  "', this)"); 
                     var layunder = "wipeOverlay('overlay')"
                     foo[i].setAttribute("onmouseover", layover);
@@ -73,22 +72,7 @@ Last things to finish off: contain to stanza, and get main popup in the right sp
                     }
                 return false;
             }
-            
-     /*       function highlighter(elmt){ //will want to also take as a parameter the radio that is selected. or at least grab it. probably grab it. 
-                var foo = document.getElementsByTagName("span");
-                for(var i = 0; (i != foo.length); i++) { 
-                    if (foo[i].getAttribute("title") == elmt.getAttribute("title")){ 
-                        if (foo[i].getAttribute("style").indexOf("font-size:200%") != -1){ 
-                            foo[i].setAttribute("style", foo[i].getAttribute("style").replace(/;font-size:200%/, "")); //if you try to add a different style thing besides font-size:200% doensnt' work. why?
-                                                                                                                       //might be easier to use css hover. 
-                        }
-                        else{
-                            foo[i].setAttribute("style", foo[i].getAttribute("style").concat(";font-size:200%"));
-                        }
-                    }
-                }
-            
-            }*/
+
             function overlay(id, elmt) { 
                  if (elmt.children[0].getAttribute("style") == "color:black") return; //if text is black, is not highlighted, and we don't want to work with it. else, proceed. 
                  if (document.getElementById(id)) return; // don't create a popup if there's already one open for this id

@@ -37,8 +37,8 @@
                     />repetition</label>
                     <label for="rhyme" onclick="clearAllColor()"><input type="radio" name="device"
                         value="rhyme" id="rhyme" onclick="clearAllColor()" /> rhyme</label>
-                    <label for="slant" onclick="clearAllColor()"><input type="radio" name="device"
-                        value="slant" id="slant" onclick="clearAllColor()" /> slant rhyme</label>
+                    <label for="slantRhyme" onclick="clearAllColor()"><input type="radio" name="device"
+                        value="slantRhyme" id="slantRhyme" onclick="clearAllColor()" /> slant rhyme</label>
                 </form>
             </body>
         </html>
