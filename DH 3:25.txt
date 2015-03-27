@@ -62,3 +62,11 @@ PAIGE:
 
 XSLT
 	-Write an XSLT to make a bar graph with one bar for each motif the height of which is just the count probably multiplied by something to make it look good. 
+
+in the AAVE descriptions, under the tense heading I would suggest changing “the wrong tense is used in a phrase”  to differing from SAE—unless I am misunderstanding, and tense is used to indicate moments when Joey’s tenses differ from AAVE rules. 
+
+Also, we don’t have a way to get to homepage currently from the menu bar, save from going to Team Bada$$ and then top of page… top of page is a nice feature, but it would be good to have a homepage tab as well. 
+
+Knights gets completely illegible over the background of Joeys hair in Summer Knights. Considering putting that in a div with some opacity? 
+
+Switch method to methods in navbar. 
