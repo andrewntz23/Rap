@@ -87,20 +87,45 @@ markup =
     | weed
     | sports
     | geo
+    | criticism
+    | violence
+    | drugs
+    | power
+    | sex
+    | religion
+    | history
     | group
     | AAVE
     | compound
 oldschool =
     element oldschool {
-        mixed { markup* }
+        mixed { markup* }}
+drugs =
+    element drugs {
+        mixed { markup* }}
+history =
+    element history {
+        mixed { markup* }}
+sex =
+    element sex {
+        mixed { markup* }}
+violence =
+    element violence {
+        mixed { markup* }}
+power =
+    element power {
+        mixed { markup* }}
+religion =
+    element religion {
+        mixed { markup* }        
     }
 success =
     element success {
-        mixed { markup* }
+        mixed { qual, markup* }
     }
 women =
     element women {
-        mixed { markup* }
+        mixed { qual, markup* }
     }
 fashion =
     element fashion {
@@ -120,7 +145,10 @@ alcohol =
     }
 money =
     element money {
-        mixed { markup* }
+        mixed { qual, markup* }}
+criticism =
+    element criticism {
+        mixed { markup* }        
     }
 haters =
     element haters {
@@ -142,6 +170,7 @@ hiphop =
     element hiphop {
         mixed { ref, markup* }
     }
+qual = attribute qual {"pursuit" | "possession" |"pos" |"neg"}
 ref =
     attribute ref {
         list {
@@ -206,6 +235,9 @@ ref =
              | "ProEra"
              | "Eminem"
              | "GrandmasterFlash"
+             | "NewYorkPost"
+             | "DirtySanchez"
+             | "ToyStory"
              | "FunkFlex"
              | "Akon"
              | "ChiefKeef"
