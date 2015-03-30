@@ -2123,8 +2123,8 @@
             <li><struggle>It really ain't easy livin' life like this</struggle></li>
             <li>When you <religion>tryin' to be righteous</religion> but know a nigga might just</li>
             <li><violence>Leave you <guns>lifeless</guns></violence> for <money qual="pursuit">prices</money>, or high tech devices</li>
-            <li>So keep that <guns>TEC-9</guns> or meet your crisis</li>
-            <li>It ain't easy livin' life like this</li>
+            <li>So keep that <guns>TEC-9</guns> or <violence>meet your crisis</violence></li>
+            <li><struggle>It ain't easy livin' life like this</struggle></li>
             <li>When you tryin' to be righteous but know a nigga might just</li>
             <li><violence>Leave you <guns>lifeless</guns></violence> for <money qual="pursuit">prices</money>, or high tech devices</li>
             <li>So keep that <guns>TEC-9</guns> or <violence>meet your crisis</violence></li>
@@ -2144,20 +2144,20 @@
             <li>So you know that if you would <group label="d" num="7" assimilation="5 6 8 9"><violence>fight</violence>
                     fair</group> then you'd have him like, <group label="d" num="8"
                     assimilation="5 6 7 9">quite scared</group></li>
-            <li>But don't forget the <guns>TEC</guns> held high by your <group label="d" num="9"
-                    assimilation="5 6 7 8">right ear</group></li>
+            <li>But don't forget the <guns>TEC</guns> <violence>held high by your <group label="d" num="9"
+                    assimilation="5 6 7 8">right ear</group></violence></li>
             <li>So listen loud and <group label="d" num="10" rhyme="11 14">clear</group>: you don't
                 wanna lose your life, <group label="d" num="11" rhyme="10 14">dear</group></li>
             <li>And don’t you show a <group label="d" num="12" assimilation="13">slight tear</group>
                 or let 'em <group label="d" num="13" assimilation="12">sight fear</group></li>
             <li>Just let 'em <group label="d" num="14" rhyme="10 11">disappear</group> the <group
                     label="d" num="15" assimilation="16">night air</group>, yea with your <group
-                    label="d" num="16" assimilation="15"><popculture ref="Nike">Nike
-                        Airs</popculture></group></li>
+                    label="d" num="16" assimilation="15"><fashion>Nike
+                        Airs</fashion></group></li>
             <li>Ride by the <drugs>crackheads</drugs>, left alone in the apartment</li>
-            <li><women qual="pos">Mothers</women> be <group label="e" num="1" rhyme="2">jobless</group>, so
+            <li><struggle><women qual="pos">Mothers</women> be <group label="e" num="1" rhyme="2">jobless</group>, so
                 they make <money qual="pursuit">dollars</money> <sex>shaking it <group label="e" num="2" rhyme="1"
-                    >topless</group></sex>, and</li>
+                    >topless</group></sex>, and</struggle></li>
             <li><struggle>Daddy been gone said he, took off like <group label="e" num="3" slantRhyme="4 5 6"
                     >ostrich</group></struggle></li>
             <li>Since he gain <group label="e" num="4" slantRhyme="3 5 6">knowledge</group>, I’m
@@ -2171,28 +2171,28 @@
             <li>Have no <group label="e" num="9" slantRhyme="7 8 10 11">shame</group>, nothing wrong
                 with some <weed>Mary <group label="e" num="10" slantRhyme="7 8 9 11"
                     >Jane</group></weed></li>
-            <li>The only thing is you do it <group label="e" num="11" slantRhyme="7 8 9 10"
-                    >again</group>, and again, and again, and again</li>
+            <li><struggle>The only thing is you do it <group label="e" num="11" slantRhyme="7 8 9 10"
+                    >again</group>, and again, and again, and again</struggle></li>
             <li>And again, and again, and again...</li>
         </stanza>
 
         <stanza type="hook" speaker="JoeyBada$$">
-            <li>It ain't easy livin' life like this</li>
-            <li>When you tryin' to be righteous but know a nigga might just</li>
-            <li>Leave you <guns>lifeless</guns> for <money>prices</money>, or high tech devices</li>
-            <li>So keep that <guns>TEC-9</guns> or meet your crisis</li>
-            <li>It really ain't easy livin' life like this</li>
-            <li>When you tryin' to be righteous but know a nigga might just</li>
-            <li>Leave you <guns>lifeless</guns> for <money>prices</money>, or high tech devices</li>
-            <li>So keep that <guns>TEC-9</guns> or meet your crisis</li>
-            <li>It ain't easy livin' life like this</li>
-            <li>When you tryin' to be righteous but know a nigga might just</li>
-            <li>Leave you <guns>lifeless</guns> for <money>prices</money>, or high tech devices</li>
-            <li>So keep that <guns>TEC-9</guns> or meet your crisis</li>
-            <li>It really ain't easy livin' life like this</li>
-            <li>When you tryin' to be righteous but know a nigga might just</li>
-            <li>Leave you <guns>lifeless</guns> for <money>prices</money>, or high tech devices</li>
-            <li>So keep that <guns>TEC-9</guns> or meet your crisis</li>
+            <li><struggle>It ain't easy livin' life like this</struggle></li>
+            <li>When you <religion>tryin' to be righteous</religion> but know a nigga might just</li>
+            <li><violence>Leave you <guns>lifeless</guns></violence> for <money qual="pursuit">prices</money>, or high tech devices</li>
+            <li>So keep that <guns>TEC-9</guns> or <violence>meet your crisis</violence></li>
+            <li><struggle>It really ain't easy livin' life like this</struggle></li>
+            <li>When you <religion>tryin' to be righteous</religion> but know a nigga might just</li>
+            <li><violence>Leave you <guns>lifeless</guns></violence> for <money qual="pursuit">prices</money>, or high tech devices</li>
+            <li>So keep that <guns>TEC-9</guns> or <violence>meet your crisis</violence></li>
+            <li><struggle>It ain't easy livin' life like this</struggle></li>
+            <li>When you <religion>tryin' to be righteous</religion> but know a nigga might just</li>
+            <li><violence>Leave you <guns>lifeless</guns></violence> for <money qual="pursuit">prices</money>, or high tech devices</li>
+            <li>So keep that <guns>TEC-9</guns> or <violence>meet your crisis</violence></li>
+            <li><struggle>It really ain't easy livin' life like this</struggle></li>
+            <li>When you <religion>tryin' to be righteous</religion> but know a nigga might just</li>
+            <li><violence>Leave you <guns>lifeless</guns></violence> for <money qual="pursuit">prices</money>, or high tech devices</li>
+            <li>So keep that <guns>TEC-9</guns> or <violence>meet your crisis</violence></li>
         </stanza>
 
         <stanza type="interlude" speaker="Nas Youngster">
@@ -2202,8 +2202,8 @@
         <stanza type="verse" speaker="JoeyBada$$">
             <li>Imagine me fed up, a <group label="f" num="1" assimilation="2 3 4 5 6"
                     >go-getter</group>, for <group label="f" num="2" assimilation="1 3 4 5 6">mo'
-                            <food><money>cheddar</money></food></group></li>
-            <li><group label="f" num="3" assimilation="1 2 4 5 6">Po' never</group>, <group
+                            <food><money qual="pursuit">cheddar</money></food></group></li>
+            <li><group label="f" num="3" assimilation="1 2 4 5 6"><money qual="possession">Po' never</money></group>, <group
                     label="f" num="4" assimilation="1 2 3 5 6">blow <guns>Berettas</guns></group>
                 ‘cause I know <group label="f" num="5" assimilation="1 2 3 4 6">no
                 better</group></li>
@@ -2216,11 +2216,11 @@
                     rhyme="7">no me</group></li>
             <li>What if I just ain't <group label="f" num="9" assimilation="10 11 12 13 14 15 16 17"
                     >act right</group>?</li>
-            <li>What if I pack <group label="f" num="10" assimilation="9 11 12 13 14 15 16 17">crack
-                    white</group> with my <group label="f" num="11"
-                    assimilation="9 10 12 13 14 15 16 17">sack tight</group>, join the <group
+            <li>What if I <drugs>pack <group label="f" num="10" assimilation="9 11 12 13 14 15 16 17">crack
+                    white</group></drugs> with my <group label="f" num="11"
+                    assimilation="9 10 12 13 14 15 16 17">sack tight</group>, <violence>join the <group
                     label="f" num="12" assimilation="9 10 11 13 14 15 16 17"><guns>gat</guns>
-                    fight</group>?</li>
+                    fight</group>?</violence></li>
             <li>The <group label="f" num="13" assimilation="9 10 11 12 14 15 16 17"
                         ><guns>click-clack</guns> type</group>, slide in the <group label="f"
                     num="14" assimilation="9 10 11 12 13 15 16 17">vipe</group> with the <group
