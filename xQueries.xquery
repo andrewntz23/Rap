@@ -16,19 +16,20 @@ unless I'm mistaken, @artist is going to be replaced with
  can fix quickly)
 :)
 
-let $refArtists := distinct-values($info//li/hiphop/@ref)
+(:let $refArtists := distinct-values($info//li/hiphop/@ref)
 for $refArtist in $refArtists
 order by $refArtist
-return ($refArtist, '&#10;')
+return ($refArtist, '&#10;'):)
 
 (:The purpose of this xQuery is to find all artists that are referenced in the corpus.
 Joey and the featured artists on his projects utilize a wide variety of references to other figures in hip hop, 
 and the results of this query will be used to create a social network graph in cytoscape that will trace the variety and frequency of these references.:)
 
-(:let $refGeos := distinct-values($info//li/*/name()[geo])
+(:let $refGeos := distinct-values($info//li//geo/@ref)
 for $refGeo in $refGeos
 order by $refGeo
-return $info//*[name()=$refGeo]:)
+return ($refGeo, '&#10;')
+:)
 
 (:The purpose of this xQuery is to find all geographic locations that are referenced in the corpus. 
 Joey and the featured artists refer to geographic locations across the world (primarily in New York); 
