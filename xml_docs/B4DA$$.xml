@@ -1444,45 +1444,45 @@
             <li>The only <group label="a" num="2" rhyme="1">child who</group>? yo yo yo</li>
         </stanza>
         <stanza type="verse" speaker="JoeyBada$$">
-            <li>Back once again, hello it's <AAVE field="phon" type="dropping" sound="r"
-                    position="final">yo'</AAVE> favorite mellow schizo</li>
-            <li>The pavement on this <popculture ref="WizardofOz">yellow brick road</popculture></li>
+            <li>Back once again, <group label="b" num="1" rhyme="2 3 4 6">hello</group> it's <AAVE field="phon" type="dropping" sound="r"
+                    position="final">yo'</AAVE> favorite <group label="b" num="2" rhyme="1 3 4 6">mellow</group> <group label="b" num="3" rhyme="1 2 4 6">schizo</group></li>
+            <li>The pavement on this <popculture ref="WizardofOz"><group label="b" num="4" rhyme="1 2 3 6">yellow</group> brick road</popculture></li>
             <li><AAVE field="phon" type="dropping" sound="g" position="final">Fuckin'</AAVE> up my
-                mental</li>
-            <li>My mood <AAVE type="deletion" field="syn" class="copula"/>just like the tempo</li>
-            <li>Heartbeat, that instrumental</li>
-            <li>I never lack potential</li>
-            <li>Every track is essential</li>
-            <li>Every project is special, abundant and fundamental</li>
+                <group label="b" num="5" rhyme="7 8 9 10 11 12">mental</group></li>
+            <li>My mood <AAVE type="deletion" field="syn" class="copula"/>just like the <group label="b" num="6" rhyme="1 2 3 4">tempo</group></li>
+            <li>Heartbeat, that <group label="b" num="7" rhyme="5 8 9 10 11 12">instrumental</group></li>
+            <li>I never lack <group label="b" num="8" rhyme="5 7 9 10 11 12">potential</group></li>
+            <li>Every track is <group label="b" num="9" rhyme="5 7 8 10 11 12">essential</group></li>
+            <li>Every project is <group label="b" num="10" rhyme="5 7 8 9 11 12">special</group>, abundant and <group label="b" num="11" rhyme="5 7 8 9 10 12">fundamental</group></li>
             <li>Give a fuck about <money>hundreds</money></li>
-            <li>As long as it's for my mental</li>
-            <li>With wisdom from what I've been through</li>
-            <li>Knowledge that some can't get to</li>
-            <li>Understanding that college is only out for <money>a nickel</money></li>
-            <li>It could all be so simple</li>
-            <li>Tune it to the metronome</li>
-            <li>This how I used to feel back on the metro home</li>
+            <li>As long as it's for my <group label="b" num="12" rhyme="5 7 8 9 10 11">mental</group></li>
+            <li><group label="b" num="13" alliteration="14">With</group> <group label="b" num="14" alliteration="13">wisdom</group> from what I've <group label="b" num="15" rhyme="16">been through</group></li>
+            <li>Knowledge that some can't <group label="b" num="16" rhyme="15">get to</group></li>
+            <li>Understanding that college is only out for <group label="b" num="17" rhyme="18"><money>a nickel</money></group></li>
+            <li>It could all be so <group label="b" num="18" rhyme="17">simple</group></li>
+            <li>Tune it to the <group label="b" num="19" rhyme="20">metronome</group></li>
+            <li>This how I used to feel back on the <group label="b" num="20" rhyme="19">metro home</group></li>
             <li>Fresh <AAVE field="phon" type="contraction" word1="out" word2="of">outta</AAVE>
-                class I knew these days, they wouldn't last</li>
-            <li>Just a stepping stone I <AAVE field="syn" type="contraction" word1="got" word2="to"
-                    >gotta</AAVE> pass</li>
+                <group label="b" num="21" slantRhyme="22">class</group> I knew these days, they wouldn't <group label="b" num="22" slantRhyme="21">last</group></li>
+            <li>Just a <group label="b" num="23" alliteration="24">stepping</group> <group label="b" num="24" alliteration="23">stone</group> I <AAVE field="syn" type="contraction" word1="got" word2="to"
+                    >gotta</AAVE> <group label="b" num="25" slantRhyme="26">pass</group></li>
             <li>Another story for the lap</li>
-            <li>But fuck it, give him glory when he crash</li>
+            <li>But fuck it, give him glory when he <group label="b" num="26" slantRhyme="25">crash</group></li>
             <li>He <AAVE type="deletion" field="syn" class="copula"/><AAVE field="phon"
-                    type="dropping" sound="g" position="final">gettin'</AAVE> revved up, heads
-                up</li>
-            <li>And he's coming fast</li>
-            <li>He paved the lane before the <money>cash</money></li>
+                    type="dropping" sound="g" position="final">gettin'</AAVE> <group label="b" num="27" rhyme="28">revved up</group>, <group label="b" num="28" rhyme="27">heads
+                up</group></li>
+            <li>And he's coming <group label="b" num="29" slantRhyme="30">fast</group></li>
+            <li>He paved the lane before the <group label="b" num="30" slantRhyme="29"><money>cash</money></group></li>
             <li>They <AAVE type="deletion" field="syn" class="copula"/><AAVE field="syn"
                     type="contraction" word1="trying" word2="tol">tryna</AAVE>, swerve me out of
                 that</li>
             <li>But I don't just got speed, nigga</li>
-            <li>I handle my ass, pedal to the gas</li>
-            <li>Life is but a getaway dash</li>
-            <li>My mama <money>stash</money> guarded by my pen and pad</li>
+            <li>I handle my <group label="b" num="31" rhyme="32">ass</group>, pedal to the <group label="b" num="32" rhyme="31">gas</group></li>
+            <li>Life is but a getaway <group label="b" num="33" rhyme="34">dash</group></li>
+            <li>My mama <group label="b" num="34" rhyme="33"><money>stash</money></group> guarded by my <group label="b" num="35" alliteration="36">pen</group> and <group label="b" num="36" alliteration="35">pad</group></li>
             <li>I'm <AAVE field="phon" type="dropping" sound="g" position="final"
-                >drawin'</AAVE> <guns>weapons</guns> with the raps</li>
-            <li><guns>You shoot, I shoot back</guns> no questions asked</li>
+                >drawin'</AAVE> <guns>weapons</guns> with the <group label="b" num="37" slantRhyme="38">raps</group></li>
+            <li><guns>You shoot, I shoot back</guns> no questions <group label="b" num="38" slantRhyme="37">asked</group></li>
             <li>Raise your hands for the realest cat alive</li>
         </stanza>
         <stanza type="hook" speaker="JoeyBada$$">
@@ -1491,17 +1491,17 @@
         </stanza>
         <stanza type="verse" speaker="JoeyBada$$">
             <li>And I remember<AAVE field="phon" type="dropping" sound="g" position="final"
-                    >sittin'</AAVE>in my room all alone</li>
-            <li>Starring at my ceiling fan, getting in my zone</li>
-            <li>Mama was never home</li>
-            <li><struggle>Woke up one morning, papa was gone</struggle></li>
-            <li><struggle>Young and lost</struggle> so I ease my mind to popular songs</li>
-            <li>And of course I sold my mind to music</li>
+                    >sittin'</AAVE>in my room all <group label="c" num="1" rhyme="2">alone</group></li>
+            <li>Staring at my ceiling fan, getting in my <group label="c" num="2" rhyme="1" slantRhyme="3">zone</group></li>
+            <li>Mama was never <group label="c" num="3" slantRhyme="2">home</group></li>
+            <li><struggle>Woke up one morning, papa was <group label="c" num="4" slantRhyme="5">gone</group></struggle></li>
+            <li><struggle>Young and lost</struggle> so I ease my mind to popular <group label="c" num="5" slantRhyme="4">songs</group></li>
+            <li>And of course I sold my <group label="c" num="6" alliteration="7">mind</group> to <group label="c" num="7" alliteration="6">music</group></li>
             <li>Writing everything I thought</li>
             <li>Started<AAVE field="phon" type="dropping" sound="g" position="final"
-                >openin'</AAVE>my mind, then I send in a broad</li>
+                >openin'</AAVE>my mind, then I send in a <group label="c" num="8" slantRhyme="9">broad</group></li>
             <li>They don't know what my <AAVE field="phon" type="dropping" sound="g"
-                    position="final">sinnin'</AAVE> has caused</li>
+                    position="final">sinnin'</AAVE> has <group label="c" num="9" slantRhyme="8">caused</group></li>
             <li>My third <AAVE field="syn" type="aspect" tense="progressive">eye been
                     blinking</AAVE> since</li>
             <li><hiphop ref="IrvGotti">Irv Gotti been Inc. and Murder</hiphop> in stores</li>
@@ -1523,11 +1523,11 @@
             <li>The only child blues</li>
         </stanza>
         <stanza type="outro" speaker="JoeyBada$$">
-            <li>Only child blues, <weed>OCB</weed> <weed>OCB</weed></li>
-            <li><hiphop ref="JoeyBada$$">Jo-Vaughn</hiphop> clean your room, OCD OCD</li>
+            <li>Only child blues, <weed>OCB</weed> <group label="d" num="1" rhyme="2 3 4"><weed>OCB</weed></group></li>
+            <li><hiphop ref="JoeyBada$$">Jo-Vaughn</hiphop> clean your room, OCD <group label="d" num="2" rhyme="1 3 4">OCD</group></li>
             <li>I used to <AAVE field="phon" type="contraction" word1="want" word2="to">wanna</AAVE>
-                be like <hiphop ref="OlDirtyBastard">ODB</hiphop> <hiphop ref="OlDirtyBastard">ODB</hiphop></li>
-            <li><success>Now I'm a rap star, OMG OMG</success></li>
+                be like <hiphop ref="OlDirtyBastard">ODB</hiphop> <group label="d" num="3" rhyme="1 2 4"><hiphop ref="OlDirtyBastard">ODB</hiphop></group></li>
+            <li><success>Now I'm a rap star, OMG <group label="d" num="4" rhyme="1 2 3">OMG</group></success></li>
             <li>Only child blues, <weed>OCB</weed> <weed>OCB</weed></li>
             <li><hiphop ref="JoeyBada$$">Jo-Vaughn</hiphop> clean your room, OCD OCD</li>
             <li>I used to <AAVE field="phon" type="contraction" word1="want" word2="to">wanna</AAVE>
