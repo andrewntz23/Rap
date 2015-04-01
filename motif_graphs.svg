@@ -6,15 +6,15 @@
     <xsl:variable name="barInterval" select="$barWidth + 10"/>
     <xsl:variable name="barHeight" select="300"/>
     <xsl:variable name="barShift" select="22"/>
-    <xsl:variable name="motif" select="15"/>
+    
     <xsl:variable name="lineWidth" select="$motif*$barInterval + 20"/>
-    <xsl:variable name="motifs"
+    <xsl:variable name="motif"
         select="distinct-values(//li/descendant::*[not(self::group)][not(self::AAVE)][not(self::AAVE)]/name())"/>
     <xsl:template match="/">
         <svg height="100%" width="100%">
             <g transform="translate(40, 350)">
                 <text x="{$lineWidth div 2}" y="-{$barHeight + 20}" text-anchor="middle"><xsl:apply-templates select="//albumTitle"/></text>
-                <line x1="20" x2="20" y1="0" y2="-320" stroke="black" stroke-width="1"/>
+                <line x1="20" x2="20" y1="0" y2="-{$barHeight + 20}" stroke="black" stroke-width="1"/>
                 <line x1="20" x2="{$lineWidth}" y1="0" y2="0" stroke="black"
                     stroke-width="1"/>
                 <line x1="{20}" x2="{$lineWidth}" y1="-{$barHeight div 2}"
@@ -28,30 +28,16 @@
         </svg>
     </xsl:template>
     <xsl:template match="album">
-        <xsl:variable name="money" select="//money"/>
-        <xsl:variable name="oldschool" select="//oldschool"/>
-        <xsl:variable name="success" select="//success"/>
-        <xsl:variable name="women" select="//women"/>
-        <xsl:variable name="fashion" select="//fashion"/>
-        <xsl:variable name="struggle" select="//struggle"/>
-        <xsl:variable name="food" select="//food"/>
-        <xsl:variable name="money" select="//money"/>
-        <xsl:variable name="alcohol" select="//alcohol"/>
-        <xsl:variable name="hiphop" select="//hiphop"/>
-        <xsl:variable name="haters" select="//haters"/>
-        <xsl:variable name="guns" select="//guns"/>
-        <xsl:variable name="popculture" select="//popculture"/>
-        <xsl:variable name="weed" select="//weed"/>
-        <xsl:variable name="sports" select="//sports"/>
-        <xsl:variable name="geo" select="//geo"/>
-        <xsl:variable name="criticism" select="//criticism"/>
-        <xsl:variable name="violence" select="//violence"/>
-        <xsl:variable name="drugs" select="//drugs"/>
-        <xsl:variable name="power" select="//power"/>
-        <xsl:variable name="sex" select="//sex"/>
-        <xsl:variable name="religion" select="//religion"/>
-        <xsl:variable name="history" select="//history"/>
-        <xsl:apply-templates/>
+        <xsl:variable name="motifPos" select="position()-1"/>
+        <xsl:variable name="xPosition" select="$motifPos*$barInterval"/>
+        <xsl:variable name="motifCount" select="count($motif)"/>
+        <xsl:for-each select="$motif">
+            
+            <rect x="{$xPosition + $barShift}" y="-{$motifCount * $barHeight}" stroke="black"
+                stroke-width=".5" fill="blue" width="{$barWidth}" height="{$motifCount * $barHeight}"/>
+            <text x="{$xPosition + $barWidth div 2 + $barShift}" y="20" text-anchor="middle">
+                <xsl:value-of select="./name()"/></text>
+        </xsl:for-each>
     </xsl:template>
     
 </xsl:stylesheet>
