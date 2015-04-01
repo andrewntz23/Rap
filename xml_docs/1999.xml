@@ -940,8 +940,8 @@
                     num="24" rhyme="25">again</group></li>
             <li>I’m street so cross me like <group label="e" num="25" rhyme="24"
                 >pedestrians</group></li>
-            <li>And that’s gon' be the <group label="e" num="26" assimilation="27">end of
-                it</group>, straight revoking your <group label="e" num="27" assimilation="26"
+            <li>And that’s gon' be the <group label="e" num="26" slantRhyme="27">end of
+                it</group>, straight revoking your <group label="e" num="27" slantRhyme="26"
                     >membership</group></li>
         </stanza>
 
@@ -985,16 +985,16 @@
                 <group label="g" num="7" rhyme="9">sporty</group>, <guns><group label="g" num="8"
                     rhyme="6">Glock</group>
                 <group label="g" num="9" rhyme="7">40</group></guns> in a <power><group
-                    label="g" num="10" assimilation="12 13 14 19">politician</group>
+                    label="g" num="10" rhyme="12 13 14">politician</group>
                 <group label="g" num="11" slantRhyme="3 5">mouth</group></power></li>
-            <li><violence>I take the <group label="g" num="12" assimilation="10 13 14 19">competition</group>
-                out</violence> <group label="g" num="13" assimilation="10 12 14 19">commission</group> with my
-                    <group label="g" num="14" assimilation="10 12 13 19">composition</group></li>
+            <li><violence>I take the <group label="g" num="12" rhyme="10 13 14">competition</group>
+                out</violence> <group label="g" num="13" rhyme="10 12 14" assimilation="19">commission</group> with my
+                    <group label="g" num="14" rhyme="10 12 13" assimilation="19">composition</group></li>
             <li>Who the <group label="g" num="15" assonance="16">kid</group>
                 <group label="g" num="16" assonance="15">spitting</group>
                 <group label="g" num="17" alliteration="18">behind</group> the <group label="g"
                     num="18" alliteration="17">bars</group> like a <group label="g" num="19"
-                    assimilation="10 12 13 14" rhyme="20">con position</group></li>
+                    assimilation="14" rhyme="20">con position</group></li>
             <li>Gotta give ‘em time to <group label="g" num="20" rhyme="19">listen</group>, they’ll
                 soon bump to it</li>
             <li>They’ll like me, I kick it <group label="h" num="1" assonance="2">like</group>
