@@ -3,10 +3,9 @@
     <xsl:output method="text"/>
     <xsl:template match="/">
         <xsl:variable name="motifs"
-            select="distinct-values(//li/descendant::*[not(self::group)][not(self::AAVE)]/name())"/>
+            select="distinct-values(//li/descendant::*[not(self::group)][not(self::AAVE)][not(self::compounds)]/name())"/>
         <xsl:variable name="doc" select="/"/>
         <xsl:for-each select="$motifs">
-            <xsl:apply-templates select="document(@1999, @Rejex, @SummerKnights @B4DA$$)"/>
             <xsl:variable name="thisElement" select="."/>
             <xsl:variable name="otherMotifs" select="remove($motifs, position())"/>
             <xsl:for-each select="$otherMotifs">
