@@ -9,19 +9,19 @@
     </meta>
     <song title="SaveTheChildren" production="StatikSelektah">
         <stanza type="verse" speaker="JoeyBada$$">
-            <li>It's all a <group label="a" num="1" alliteration="2">hidden</group> <group label="a" num="2" alliteration="1" rhyme="3 4 6">history</group>, and <group label="a" num="3" rhyme="2 4 6">mysteries</group></li>
+            <li>It's all a <history><group label="a" num="1" alliteration="2">hidden</group> <group label="a" num="2" alliteration="1" rhyme="3 4 6">history</group></history>, and <group label="a" num="3" rhyme="2 4 6">mysteries</group></li>
             <li>I see <group label="a" num="4" rhyme="2 3 6">vividly</group>, <group label="a" num="5" slantRhyme="7">hysteria</group></li>
-            <li>Cause <group label="a" num="6" rhyme="2 3 4">misery</group> on the <group label="a" num="7" slantRhyme="5" rhyme="8 9 11">interior</group></li>
+            <li>Cause <group label="a" num="6" rhyme="2 3 4"><struggle>misery</struggle></group> on the <group label="a" num="7" slantRhyme="5" rhyme="8 9 11">interior</group></li>
             <li>Shit gets more <group label="a" num="8" rhyme="7 9 11">scarier</group>, I'm <group label="a" num="9" rhyme="7 8 11">never</group> <group label="a" num="10" assimilation="11">in fear</group></li>
             <li>Just a little <group label="a" num="11" assimilation="10" rhyme="7 8 9">inferior</group> in <group label="a" num="12" assimilation="14">some areas</group></li>
-            <li>But I <group label="a" num="13" rhyme="15">share</group>, wisdom with <group label="a" num="14" assimilation="12"><oldschool>Sumerians</oldschool></group></li>
+            <li>But I <group label="a" num="13" rhyme="15">share</group>, wisdom with <group label="a" num="14" assimilation="12"><history>Sumerians</history></group></li>
             <li><group label="a" num="15" rhyme="13">Somewhere</group> we<AAVE field="syn" type="deletion" class="copula"/> in the place</li>
-            <li>Peace means <group label="b" num="1" rhyme="2">harmony</group>, not <guns>war and <group label="b" num="2" rhyme="1">armory</group></guns></li>
+            <li>Peace means <group label="b" num="1" rhyme="2">harmony</group>, not <violence>war and <group label="b" num="2" rhyme="1"><guns>armory</guns></group></violence></li>
             <li>But fuck <group label="b" num="3" slantRhyme="4">that</group>, <guns>cock your gun <group label="b" num="4" slantRhyme="3">back</group></guns></li>
             <li>This <AAVE field="syn" type="deletion" class="copula"/><popculture ref="Darwin"
                     >survival of the fittest</popculture></li>
             <li>Some cats get boxed in where they litter</li>
-            <li>These niggas don't <group label="b" num="5" slantRhyme="6">beez in the trap</group>, they like <group label="b" num="6" slantRhyme="5">beez in the track</group></li>
+            <li><criticism>These niggas don't <group label="b" num="5" slantRhyme="6"><hiphop ref="NickiMinaj">beez in the trap</hiphop></group>, they like <group label="b" num="6" slantRhyme="5">beez in the track</group></criticism></li>
             <li><guns><weed>Get<group label="b" num="7" rhyme="8"> smoked out</group></weed></guns> and I <AAVE field="syn" type="contraction"
                     word1="am" word2="not">ain't</AAVE>
                 <AAVE field="phon" type="dropping" sound="g" position="final">talkin'</AAVE>
@@ -29,19 +29,19 @@
                 <weed><group label="b" num="8" rhyme="7">toke out</group></weed></li>
             <li>You <weed>toked out</weed> for really <AAVE field="phon" type="dropping" sound="g"
                     position="final">thinkin'</AAVE> that this shit is a <group label="b" num="9" rhyme="12">silly dream</group></li>
-            <li>When <group label="b" num="10" rhyme="11">actually</group> <group label="b" num="11" rhyme="10">reality</group> <AAVE field="syn" type="contraction" word1="is" word2="not"
+            <li><criticism>When <group label="b" num="10" rhyme="11">actually</group> <group label="b" num="11" rhyme="10">reality</group> <AAVE field="syn" type="contraction" word1="is" word2="not"
                     >ain't</AAVE> what it <group label="b" num="12" rhyme="9">really <AAVE field="phon" type="dropping" sound="s"
-                    position="final">seem</AAVE></group></li>
+                    position="final">seem</AAVE></group></criticism></li>
             <li>And I <AAVE field="syn" type="contraction" word1="am" word2="not">ain't</AAVE>
                 <AAVE field="phon" type="dropping" sound="g" position="final">actin'</AAVE> on the
                 <group label="b" num="13" slantRhyme="14">scene</group>, niggas <group label="b" num="14" slantRhyme="13">scream</group></li>
             <li>The actions <AAVE field="syn" type="contraction" word1="are" word2="not"
                     >ain't</AAVE> <group label="b" num="15" slantRhyme="16">screened</group>, just <compound head="scheme" stem="well" type="endo"
                     >well-<group label="b" num="16" slantRhyme="15">schemed</group></compound></li>
-            <li>I'm <AAVE field="syn" type="contraction" word1="trying" word2="2">tryna'</AAVE> have
-                <money>wealth</money> for my <group label="b" num="17" slantRhyme="18">well-being</group></li>
-            <li>By <group label="b" num="18" slantRhyme="17" rhyme="19">eighteen</group>, <money><success>pockets <AAVE field="syn" type="deletion" class="copula"/>healthy
-                <group label="b" num="19" rhyme="18" >green</group></success></money></li>
+            <li>I'm <money qual="pursuit"><AAVE field="syn" type="contraction" word1="trying" word2="2">tryna'</AAVE> have
+                wealth</money> for my <group label="b" num="17" slantRhyme="18">well-being</group></li>
+            <li><success qual="possession">By <group label="b" num="18" slantRhyme="17" rhyme="19">eighteen</group>, <money qual="possession">pockets <AAVE field="syn" type="deletion" class="copula"/>healthy
+                <group label="b" num="19" rhyme="18" >green</group></money></success></li>
             <li>What the fuck is twelve <group label="b" num="20" rhyme="22 25">beams</group>?</li>
             <li>I need the <group label="b" num="21" alliteration="22" rhyme="23"><food><money>cake</money></food></group> and <group label="b" num="22" alliteration="21" rhyme="20 25" slantRhyme="24"><food><money>cream</money></food></group></li>
             <li>The <group label="b" num="23" rhyme="21">stakes</group> <AAVE field="syn" type="tense" person="third">is</AAVE> high like <group label="b" num="24" slantRhyme="22">fiends</group>
