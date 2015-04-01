@@ -48,7 +48,7 @@
                 off a <group label="b" num="25" rhyme="20 22" slantRhyme="28">dream</group></li>
             <li><success>Jet <group label="b" num="26" rhyme="27">streaming</group> <group label="b" num="27" rhyme="26">having</group> <group label="b" num="28" slantRhyme="25"><food>cuisine</food></group></success></li>
             <li>With the <group label="b" num="29" rhyme="30 31">best season</group> since the <group label="b" num="30" rhyme="29 31">vet season</group></li>
-            <li><guns><fashion>Carry a <group label="b" num="31" rhyme="29 30">vest</fashion></guns>, you know the reason</group></li>
+            <li><guns/><fashion/>Carry a <group label="b" num="31" rhyme="29 30">vest, you know the reason</group></li>
             <li>I'm in <compound head="Chicago" stem="Iraq" type="exo"><geo ref="Chicago">Chi-raq</geo></compound> and I'm
                 getting blown like the <group label="c" num="1" slantRhyme="2 3">breezes</group></li>
             <li>The <food>chicken</food> <women>strip <group label="c" num="2" slantRhyme="1 3">teasers</group></women></li>

@@ -21,17 +21,17 @@
                         slantRhyme="1 2 4">limits</group> cause we in 'em, <weed>eyes
                     low</weed></success></li>
             <li><group label="a" num="4" slantRhyme="1 2 3">Squinted</group>, more <weed>L's</weed>
-                but <success qual="possession">we <group label="a" num="5" alliteration="7"
+                but <success qual="possession"><group label="a" num="5" alliteration="6">we</group> <group label="a" num="6" alliteration="5"
                         >winning</group></success>, acting like it's</li>
-            <li><success qual="possession"><group label="a" num="6" assimilation="7 8">Hard to find
+            <li><success qual="possession"><group label="a" num="7" assimilation="8 9">Hard to find
                             <women qual="pos">women</women></group> when I'm in these <group
-                        label="a" num="7" assimilation="6 8">hard-to-find
+                        label="a" num="8" assimilation="7 9">hard-to-find
                 linens</group></success></li>
-            <li><struggle>Remember those days it was <group label="a" num="8" assimilation="6 7"
-                        rhyme="9">hard to find a living</group></struggle></li>
+            <li><struggle>Remember those days it was <group label="a" num="9" assimilation="7 8"
+                        rhyme="10">hard to find a living</group></struggle></li>
             <li>But now we got <money qual="possession">ends</money>, and it's only the <group
-                    label="a" num="9" rhyme="8" slantRhyme="10">beginning</group></li>
-            <li><hiphop ref="Jay-Z">Big <group label="a" num="10" slantRhyme="9"
+                    label="a" num="10" rhyme="9" slantRhyme="11">beginning</group></li>
+            <li><hiphop ref="Jay-Z">Big <group label="a" num="11" slantRhyme="10"
                     >pimpin'</group></hiphop>, <women qual="neg">fooling dimes, rob 'em for they
                         <group label="b" num="1" assonance="3">innocence</group></women></li>
             <li><money qual="possession">Cake like <group label="b" num="2" rhyme="3"
@@ -111,14 +111,14 @@
                         ref="NewYorkPost">Daily <group label="d" num="10" rhyme="2 3 5 7 8 9 11"
                             >Postal</group></popculture></success></li>
             <li><success qual="pursuit">Flying <group label="d" num="11" rhyme="10"
-                    >coastal</group></success> eatin <group label="d" num="12" assimilation="13"
+                    >coastal</group></success> eatin <group label="d" num="12" rhyme="13"
                         ><food>tofu</food></group></li>
-            <li>Like I <group label="d" num="13" assimilation="12">told you</group>
+            <li>Like I <group label="d" num="13" rhyme="12">told you</group>
                 <criticism>I know niggas who <group label="e" num="1" slantRhyme="2">trash
                         rappin</group></criticism></li>
-            <li><criticism>Worried bout the <group label="e" num="2" slantRhyme="1" assimilation="3"
+            <li><criticism>Worried bout the <group label="e" num="2" slantRhyme="1" rhyme="3"
                             ><fashion>trendin fashions</fashion></group> rather than <group
-                        label="e" num="3" assimilation="2">ascendin'
+                        label="e" num="3" rhyme="2">ascendin'
                 passion</group></criticism></li>
             <li><criticism>They want me <group label="e" num="4" repetition="5">send em</group>
                     tracks</criticism> but I just <group label="e" num="5" repetition="4">send
@@ -265,12 +265,12 @@
                     slantRhyme="10 11 12 14">more crucial</group></li>
             <li>Should use the word <group label="i" num="14" slantRhyme="10 11 12 13"
                     >brutal</group>, cuz my parents <group label="i" num="15"
-                    assimilation="16 17 18">mad strict</group></li>
+                    alliteration="16 17 18" rhyme="17">mad strict</group></li>
             <li>Hope one day I'll attract the likes of even <group label="i" num="16"
-                    assimilation="15 17 18"><hiphop ref="Madlib">Madlib</hiphop></group></li>
-            <li><success qual="pursuit">Go gold on <group label="i" num="17" assimilation="15 16 18"
+                    alliteration="15 17 18"><hiphop ref="Madlib">Madlib</hiphop></group></li>
+            <li><success qual="pursuit">Go gold on <group label="i" num="17" alliteration="15 16 18" rhyme="15"
                         >mad shit</group> and hear my songs <group label="i" num="18"
-                        assimilation="15 16 17">mastered</group></success></li>
+                        alliteration="15 16 17">mastered</group></success></li>
             <li>Until then, all I can do is <group label="i" num="19" rhyme="20"
                 >imagine</group></li>
 
@@ -298,11 +298,11 @@
             <li>My man <hiphop ref="DirtySanchez">Dirty</hiphop>
                 <group label="b" num="1" assimilation="2">had the</group>
                 <group label="b" num="2" assimilation="1"><weed>buddha</weed></group> just to put me
-                in my <group label="b" num="3" assimilation="4 5 6">right mind</group></li>
+                in my <group label="b" num="3" slantRhyme="4 5 6">right mind</group></li>
             <li>I rhyme <weed>stoned</weed>, drop <fashion>jewels</fashion> and <group label="b"
-                    num="4" assimilation="3 5 6">bright lines</group></li>
-            <li><group label="b" num="5" assimilation="3 4 6">Sight <women qual="pos"
-                    >dimes</women></group> wit' <group label="b" num="6" assimilation="3 4 5"
+                    num="4" slantRhyme="3 5 6">bright lines</group></li>
+            <li><group label="b" num="5" slantRhyme="3 4 6">Sight <women qual="pos"
+                    >dimes</women></group> wit' <group label="b" num="6" slantRhyme="3 4 5"
                         ><weed>slight closed eyes</weed></group>, I'm <alcohol><group label="b"
                         num="7" rhyme="10">slight <group label="b" num="8" assimilation="9"
                             >soba</group></group></alcohol></li>
@@ -352,30 +352,27 @@
                     >era</hiphop></li>
         </stanza>
         <stanza type="verse" speaker="ChuckStrangers">
-            <li><success qual="pursuit">I'm tryna find my own <group label="d" num="1" assonance="2"
-                        >lane</group>, in this <group label="d" num="2" assonance="1"><group
-                            label="d" num="3" assimilation="4">freeway</group> of
+            <li><success qual="pursuit">I'm tryna find my own, in this <group
+                            label="d" num="1" rhyme="2">freeway of
                     life</group></success></li>
-            <li>Just remember home boy there <struggle>ain't no <group label="d" num="4"
-                        assimilation="3">free way to life</group></struggle></li>
-            <li>My nigga it's gon cost <group label="d" num="5" assonance="6">you</group>, try not
-                to <group label="d" num="6" assonance="5">lose</group> your <group label="d" num="7"
-                    assonance="8 9">soul</group></li>
-            <li><criticism>To the rims, <group label="d" num="8" assonance="7 9"><women qual="neg"
-                            >hoes</women></group>, and <group label="d" num="9" assonance="7 8"
-                        rhyme="10" alliteration="11"
-                ><fashion>gold</fashion></group></criticism></li>
-            <li><struggle>Cause once <religion>the devil</religion> grab <group label="d" num="10"
-                        rhyme="9">hold</group>, that nigga ain't letting <group label="d" num="11"
-                        alliteration="9">go</group></struggle></li>
+            <li>Just remember home boy there <struggle>ain't no <group label="d" num="2"
+                        rhyme="1">free way to life</group></struggle></li>
+            <li>My nigga it's gon cost <group label="d" num="3" assonance="4">you</group>, try not
+                to <group label="d" num="4" assonance="3">lose</group> your <group label="d" num="5"
+                    assonance="6 7">soul</group></li>
+            <li><criticism>To the rims, <group label="d" num="6" assonance="5 7"><women qual="neg"
+                            >hoes</women></group>, and <group label="d" num="7" assonance="5 6"
+                        rhyme="8"><fashion>gold</fashion></group></criticism></li>
+            <li><struggle>Cause once <religion>the devil</religion> grab <group label="d" num="8"
+                        rhyme="7">hold</group>, that nigga ain't letting go</struggle></li>
             <li>And I'm <religion>far from religious</religion>, I just know <group label="d"
-                    num="12" assimilation="13 14 15 16">right and wrong</group></li>
-            <li>I know how to <group label="d" num="13" assimilation="12 14 15 16">write these
-                    songs</group>, I know how to <group label="d" num="14"
-                    assimilation="12 13 15 16"><weed>light these bongs</weed></group></li>
-            <li>I know how to <group label="d" num="15" assimilation="12 13 14 16"><sex>rip
-                        thongs</sex></group> and I'm pretty good at <group label="d" num="16"
-                    assimilation="12 13 14 15"><alcohol>beer pong</alcohol></group></li>
+                    num="9" assimilation="10 11 12 13">right and wrong</group></li>
+            <li>I know how to <group label="d" num="10" assimilation="9 11 12 13">write these
+                    songs</group>, I know how to <group label="d" num="11"
+                    assimilation="9 10 12 13"><weed>light these bongs</weed></group></li>
+            <li>I know how to <group label="d" num="12" assimilation="9 10 11 13"><sex>rip
+                        thongs</sex></group> and I'm pretty good at <group label="d" num="13"
+                    assimilation="9 10 11 12"><alcohol>beer pong</alcohol></group></li>
             <li><group label="e" num="1" repetition="2">Nigga, I'm</group> so crazy, <group
                     label="e" num="2" repetition="1">nigga I'm</group>
                 <group label="e" num="3" rhyme="4">loco</group></li>
@@ -857,9 +854,9 @@
                 <group label="b" num="8" assonance="9">effort</group> in my nouns and <group
                     label="b" num="9" assonance="8" slantRhyme="11">verbs</group></li>
             <li>Like "they gon' <group label="b" num="10" rhyme="4"><food>catch up</food></group>" fuck what you
-                    <group label="b" num="11" slantRhyme="9" alliteration="12"><food>must
+                    <group label="b" num="11" slantRhyme="9" ><food>must
                 heard</food></group>!</li>
-            <li>But I done <weed>puffed enough <group label="b" num="12" alliteration="11" slantRhyme="13"
+            <li>But I done <weed>puffed enough <group label="b" num="12" slantRhyme="13"
                         >herb</group></weed></li>
             <li>To be listening to <women qual="neg">young <group label="b" num="13" slantRhyme="12" rhyme="14"
                     >birds</group></women> and <haters>dumb <group label="b" num="14" rhyme="13">nerds</group></haters></li>
