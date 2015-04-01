@@ -2652,7 +2652,7 @@
                     out</group>, go get your <group label="e" num="11" slantRhyme="10" rhyme="12 13"
                     >wishing count</group></li>
             <li><drugs>You sell me something then I flip that</drugs> <group label="e" num="12"
-                    rhyme="11 13"><weed><money>amount</money></weed></group></li>
+                    rhyme="11 13"><weed><money qual="possession">amount</money></weed></group></li>
             <li><money qual="possession">I just switched that <group label="e" num="13" rhyme="11 12"
                     >account</group></money>, get that <money qual="possession">profit</money> then I'm out
                 yeah</li>
