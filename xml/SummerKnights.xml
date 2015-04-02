@@ -2,7 +2,7 @@
 <?xml-model href="schema1.rnc" type="application/relax-ng-compact-syntax"?>
 <album type="mixtape">
     <meta>
-        <albumTitle>SummerKnights</albumTitle>
+        <albumTitle>Summer Knights</albumTitle>
         <source>genius.com</source>
         <year>2013</year>
         <accessDate>2/04/2015</accessDate>
@@ -28,8 +28,8 @@
             <li> Like I <group label="a" num="5" rhyme="6 7 8 9">planned out</group>,
                     <struggle>nothing in life gets <group label="a" num="6" rhyme="5 7 8 9"
                         >handout</group></struggle></li>
-            <li> Just <group label="a" num="7" rhyme="5 6 8 9">stand out</group>, ever since I <weed>hit
-                the pot</weed> my vision <group label="a" num="8" rhyme="5 6 7 9">panned
+            <li> Just <group label="a" num="7" rhyme="5 6 8 9">stand out</group>, ever since I hit
+                the <weed>pot</weed> my vision <group label="a" num="8" rhyme="5 6 7 9">panned
                     out</group></li>
             <li> Pressure boil <AAVE field="phon" type="dropping" sound="un" position="initial"
                     >'til</AAVE> im <group label="a" num="9" rhyme="5 6 7 8">fanned out</group></li>
