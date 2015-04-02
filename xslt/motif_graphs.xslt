@@ -7,11 +7,11 @@
     <xsl:variable name="barHeight" select="300"/>
     <xsl:variable name="barShift" select="52"/>
     <xsl:variable name="motif"
-        select="//li/descendant::*[not(self::group)][not(self::AAVE)][not(self::AAVE)]"/>
+        select="//li/descendant::*[not(self::group)][not(self::AAVE)][not(self::compound)]"/>
     <xsl:variable name="distMotif" select="distinct-values($motif/name())"/>
     <xsl:variable name="motifNum" select="count($distMotif)"/> 
-    
-    <xsl:variable name="lineWidth" select="$motifNum * $barInterval + 30"/>    
+    <xsl:variable name="doc" select="/"/>
+    <xsl:variable name="lineWidth" select="$motifNum * $barInterval + 50"/>    
     <xsl:template match="/">
         <svg height="100%" width="100%">
             <g transform="translate(40, 350)">
@@ -30,12 +30,12 @@
         </svg>
     </xsl:template>
     <xsl:template match="album">
-        <xsl:for-each select="$distMotif">
-            <xsl:variable name="motifPos" select="position()-1"/>
-            <xsl:variable name="xPosition" select="$motifPos * $barInterval"/>
-            <xsl:variable name="motifCount" select="count(distinct-values($motif[.//name()=$distMotif]))"/>          
-            <rect x="{$xPosition + $barShift}" y="-{$motifCount * $barHeight}" stroke="black"
-                stroke-width=".5" fill="gray" width="{$barWidth}" height="{$motifCount * $barHeight}"/>
+        <xsl:variable name="motifPos" select="position()-1"/>
+        <xsl:variable name="xPosition" select="$motifPos * $barInterval"/>
+        <xsl:variable name="motifCount" select="count($doc//*[name()=.])"/>
+        <xsl:for-each select="$distMotif">          
+            <rect x="{$xPosition + $barShift}" y="-{$motifCount * 3}" stroke="black"
+                stroke-width=".5" fill="gray" width="{$barWidth}" height="{$motifCount * 3}"/>
             <text x="{$xPosition + $barWidth div 2 + $barShift}" y="20" text-anchor="middle">
                 <xsl:value-of select="."/></text>
         </xsl:for-each>
