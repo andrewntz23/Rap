@@ -1033,10 +1033,10 @@
                     label="i" num="11" rhyme="10 12"><guns>killers</guns></group>, <group label="i"
                     num="12" rhyme="10 11">hundred dollar billers</group></hiphop></li>
             <li>On the <group label="i" num="13" rhyme="14 16 17">block</group> in the <drugs><group
-                    label="i" num="14" rhyme="13 16 17">rock</group>
-                <group label="i" num="15" assonance="14">spot</group></drugs>, <guns><group label="i"
-                        num="16" rhyme="13 14 17">Glock</group>
-                    <group label="i" num="17" rhyme="13 14 16" alliteration="18"
+                    label="i" num="14" rhyme="13 16 17" assonance="15 16 17">rock</group>
+                <group label="i" num="15" assonance="14 16 17">spot</group></drugs>, <guns><group label="i"
+                        num="16" rhyme="13 14 17" assonance="14 15 17">Glock</group>
+                    <group label="i" num="17" rhyme="13 14 16" alliteration="18" assonance="14 15 16"
                     >cocked</group></guns> watching out for <group label="i" num="18"
                     alliteration="17"><power>cops</power></group></li>
             <li>All about their <group label="i" num="19" rhyme="22 23"
@@ -1205,10 +1205,10 @@
                     >station</group></success></li>
             <li>Always got a <weed>doobie</weed> and a motherfucking <group label="d" num="3"
                     slantRhyme="2"><weed>eighth lit</weed></group></li>
-            <li>Always got the <group label="d" num="4" assonance="5 6"><weed>trees</weed></group>,
-                so what the fuck you <group label="d" num="5" assonance="4 6">mean</group></li>
-            <li>I ain’t about to rise to the top with my fucking <group label="d" num="6"
-                    assonance="4 5">team</group></li>
+            <li>Always got the<weed>trees</weed>,
+                so what the fuck you <group label="d" num="4" slantRhyme="5">mean</group></li>
+            <li>I ain’t about to rise to the top with my fucking <group label="d" num="5"
+                    slantRhyme="4">team</group></li>
         </stanza>
 
         <stanza type="hook" speaker="Unknown">
@@ -1282,9 +1282,9 @@
                     slantRhyme="3">cockpit</group> down yo <group label="c" num="3" slantRhyme="2"
                     >esophagus</group></sex></li>
             <li><sex>Screaming daddy <group label="c" num="4" repetition="1">stop it</group>, ripping out
-                your <group label="c" num="5" assonance="6" rhyme="7">tracks</group></sex></li>
-            <li><sex>Chipped nail polishing in the <group label="c" num="6" assonance="5"
-                    >scratches</group> on my <group label="c" num="7" rhyme="5">back</group>
+                your <group label="c" num="5" rhyme="7">tracks</group></sex></li>
+            <li><sex>Chipped nail polishing in the <group label="c" num="6" assonance="7"
+                    >scratches</group> on my <group label="c" num="7" rhyme="5" assonance="6">back</group>
                 like</sex></li>
             <li>Did you forget about the time we had the <group label="c" num="8"
                     slantRhyme="9"><weed>sticky rolled</weed></group></li>
@@ -1333,25 +1333,20 @@
 
         <stanza type="hook" speaker="JoeyBada$$">
             <li><hiphop ref="Jay-Z">I couldn't see it coming down <group label="e" num="1"
-                        assonance="2">my</group>
-                    <group label="e" num="2" assonance="1" rhyme="3">eye</group></hiphop></li>
-            <li><hiphop ref="Jay-Z">So I had to make the song <group label="e" num="3" rhyme="2"
+                        rhyme="2 3">my</group>
+                    <group label="e" num="2" rhyme="1 3">eye</group></hiphop></li>
+            <li><hiphop ref="Jay-Z">So I had to make the song <group label="e" num="3" rhyme="1 2"
                         >cry</group></hiphop></li>
-            <li><hiphop ref="Jay-Z">I couldn't see it coming down <group label="e" num="4"
-                        assonance="5">my</group>
-                    <group label="e" num="5" assonance="4" rhyme="6">eye</group></hiphop></li>
-            <li><hiphop ref="Jay-Z">So I got to make the song <group label="e" num="6" rhyme="5"
-                        >cry</group></hiphop></li>
-            <li><hiphop ref="Jay-Z">I couldn't see it coming down <group label="e" num="7"
-                        assonance="8">my</group>
-                    <group label="e" num="8" assonance="7" rhyme="9">eye</group></hiphop></li>
-            <li><hiphop ref="Jay-Z">So I had to make the song <group label="e" num="9" rhyme="8"
-                        >cry</group></hiphop></li>
-            <li><hiphop ref="Jay-Z">I couldn't see it coming down <group label="e" num="10"
-                        assonance="11">my</group>
-                    <group label="e" num="11" assonance="10" rhyme="12">eye</group></hiphop></li>
-            <li><hiphop ref="Jay-Z">So I got to make the song <group label="e" num="12" rhyme="11"
-                        >cry</group></hiphop></li>
+            <li><hiphop ref="Jay-Z">I couldn't see it coming down
+                        my
+                    eye</hiphop></li>
+            <li><hiphop ref="Jay-Z">So I got to make the song </hiphop></li>
+            <li><hiphop ref="Jay-Z">I couldn't see it coming downmy
+                    eye</hiphop></li>
+            <li><hiphop ref="Jay-Z">So I had to make the song </hiphop></li>
+            <li><hiphop ref="Jay-Z">I couldn't see it coming down my
+                    eye</hiphop></li>
+            <li><hiphop ref="Jay-Z">So I got to make the song cry</hiphop></li>
             <li>Yeah</li>
         </stanza>
     </song>
@@ -1548,27 +1543,19 @@
         </stanza>
 
         <stanza type="hook" speaker="JoeyBada$$">
-            <li>But that's just daily <group label="c" num="1" assonance="2 4 8 10 12 13 14 15"
-                    >routine</group></li>
-            <li><struggle>The <group label="c" num="2" assonance="1 4 8 10 12 13 14 15"
-                        >streets</group> are <group label="c" num="3" assonance="5 6 7 9 11"
-                        >cooped</group>
-                    <group label="c" num="4" assonance="1 2 8 10 12 13 14 15"
-                    ><drugs>fiends</drugs></group></struggle></li>
-            <li>Whether the <group label="c" num="5" assonance="3 6 7 9 11"
-                    ><sports>hoops</sports></group> or the <group label="c" num="6"
-                    assonance="3 5 7 9 11">booth</group>, niggas <group label="c" num="7"
-                    assonance="3 5 6 9 11">shoot</group>
-                <group label="c" num="8" assonance="1 2 4 10 12 13 14 15">dreams</group></li>
-            <li>Better <group label="c" num="9" assonance="3 5 6 7 11">choose</group> the right
-                    <group label="c" num="10" assonance="1 2 4 8 12 13 14 15">scheme</group></li>
-            <li><criticism>Cause you could think you're <group label="c" num="11" assonance="3 5 6 7 9"
-                    >cool</group> with your nice <group label="c" num="12"
-                    assonance="1 2 4 8 10 13 14 15">things</group></criticism></li>
-            <li>But get wiped <group label="c" num="13" assonance="1 2 4 8 10 12 14 15"
-                    >clean</group> for <fashion><food>ice <group label="c" num="14"
-                        assonance="1 2 4 8 10 12 13 15">creams</group></food></fashion> when the lights <group
-                    label="c" num="15" assonance="1 2 4 8 10 12 13 14">beam</group></li>
+            <li>But that's just daily <group label="c" num="1" slantRhyme="3 7 9">routine</group></li>
+            <li><struggle>The streets are <group label="c" num="3" slantRhyme="1 7 9">cooped <drugs>fiends</drugs></group></struggle></li>
+            <li>Whether the <group label="c" num="5" assonance="6 7"><sports>hoops</sports></group> or the <group label="c" num="6" assonance="5 7"
+                    >booth</group>, niggas <group label="c" num="7" assonance="5 6" slantRhyme="1 3 9">shoot
+                dreams</group></li>
+            <li>Better <group label="c" num="9" slantRhyme="1 3 7">choose the right
+                    scheme</group></li>
+            <li><criticism><group label="c" num="10" alliteration="11 12">Cause</group> you <group label="c" num="11" alliteration="10 12">could</group> think you're <group label="c" num="12" alliteration="10 11" 
+                    >cool</group> with your nice things</criticism></li>
+            <li>But get <group label="c" num="14" slantRhyme="15" 
+                    >wiped clean</group> for <fashion><food><group label="c" num="15" slantRhyme="14" rhyme="16"
+                       >ice creams</group></food></fashion> when the lights <group
+                    label="c" num="16" rhyme="15">beam</group></li>
         </stanza>
 
         <stanza type="verse" speaker="JoeyBada$$">
