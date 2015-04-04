@@ -43,7 +43,7 @@
             <li><success qual="possession">By <group label="b" num="18" slantRhyme="17" rhyme="19">eighteen</group>, <money qual="possession">pockets <AAVE field="syn" type="deletion" class="copula"/>healthy
                 <group label="b" num="19" rhyme="18" >green</group></money></success></li>
             <li>What the fuck is twelve <group label="b" num="20" rhyme="22 25">beams</group>?</li>
-            <li>I need the <group label="b" num="21" alliteration="22" rhyme="23"><food><money>cake</money></food></group> and <group label="b" num="22" alliteration="21" rhyme="20 25" slantRhyme="24"><food><money>cream</money></food></group></li>
+            <li>I need the <group label="b" num="21" alliteration="22" rhyme="23"><food><money qual="pursuit">cake</money></food></group> and <group label="b" num="22" alliteration="21" rhyme="20 25" slantRhyme="24"><food><money qual="pursuit">cream</money></food></group></li>
             <li>The <group label="b" num="23" rhyme="21">stakes</group> <AAVE field="syn" type="tense" person="third">is</AAVE> high like <group label="b" num="24" slantRhyme="22">fiends</group>
                 off a <group label="b" num="25" rhyme="20 22" slantRhyme="28">dream</group></li>
             <li><success>Jet <group label="b" num="26" rhyme="27">streaming</group> <group label="b" num="27" rhyme="26">having</group> <group label="b" num="28" slantRhyme="25"><food>cuisine</food></group></success></li>
@@ -51,11 +51,11 @@
             <li><guns/><fashion/>Carry a <group label="b" num="31" rhyme="29 30">vest, you know the reason</group></li>
             <li>I'm in <compound head="Chicago" stem="Iraq" type="exo"><geo ref="Chicago">Chi-raq</geo></compound> and I'm
                 getting blown like the <group label="c" num="1" slantRhyme="2 3">breezes</group></li>
-            <li>The <food>chicken</food> <women>strip <group label="c" num="2" slantRhyme="1 3">teasers</group></women></li>
-            <li><women>Thighs, legs and the breast part is the <group label="c" num="3" slantRhyme="1 3">cleavage</group></women></li>
-            <li><women>She</women> even lick it down to the bone <group label="c" num="4" rhyme="5 6">marrow</group></li>
+            <li>The <food>chicken</food> <women qual="neg">strip <group label="c" num="2" slantRhyme="1 3">teasers</group></women></li>
+            <li><women qual="neg">Thighs, legs and the breast part is the <group label="c" num="3" slantRhyme="1 3">cleavage</group></women></li>
+            <li><sex><women qual="neg">She</women> even lick it down to the bone <group label="c" num="4" rhyme="5 6">marrow</group></sex></li>
             <li><women>She</women> in love but I <AAVE field="syn" type="contraction" word1="am" word2="not"
-                    >ain't</AAVE> got a bow and <group label="c" num="5" rhyme="4 6">arrow</group></li>
+                    >ain't</AAVE> got a <popculture ref="Cupid">bow and <group label="c" num="5" rhyme="4 6">arrow</group></popculture></li>
             <li>I'm known to <popculture ref="JackSparrow">jack the booty like I'm <group label="c" num="6" rhyme="4 5">Sparrow</group></popculture></li>
         </stanza>
         <stanza type="bridge" speaker="JoeyBada$$">
@@ -117,7 +117,7 @@
                 better, the <AAVE field="phon" type="dropping" sound="r" position="final">mo'</AAVE>
                 clever, et cetara, whatever</li>
             <li><haters>Why do they <group label="g" num="1" rhyme="2 3 4">sweat us</group>?</haters></li>
-            <li><haters><group label="g" num="2" rhyme=" 1 3 4">Dead us</group>, they just <group label="g" num="3" rhyme="">met us</group>,</haters> <success>but they won't <group label="g" num="4" rhyme="1 2 3">forget us</group></success></li>
+            <li><haters><group label="g" num="2" rhyme=" 1 3 4">Dead us</group>, they just <group label="g" num="3" rhyme="1 2 4">met us</group>,</haters> <success>but they won't <group label="g" num="4" rhyme="1 2 3">forget us</group></success></li>
             <li>They don't know better than the <group label="g" num="5" rhyme="6">worst case</group></li>
             <li><AAVE field="syn" type="aspect" tense="present">I be headed</AAVE> for <group label="g" num="6" rhyme="5"><success>first
                 place</success></group></li>
@@ -338,15 +338,15 @@
             <li>But <AAVE field="phon" type="contraction" word1="I'm" word2="going" word3="to"
                     >I'mma</AAVE> hold you down still <AAVE field="phon" type="dropping" sound="be"
                     position="initial">cause'</AAVE> you my <group label="c" num="5" rhyme="6">brother</group></li>
-            <li>I just gave Will <money>a lil'<AAVE field="phon" type="dropping" sound="g" position="final"
+            <li>I just gave Will <money qual="possession">a lil'<AAVE field="phon" type="dropping" sound="g" position="final"
                     >somethin'</AAVE></money> for your baby <group label="c" num="6" rhyme="5">mother</group></li>
             <li>But don't <group label="c" num="7" rhyme="8">stress</group>, know you caught up in some <group label="c" num="8" rhyme="7" slantRhyme="9">b.s</group></li>
             <li>But next time you see us, we gonna be our <group label="c" num="9" slantRhyme="8">best</group></li>
             <li>Love you my nigga, word is <group label="c" num="10" slantRhyme="11">bond</group>, you'll stay <group label="c" num="11" slantRhyme="10">strong</group></li>
             <li>Out in <geo ref="NewYork">New York</geo> this same shit is<group label="c" num="12" rhyme="13"><AAVE field="phon" type="dropping" sound="g"
                     position="final">goin'</AAVE>on</group></li>
-            <li>Peace to all my brothers who keep still<AAVE field="phon" type="dropping" sound="g"
-                    position="final"><group label="c" num="13" rhyme="12" ><guns>holdin'</guns></AAVE>on</group></li>
+            <li>Peace to all my brothers who keep still<group label="c" num="13" rhyme="12" ><AAVE field="phon" type="dropping" sound="g"
+                    position="final"><guns>holdin'</guns></AAVE>on</group></li>
             <li>Been away so <group label="c" num="14" slantRhyme="17">long</group>, feel like a<AAVE field="phon" type="dropping" sound="g"
                     position="final"><group label="c" num="15" alliteration="16">tickin'</group></AAVE><group label="c" num="16" alliteration="15">time</group> <group label="c" num="17" slantRhyme="13">bomb</group></li>
             <li><struggle>They make judgement to my kind, whom the odds is <group label="c" num="18" slantRhyme="21">against</group></struggle></li>
@@ -519,7 +519,7 @@
         <stanza type="verse" speaker="JoeyBada$$">
             <li>You <AAVE field="syn" type="contraction" word1="is" word2="not">ain't</AAVE> running
                 with the <group label="b" num="1" assimilation="2" slantRhyme="3 4 5">apes yet</group></li>
-            <li><group label="b" num="2" assimilation="1">Apex</group> at the <geo ref="NewYork">Empire <group label="b" num="3" slantRhyme="1 4 5">State</geo> neck</group></li>
+            <li><group label="b" num="2" assimilation="1">Apex</group> at the <geo ref="NewYork">Empire</geo> <group label="b" num="3" slantRhyme="1 4 5">State neck</group></li>
             <li>Hand no crown, my niggas <group label="b" num="4" slantRhyme="1 3 5">take</group> that</li>
             <li>In this state of mind, <AAVE field="syn" type="contraction" word1="got" word2="to"
                 >gotta</AAVE> <group label="b" num="5" slantRhyme="1 3 4">state facts</group> <hiphop ref="Nas">suspect nigga</hiphop></li>
