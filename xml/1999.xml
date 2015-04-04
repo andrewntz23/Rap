@@ -806,7 +806,9 @@
         </stanza>
     </song>
 
-    <song title="Hardknock" production="LewisParker">
+    <song production="LewisParker">
+        <title>Hardknock</title>
+        <audlink>https://www.youtube.com/watch?v=PkyO5qX3-6g</audlink>
         <stanza type="intro" speaker="JoeyBada$$">
             <li>Check it, word word</li>
             <li>What's the word word</li>
@@ -1104,8 +1106,9 @@
         </stanza>
     </song>
 
-    <song title="WorldDomination" production="MFDoom">
-
+    <song production="MFDoom">
+        <title>World Domination</title>
+        <audlink>https://www.youtube.com/watch?v=8wQ-7ft9ya0</audlink>
         <stanza type="intro" speaker="Pinky JoeyBada$$">
             <li>Say <popculture ref="PinkyandtheBrain">Brain</popculture>, what do you wanna do
                 tonight?</li>
@@ -1227,7 +1230,9 @@
         </stanza>
     </song>
 
-    <song title="Pennyroyal" production="MFDoom">
+    <song production="MFDoom">
+        <title>Pennyroyal</title>
+        <audlink>https://www.youtube.com/watch?v=utHSRId7jls</audlink>
         <stanza type="intro" speaker="JoeyBada$$">
             <li>Yeah</li>
         </stanza>
@@ -1355,7 +1360,9 @@
         </stanza>
     </song>
 
-    <song title="FunkyHo'$" production="LordFinesse">
+    <song production="LordFinesse">
+        <title>Funky Ho'$</title>
+        <audlink>https://www.youtube.com/watch?v=8bhNe8aypak</audlink>
         <stanza type="intro" speaker="JoeyBada$$">
             <li>Aight fuck that, word word</li>
             <li><hiphop ref="LordFinnesse">Lord Finnesse</hiphop>, <group label="a" num="1"
@@ -1505,7 +1512,9 @@
         </stanza>
     </song>
 
-    <song title="DailyRoutine" production="ChuckStrangers">
+    <song production="ChuckStrangers">
+        <title>Daily Routine</title>
+        <audlink></audlink>
         <stanza type="verse" speaker="JoeyBada$$">
             <li><success qual="possession">From the <group label="a" num="1" assonance="2" rhyme="5 6">block</group>
                     to the <group label="a" num="2" assonance="1">top</group></success>, <group
