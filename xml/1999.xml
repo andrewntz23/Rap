@@ -7,7 +7,9 @@
         <year>2012</year>
         <accessDate>2/2/2015</accessDate>
     </meta>
-    <song title="SummerKnights" production="ChuckStrangers">
+    <song  production="ChuckStrangers">
+        <title>Summer Knights</title>
+        <audlink>https://www.youtube.com/watch?v=DZ76Jc-wMzE</audlink>
         <stanza type="intro" speaker="JoeyBada$$">
             <li>And that’s all people wanna see truthfully</li>
             <li>Don't stop it Pat, just keep it runnin'</li>
@@ -63,7 +65,9 @@
         </stanza>
     </song>
 
-    <song title="Waves" production="FreddieJoachim">
+    <song production="FreddieJoachim">
+        <title>Waves</title>
+        <audlink></audlink>
         <stanza type="intro" speaker="JoeyBada$$">
             <li>Yeah</li>
             <li><oldschool>You remember back in the <group label="a" num="1" slantRhyme="2"
@@ -281,7 +285,9 @@
         </stanza>
     </song>
 
-    <song title="Fromdatomb$" production="ChuckStrangers">
+    <song production="ChuckStrangers">
+        <title>Fromdatomb$</title>
+        <audlink>https://www.youtube.com/watch?v=AutJUrizXrk</audlink>
         <stanza type="intro" speaker="JoeyBada$$">
             <li>(Go <geo ref="Brooklyn">Brooklyn</geo>)</li>
             <li>Said what it's like?</li>
@@ -453,8 +459,9 @@
         </stanza>
     </song>
 
-    <song title="SurvivalTactics" production="VinSkully">
-
+    <song production="VinSkully">
+        <title>Survival Tactics</title>
+        <audlink>https://www.youtube.com/watch?v=hQXUhRxGp4A</audlink>
         <stanza type="intro" speaker="Unknown">
             <li><struggle>It's either, them or you</struggle></li>
             <li><struggle>It's sort of like, survival you know. Survival of the fittest you
@@ -664,8 +671,9 @@
         </stanza>
     </song>
 
-    <song title="Killuminati" production="Knxwledge">
-
+    <song production="Knxwledge">
+        <title>Killuminati</title>
+        <audlink>https://www.youtube.com/watch?v=yAsPnohQYY4</audlink>
         <stanza type="intro" speaker="Unknown">
             <li>Yes, <food>Strawberries</food></li>
         </stanza>
