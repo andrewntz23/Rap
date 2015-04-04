@@ -1514,7 +1514,7 @@
 
     <song production="ChuckStrangers">
         <title>Daily Routine</title>
-        <audlink></audlink>
+        <audlink>https://www.youtube.com/watch?v=vb0BTpxQKTM</audlink>
         <stanza type="verse" speaker="JoeyBada$$">
             <li><success qual="possession">From the <group label="a" num="1" assonance="2" rhyme="5 6">block</group>
                     to the <group label="a" num="2" assonance="1">top</group></success>, <group
@@ -1654,8 +1654,9 @@
         </stanza>
     </song>
 
-    <song title="Snakes" production="JDilla">
-
+    <song production="JDilla">
+        <title>Snakes</title>
+        <audlink>https://www.youtube.com/watch?v=GdNQyf4SLa4</audlink>
         <stanza type="intro" speaker="JoeyBada$$">
             <li>Free <hiphop ref="MaxB">Max B</hiphop></li>
             <li>Owww (owwwwwww)</li>
@@ -1838,7 +1839,9 @@
         </stanza>
     </song>
 
-    <song title="Don'tFront" production="StatikSelektah">
+    <song production="StatikSelektah">
+        <title>Don't Front</title>
+        <audlink>https://www.youtube.com/watch?v=wtknAhuPmMk</audlink>
         <stanza type="intro" speaker="JoeyBada$$">
             <li>Yo, what's the word <group label="a" num="1" slantRhyme="2">word</group></li>
             <li>Pass the <group label="a" num="2" slantRhyme="1"><weed>herbs</weed></group></li>
@@ -2048,7 +2051,9 @@
         </stanza>
     </song>
 
-    <song title="RighteousMinds" production="BruceLeekix">
+    <song production="BruceLeekix">
+        <title>Righteous Minds</title>
+        <audlink>https://www.youtube.com/watch?v=_w03SVYzld4</audlink>
         <stanza type="verse" speaker="JoeyBada$$">
             <li>I never knew the world could be this <group label="a" num="1" rhyme="2"
                 >mad</group></li>
@@ -2237,7 +2242,9 @@
         </stanza>
     </song>
 
-    <song title="WhereIt'$At" production="JDilla">
+    <song production="JDilla">
+        <title>Where It'$ At</title>
+        <audlink>https://www.youtube.com/watch?v=7Qk7ry8jSzE</audlink>
         <stanza type="intro" speaker="JoeyBada$$">
             <li>Ay what it is one time what up</li>
             <li>Ay what it is one time what up</li>
@@ -2415,7 +2422,9 @@
         </stanza>
     </song>
 
-    <song title="Suspect" production="ChuckStrangers">
+    <song production="ChuckStrangers">
+        <title>Suspect</title>
+        <audlink>https://www.youtube.com/watch?v=93j_WK3ocsw</audlink>
         <stanza type="hook" speaker="ProEra">
             <li><haters>Suspect niggas</haters> don't come <group label="a" num="1" slantRhyme="2"
                 >outside</group></li>
