@@ -402,15 +402,15 @@
         <stanza type="verse" speaker="JoeyBada$$">
             <li>Fuck <religion>jumping the <group label="a" num="1" slantRhyme="2">broom</group></religion>, honey <group label="a" num="2" slantRhyme="1">moons</group>, I, I hit the <group label="a" num="3" slantRhyme="4"><weed>pot</weed></group></li>
             <li>Soak me up like a <group label="a" num="4" slantRhyme="3">mop</group>, Know <weed>I'm up</weed>, know there's <group label="a" num="5" rhyme="6">levels</group></li>
-            <li>Staring down at the <group label="a" num="6" rhyme="5">devil</group>, <group label="a" num="7" rhyme="8 9 10">hello</group>, guess I got the <group label="a" num="8" rhyme="7 9 10">memo</group></li>
-            <li>Pulling strings like <group label="a" num="9" rhyme="7 8 10"><popculture ref="Pinocchio">Geppetto</popculture></group>, you <AAVE field="syn" type="deletion" class="copula"
-                />just <popculture ref="Pinocchio">a puppet</popculture>, <group label="a" num="10" rhyme="7 8 9">fellow</group></li>
-            <li>I came up out of the tomb, don’t drop a <group label="a" num="11" rhyme="12 13 14 16 19 21">L</group></li>
-            <li>Uh, you don't want to see <hiphop ref="Jay-Z">the evils</hiphop>, which I <group label="a" num="12" rhyme="11 13 14 16 19 21">dwell</group> in <group label="a" num="13" rhyme="11 12 14 16 19 21">hell</group></li>
-            <li>To <group label="a" num="14" rhyme="11 12 13 16 19 21" slantRhyme="15">excel</group>, this shit never <group label="a" num="15" slantRhyme="14">fails</group>, always <group label="a" num="16" rhyme="11 12 13 14 19 21">excels</group></li>
-            <li><AAVE field="syn" type="aspect" tense="progressive">They been <group label="a" num="17" alliteration="18">swallowing</group></AAVE> <group label="a" num="18" alliteration="17">sons</group>
-                before the <hiphop ref="XXLMagazine">double <group label="a" num="19" rhyme="11 12 13 14 16 21">XL</group></hiphop></li>
-            <li><group label="a" num="20" alliteration="21" rhyme="22">Sex</group> <group label="a" num="21" rhyme="11 12 13 14 16 19" alliteration="20">sell</group>, <group label="a" num="22" rhyme="20">ex</group>
+            <li>Staring down at <religion>the <group label="a" num="6" rhyme="5">devil</group></religion>, <group label="a" num="7" rhyme="8 9 10">hello</group>, guess I got the <group label="a" num="8" rhyme="7 9 10">memo</group></li>
+            <li>Pulling strings like <group label="a" num="9" rhyme="7 8 10"><popculture ref="Pinocchio">Geppetto</popculture></group>, <criticism>you <AAVE field="syn" type="deletion" class="copula"
+                />just <popculture ref="Pinocchio">a puppet</popculture>, <group label="a" num="10" rhyme="7 8 9">fellow</group></criticism></li>
+            <li><hiphop ref="JoeyBada$$">I came up out of the tomb, don’t drop a <group label="a" num="11" rhyme="12 13 14 16 19 21">L</group></hiphop></li>
+            <li>Uh, you don't want to see <religion><hiphop ref="Jay-Z">the evils</hiphop>, which I <group label="a" num="12" rhyme="11 13 14 16 19 21">dwell</group> in <group label="a" num="13" rhyme="11 12 14 16 19 21">hell</group></religion></li>
+            <li><success qual="possession">To <group label="a" num="14" rhyme="11 12 13 16 19 21" slantRhyme="15">excel</group>, this shit never <group label="a" num="15" slantRhyme="14">fails</group>, always <group label="a" num="16" rhyme="11 12 13 14 19 21">excels</group></success></li>
+            <li><sex><AAVE field="syn" type="aspect" tense="progressive">They been <group label="a" num="17" alliteration="18">swallowing</group></AAVE> <group label="a" num="18" alliteration="17">sons</group>
+                before the <hiphop ref="XXLMagazine">double <group label="a" num="19" rhyme="11 12 13 14 16 21">XL</group></hiphop></sex></li>
+            <li><group label="a" num="20" alliteration="21" rhyme="22"><sex>Sex</sex></group> <group label="a" num="21" rhyme="11 12 13 14 16 19" alliteration="20">sell</group>, <group label="a" num="22" rhyme="20">ex</group>
                 ask why it never <group label="a" num="23" rhyme="24 26 28 29">work out</group></li>
             <li>I guess I exercise too much when I <group label="a" num="24" rhyme="23 26 28 29">work out</group></li>
             <li>Show's <group label="a" num="25" consonance="26 27 28">too</group> <group label="a" num="26" rhyme="23 24 28 29" consonance="25 27 28">turnt out</group> <group label="a" num="27" consonance="25 26 28">return</group> home <group label="a" num="28" rhyme="23 24 26 29" consonance="25 26 27">burnt out</group></li>
@@ -418,10 +418,10 @@
                     sound="a" position="initial">'bout</AAVE></group></li>
             <li><hiphop ref="Jay-Z">Can I <group label="b" num="1" slantRhyme="2">live</group>?</hiphop> What, these niggas want me off a <group label="b" num="2" slantRhyme="1">bridge</group>?</li>
             <li>If I say it's turnt down, do I burn that shit?</li>
-            <li>Truth is, if it <AAVE field="syn" type="contraction" word1="is" word2="not"
-                    >ain't</AAVE> <group label="b" num="3" rhyme="4">real</group>, I don't <group label="b" num="4" rhyme="3">feel</group> it</li>
-            <li>If <AAVE field="syn" type="tense" person="third">it don't</AAVE> hit my <group label="b" num="5" rhyme="6 9">spirit</group>, I
-                don't get <group label="b" num="6" rhyme="5 9">near it</group></li>
+            <li><criticism>Truth is, if it <AAVE field="syn" type="contraction" word1="is" word2="not"
+                    >ain't</AAVE> <group label="b" num="3" rhyme="4">real</group>, I don't <group label="b" num="4" rhyme="3">feel</group> it</criticism></li>
+            <li><criticism>If <AAVE field="syn" type="tense" person="third">it don't</AAVE> hit my <group label="b" num="5" rhyme="6 9">spirit</group>, I
+                don't get <group label="b" num="6" rhyme="5 9">near it</group></criticism></li>
             <li>And that's <group label="b" num="7" alliteration="8">point</group> blank <group label="b" num="8" alliteration="7" slantRhyme="9">period</group>, know some niggas that <group label="b" num="9" rhyme="5 6" slantRhyme="8">fear it</group></li>
             <li>Same niggas who know that we <AAVE field="syn" type="deletion" class="copula"/><hiphop ref="NotoriousBIG">the
                 illest</hiphop></li>
@@ -447,19 +447,19 @@
             <li><haters>See these <group label="c" num="6" rhyme="2 5 7">foes</group> 
                 <AAVE field="syn" type="deletion" class="copula"/>biting the <group label="c" num="7" rhyme="2 5 6">flows</group>,
                 they even <group label="c" num="8" assimilation="1" slantRhyme="9">jooks the pose</group></haters></li>
-            <li>I guess my CD <AAVE field="syn" type="deletion" class="copula"/>really shaking the
-                <group label="c" num="9" slantRhyme="8">coast</group></li>
-            <li><success>Cause <AAVE field="syn" type="tense" person="third">this really be</AAVE> the year
+            <li>I guess my CD <AAVE field="syn" type="deletion" class="copula"/>really shaking <geo ref="EastCoast">the
+                <group label="c" num="9" slantRhyme="8">coast</group></geo></li>
+            <li><success qual="possession">Cause <AAVE field="syn" type="tense" person="third">this really be</AAVE> the year
                 that I <group label="c" num="10" assonance="11 12 13 14 15"><food>feast</food></group>, <group label="c" num="11" assonance="10 12 13 14 15">capisce</group>?</success></li>
             <li>Nothing <group label="c" num="12" assonance="10 11 13 14 15">defeats</group> <hiphop ref="TheBeast">the 
                 <group label="c" num="13" assonance="10 11 12 14 15"><geo ref="EastCoast">beast</geo></group></hiphop>, I 
                 <group label="c" num="14" assonance="10 11 12 13 15">speak</group> <guns>my <group label="c" num="15" assonance="10 11 12 13 14">piece</group></guns></li>
             <li>Know niggas in the <group label="c" num="16" assonance="17 18 19 20">streets</group> <guns>that <group label="c" num="17" assonance="16 18 19 20">heat</group> 
                 <group label="c" num="18" assonance="16 17 19 20">seek</group></guns> for me, <guns><group label="c" num="19" assonance="16 17 18 20">release</group> and <group label="c" num="20" assonance="16 17 18 19">squeeze</group></guns></li>
-            <li>Might put a <group label="c" num="21" rhyme="22 23">Halloween</group> <group label="c" num="22" rhyme="21 23">between</group> your <group label="c" num="23" rhyme="21 22">spleen</group></li>
+            <li><violence>Might put a <guns><group label="c" num="21" rhyme="22 23">Halloween</group> <group label="c" num="22" rhyme="21 23">between</group> your <group label="c" num="23" rhyme="21 22">spleen</group></guns></violence></li>
             <li><group label="c" num="24" consonance="25">Retreat</group> or <group label="c" num="25" consonance="24">trickle</group> down to your last 
                 <weed>pound of <group label="c" num="26" rhyme="27">green</group></weed>, know what I <group label="c" num="27" rhyme="26">mean</group>?</li>
-            <li>Shit it's like taking <group label="d" num="1" rhyme="2 7"><food>candy</food></group> from the <group label="d" num="2" rhyme="1 7">babies</group></li>
+            <li><criticism>Shit it's like taking <group label="d" num="1" rhyme="2 7"><food>candy</food></group> from the <group label="d" num="2" rhyme="1 7">babies</group></criticism></li>
             <li><haters>All of these <group label="d" num="3" rhyme="4">rappers</group> are just a bunch of <food>Now and <group label="d" num="4" rhyme="3">Laters</group></food></haters></li>
             <li>They <AAVE field="syn" type="deletion" class="copula"/>too <group label="d" num="5" assonance="6">sweet</group>, plus they <group label="d" num="6" assonance="5">lease</group>
                 their <group label="d" num="7" rhyme="1 2"><popculture ref="MercedesBenz">Mercedes</popculture></group></li>
