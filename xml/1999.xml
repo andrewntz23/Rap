@@ -462,7 +462,7 @@
     <song production="VinSkully">
         <title>Survival Tactics</title>
         <audlink>https://www.youtube.com/watch?v=hQXUhRxGp4A</audlink>
-        <stanza type="intro" speaker="Unknown">
+        <stanza type="intro" speaker="Sample">
             <li><struggle>It's either, them or you</struggle></li>
             <li><struggle>It's sort of like, survival you know. Survival of the fittest you
                     know</struggle></li>
@@ -568,7 +568,7 @@
                     rhyme="11 12">night</group>, nigga</li>
         </stanza>
 
-        <stanza type="interlude" speaker="Unknown CapitalSTEEZ">
+        <stanza type="interlude" speaker="CapitalSTEEZ">
             <li>Yo, <power>fuck the police</power> nigga</li>
             <li><power>Fuck every ass corrupt politician on Wall Street</power></li>
             <li><hiphop ref="ProEra">P.E</hiphop>, <hiphop ref="PublicEnemy">Public Enemy</hiphop>,
@@ -674,7 +674,7 @@
     <song production="Knxwledge">
         <title>Killuminati</title>
         <audlink>https://www.youtube.com/watch?v=yAsPnohQYY4</audlink>
-        <stanza type="intro" speaker="Unknown">
+        <stanza type="intro" speaker="Sample">
             <li>Yes, <food>Strawberries</food></li>
         </stanza>
 
@@ -1119,7 +1119,7 @@
             <li>Who the fuck is this <hiphop ref="JoeyBada$$">Joey Bada$$</hiphop> nigga son?</li>
         </stanza>
 
-        <stanza type="hook" speaker="Unknown">
+        <stanza type="hook" speaker="JoeyBada$$">
             <li>Aye yo who the fuck passed you the <group label="a" num="1" repetition="4"
                     >mic</group></li>
             <li><criticism>And said that you could <group label="a" num="2" rhyme="3">flow</group>?</criticism></li>
@@ -1218,7 +1218,7 @@
                     slantRhyme="4">team</group></li>
         </stanza>
 
-        <stanza type="hook" speaker="Unknown">
+        <stanza type="hook" speaker="JoeyBada$$">
             <li>Aye yo who the fuck passed you the mic</li>
             <li><criticism>And said that you could flow?</criticism></li>
             <li>Point 'em out <women qual="neg">bitch</women> I wanna know</li>
@@ -2639,7 +2639,7 @@
             <li>Brains don't matter if your <violence>wig get split</violence> <religion>on some third eye shit</religion></li>
         </stanza>
 
-        <stanza type="verse" speaker="NYCkCaution">
+        <stanza type="verse" speaker="NyckCaution">
             <li><weed><success qual="possession">In the clouds</success></weed> come and find me son, I'm <group label="e" num="1" assonance="2"
                     >flier</group> than <group label="e" num="2" assonance="1" rhyme="3"><popculture
                         ref="HarryPotter"><women qual="pos">Hermione</women></popculture></group></li>

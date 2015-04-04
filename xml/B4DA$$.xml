@@ -473,25 +473,25 @@
             <li><haters>All of these <group label="d" num="3" rhyme="4">rappers</group> are just a bunch of <food>Now and <group label="d" num="4" rhyme="3">Laters</group></food></haters></li>
             <li>They <AAVE field="syn" type="deletion" class="copula"/>too <group label="d" num="5" assonance="6">sweet</group>, plus they <group label="d" num="6" assonance="5">lease</group>
                 their <group label="d" num="7" rhyme="1 2"><popculture ref="MercedesBenz">Mercedes</popculture></group></li>
-            <li>Can't be second <group label="d" num="8" rhyme="9" slantRhyme="11">greatest</group>, <success>I'm the <group label="d" num="9" rhyme="8" assonance="10">best</group> and <group label="d" num="10" assonance="9">def</group> 
+            <li>Can't be second <group label="d" num="8" rhyme="9" slantRhyme="11">greatest</group>, <success qual="possession">I'm the <group label="d" num="9" rhyme="8" assonance="10">best</group> and <group label="d" num="10" assonance="9">def</group> 
                 your <group label="d" num="11" slantRhyme="8">favorite</group></success></li>
             <li>My flow <AAVE field="syn" type="deletion" class="copula"/>in-depth nigga, I got my
                 wave up</li>
             <li>It's either get your tidal waved, or you could be my <group label="d" num="12" rhyme="14">neighbor</group></li>
             <li>Cause if I <group label="d" num="13" assimilation="14">can't <food>eat</food></group>, then you <group label="d" num="14" rhyme="12" assimilation="13">can't either</group></li>
-            <li>I <group label="d" num="15" rhyme="16">need to know</group>, <group label="d" num="16" rhyme="15" slantRhyme="17">need the <food>pizza <money>dough</money></food></group> 
+            <li>I <group label="d" num="15" rhyme="16">need to know</group>, <group label="d" num="16" rhyme="15" slantRhyme="17">need the <food>pizza <money qual="pursuit">dough</money></food></group> 
                 fuck I'm spitting <group label="d" num="17" slantRhyme="16"><hiphop ref="Nas">ether</hiphop> for</group>?</li>
         </stanza>
         <stanza type="bridge" speaker="JoeyBada$$">
             <li>Yeah nigga</li>
-            <li><success><group label="e" num="1" alliteration="2">Reigning</group> <group label="e" num="2" alliteration="1" consonance="3">rap</group> <group label="e" num="3" consonance="2">supreme</group> in this bitch</success></li>
-            <li>Cause <women>bitches</women> lie niggas lie numbers, too</li>
-            <li>Cause <women>bitches</women> lie niggas lie numbers, too</li>
-            <li><women>Bitches</women> lie niggas lie numbers, too</li>
-            <li><women>Bitches</women> lie niggas lie numbers, <group label="e" num="4" rhyme="5 6 7">too</group></li>
-            <li>What the fuck <group label="e" num="5" rhyme="4 6 7">you</group><AAVE field="phon" type="dropping" sound="na" position="final"
+            <li><success qual="possession"><group label="e" num="1" alliteration="2">Reigning</group> <group label="e" num="2" alliteration="1" consonance="3">rap</group> <group label="e" num="3" consonance="2">supreme</group> in this bitch</success></li>
+            <li>Cause <women qual="neg">bitches</women> lie niggas lie numbers, too</li>
+            <li>Cause <women qual="neg">bitches</women> lie niggas lie numbers, too</li>
+            <li><women qual="neg">Bitches</women> lie niggas lie numbers, too</li>
+            <li><women qual="neg">Bitches</women> lie niggas lie numbers, <group label="e" num="4" rhyme="5 6 7">too</group></li>
+            <li><violence>What the fuck <group label="e" num="5" rhyme="4 6 7">you</group><AAVE field="phon" type="dropping" sound="na" position="final"
                         ><AAVE field="syn" type="contraction" word1="going" word2="to"
-                    >gon'</AAVE></AAVE><group label="e" num="6" rhyme="4 5 7">do</group> when the <hiphop ref="ProEra">Era</hiphop> come for <group label="e" num="7" rhyme="4 5 6">you</group>?</li>
+                    >gon'</AAVE></AAVE><group label="e" num="6" rhyme="4 5 7">do</group> when the <hiphop ref="ProEra">Era</hiphop> come for <group label="e" num="7" rhyme="4 5 6">you</group>?</violence></li>
         </stanza>
         <stanza type="hook" speaker="JoeyBada$$">
             <li>Check my style, check, check, check it out</li>
@@ -501,7 +501,7 @@
             <li>Don't jock my style</li>
         </stanza>
         <stanza type="verse" speaker="JoeyBada$$">
-            <li><struggle>And I'm from the blocks where they <group label="f" num="1" rhyme="2 5 6 9">sell</group></struggle></li>
+            <li><struggle><drugs>And I'm from the blocks where they <group label="f" num="1" rhyme="2 5 6 9">sell</group></drugs></struggle></li>
             <li><group label="f" num="2" rhyme="1 5 6 9">Cell</group> <group label="f" num="3" rhyme="4">blocks</group> 
                 <group label="f" num="4" rhyme="3">rock</group> my <group label="f" num="5" rhyme="1 2 6 9">mental</group></li>
             <li>See them <haters>fake thugs</haters> that you see before can't even <group label="f" num="6" rhyme="1 2 5 9">spell</group></li>
