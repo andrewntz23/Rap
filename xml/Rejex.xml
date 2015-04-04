@@ -7,7 +7,9 @@
         <year>2014</year>
         <accessDate>2/04/2015</accessDate>
     </meta>
-    <song title="Intro" production="ChuckStrangers">
+    <song  production="ChuckStrangers">
+        <title>Intro</title>
+        <audlink>https://www.youtube.com/watch?v=WI92jrybHPo</audlink>
         <stanza speaker="JoeyBada$$" type="intro">
             <li><oldschool>Back when rappers <AAVE field="syn" type="tense" person="third plural">was</AAVE> really rappers</oldschool></li>
             <li>Pass the <weed>herbs</weed>, pass the <weed>herbs</weed></li>
@@ -52,7 +54,9 @@
                 the <food>jam</food>...</li>
         </stanza>
     </song>
-    <song title="BloomingBlossoms(FlowersPt.1)" production="Madlib">
+    <song production="Madlib">
+        <title>Blooming Blossoms (Flowers Pt.1)</title>
+        <audlink>https://www.youtube.com/watch?v=6TB23c2xrWs</audlink>
         <stanza speaker="JoeyBada$$" type="verse">
             <li>Now</li>
             <li><AAVE field="syn" type="negative">If I <AAVE field="syn" type="contraction" word1="am" word2="not">ain't</AAVE> know no better</AAVE></li>
@@ -169,7 +173,9 @@
                 honor</li>
         </stanza>
     </song>
-    <song title="Catharsis" production="Madlib">
+    <song production="Madlib">
+        <title>Catharsis</title>
+        <audlink>https://www.youtube.com/watch?v=huwJrQemshM</audlink>
         <stanza speaker="JoeyBada$$" type="verse">
             <li><group label="a" num="1" slantRhyme="2">Vigorous</group>, the <group label="a"
                     num="2" slantRhyme="1" rhyme="3 4">illest</group>
@@ -296,7 +302,9 @@
                     slantRhyme="20 21">artist</group></li>
         </stanza>
     </song>
-    <song title="Indubitable" production="LordFinesse">
+    <song production="LordFinesse">
+        <title>Indubitable</title>
+        <audlink>https://www.youtube.com/watch?v=HexdJfHQXSE</audlink>
         <stanza speaker="JoeyBada$$" type="verse">
             <li>I'm <group label="a" num="1" rhyme="3 5">Indubitable</group>, spitting <group
                     label="a" num="2" rhyme="4 6">Pharmaceuticals</group></li>
@@ -401,7 +409,9 @@
                     >missin'</AAVE></group></AAVE>, nigga</li>
         </stanza>
     </song>
-    <song title="OGKilluminati" production="Knxwledge">
+    <song production="Knxwledge">
+        <title>OG Killuminati</title>
+        <audlink>https://www.youtube.com/watch?v=HdmAi823sqA</audlink>
         <stanza speaker="Sample" type="intro">
             <li>Yes, <food>Strawberries</food>!</li>
         </stanza>
@@ -438,7 +448,9 @@
             <li>Give me <hiphop ref="Tupac">two shots for 2Pac killer</hiphop>....nigga</li>
         </stanza>
     </song>
-    <song title="PantiERaid" production="Stuyvesant">
+    <song production="Stuyvesant">
+        <title>PantiE Raid</title>
+        <audlink>https://www.youtube.com/watch?v=GJm7Dm75_Ok</audlink>
         <stanza speaker="JoeyBada$$" type="verse">
             <li>Now age <AAVE field="syn" type="contraction" word1="is" word2="not">ain't</AAVE> nothing but a <group label="a" num="1" rhyme="2 3">digit</group></li>
             <li>So <women>baby</women> if you're <group label="a" num="2" rhyme="1 3">with
@@ -523,7 +535,9 @@
             <li>Nigga wait <AAVE field="phon" type="dropping" sound="un" position="initial">till</AAVE> you see it"</li>
         </stanza>
     </song>
-    <song title="ThatGushy" production="9thWonder">
+    <song production="9thWonder">
+        <title>That Gushy</title>
+        <audlink>www.youtube.com/watch?v=naT2EsF5nRg</audlink>
         <stanza speaker="JoeyBada$$" type="verse">
             <li>Now you already know why I'm <group label="a" num="1" rhyme="2">here
                 girl</group></li>
@@ -648,7 +662,9 @@
             <li>Give me that funk, that gush</li>
         </stanza>
     </song>
-    <song title="Fantom" production="KirkKnight">
+    <song production="KirkKnight">
+        <title>Fantom</title>
+        <audlink>www.youtube.com/watch?v=pCibuW5JqF0</audlink>
         <stanza speaker="JoeyBada$$" type="intro">
             <li><popculture ref="StarWars">The force will be with you always</popculture></li>
             <li>Yo, <hiphop ref="NickiMinaj">Nicki</hiphop> can't even rap</li>
@@ -725,7 +741,9 @@
             <li>Bitch</li>
         </stanza>
     </song>
-    <song title="SilentKnight" production="KirkKnight">
+    <song production="KirkKnight">
+        <title>Silent Knight</title>
+        <audlink>www.youtube.com/watch?v=cYzk2-NrBvU</audlink>
         <stanza speaker="Sample" type="intro">
             <li><popculture ref="StarWars">The force will be with you....always</popculture></li>
         </stanza>
@@ -860,7 +878,9 @@
             <li>(night night night)</li>
         </stanza>
     </song>
-    <song title="Oh,Deer(BeddarDaze)" production="MFDoom">
+    <song production="MFDoom">
+        <title>Oh Deer (Beddar Daze)</title>
+        <audlink>www.youtube.com/watch?v=NadAIg8EaUQ</audlink>
         <stanza speaker="JoeyBada$$" type="verse">
             <li>I see you sitting on the top, in your better phase</li>
             <li>Say, <success>how it feel it feel to be the best</success> and <money>the <group
@@ -946,7 +966,9 @@
             <li>Motherfucker</li>
         </stanza>
     </song>
-    <song title="DSL(DaSpecialList)" production="Bagirba">
+    <song production="Bagirba">
+        <title>DSL (Da Special List)</title>
+        <audlink>www.youtube.com/watch?v=Gd3szlYFHAY</audlink>
         <stanza speaker="JoeyBada$$" type="intro">
             <li>(Damn, UH! I make the whole place warm then)</li>
             <li>(Damn, UH! I make the whole place warm then) I make the whole place</li>
@@ -1064,7 +1086,9 @@
             <li>I bet all you motherfuckers gonna remember this, yeah</li>
         </stanza>
     </song>
-    <song title="UpDate" production="KirkKnight">
+    <song production="KirkKnight">
+        <title>Update</title>
+        <audlink>www.youtube.com/watch?v=wD41ughGEsE</audlink>
         <stanza speaker="JoeyBada$$" type="hook">
             <li>We should go out on a date, on a date, on a date, on a <group label="a" num="1"
                     rhyme="2 3 4">(date)</group></li>
@@ -1194,6 +1218,8 @@
         </stanza>
     </song>
     <song title="LittleRachel" production="JackThwagger">
+        <title>Little Rachel</title>
+        <audlink>www.youtube.com/watch?v=P6mTtxWFLe8</audlink>
         <stanza speaker="JoeyBada$$" type="intro">
             <li>Uh, I swear this shit <AAVE field="syn" type="contraction" word1="is" word2="not">ain't</AAVE> right</li>
         </stanza>
@@ -1261,7 +1287,9 @@
             <li>That's little Rachel</li>
         </stanza>
     </song>
-    <song title="ThisFeelin'" production="Cyne">
+    <song  production="Cyne">
+        <title>This Feelin'</title>
+        <audlink>www.youtube.com/watch?v=Oq05icYkEbo</audlink>
         <stanza speaker="JoeyBada$$" type="verse">
             <li>Never used to like waking up in the <group label="a" num="1" rhyme="2"
                     >morning</group></li>
