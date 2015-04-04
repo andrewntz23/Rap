@@ -2046,7 +2046,9 @@
         </stanza>
 
     </song>
-    <song title="95TilInfinity" production="LeeBannon">
+    <song production="LeeBannon">
+        <title>95 Til Infinity</title>
+        <audlink>www.youtube.com/watch?v=GshME7yTEG</audlink>
         <stanza speaker="JoeyBada$$" type="verse">
             <li> And we <AAVE type="deletion" field="syn" class="copula"></AAVE><group label="a" num="1" rhyme="2"><weed>smoking</weed></group>, <group label="a" num="2"
                     rhyme="1"><weed>toking</weed></group>
@@ -2214,7 +2216,9 @@
         </stanza>
 
     </song>
-    <song title="AmethystRockstar" production="MFDoom">
+    <song production="MFDoom">
+        <title>Amethyst Rockstar</title>
+        <audlink>www.youtube.com/watch?v=E8hPYYQAXXI</audlink>
         <stanza speaker="SaulWilliams" type="intro">
             <li>(Fuck You!)</li>
             <li> I stand on the corner of the <group label="a" num="1" rhyme="2 5">block</group>
@@ -2387,7 +2391,9 @@
         </stanza>
 
     </song>
-    <song title="Reign" production="ChuckStrangers">
+    <song production="ChuckStrangers">
+        <title>Reign</title>
+        <audlink>www.youtube.com/watch?v=T-GWS99JIBg</audlink>
         <stanza speaker="JoeyBada$$" type="hook">
             <li> When it <group label="a" num="1" slantRhyme="2">rains it pours down</group></li>
             <li> Used to wanna be king said the <group label="a" num="2" slantRhyme="1">reign is on
@@ -2560,7 +2566,9 @@
         </stanza>
 
     </song>
-    <song title="SorryBonita" production="Oddisee">
+    <song production="Oddisee">
+        <title>Sorry Bonita</title>
+        <audlink>www.youtube.com/watch?v=z_kyOZxYhLA</audlink>
         <stanza speaker="DyemondLewis" type="verse">
             <li> It’s all <group label="a" num="1" slantRhyme="2" rhyme="3">illusions</group>, fixed
                 gear <group label="a" num="2" slantRhyme="1">cruising</group></li>
@@ -2777,7 +2785,9 @@
         </stanza>
 
     </song>
-    <song title="#LongLiveSteelo" production="KirkKnight">
+    <song production="KirkKnight">
+        <title>#LongLiveSteelo</title>
+        <audlink>www.youtube.com/watch?v=9cPaNtwul4A</audlink>
         <stanza speaker="JoeyBada$$" type="verse">
             <li> Ayo I don't really <group label="a" num="1" rhyme="2">cry</group>, ask <group
                     label="a" num="2" rhyme="1">why</group></li>
@@ -2863,7 +2873,9 @@
         </stanza>
 
     </song>
-    <song title="Unorthodox" production="DJPremier">
+    <song production="DJPremier">
+        <title>Unorthodox</title>
+        <audlink>www.youtube.com/watch?v=u9alAjHkACM</audlink>
         <stanza speaker="JoeyBada$$" type="intro">
             <li> We done came up</li>
             <li> Everybody love ‘em</li>
