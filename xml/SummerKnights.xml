@@ -7,7 +7,9 @@
         <year>2013</year>
         <accessDate>2/04/2015</accessDate>
     </meta>
-    <song title="Alowha" production="KirkKnight">
+    <song production="KirkKnight">
+        <title>Alowha</title>
+        <audlink>www.youtube.com/watch?v=3CKCOwWq40M</audlink>
         <stanza speaker="JoeyBada$$ QueenLatifah" type="intro">
             <li><success>And the champion</success></li>
             <li> Reigning that is</li>
@@ -175,7 +177,9 @@
                         >Direct-less</compound> Indigos</group></li>
         </stanza>
     </song>
-    <song title="Hilary$wank" production="LeeBannon">
+    <song production="LeeBannon">
+        <title>Hilary $wank</title>
+        <audlink>www.youtube.com/watch?v=lo7Cvs_aQWo</audlink>
         <stanza speaker="JoeyBada$$" type="intro">
             <li>We don't say swag no more we say <compound head="swag" stem="swank" type="endo"
                     >swank</compound></li>
@@ -338,7 +342,9 @@
         </stanza>
 
     </song>
-    <song title="MyYout" production="ChuckStrangers">
+    <song production="ChuckStrangers">
+        <title>My Yout</title>
+        <audlink>www.youtube.com/watch?v=-qIFvtv92ss</audlink>
         <stanza speaker="JoeyBada$$" type="intro">
             <li>Badman Ting</li>
         </stanza>
@@ -571,7 +577,9 @@
         </stanza>
 
     </song>
-    <song title="DeathofYolo" production="BruceLeekix">
+    <song production="BruceLeekix">
+        <title>Death of YOLO</title>
+        <audlink>www.youtube.com/watch?v=u0Zt8CuNT1w</audlink>
         <stanza speaker="JoeyBada$$" type="hook">
             <li> This <AAVE field="syn" type="deletion" class="copula"/>the song I wrote if <group
                     label="a" num="1" assonance="2 3 4">I</group>
@@ -830,7 +838,9 @@
         </stanza>
 
     </song>
-    <song title="RightonTime" production="KirkKnight">
+    <song production="KirkKnight">
+        <title>Right On Time</title>
+        <audlink>www.youtube.com/watch?v=vNhHcKUc0uw</audlink>
         <stanza speaker="T'nahApex" type="intro">
             <li> My eyes have never seen someone so beautiful</li>
             <li> So much charm</li>
@@ -974,7 +984,9 @@
         </stanza>
 
     </song>
-    <song title="SweetDreams" production="NavieD">
+    <song production="NavieD">
+        <title>Sweet Dreams</title>
+        <audlink>www.youtube.com/watch?v=an9O6DoVW8U</audlink>
         <stanza speaker="JoeyBada$$" type="verse">
             <li> First I wake up, <group label="a" num="1" rhyme="2">wake up</group>, thinking of a
                 plan to get my <group label="a" num="2" rhyme="1"><money><food>cake</food></money>
@@ -1153,7 +1165,9 @@
         </stanza>
 
     </song>
-    <song title="47Goonz" production="LeeBannon">
+    <song production="LeeBannon">
+        <title>47 Goonz</title>
+        <audlink>www.youtube.com/watch?v=Ew2ICWuTrYI</audlink>
         <stanza speaker="JoeyBada$$" type="verse">
 
             <li> Yo, <hiphop ref="JoeyBada$$">Badass</hiphop> don't <group label="a" num="1"
@@ -1306,7 +1320,9 @@
         </stanza>
 
     </song>
-    <song title="WordIsBond" production="StatikSelektah">
+    <song production="StatikSelektah">
+        <title>Word Is Bond</title>
+        <audlink>www.youtube.com/watch?v=4y1DpQ5GvsA</audlink>
         <stanza speaker="JoeyBada$$" type="verse">
             <li> Got the <sports><weed>reggies from the <group label="a" num="1" rhyme="2 3"
                             >Bush</group></weed></sports></li>
@@ -1454,7 +1470,9 @@
         </stanza>
 
     </song>
-    <song title="SitN'Prey" production="NavieD">
+    <song production="NavieD">
+        <title>Sit N' Prey</title>
+        <audlink>www.youtube.com/watch?v=TynPlb6IDAg</audlink>
         <stanza speaker="DessyHinds" type="intro">
             <li> After that day my nigga</li>
             <li> I remember when he came back to school 3 weeks after</li>
@@ -1706,7 +1724,9 @@
         </stanza>
 
     </song>
-    <song title="TrapDoor" production="TheAlchemist">
+    <song production="TheAlchemist">
+        <title>Trap Door</title>
+        <audlink>www.youtube.com/watch?v=1TSjuZ09L6I</audlink>
         <stanza speaker="JoeyBada$$" type="intro">
             <li> I went over to <women>her</women> house on Sunday morning</li>
             <li>
@@ -1814,7 +1834,9 @@
         </stanza>
 
     </song>
-    <song title="Satellite" production="LeeBannon">
+    <song production="LeeBannon">
+        <title>Satellite</title>
+        <audlink>www.youtube.com/watch?v=NIAoGifO_I0</audlink>
         <stanza speaker="JoeyBada$$" type="verse">
             <li> And I guess <success>it's my turn to <group label="a" num="1" slantRhyme="2"
                         >shine</group></success></li>
