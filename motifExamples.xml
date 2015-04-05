@@ -74,10 +74,11 @@
     
     Oldschool
     <oldschool>back in the days</oldschool>
-    This tag indicates a reference or phrase indicating that Joey is talking about things that invoke nostalgia and hearken back to past times.
+    This tag marks a reference or phrase indicating that Joey is talking about things that invoke nostalgia and hearken back to past times.
     
     
     Pop Culture
+    The popculture tag denotes a reference to a pop culture entity, whether blatantly (Twitter) or indirectly (Captain Jack Sparrow/Pirates of the Caribbean):
     <popculture ref="Twitter">
         <group label="c" num="14" rhyme="15">Twitter</group>
     </popculture>
@@ -85,6 +86,7 @@
     
     
     Power
+    The power tag marks figures and ideas that have power/control in society, such as police and racism:
     <power>Jakes</power>
     <power>Jim Crow Laws</power>
     
@@ -144,7 +146,7 @@
     Women
     This tag marks references to women, and is divided into two groups using qualifiers positive and negative, which label the connotation of the marked word or phrase.
      an example of women negative:
-     -bitch-
+    <women qual="neg">bitches</women>
      an example of women positive:
-     -my momma-
+    <women qual="pos">Mama</women>
 </anything>
