@@ -145,33 +145,33 @@
                     <AAVE field="syn" type="deletion" class="auxiliary"/>
                 <group label="c" num="15" slantRhyme="11 13 14 16">crazy stunt</group></li>
             <li>
-                <group label="c" num="16" slantRhyme="11 13 14 15">Amaze these punks</group>, drop
+                <group label="c" num="16" slantRhyme="11 13 14 15">Amaze <haters>these punks</haters></group>, drop
                 swank like it's <group label="c" num="17" slantRhyme="18" rhyme="19 20">knowledge to
                     ya</group></li>
-            <li> Mr. Bada$$ is <AAVE field="phon" type="dropping" sound="r" position="final"
+            <li><hiphop ref="JoeyBada$$">Mr. Bada$$</hiphop> is <AAVE field="phon" type="dropping" sound="r" position="final"
                     >ya</AAVE>
                 <group label="c" num="18" slantRhyme="17">scholar's tutors</group></li>
-            <li>
+            <li><religion>
                 <compound head="thank" stem="swag" type="exo">Swank</compound> the lord and <group
-                    label="c" num="19" rhyme="17 20">hallelujah</group></li>
-            <li> Still praying to the allahs, <group label="c" num="20" slantRhyme="17 19">gods and
-                    judahs</group></li>
-            <li> Balance out my lows on a <group label="c" num="21" rhyme="22">low high</group></li>
-            <li> Niggas <AAVE type="contraction" field="phon" word1="is" word2="not">ain't</AAVE>
+                    label="c" num="19" rhyme="17 20">hallelujah</group></religion></li>
+            <li><religion>Still praying to the allahs, <group label="c" num="20" slantRhyme="17 19">gods and
+                    judahs</group></religion></li>
+            <li>Balance out my lows on a <group label="c" num="21" rhyme="22">low high</group></li>
+            <li>Niggas <AAVE type="contraction" field="phon" word1="is" word2="not">ain't</AAVE>
                 know I'm sitting<group label="c" num="22" rhyme="21"> so high</group></li>
-            <li> Balance out my lows on the low high</li>
-            <li> I'm like a low high</li>
-            <li> Yo, yo, yo, yo hit <AAVE field="phon" type="dropping" sound="un" position="initial"
+            <li>Balance out my lows on the low high</li>
+            <li>I'm like a low high</li>
+            <li>Yo, yo, yo, yo <violence>hit <AAVE field="phon" type="dropping" sound="un" position="initial"
                     >'em</AAVE> high, <group label="c" num="23" rhyme="24">hit <AAVE field="phon"
-                        type="dropping" sound="un" position="initial">'em</AAVE> low</group></li>
-            <li> Leave <AAVE field="phon" type="dropping" sound="un" position="initial">'em</AAVE>
-                with no <group label="c" num="24" rhyme="23">direction to go</group></li>
-            <li> Yo, yo, yo, yo hit <AAVE field="phon" type="dropping" sound="un" position="initial"
+                        type="dropping" sound="un" position="initial">'em</AAVE> low</group></violence></li>
+            <li> <violence>Leave <AAVE field="phon" type="dropping" sound="un" position="initial">'em</AAVE>
+                with no <group label="c" num="24" rhyme="23">direction to go</group></violence></li>
+            <li> Yo, yo, yo, yo <violence>hit <AAVE field="phon" type="dropping" sound="un" position="initial"
                     >'em</AAVE> high, <group label="c" num="25" rhyme="26">hit <AAVE field="phon"
-                        type="dropping" sound="un" position="initial">'em</AAVE> low</group></li>
+                        type="dropping" sound="un" position="initial">'em</AAVE> low</group></violence></li>
             <li>
                 <group label="c" num="26" rhyme="25"><compound head="direct" stem="less" type="endo"
-                        >Direct-less</compound> Indigos</group></li>
+                        >Direct-less</compound> <religion>Indigos</religion></group></li>
         </stanza>
     </song>
     <song production="LeeBannon">
