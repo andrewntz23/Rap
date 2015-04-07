@@ -1,3 +1,5 @@
+(:Get a sequence of group size counts by counting tokenize on whitespace for attribute
+values:)
 declare function local:order-value ($rhymeStrings as xs:string*)
     as xs:integer* {
     let $rhymeSeq := ()
@@ -7,7 +9,9 @@ declare function local:order-value ($rhymeStrings as xs:string*)
     return $rhymeSeq
 };
 
-(:Needs to take one sequence which is the sums and just add that.:)
+(:Take a sequence of sums and a sequence of values and return a sequence of 
+  the number of groups of that value, all in order.
+:)
 declare function local:get-numGroups($sums as xs:double*, $distinctValues as xs:integer*)
     as xs:double* {
     
@@ -19,7 +23,7 @@ declare function local:get-numGroups($sums as xs:double*, $distinctValues as xs:
     let $returnSeq := insert-before($returnSeq, 1, ($thisSum div $thisValue))
     return $returnSeq
     };
-
+(:Get the count of how many times a given value appears:)
 declare function local:get-counts($list as xs:integer*, $distinctValues as xs:integer*)
 as xs:integer* {
     let $returnSeq := ()
@@ -33,23 +37,24 @@ as xs:integer* {
 (:Main Function:)
 
 let $info := (
-     doc("./xml/B4DA$$.xml")  
-     (:doc("xml/1999.xml") ,
-     doc("xml/SummerKnights.xml") , 
-     doc("./xml/Rejex.xml")):)
+     doc("./xml/B4DA$$.xml"),  
+     doc("./xml/1999.xml"),
+     doc("./xml/SummerKnights.xml") , 
+     doc("./xml/Rejex.xml")
      
      )
-     
-    let $mySeq := $info//group[@rhyme]/@rhyme/string()
-
+    for $song in $info 
+(:  Change @rhyme to @theDesiredDevice to get different info :)
+    let $mySeq := $song//group[@rhyme]/@rhyme/string()
     let $list := local:order-value($mySeq)  (:  $list is the sequence of counts for each group  :)
-    
     let $distinctValues := distinct-values($list)
     let $counts := local:get-counts($list, $distinctValues)  
     let $sumCounts := sum($counts)
     let $numGroups := sum(local:get-numGroups($counts, $distinctValues))
-    (:return (
-    '&#10;',
+    return (
+        '&#10;', 
+        $song//albumTitle/string(),
+        '&#10;',
         'value: ', $distinctValues,
         '&#10;',
         'sums: ', $counts,
@@ -58,14 +63,6 @@ let $info := (
         '&#10;',
         'numGroups: ', $numGroups,
         '&#10;',
-        $sumCounts div $numGroups
-    
-    
-    ):)
-    return count(index-of($list, 2))
+        'average: ', $sumCounts div $numGroups   
+    )
      
-(:let $rhymeStrings := $info//group[@rhyme]/@rhyme/string()
-for $rhymeString in $rhymeStrings
-let $rhymeCount := count(tokenize($rhymeString, " " )) + 1
-(\:for $count in $assimilation count(&nbsp;) + 2:\)
-return ($rhymeString, "&#10;"):)
