@@ -26,8 +26,9 @@ as element(group)* {
     let $valuesToCheck := tokenize($attributeValues, "\s")
     let $ourNum := $group/@num
     for $valueToCheck in $valuesToCheck
-    let $otherGroup := $group/ancestor::stanza//group[@label=$group/@label][@num = $valueToCheck]
+    let $otherGroups := $group/ancestor::stanza//group[@label=$group/@label][@num = $valueToCheck]
 (:  Here simply add in the thing to make sure that their @attributeThatWeCareAbout contains $ourNum  :)
+    for $otherGroup in $otherGroups
     return 
         if (not(contains($otherGroup/@*[name()=$attributeName], $ourNum)))
             then ($group, $otherGroup)
