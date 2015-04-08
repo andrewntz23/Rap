@@ -88,7 +88,7 @@
                 <xsl:attribute name="data-rhyme" select="@rhyme"/>
             </xsl:if>
             <xsl:if test="@slantRhyme">
-                <xsl:attribute name="data-slantRhyme" select="@slantRhyme"/>
+                <xsl:attribute name="data-slantrhyme" select="@slantRhyme"/>
             </xsl:if>
             <xsl:apply-templates/>
        </span>

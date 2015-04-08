@@ -17,9 +17,9 @@
                 </div>
             </div>
             <div id="content">
-                <div class="box">
+                <div id="overview" class="box">
                     <div class="headfont">
-                        <h2 id="overview">Methodology Overview</h2>
+                        <h2>Methodology Overview</h2>
                     </div>
                     <div class="leftfont">
                         <p>The purpose of this project was to discover the ways in which Joey Bada$$
@@ -36,8 +36,8 @@
                             grows.</p>
                     </div>
                 </div>
-                <div class="box">
-                    <div id="ling">
+                <div id="ling" class="box">
+                    <div>
                         <div class="headfont">
                             <h2>Linguistics</h2>
                         </div>
@@ -52,63 +52,64 @@
                             <h4>dropping:</h4>
                             <p>This attribute is used when a sound is dropped from a word. For
                                 example, the word somthin’ would be tagged as <code>&lt;AAVE
-                                        field="phon" type="dropping" sound="g" position="initial"
-                                        &gt;somthin’&lt;/AAVE&gt;</code>. The tag also includes a sound
+                                    field="phon" type="dropping" sound="g" position="initial"
+                                    &gt;somthin’&lt;/AAVE&gt;</code>. The tag also includes a sound
                                 attribute that describes the sound that is being dropped as well as
                                 the position of that sound.</p>
                             <h4>tense:</h4>
                             <p>This attribute is used when the wrong tense is used in a phrase. For
-                                instance ‘We wasn’t on the grind’ would be tagged as <code>We &lt;AAVE
-                                    field="syn" type="tense" person="first plural"&gt;wasn't&lt;/AAVE&gt;
-                                    on the grind</code>. This is accompanied by the attribute person
-                                which is marked as the person that the word should be, in this case
-                                first person plural.</p>
+                                instance ‘We wasn’t on the grind’ would be tagged as <code>We
+                                    &lt;AAVE field="syn" type="tense" person="first
+                                    plural"&gt;wasn't&lt;/AAVE&gt; on the grind</code>. This is
+                                accompanied by the attribute person which is marked as the person
+                                that the word should be, in this case first person plural.</p>
                             <h4>deletion:</h4>
                             <p>This attribute is used when a word is deleted from a sentence. It is
                                 like dropping but on a sentence level. The tag is typically used for
                                 copula deletion (the deletion of to be words) and is always an empty
                                 tag that looks like this <code>&lt;AAVE field="syn" type="deletion"
-                                    class="copula"/AAVE&gt;</code>. It is accompanied by the
-                                class attribute which describes the word class of the missing word.
-                                It can be one of the following: "copula", "preposition",
-                                "auxiliary", "to", "object".</p>
+                                    class="copula"/AAVE&gt;</code>. It is accompanied by the class
+                                attribute which describes the word class of the missing word. It can
+                                be one of the following: "copula", "preposition", "auxiliary", "to",
+                                "object".</p>
                             <h4>aspect:</h4>
                             <p>This attribute is used when a phrase uses tense/aspect in a manner
                                 that is different than Standard American English (SAE) The tag is
                                 typically used as follows: <code>&lt;AAVE field="syn" type="aspect"
-                                    tense="habitual"&gt;sounds been profound&lt;/AAVE&gt;</code>. This
-                                attribute is accompanied by the tense attribute which describes one
-                                of the tenses used, which are described below: TABLE</p>
+                                    tense="habitual"&gt;sounds been profound&lt;/AAVE&gt;</code>.
+                                This attribute is accompanied by the tense attribute which describes
+                                one of the tenses used, which are described below: TABLE</p>
                             <h4>negative</h4>
                             <p>This attribute is used when there is a double negative or a negative
-                                concord. This is commonly seen in phrases like <code>‘Cause it &lt;AAVE
-                                    field="syn" type="negative"&gt;ain’t no fun if the homies don’t
-                                        get none&lt;/AAVE&gt;</code>. This has no accompanying
-                                attributes</p>
+                                concord. This is commonly seen in phrases like <code>‘Cause it
+                                    &lt;AAVE field="syn" type="negative"&gt;ain’t no fun if the
+                                    homies don’t get none&lt;/AAVE&gt;</code>. This has no
+                                accompanying attributes</p>
                             <h4>contraction</h4>
                             <p>This attribute is used when a word is contracted that is abnormal to
                                 SAE. This means that words like ‘it’s’ will not be tagged by words
                                 like ‘tryna’ will be tagged. The tag looks like <code>&lt;AAVE
-                                        field="phon" type="contraction" word1="trying" word2="to"
-                                        &gt;tryna&lt;/AAVE&gt;</code>. The attribute is accompanied with the
-                                word1, word2, and an optional word3 attribute. These describe the
-                                non-concatenated words.</p>
+                                    field="phon" type="contraction" word1="trying" word2="to"
+                                    &gt;tryna&lt;/AAVE&gt;</code>. The attribute is accompanied with
+                                the word1, word2, and an optional word3 attribute. These describe
+                                the non-concatenated words.</p>
                         </div>
                     </div>
                 </div>
-                <div class="box">
-                    <div id="motif">
+                <div id="motif" class="box">
+                    <div>
                         <div class="headfont">
                             <h2>Motifs</h2>
                         </div>
                         <div class="leftfont">
                             <p>This will contain info on Motif markup</p>
-                        </div></div>
+                        </div>
+                    </div>
                 </div>
-                <div class="box">
-                    <div id="poetry">
+                <div id="poetry" class="box">
+                    <div>
                         <div class="headfont">
-                            <h2>Poetry</h2>
+                            <h2>Poetics</h2>
                         </div>
                         <div class="leftfont">
                             <h3>Poetic Devices</h3>
@@ -129,60 +130,62 @@
                                 online.</p>
                             <h4>Alliteration:</h4>
                             <p>A poetic device in which there is a repetition of the first consonant
-                                in a series of multiple words.<br/> e.g. "pride is higher than the prices
-                                on your Pradas"</p>
+                                in a series of multiple words.<br /> e.g. "pride is higher than the
+                                prices on your Pradas"</p>
                             <h4>Assimilation:</h4>
                             <p>A poetic device in which one word becomes more phonologically similar
                                 to at least one other word, esentially the rappers delivery of the
                                 words produces a transformation in which the previously dissimilar
-                                words now seem to rhyme.<br/> e.g. And I know the landlord fed up with
-                                our lies<br /> So we pray to the Gods, the Jahs, and the
+                                words now seem to rhyme.<br /> e.g. And I know the landlord fed up
+                                with our lies<br /> So we pray to the Gods, the Jahs, and the
                                 Allahs<br /> To keep us safe and watch our lives.<br /></p>
                             <h4>Assonance:</h4>
                             <p>A poetic device in which words near each other have a repetition of a
-                                vowel in nonrhyming stressed syllables.<br/> e.g. Tend this racket while
-                                I'm cracking a Serena.</p>
+                                vowel in nonrhyming stressed syllables.<br /> e.g. Tend this racket
+                                while I'm cracking a Serena.</p>
                             <h4>Consonance:</h4>
                             <p>A poetic device in which words near each other have a repetition of a
-                                consonants in nonrhyming stressed syllables.<br/> e.g. Show's too turnt
-                                out return home burnt out</p>
+                                consonants in nonrhyming stressed syllables.<br /> e.g. Show's too
+                                turnt out return home burnt out</p>
                             <h4>Rhyme:</h4>
                             <p>A poetic device in which there is a correspondence of sound between
-                                words or the endings of words.<br/> e.g.I know she always think of little
-                                me, but now I got big literally<br /> Worldwide and physically<br />
-                                I'm saying I used to take walks around Little Italy<br /> Now I roam
-                                'round Sicily<br /> And I'm plotting on a milli<br /></p>
+                                words or the endings of words.<br /> e.g.I know she always think of
+                                little me, but now I got big literally<br /> Worldwide and
+                                physically<br /> I'm saying I used to take walks around Little
+                                Italy<br /> Now I roam 'round Sicily<br /> And I'm plotting on a
+                                milli<br /></p>
                             <h4>Slant Rhyme:</h4>
                             <p>A poetic device in which a rhyme is formed by words with similar but
                                 not identical sounds. Typically, either the vowels are different
                                 while the consonants are identical, or the consonants are different
-                                while the vowels are identical.<br/> e.g. But it's definite I spit more
-                                than speech impediments<br /> Brooklyn's the residence, the best and
-                                it's evident<br /></p>
+                                while the vowels are identical.<br /> e.g. But it's definite I spit
+                                more than speech impediments<br /> Brooklyn's the residence, the
+                                best and it's evident<br /></p>
                             <h4>Example Poetic Markup:</h4>
                             <code>&lt;li&gt;It's all a &lt;group label="a" num="1" alliteration="2"
-                                &gt;hidden&lt;/group&gt;
-                                    &lt;group label="a" num="2" alliteration="1" rhyme="3 4 6"
-                                    &gt;history&lt;/group&gt;, and &lt;group label="a" num="3" rhyme="2 4 6"
-                                    &gt;mysteries&lt;/group&gt;&lt;/li&gt;<br />
-                                &lt;li&gt;I see &lt;group label="a" num="4" rhyme="2 3 6"&gt;vividly&lt;/group&gt;,
-                                        &lt;group label="a" num="5" slantRhyme="7"
-                                        &gt;hysteria&lt;/group&gt;&lt;/li&gt;<br />
-                                &lt;li&gt;Cause &lt;group label="a" num="6" rhyme="2 3 4"&gt;misery&lt;/group&gt; on
-                                    the &lt;group label="a" num="7" slantRhyme="5" rhyme="8 9 11"
-                                    &gt;interior&lt;/group&gt;&lt;/li&gt;<br />
-                                &lt;li&gt;Shit gets more &lt;group label="a" num="8" rhyme="7 9 11"
-                                &gt;scarier&lt;/group&gt;, I'm &lt;group label="a" num="9"
-                                rhyme="7 8 11"&gt;never&lt;/group&gt;
-                                &lt;group label="a" num="10" assimilation="11"&gt;in fear&lt;/group&gt;&lt;/li&gt;<br />
-                                &lt;li&gt;Just a little &lt;group label="a" num="11" assimilation="10"
-                                rhyme="7 8 9"&gt;inferior&lt;/group&gt; in &lt;group label="a" num="12"
-                                assimilation="14"&gt;some areas&lt;/group&gt;&lt;/li&gt;<br />
-                                &lt;li&gt;But I &lt;group label="a" num="13" rhyme="15"&gt;share&lt;/group&gt;, wisdom
-                                    with &lt;group label="a" num="14" assimilation="12"
-                                    &gt;Sumerians&lt;/group&gt;&lt;/li&gt;<br />
-                                &lt;li&gt;&lt;group label="a" num="15" rhyme="13"&gt;Somewhere&lt;/group&gt; we in the
-                                    place&lt;/li&gt;<br /></code>
+                                &gt;hidden&lt;/group&gt; &lt;group label="a" num="2"
+                                alliteration="1" rhyme="3 4 6" &gt;history&lt;/group&gt;, and
+                                &lt;group label="a" num="3" rhyme="2 4 6"
+                                &gt;mysteries&lt;/group&gt;&lt;/li&gt;<br /> &lt;li&gt;I see
+                                &lt;group label="a" num="4" rhyme="2 3 6"&gt;vividly&lt;/group&gt;,
+                                &lt;group label="a" num="5" slantRhyme="7"
+                                &gt;hysteria&lt;/group&gt;&lt;/li&gt;<br /> &lt;li&gt;Cause
+                                &lt;group label="a" num="6" rhyme="2 3 4"&gt;misery&lt;/group&gt; on
+                                the &lt;group label="a" num="7" slantRhyme="5" rhyme="8 9 11"
+                                &gt;interior&lt;/group&gt;&lt;/li&gt;<br /> &lt;li&gt;Shit gets more
+                                &lt;group label="a" num="8" rhyme="7 9 11"
+                                &gt;scarier&lt;/group&gt;, I'm &lt;group label="a" num="9" rhyme="7
+                                8 11"&gt;never&lt;/group&gt; &lt;group label="a" num="10"
+                                assimilation="11"&gt;in fear&lt;/group&gt;&lt;/li&gt;<br />
+                                &lt;li&gt;Just a little &lt;group label="a" num="11"
+                                assimilation="10" rhyme="7 8 9"&gt;inferior&lt;/group&gt; in
+                                &lt;group label="a" num="12" assimilation="14"&gt;some
+                                areas&lt;/group&gt;&lt;/li&gt;<br /> &lt;li&gt;But I &lt;group
+                                label="a" num="13" rhyme="15"&gt;share&lt;/group&gt;, wisdom with
+                                &lt;group label="a" num="14" assimilation="12"
+                                &gt;Sumerians&lt;/group&gt;&lt;/li&gt;<br /> &lt;li&gt;&lt;group
+                                label="a" num="15" rhyme="13"&gt;Somewhere&lt;/group&gt; we in the
+                                place&lt;/li&gt;<br /></code>
                         </div></div>
                 </div><!-- ends box -->
             </div><!-- ends content -->

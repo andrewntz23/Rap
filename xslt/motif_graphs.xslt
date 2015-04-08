@@ -15,7 +15,7 @@
     <xsl:template match="/">
         <svg height="100%" width="100%">
             <g transform="translate(40, 350)">
-                <text x="{$lineWidth div 2}" y="-{$barHeight + 20}" text-anchor="middle" font-size="16px">
+                <text x="{$lineWidth div 2}" y="-{$barHeight + 20}" text-anchor="middle" font-size="20px">
                     <xsl:apply-templates select="//albumTitle"/>
                 </text>
                 <line x1="20" x2="20" y1="0" y2="-{$barHeight + 20}" stroke="black" stroke-width="1"/>

@@ -126,6 +126,7 @@ div#navbar ul ul li {
 .headfont {
     font-family: 'Rock Salt', cursive;
     font-size:x-large;
+    text-shadow: -1px 0 gray, 0 1px gray, 1px 0 gray, 0 -1px gray;
     color: #140404;
     text-align: center;
     margin: 5px auto;
