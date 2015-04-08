@@ -154,7 +154,7 @@
             <li><religion>
                 <compound head="thank" stem="swag" type="exo">Swank</compound> the lord and <group
                     label="c" num="19" rhyme="17 20">hallelujah</group></religion></li>
-            <li><religion>Still praying to the allahs, <group label="c" num="20" slantRhyme="17 19">gods and
+            <li><religion>Still praying to the allahs, <group label="c" num="20" rhyme="17 19">gods and
                     judahs</group></religion></li>
             <li>Balance out my lows on a <group label="c" num="21" rhyme="22">low high</group></li>
             <li>Niggas <AAVE type="contraction" field="phon" word1="is" word2="not">ain't</AAVE>
@@ -267,11 +267,11 @@
         <stanza speaker="JoeyBada$$" type="verse">
             <li> Hmmm another <group label="c" num="1" rhyme="5"><weed>loud pack</weed></group>
                 another <group label="c" num="2" rhyme="3 6">proud cat</group></li>
-            <li> Hey <group label="c" num="3" rhyme="1 6">pound that</group>, <oldschool>Hip-Hop <AAVE
+            <li> Hey <group label="c" num="3" rhyme="2 6">pound that</group>, <oldschool>Hip-Hop <AAVE
                     field="syn" type="aspect" tense="habitual"><group label="c" num="4"
                         assonance="5">sounds</group> been</AAVE>
                 <group label="c" num="5" assonance="4" rhyme="1">profound back</group></oldschool></li>
-            <li> Slow <group label="c" num="6" rhyme="1 3">down that</group>, <group label="c"
+            <li> Slow <group label="c" num="6" rhyme="2 3">down that</group>, <group label="c"
                     num="7" rhyme="8">metronome</group> nigga</li>
             <li> Let it <group label="c" num="8" rhyme="7">hit home</group> when the specimen <AAVE
                     field="phon" type="dropping" sound="g" position="final">showin'</AAVE>
@@ -310,7 +310,7 @@
                     rhyme="25 27"><language lang="spanish" trans="nipples">papillas</language></group></sex></li>
             <li> Fellas <violence>beat they chest like they <AAVE field="syn" type="deletion" class="copula"
                 />Silverback <group label="c" num="27" rhyme="25 26">Gorillas</group></violence></li>
-            <li> It's the new age, <religion>children of the crystal <group label="c" num="28" rhyme="20"
+            <li> It's the new age, <religion>children of the crystal <group label="c" num="28" rhyme="30"
                     >healers</group></religion></li>
             <li> Thinking I butterfly, I try <AAVE field="syn" type="deletion" class="to"/><group
                     label="c" num="29" consonance="30">catapult</group>
@@ -1198,8 +1198,8 @@
             <li> <weed>Quarter in the room to elevate</weed>, said if you <group label="a" num="7" rhyme="5 6 11"
                     >ever may</group></li>
             <li> <sex>Slip then <group label="a" num="8" alliteration="9 10">hit</group>
-                <group label="a" num="9" rhyme="8 10"><women qual="neg">her</women></group> on the <group
-                    label="a" num="10" rhyme="8 9">hip</group></sex> where the <group label="a" num="11"
+                <group label="a" num="9" alliteration="8 10"><women qual="neg">her</women></group> on the <group
+                    label="a" num="10" alliteration="8 9">hip</group></sex> where the <group label="a" num="11"
                     rhyme="5 6 7"><guns>Beretta</guns> stay</group></li>
             <li> Catch me somersaulting my <group label="a" num="12" assimilation="14"
                     >eyelids</group></li>
@@ -1544,10 +1544,10 @@
                     word2="not">ain't</AAVE>
                 <group label="b" num="2" slantRhyme="1">aged enough</group></li>
 
-            <li> <drugs>Getting high off <group label="b" num="3" assimilation="2 4">angel
+            <li> <drugs>Getting high off <group label="b" num="3" assimilation="1 4">angel
                 dust</group></drugs></li>
             <li> From <geo ref="NewYork">NY</geo> to <geo ref="LosAngeles"><language lang="spanish" trans="the">Los</language> <group label="b"
-                        num="4" assimilation="2 3"><language lang="spanish" trans="angels">Angeles</language></group></geo></li>
+                        num="4" assimilation="1 3"><language lang="spanish" trans="angels">Angeles</language></group></geo></li>
             <li><AAVE field="syn" type="negative"><hiphop ref="Jay-Z">There <AAVE type="contraction"
                             field="phon" word1="is" word2="not">ain't </AAVE> no
                     love</hiphop></AAVE></li>
@@ -1611,16 +1611,15 @@
                 >course</group></li>
             <li>
                 <hiphop ref="CapitalSteez">Steez</hiphop> taught me how to <group label="d" num="4"
-                    slantRhyme="1 2 3">store</group> it in my <sports>ball <group label="d" num="5"
-                        slantRhyme="6 7">shorts</group></sports></li>
+                    slantRhyme="1 2 3">store</group> it in my <sports>ball shorts</sports></li>
             <li> So when we stop by <geo ref="Detroit">the D</geo> we never get caught</li>
             <li> I say it again we face <weed>L's</weed> but never lost</li>
-            <li> Either be a warlord for 6 fees <group label="d" num="6" slantRhyme="5 7 8"
+            <li> Either be a warlord for 6 fees <group label="d" num="6" slantRhyme="7 8"
                     >short</group></li>
-            <li> Each day in <religion>this living hell</religion>, feel <group label="d" num="7" slantRhyme="5 6 8"
+            <li> Each day in <religion>this living hell</religion>, feel <group label="d" num="7" slantRhyme="6 8"
                     >remorse</group></li>
             <li> But he had a <money qual="possession">million dollar</money> smile way <group label="d" num="8"
-                    slantRhyme="5 6 7">before</group> he flossed</li>
+                    slantRhyme="6 7">before</group> he flossed</li>
         </stanza>
         <stanza speaker="JoeyBada$$" type="hook">
             <li> <religion>Sometimes I just sit and pray</religion></li>
@@ -1960,7 +1959,7 @@
                     rhyme="7 8 9" slantRhyme="10">night</group></li>
         </stanza>
         <stanza speaker="KirkKnight" type="verse">
-            <li> As I roll the <group label="d" num="1" rhyme="1">die</group></li>
+            <li> As I roll the <group label="d" num="1" rhyme="4">die</group></li>
             <li> Like <alcohol>my first <group label="d" num="2" rhyme="3">drink</group></alcohol> was just the <group
                     label="d" num="3" rhyme="2">brink</group> of a crooked <group label="d" num="4"
                     rhyme="1">eye</group></li>
@@ -2714,7 +2713,7 @@
                         rhyme="1 3 4 5"><money qual="pursuit">paper</money></group></AAVE></li>
             <li> All I earned was some <fashion>kicks</fashion> some snares from some <group
                     label="d" num="3" rhyme="1 2 4 5"><haters>haters</haters></group></li>
-            <li> <sex>And some <group label="d" num="4">favors</group> from some <women qual="neg">chicks</women>
+            <li> <sex>And some <group label="d" num="4" rhyme="1 2 3 5">favors</group> from some <women qual="neg">chicks</women>
                 that move their rumps like <group label="d" num="5" rhyme="1 2 3 4"
                 >shakers</group></sex></li>
             <li> But what's that shit, <success qual="pursuit">I was <AAVE field="phon" type="contraction" word1="trying"
@@ -2821,7 +2820,7 @@
                     <group label="b" num="8" rhyme="7">remedies</group></li>
             <li> <sex>Came in between <women qual="neg">her</women> and I</sex></li>
             <li> We leave it to the <group label="b" num="9" slantRhyme="10">constellations</group>
-                like should we <group label="b" num="10" slantRhyme="10">continue
+                like should we <group label="b" num="10" slantRhyme="9">continue
                 relations</group>?</li>
             <li> I think <group label="b" num="11" rhyme="12 13">not</group>
                 <AAVE field="phon" type="dropping" sound="be" position="initial">cause</AAVE> all I

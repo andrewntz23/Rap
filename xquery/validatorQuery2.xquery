@@ -37,7 +37,7 @@ as element(group)* {
 };
 
 let $info := (
-     (:doc("../xml/B4DA$$.xml"):) 
+     doc("../xml/B4DA$$.xml"),
      doc("../xml/1999.xml"),
      doc("../xml/SummerKnights.xml") , 
      doc("../xml/Rejex.xml")

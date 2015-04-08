@@ -350,7 +350,7 @@
                         <group label="d" num="14" rhyme="9 10 11 15 16 17"
                     >Biggie</group></hiphop></success></li>
             <li><hiphop ref="NotoriousBIG">No <group label="d" num="15" rhyme="9 10 11 14 16 17"
-                        >really</group>, it's no <group label="d" num="16" rhyme="9 10 11 14 17"
+                        >really</group>, it's no <group label="d" num="16" rhyme="9 10 11 14 15 17"
                         >biggy</group></hiphop> and <hiphop ref="50Cent"><group label="d" num="17"
                         rhyme="9 10 11 14 15 16">50</group>
                     <group label="d" num="18" rhyme="19">can't bother</group></hiphop></li>
@@ -479,7 +479,7 @@
                         >ho-ho</group></women></li>
             <li><popculture ref="SantaClaus"><religion>Chris Cringley</religion></popculture>
                 <group label="c" num="11" slantRhyme="12">gifted</group>, I'm ill with the <group
-                    label="c" num="12" rhyme="13">writtens</group></li>
+                    label="c" num="12" slantRhyme="11" rhyme="13">writtens</group></li>
             <li>Got my finger to the world, Fuck it a <group label="c" num="13" rhyme="12"
                     slantRhyme="14">fist then</group></li>
             <li>Sit back and look at what <AAVE field="syn" type="aspect" tense="progressive">you
@@ -794,7 +794,7 @@
                         field="syn" type="deletion" class="auxiliary"/>you let it <group label="d"
                         num="15" rhyme="14 16 17">slide</group>?</sex></li>
             <li><sex><women qual="pos">She</women>
-                    <group label="d" num="16" rhyme="14 15 16">sighed</group> and <group label="d"
+                    <group label="d" num="16" rhyme="14 15 17">sighed</group> and <group label="d"
                         num="17" rhyme="14 15 16">replied</group> "It was only like <group label="d"
                         num="18" slantRhyme="19">5</group>"</sex></li>
             <li><sex>I'm like "Fuck it, <women qual="pos">girl</women> just close your <group
