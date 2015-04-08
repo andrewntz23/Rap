@@ -37,15 +37,15 @@ as xs:integer* {
 (:Main Function:)
 
 let $info := (
-     doc("./xml/B4DA$$.xml"),  
-     doc("./xml/1999.xml"),
-     doc("./xml/SummerKnights.xml") , 
-     doc("./xml/Rejex.xml")
+     doc("../xml/B4DA$$.xml"),  
+     doc("../xml/1999.xml"),
+     doc("../xml/SummerKnights.xml") , 
+     doc("../xml/Rejex.xml")
      
      )
     for $song in $info 
 (:  Change @rhyme to @theDesiredDevice to get different info :)
-    let $mySeq := $song//group[@rhyme]/@rhyme/string()
+    let $mySeq := $song//group[@assimilation]/@assimilation/string()
     let $list := local:order-value($mySeq)  (:  $list is the sequence of counts for each group  :)
     let $distinctValues := distinct-values($list)
     let $counts := local:get-counts($list, $distinctValues)  
