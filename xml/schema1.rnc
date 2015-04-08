@@ -98,6 +98,8 @@ markup =
     | group
     | AAVE
     | compound
+    | language
+
 oldschool =
     element oldschool {
         mixed { markup* }}
@@ -514,6 +516,9 @@ person = attribute person { text }
 class = attribute class { "copula" | "preposition" | "auxiliary" | "to" | "object" }
 head = attribute head { text }
 stem = attribute stem { text }
+language = element language { mixed { lang, trans, markup*}}
+lang = attribute lang {text}
+trans = attribute trans {text}
 # If you want to make a group variable for something you just use label=(blah|blah1|blah2|etc.) 
 # and then you can use it instead of repeating yourself 
 # example: datePattern = (day|month|year)

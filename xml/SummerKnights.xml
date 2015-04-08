@@ -241,7 +241,7 @@
                     >ants</group> in my <group label="b" num="2" rhyme="1">pants</group></li>
             <li>
                 <group label="b" num="3" slantRhyme="4"><food><women qual="pos">Honey</women></food>, pop</group> was a <group label="b"
-                    num="4" slantRhyme="3">bumbaclot</group> and had a <women qual="pos">queen bee Mommy</women></li>
+                    num="4" slantRhyme="3"><language>bumbaclot</language></group> and had a <women qual="pos">queen bee Mommy</women></li>
             <li> Uh, I love <women qual="pos">her</women> to the <group label="b" num="5" rhyme="6">tissue</group>, <violence>disrespect
                 my blood and it's an <group label="b" num="6" rhyme="5">issue</group></violence></li>
             <li>
@@ -305,9 +305,9 @@
                     label="c" num="23" alliteration="22" rhyme="24">similar</group></li>
             <li> Spit that <group label="c" num="24" rhyme="23" slantRhyme="25">unfamiliar</group>,
                 put that on <group label="c" num="25" slantRhyme="24" rhyme="26 27"
-                >familia</group></li>
+                ><language lang="spanish" trans="family">familia</language></group></li>
             <li> If ya love Hip Hop, <sex><women qual="neg">ladies</women> rub your <group label="c" num="26"
-                    rhyme="25 27">papillas</group></sex></li>
+                    rhyme="25 27"><language lang="spanish" trans="nipples">papillas</language></group></sex></li>
             <li> Fellas <violence>beat they chest like they <AAVE field="syn" type="deletion" class="copula"
                 />Silverback <group label="c" num="27" rhyme="25 26">Gorillas</group></violence></li>
             <li> It's the new age, <religion>children of the crystal <group label="c" num="28" rhyme="20"
