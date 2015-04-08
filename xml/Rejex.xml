@@ -257,24 +257,23 @@
                                 lang="spanish" trans="nothing"
                     >nada</language></group></haters></criticism></li>
             <li><AAVE field="phon" type="dropping" sound="g" position="final">Fuckin'</AAVE> stupid
-                    <group label="b" num="6" rhyme="5 7 8 9 10 11"><language lang="spanish" trans=""
-                        >Malagas</language></group>, part of the <geo ref="Spain"><group label="b"
+                    <group label="b" num="6" rhyme="5 7 8 9 10 11">Malagas</group>, part of the <geo ref="Spain"><group label="b"
                         num="7" rhyme="5 6 8 9 10 11"><language lang="spanish" trans="Spain"
                             >Espana</language></group></geo></li>
             <li>I sip on <group label="b" num="8" rhyme="5 6 7 9 10 11"><alcohol><language
-                            lang="spanish" trans="">Coladas</language></alcohol></group> and
+                            lang="spanish" trans="strained">Coladas</language></alcohol></group> and
                     <sex>feel <women qual="neg">your chick <group label="b" num="9"
-                            rhyme="5 6 7 8 10 11"><language lang="spanish" trans="breasts"
+                            rhyme="5 6 7 8 10 11"><language lang="spanish" trans="boobs"
                                 >tatas</language></group></women></sex></li>
             <li><sex><AAVE field="syn" type="dropping" sound="un" position="initial">'til</AAVE> I
                     bust like <group label="b" num="10" rhyme="5 6 7 8 9 11"><language
-                            lang="spanish" trans="">pinatas</language></group></sex></li>
+                            lang="spanish" trans="full of sweets">pinatas</language></group></sex></li>
             <li>Only true <group label="b" num="11" rhyme="5 6 7 8 9 10" slantRhyme="12"
-                    >Shotta</group>, come kill <AAVE field="phon" type="dropping" sound="th"
+                    ><language lang="creole" trans="gangster">Shotta</language></group>, come kill <AAVE field="phon" type="dropping" sound="th"
                     position="initial">'em</AAVE> with the <group label="b" num="12" slantRhyme="11"
-                    >Patois</group></li>
+                    ><language lang="creole" trans="Jamaican Creole">Patois</language></group></li>
             <li>Same time, <women qual="neg">met the gal</women>, and up for <group label="b"
-                    num="13" rhyme="14">dagga</group>, that's word to <group label="b" num="14"
+                    num="13" rhyme="14"><language lang="creole" trans="dance">dagga</language></group>, that's word to <group label="b" num="14"
                     rhyme="13"><popculture ref="SpraggaBenz">Spragga</popculture></group></li>
             <li><hiphop ref="LilWayne">I'm a young <group label="b" num="15" rhyme="16"
                         >Wayne</group></hiphop>, I'm going <group label="b" num="16" rhyme="15"
@@ -772,7 +771,7 @@
                 is</group></li>
             <li>A Dime ? I'd give that ass <hiphop ref="LilWayne">a <group label="d" num="1"
                         rhyme="2 3 4 6 7">Milli</group></hiphop></li>
-            <li><sex><group label="d" num="2" rhyme="1 3 4 6 7"><language>Coochie</language></group> got the power,
+            <li><sex><group label="d" num="2" rhyme="1 3 4 6 7">Coochie</group> got the power,
                         <popculture ref="JimmyNeutron">neutrons <AAVE field="syn" type="deletion"
                             class="copula"/>on my <group label="d" num="3" rhyme="1 2 4 6 7"
                             >jimmy</group></popculture></sex></li>
@@ -830,7 +829,7 @@
                 <group label="a" num="2" rhyme="1 3 4 5 8">paparazzi</group></li>
             <li>I was spotted with a <women qual="pos"><group label="a" num="3" rhyme="1 2 4 5 8"
                         >hotty</group></women>, <sex><AAVE field="phon" type="dropping" sound="g"
-                        position="final">gettin'</AAVE> <language>blumpkin</language> in a porter-<group label="a"
+                        position="final">gettin'</AAVE> <sex>blumpkin</sex> in a porter-<group label="a"
                         num="4" rhyme="1 2 3 5 8">potty</group></sex></li>
             <li><AAVE field="phon" type="dropping" sound="g" position="final">Feelin'</AAVE> like
                 the man, but nose still <group label="a" num="5" rhyme="1 2 3 4 8"

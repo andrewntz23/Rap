@@ -855,7 +855,7 @@
             <li> So much charm</li>
         </stanza>
         <stanza speaker="JoeyBada$$" type="verse">
-            <li> The only <women qual="pos">lady</women> I can ever match <group label="a" num="1"
+            <li> The only <women qual= "pos">lady</women> I can ever match <group label="a" num="1"
                     slantRhyme="3">bonds with</group></li>
             <li> On some <group label="a" num="2" rhyme="4">atomic</group>
                 <group label="a" num="3" slantRhyme="1">bond shit</group>, our love is <compound
@@ -1302,16 +1302,16 @@
                     slantRhyme="5"><haters>fake</haters></group></li>
             <li> <violence>Get me mad and I <group label="d" num="8" rhyme="5">contemplate</group> irrational
                 mode</violence></li>
-            <li> Don't think about <group label="d" num="9" rhyme="14 15 16">nada</group>, strung
+            <li> Don't think about <group label="d" num="9" rhyme="14 15 16"><language lang="spanish" trans="nothing">nada</language></group>, strung
                 you by your <group label="d" num="10" rhyme="11 12 13">collar</group></li>
             <li> The flow <group label="d" num="11" rhyme="10 12 13">father</group> who balanced out
                 his chromosomes <AAVE type="deletion" field="syn" class="copula"/><group label="d"
                     num="12" rhyme="10 11 13">proper</group></li>
             <li> I'm going home <group label="d" num="13" rhyme="10 11 12">partner</group> like
-                    <group label="d" num="14" rhyme="9 15 16"><sports>Posada</sports></group>, they
+                    <group label="d" num="14" rhyme="9 15 16"><sports><language lang="spanish" trans="inn">Posada</language></sports></group>, they
                 talk <food><struggle>beef</struggle></food></li>
             <li> But toss the <food><group label="d" num="15" rhyme="9 14 16"
-                    >ensalada</group></food>, peep the <popculture ref="ChevroletImpala">blue <group label="d" num="16"
+                    ><language lang="spanish" trans="salad">ensalada</language></group></food>, peep the <popculture ref="ChevroletImpala">blue <group label="d" num="16"
                     rhyme="9 14 15">Impala</group></popculture></li>
             <li> There's <power>arrogant cops who stay <group label="e" num="1" rhyme="3" slantRhyme="2"
                     >intruding</group></power></li>
@@ -1369,11 +1369,11 @@
             <li>
                 <group label="a" num="19" slantRhyme="18" rhyme="25">Tetrahedrons</group>, take a
                     <group label="a" num="20" assonance="21">dose</group> of <group label="a"
-                    num="21" assonance="20">Patron</group></li>
+                    num="21" assonance="20"><language lang="spanish" trans="boss">Patron</language></group></li>
             <li> With knowledge <group label="a" num="22" rhyme="23" assonance="23 24">juice</group>
                 and <group label="a" num="23" rhyme="22" assonance="22 24">deuce</group>
                 <group label="a" num="24" assonance="22 23">Cubes</group> of <group label="a"
-                    num="25" rhyme="19">Metatron</group></li>
+                    num="25" rhyme="19"><religion>Metatron</religion></group></li>
             <li> They wouldn't hear the <group label="a" num="26" rhyme="27 28 29 30">tone</group>
                 through a <group label="a" num="27" rhyme="26 28 29 30">megaphone</group>, let
                     <group label="a" num="28" rhyme="26 27 29 30">alone</group></li>
@@ -1392,7 +1392,7 @@
                     >spots</group> and never <group label="b" num="6" slantRhyme="5"
                 >stop</group></li>
             <li> Like them <group label="b" num="7" assimilation="8">aki's</group>, they never get
-                    <group label="b" num="8" assimilation="7">aqui</group> to my <group label="b"
+                    <group label="b" num="8" assimilation="7"><language lang="spanish" trans="here">aqui</language></group> to my <group label="b"
                     num="9" rhyme="10 11 12">property</group></li>
             <li> Known around <geo ref="NewYork">my <group label="b" num="10" rhyme="9 11 12"
                         >city</group></geo> like <popculture ref="GeorgePataki"><group label="b"
@@ -1428,7 +1428,7 @@
             <li> I mean <group label="c" num="4" assimilation="3 5 6 7">too sick</group>, sent to
                 Earth just <group label="c" num="5" assimilation="3 4 6 7">to shit</group></li>
             <li>
-                <women>Mami</women>, come steer, some <group label="c" num="6"
+                <women><language lang="spanish" trans="babe">Mami</language></women>, come steer, some <group label="c" num="6"
                     assimilation="3 4 5 7">new stick</group>, got a man?, I don't give <group
                     label="c" num="7" assimilation="3 4 5 6">two shits</group></li>
             <li> Better tell that <group label="c" num="8" slantRhyme="9">doofus</group>
@@ -1543,8 +1543,8 @@
                 <group label="b" num="2" slantRhyme="1">aged enough</group></li>
             <li> Getting high off <group label="b" num="3" assimilation="2 4">angel
                 dust</group></li>
-            <li> From <geo ref="NewYork">NY</geo> to <geo ref="LosAngeles">Los <group label="b"
-                        num="4" assimilation="2 3">Angeles</group></geo></li>
+            <li> From <geo ref="NewYork">NY</geo> to <geo ref="LosAngeles"><language lang="spanish" trans="the">Los</language> <group label="b"
+                        num="4" assimilation="2 3"><language lang="spanish" trans="angels">Angeles</language></group></geo></li>
             <li><AAVE field="syn" type="negative"><hiphop ref="Jay-Z">There <AAVE type="contraction"
                             field="phon" word1="is" word2="not">ain't </AAVE> no
                     love</hiphop></AAVE></li>
@@ -2136,8 +2136,7 @@
                     label="a" num="14" rhyme="15"><food>eating</food></group></li>
             <li><food>
                     <group label="a" num="15" rhyme="14" slantRhyme="17">Retreating</group> for
-                    seconds and <group label="a" num="16" rhyme="12">thirds</group>, y'all niggas
-                        <group label="a" num="17" slantRhyme="15">seasoned</group> (Oh, you
+                    seconds and <group label="a" num="16" rhyme="12">thirds</group>, y'all niggas <AAVE type="deletion" field="syn" class="copula"/><group label="a" num="17" slantRhyme="15">seasoned</group> (Oh, you
                     salty)</food></li>
             <li> Don't worry what we <group label="b" num="1" rhyme="2"><food>ate</food></group>,
                 you don't want that <group label="b" num="2" rhyme="1"
@@ -2368,7 +2367,7 @@
                     type="dropping" sound="g" position="final">havin'</AAVE> 20/20 visions</li>
             <li> In need <group label="b" num="5" rhyme="3 4" slantRhyme="6">bifocals</group>, for
                 your <group label="b" num="6" slantRhyme="5" rhyme="7 10">eyes dilated
-                ojos</group></li>
+                <language lang="spanish" trans="eyes">ojos</language></group></li>
             <li> Open wide, never did I <group label="b" num="7" rhyme="6 10">owe
                         <women>hoes</women></group></li>
             <li> Suck a <group label="b" num="8" alliteration="9">dick</group>
@@ -2410,7 +2409,7 @@
         </stanza>
         <stanza speaker="JoeyBada$$" type="interlude">
             <li> Yeah, <AAVE field="phon" type="dropping" sound="be" position="initial"
-                >cause</AAVE>' we just some Amethyst Rockstars</li>
+                >cause</AAVE>' we <AAVE type="deletion" field="syn" class="copula"/>just some Amethyst Rockstars</li>
             <li> Amethyst Rockstar</li>
             <li> Amethyst Rockstar</li>
             <li> Amethyst Rockstar</li>
@@ -2570,7 +2569,7 @@
                 <group label="b" num="5" alliteration="4"
                     ><fashion><money>diamonds</money></fashion></group> and
                 <women>women</women></li>
-            <li> Tryna balance it at <group label="b" num="6" slantRhyme="8 10">once</group> but
+            <li> <AAVE field="phon" type="contraction" word1="trying" word2="to">tryna</AAVE> balance it at <group label="b" num="6" slantRhyme="8 10">once</group> but
                 keep hitting these <group label="b" num="7" rhyme="9"
                 ><weed>blunts</weed></group></li>
             <li>
@@ -2662,7 +2661,7 @@
                         <group label="c" num="14" slantRhyme="15"><geo ref="Brooklyn">Brooklyn</geo>
                         way</group></hiphop></li>
             <li> But when push come to shove I'm about that <group label="c" num="15"
-                    slantRhyme="14">Crooklyn wave</group></li>
+                    slantRhyme="14"><compound head="Brooklyn" stem="crook" type="endo"><geo ref="Brooklyn"><popculture><!-- I tagged this as geo and popculture because it is a nickname from Brooklyn and it is a Spike Lee movie -->Crooklyn</popculture></geo></compound> wave</group></li>
             <li>
                 <group label="c" num="16" rhyme="18 19" slantRhyme="17">Shook for days</group>,
                 Don't ever judge a <group label="c" num="17" slantRhyme="16">book by a
@@ -2869,10 +2868,10 @@
                     label="d" num="2" rhyme="1">goes</group> over <AAVE type="dropping" field="phon"
                     sound="r" position="final">yo</AAVE>
                 <group label="d" num="3" rhyme="4">dome far</group></li>
-            <li> The nigga to represent the barrio, we <group label="d" num="4" rhyme="3"
+            <li> The nigga to represent the <language lang="spanish" trans="neighborhood">barrio</language>, we <group label="d" num="4" rhyme="3"
                     slantRhyme="5">hold bars</group></li>
             <li> I shine further, you sons get in the <group label="d" num="5" slantRhyme="4"
-                    >bogart</group></li>
+                    ><weed>bogart</weed><!-- Humphrey Bogart always kept a cigarette in his mouth but most likely refers to a joint --></group></li>
             <li> You <AAVE field="phon" type="contraction" word1="got" word2="to">gotta</AAVE> pick
                     <AAVE type="dropping" field="phon" sound="r" position="final"/>yo road, give it
                 a go, keep the point, God</li>
@@ -3133,8 +3132,8 @@
         <title>Unorthodox</title>
         <audlink>www.youtube.com/watch?v=u9alAjHkACM</audlink>
         <stanza speaker="JoeyBada$$" type="intro">
-            <li> We done came up</li>
-            <li> Everybody love ‘em</li>
+            <li> <AAVE type="album" field="syn" tense="past">We done came up</AAVE></li>
+            <li> Everybody love <AAVE field="phon" type="dropping" sound="th" position="initial">em</AAVE></li>
             <li> On the regular</li>
         </stanza>
         <stanza speaker="JoeyBada$$" type="verse">
@@ -3181,13 +3180,13 @@
                         the block</group></struggle></li>
             <li> Unless they <group label="b" num="15" slantRhyme="16">extort rocks</group> or
                     <group label="b" num="16" slantRhyme="15">support the cops</group></li>
-            <li> They still snitchin’ - let me guess: that’s your <group label="b" num="17"
+            <li> They still <AAVE field="phon" type="dropping" sound="g" position="final">snitchin’</AAVE> - let me guess: that’s your <group label="b" num="17"
                     slantRhyme="19">mannequin</group>?</li>
-            <li> Leave ‘em shook while you’re <group label="b" num="18" rhyme="20 22"
+            <li> Leave <AAVE field="phon" type="dropping" sound="th" position="initial">em</AAVE> shook while you’re <group label="b" num="18" rhyme="20 22"
                     >standing</group> and quit the <group label="b" num="19" slantRhyme="17"
                     >shenanigans</group></li>
             <li> Have you <group label="b" num="20" rhyme="18 22" slantRhyme="21">panicking</group>,
-                    <group label="b" num="21" slantRhyme="20 ">induce damages</group> ‘til you’re
+                <group label="b" num="21" slantRhyme="20 ">induce damages</group> <AAVE field="phon" type="dropping" sound="un" position="initial">til</AAVE> you’re
                     <group label="b" num="22" rhyme="18 20">vanishing</group></li>
             <li> Words are told <group label="b" num="23" rhyme="24">properly</group>, resort <group
                     label="b" num="24" rhyme="23">top sea</group>
@@ -3195,9 +3194,9 @@
                         sound="g" position="final">examinin'</AAVE></group>
             </li>
             <li> This is for my real hip hop <group label="b" num="26" slantRhyme="25">fans and
-                    ‘em</group></li>
+                <AAVE field="phon" type="dropping" sound="th" position="initial">em</AAVE</group></li>
             <li> I dispose <group label="b" num="27" slantRhyme="28">for <AAVE field="phon"
-                        type="dropping" sound="un" position="initial">'em</AAVE></group>, leave fake
+                        type="dropping" sound="th" position="initial">'em</AAVE></group>, leave fake
                 MC’s in the <group label="b" num="28" slantRhyme="27">post mortem</group></li>
         </stanza>
         <stanza speaker="JoeyBada$$" type="hook">
@@ -3213,7 +3212,7 @@
                 <group label="c" num="5" assonance="4 6">soul</group> that <group label="c" num="6"
                     assonance="4 5" rhyme="7">won’t sin</group></li>
             <li> No he <group label="c" num="7" rhyme="6" slantRhyme="8">won’t give in</group></li>
-            <li> Yo this world is <group label="c" num="8" slantRhyme="7">bone chillin’</group></li>
+            <li> Yo this world is <group label="c" num="8" slantRhyme="7">bone <AAVE field="phon" type="dropping" sound="g" position="initial">chillin</AAVE></group></li>
             <li>
                 <group label="c" num="9" alliteration="10">Make</group>
                 <group label="c" num="10" alliteration="9"><food>meals</food></group> in hell’s
@@ -3225,14 +3224,14 @@
                     <group label="c" num="15" slantRhyme="17">swisher</group></li>
             <li> And bring that back to my <group label="c" num="16" slantRhyme="13 14"
                     >property</group>
-                <group label="c" num="17" slantRhyme="15">wit ya</group></li>
+                <group label="c" num="17" slantRhyme="15"><AAVE field="phon" type="dropping" sound="h" position="final">wit</AAVE> ya</group></li>
         </stanza>
         <stanza speaker="JoeyBada$$" type="verse">
             <li> It ain’t easy being this <group label="d" num="1" rhyme="2 3 4 5"
                 >royal</group></li>
             <li> When you got this much going for you</li>
             <li> It ain’t hard to be <group label="d" num="2" rhyme="1 3 4 5">disloyal</group></li>
-            <li> Comin’ straight from the <group label="d" num="3" rhyme="1 2 4 5">soil</group> with
+            <li> <AAVE field="phon" type="dropping" sound="g" position="final">Comin’</AAVE> straight from the <group label="d" num="3" rhyme="1 2 4 5">soil</group> with
                 lines that never <group label="d" num="4" rhyme="1 2 3 5">coil</group></li>
             <li> Start to think pretty off new career with this <group label="d" num="5"
                     rhyme="1 2 3 4">spoil</group></li>
@@ -3282,7 +3281,7 @@
             <li>
                 <AAVE field="phon" type="dropping" sound="be" position="initial">Cause</AAVE>
                 <money qual="possession">money ain’t a thing if I got it I won’t spend</money></li>
-            <li> All I got is my <hiphop ref="ProEra">Pros</hiphop>, I don’t need no friends</li>
+            <li> All I got is my <hiphop ref="ProEra">Pros</hiphop>, <AAVE field="syn" type="negative">I don’t need no friends</AAVE></li>
             <li> Feel like this glory road is coming to an end</li>
             <li> The only soul that won’t sin</li>
             <li> No he won’t give in</li>
@@ -3293,11 +3292,11 @@
             <li> And bring that back to my property wit ya</li>
         </stanza>
         <stanza speaker="JoeyBada$$" type="outro">
-            <li> Everybody love ‘em</li>
-            <li> We done came up</li>
-            <li> I’ma <weed>spark it</weed> off unorthodox</li>
+            <li> Everybody love <AAVE field="phon" type="dropping" sound="th" position="initial">‘em</li>
+            <li> <AAVE field="syn" type="aspect" tense="future">We done came up</AAVE></li>
+            <li> <AAVE field="syn" type="contraction" word1="I'm" word2="going" word3="to">I’ma</AAVE> <weed>spark it</weed> off unorthodox</li>
             <li> They don’t feel the name, but they say the music dope though</li>
-            <li> I’ma <weed>spark it</weed> off unorthodox</li>
+            <li> <AAVE field="syn" type="contraction" word1="I'm" word2="going" word3="to">I’ma</AAVE> <weed>spark it</weed> off unorthodox</li>
             <li> On the regular</li>
         </stanza>
 
