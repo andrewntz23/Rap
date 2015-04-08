@@ -54,7 +54,7 @@
             <li>I'm in <compound head="Chicago" stem="Iraq" type="exo"><geo ref="Chicago">Chi-raq</geo></compound> and I'm
                 getting blown like the <group label="c" num="1" slantRhyme="2 3">breezes</group></li>
             <li>The <food>chicken</food> <women qual="neg">strip <group label="c" num="2" slantRhyme="1 3">teasers</group></women></li>
-            <li><women qual="neg">Thighs, legs and the breast part is the <group label="c" num="3" slantRhyme="1 3">cleavage</group></women></li>
+            <li><women qual="neg">Thighs, legs and the breast part is the <group label="c" num="3" slantRhyme="1 2">cleavage</group></women></li>
             <li><sex><women qual="neg">She</women> even lick it down to the bone <group label="c" num="4" rhyme="5 6">marrow</group></sex></li>
             <li><women qual="neg">She</women> in love but I <AAVE field="syn" type="contraction" word1="am" word2="not"
                     >ain't</AAVE> got a <popculture ref="Cupid">bow and <group label="c" num="5" rhyme="4 6">arrow</group></popculture></li>
@@ -178,7 +178,7 @@
             <li><haters><group label="b" num="10" slantRhyme="9">Closed-minded men</group></haters>, <group label="b" num="11" alliteration="12 13">pride</group> is higher than the <group label="b" num="12" alliteration="11 13"><money qual="pursuit">prices</money></group> on your <group label="b" num="13" alliteration="11 12"><fashion>Pradas</fashion></group></li>
             <li><group label="b" num="14" alliteration="15" rhyme="16 17 18"><fashion>Balenciagas</fashion></group>, <group label="b" num="15" alliteration="14">balance</group> my <sports>soccer</sports> with the <group label="b" num="16" rhyme="14 17 18"><alcohol>Henny agua</alcohol></group></li>
             <li>Me and my niggas <money qual="pursuit"><AAVE field="syn" type="contraction" word1="trying" word2="to"
-                    >tryna</AAVE> <food>eat</food></money>, you <haters>pussies</haters> <group label="b" num="17" slantRhyme="14 16 18"><food>empanada</food></group></li>
+                    >tryna</AAVE> <food>eat</food></money>, you <haters>pussies</haters> <group label="b" num="17" rhyme="14 16 18"><food>empanada</food></group></li>
             <li>The flow <AAVE field="syn" type="deletion" class="copula"/>like <group label="b" num="18" rhyme="14 16 17">plenty lava</group></li>
             <li><success qual="possession">With just a <money qual="possession">penny</money> I could multiply my <money qual="possession">worth</money></success></li>
             <li>And make you work for me for twenty hours</li>
@@ -356,7 +356,7 @@
             <li>Peace to all my brothers who keep still<group label="c" num="13" rhyme="12" ><AAVE field="phon" type="dropping" sound="g"
                     position="final">holdin'</AAVE>on</group></li>
             <li>Been away so <group label="c" num="14" slantRhyme="17">long</group>, feel like a<AAVE field="phon" type="dropping" sound="g"
-                    position="final"><group label="c" num="15" alliteration="16">tickin'</group></AAVE><group label="c" num="16" alliteration="15">time</group> <group label="c" num="17" slantRhyme="13">bomb</group></li>
+                    position="final"><group label="c" num="15" alliteration="16">tickin'</group></AAVE><group label="c" num="16" alliteration="15">time</group> <group label="c" num="17" slantRhyme="14">bomb</group></li>
             <li><struggle>They make judgement to my kind, whom the odds is <group label="c" num="18" slantRhyme="21">against</group></struggle></li>
             <li><struggle>Put our backs on the <group label="c" num="19" rhyme="20">fence</group></struggle>, <guns>so we self <group label="c" num="20" rhyme="19">defence</group></guns></li>
             <li>Followed by <popculture ref="LemonySnicket">a series of unfortunate <group label="c" num="21" slantRhyme="18">events</group></popculture></li>
@@ -710,8 +710,8 @@
             <li>They want another black man in <AAVE field="syn" type="deletion" class="determiner"
                 /><group label="f" num="2" rhyme="8 10">penitentiary</group></li>
             <li><struggle>It's even hard for that man standing <group label="f" num="3" rhyme="1 7 9 11">next to me</group></struggle></li>
-            <li><struggle><group label="f" num="4" alliteration="5 6">Cause</group> he <group label="f" num="5" rhyme="4 6">could</group> 
-                <guns><group label="f" num="6" rhyme="4 5">catch</group> a bullet</guns> that was really <group label="f" num="7" rhyme="1 3 9 11">meant for me</group></struggle></li>
+            <li><struggle><group label="f" num="4" alliteration="5 6">Cause</group> he <group label="f" num="5" alliteration="4 6">could</group> 
+                <guns><group label="f" num="6" alliteration="4 5">catch</group> a bullet</guns> that was really <group label="f" num="7" rhyme="1 3 9 11">meant for me</group></struggle></li>
             <li>It's like every step <AAVE field="syn" type="tense" person="third">bring</AAVE> me
                 close to <group label="f" num="8" rhyme="2 10">destiny</group></li>
             <li>And <struggle>every breath I get closer to the <group label="f" num="9" rhyme="1 3 7 11">death of me</group></struggle></li>
@@ -729,7 +729,7 @@
         <stanza type="verse" speaker="JoeyBada$$">
             <li>Cause every corner I turn a nigga <AAVE field="syn" type="deletion" class="copula"
                 /><group label="g" num="1" rhyme="4 5">testing me</group></li>
-            <li>And every <group label="g" num="2" alliteration="3">morning</group> I <group label="g" num="3" alliteration="4">mourn</group> just for the <group label="g" num="4" rhyme="1 5">less of me</group></li>
+            <li>And every <group label="g" num="2" alliteration="3">morning</group> I <group label="g" num="3" alliteration="2">mourn</group> just for the <group label="g" num="4" rhyme="1 5">less of me</group></li>
             <li>Sometimes I ask <religion>the Lord</religion> why <AAVE field="syn" type="aspect" tense="present">he be
                     <group label="g" num="5" rhyme="1 4" slantRhyme="6">blessing me</group></AAVE></li>
             <li>And not my brothers whose souls now <group label="g" num="6" slantRhyme="5">rest in peace</group></li>
@@ -960,8 +960,8 @@
             <li><group label="d" num="3" rhyme="2">Inject ya</group> with my <group label="d" num="4" slantRhyme="5"><guns>lethal weapon</guns></group></li>
             <li>Plant a mine in the <group label="d" num="5" slantRhyme="4">deepest section</group>, guess who's <group label="d" num="6" slantRhyme="7">least expected</group></li>
             <li>Mothafucka <group label="d" num="7" slantRhyme="6">please respect it</group></li>
-            <li>The last one to pull my card was easily <group label="d" num="7" slantRhyme="8">dealt with</group></li>
-            <li>They <group label="d" num="8" slantRhyme="7">felt it</group>, the shift, records can't be reckoned with</li>
+            <li>The last one to pull my card was easily <group label="d" num="27" slantRhyme="28">dealt with</group></li>
+            <li>They <group label="d" num="28" slantRhyme="27">felt it</group>, the shift, records can't be reckoned with</li>
             <li><success qual="possession">On tracks<group label="d" num="9" assonance="10"><AAVE type="deletion" field="syn" class="copula"/><AAVE field="phon"
                     type="dropping" sound="g" position="final">wreckin'</AAVE></group>shit</success>, ask me why I'm
                 <group label="d" num="10" assonance="9">reckless</group></li>
@@ -993,7 +993,7 @@
             <li><success qual="possession">The <hiphop ref="JoeyBada$$">badmon</hiphop> young <group label="e" num="1" assimilation="2">kingpin</group></success></li>
             <li>I move dope with that <group label="e" num="2" assimilation="1" slantRhyme="3">ink pen</group></li>
             <li>Been up all night, <religion>my third eye <AAVE field="syn" type="contraction" word1="is"
-                    word2="not">ain't</AAVE> even <group label="e" num="3" rhyme="4"><AAVE field="phon" type="dropping" sound="g"
+                    word2="not">ain't</AAVE> even <group label="e" num="3" slantRhyme="2" rhyme="4"><AAVE field="phon" type="dropping" sound="g"
                     position="final">blinkin'</AAVE></group></religion></li>
             <li>Fuck what you <group label="e" num="4" rhyme="3"><AAVE field="phon" type="dropping" sound="g" position="final"
                     >thinkin'</AAVE></group></li>
@@ -1120,7 +1120,7 @@
             <li>All that’s left now is the <group label="c" num="2" rhyme="1">radiance</group></li>
             <li>They <AAVE field="syn" type="deletion" class="copula"/>still <group label="c" num="3" rhyme="4 5 8">here</group>, trying to find
                 love on this <group label="c" num="4" rhyme="3 5 8">atmosphere</group></li>
-            <li><struggle>Things get <group label="c" num="5">severe</group> for <group label="c" num="6" alliteration="7">everybody</group>, <group label="c" num="7" alliteration="6">everywhere</group></struggle></li>
+            <li><struggle>Things get <group label="c" num="5" rhyme="3 4 8">severe</group> for <group label="c" num="6" alliteration="7">everybody</group>, <group label="c" num="7" alliteration="6">everywhere</group></struggle></li>
             <li>This is my moment of truth, right <group label="c" num="8" rhyme="3 4 5">here</group></li>
             <li><group label="c" num="9" assonance="10">Swear</group> I <AAVE field="syn" type="contraction" word1="am" word2="not">ain't</AAVE>
                 <group label="c" num="10" assonance="9">scared</group> of <group label="c" num="11" assimilation="12">no man</group></li>
@@ -1273,7 +1273,7 @@
             <li>They say that <money qual="possession">time is money</money>, and <money qual="possession">my time is well <group label="b" num="10" rhyme="11">spent</group></money></li>
             <li><women qual="pos">Girlfriend</women> hit me up to chill, but does this shit make sense?</li>
             <li>And I don't expect for you to know if you <AAVE field="syn" type="contraction"
-                    word1="are" word2="not">ain't</AAVE> paying <group label="b" num="11" rhyme="11">rent</group></li>
+                    word1="are" word2="not">ain't</AAVE> paying <group label="b" num="11" rhyme="10">rent</group></li>
             <li>I got to make this album, and hold it down for <hiphop ref="ProEra">my camp</hiphop></li>
             <li>Surrounded us all like <group label="b" num="13" assimilation="14">bonfire</group></li>
             <li>When I lay a verse down that's <group label="b" num="14" assimilation="13">born fire</group></li>
@@ -1425,7 +1425,7 @@
 
         <stanza type="verse" speaker="JoeyBada$$">
             <li>Who would've thought a <group label="b" num="1" rhyme="2 3"><AAVE field="phon" type="dropping" sound="g" position="final"
-                    >marchin'</AAVE></group> <group label="b" num="2" rhyme="1 3"><popculture ref="MartinLutherKingJr">Martin</popculture></group> could spark a <group label="b" num="3" rhyme="1 2" assonance="4"><AAVE field="phon" type="dropping" sound="g"
+                    >marchin'</AAVE></group> <group label="b" num="2" rhyme="1 3"><popculture ref="MartinLutherKingJr">Martin</popculture></group> could spark a <group label="b" num="3" rhyme="1 2"><AAVE field="phon" type="dropping" sound="g"
                     position="final">starvin'</AAVE></group> <group label="b" num="4" slantRhyme="7">artist</group></li>
             <li>Spit <group label="b" num="5" rhyme="6">art</group>, at <group label="b" num="6" rhyme="5">heart</group> young <popculture ref="MarcusGarvey"><group label="b" num="7" slantRhyme="4">Marcus</group> <group label="b" num="8" slantRhyme="9">Garvey</group></popculture></li>
             <li><group label="b" num="9" slantRhyme="8" rhyme="10 11">Ponders on it, hardly,</group> <group label="b" num="10" rhyme="9 11">rap wonders fondly</group></li>
@@ -1766,9 +1766,9 @@
         <stanza type="verse" speaker="ActionBronson">
             <li><sex><hiphop ref="Noreaga">Getting head in the whip and not <group label="d" num="1" slantRhyme="2">crashing it</group></hiphop></sex></li>
             <li><fashion><sports>FILA Velour shorts</sports></fashion> set, <group label="d" num="2" slantRhyme="1">half Arabic</group></li>
-            <li>I sit in dove room with <group label="d" num="3" rhyme="4 5">candle lit</group></li>
-            <li>Tell <women qual="pos">little mama</women> <group label="d" num="4" rhyme="3 5">handle it</group></li>
-            <li>Or you could leave <fashion>the <group label="d" num="5">sandals</group></fashion> on and pull your <group label="d" num="6" rhyme="7"><fashion>skirt</fashion> up</group></li>
+            <li>I sit in dove room with <group label="d" num="3" rhyme="4">candle lit</group></li>
+            <li>Tell <women qual="pos">little mama</women> <group label="d" num="4" rhyme="3" assonance="5">handle it</group></li>
+            <li>Or you could leave <fashion>the <group label="d" num="5" assonance="4">sandals</group></fashion> on and pull your <group label="d" num="6" rhyme="7"><fashion>skirt</fashion> up</group></li>
             <li>I really remember reading <group label="d" num="7" rhyme="6"><popculture ref="WordUpMagazine">Word Up</popculture></group></li>
             <li><popculture ref="TigerBeatMagazine">Tiger Beat</popculture>, see me on the cover soon, fold out posters</li>
             <li>Hanging on your <group label="d" num="8" slantRhyme="9"><women qual="pos">shorties</women> wall</group></li>
@@ -1816,7 +1816,7 @@
             <li><sex>Rock your body, go back and forth</sex></li>
             <li>It's a <group label="a" num="8" alliteration="9">personal</group> <group label="a" num="9" alliteration="8">party</group>, you're at the fold</li>
             <li><success qual="possession">Hundred <women qual="pos">girls</women> in the <group label="a" num="10" rhyme="11 12 14 15 16 17 18 19 20">lobby</group> after the show that I <group label="a" num="11" rhyme="10 12 14 15 16 17 18 19 20">body</group></success></li>
-            <li><sex>And after the show they <group label="a" num="12" rhyme="10 11 14 15 16 17 19 19 20">prolly</group> want to put <group label="a" num="13" alliteration="14">forth</group> <group label="a" num="14" alliteration="13" rhyme="10 11 12 15 16 17 18 19 20">for me</group></sex></li>
+            <li><sex>And after the show they <group label="a" num="12" rhyme="10 11 14 15 16 17 18 19 20">prolly</group> want to put <group label="a" num="13" alliteration="14">forth</group> <group label="a" num="14" alliteration="13" rhyme="10 11 12 15 16 17 18 19 20">for me</group></sex></li>
             <li>Put on a show for the <group label="a" num="15" rhyme="10 11 12 14 16 17 18 19 20">Papi</group> that I <group label="a" num="16" rhyme="10 11 12 14 15 17 18 19 20">prolly</group> <group label="a" num="17" rhyme="10 11 12 14 15 16 18 19 20">want to see</group></li>
             <li>So tell me what its <AAVE field="syn" type="contraction" word1="going" word2="to"
                     ><group label="a" num="18" rhyme="10 11 12 14 15 16 17 19 20">gonna be</group></AAVE> she said</li>
