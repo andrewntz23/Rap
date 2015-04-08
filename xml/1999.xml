@@ -81,9 +81,8 @@
         </stanza>
 
         <stanza type="verse" speaker="JoeyBada$$">
-            <li>Since <group label="b" num="1" repetition="2"><oldschool>9-5</oldschool></group>,
-                    <struggle>momma been working <group label="b" num="2" repetition="2 "
-                        >nine-five</group></struggle></li>
+            <li>Since <oldschool>9-5</oldschool>,
+                    <struggle>momma been working nine-five</struggle></li>
             <li>And I know <struggle>the landlord fed up with <group label="b" num="3"
                         assimilation="7 10">our lies</group></struggle></li>
             <li>So we <group label="b" num="4" >pray</group> to <religion>the <group
@@ -114,7 +113,7 @@
                         rhyme="2 3 5 7 8 10 11">soulful</group> will have me in the <popculture
                         ref="NewYorkPost">Daily <group label="d" num="10" rhyme="2 3 5 7 8 9 11"
                             >Postal</group></popculture></success></li>
-            <li><success qual="pursuit">Flying <group label="d" num="11" rhyme="10"
+            <li><success qual="pursuit">Flying <group label="d" num="11" rhyme="2 3 5 7 8 9 10"
                     >coastal</group></success> eatin <group label="d" num="12" rhyme="13"
                         ><food>tofu</food></group></li>
             <li>Like I <group label="d" num="13" rhyme="12">told you</group>
@@ -179,11 +178,10 @@
                             >Complex</popculture></group></success></criticism></li>
             <li>And <popculture ref="TheSourceMagazine">The <group label="g" num="5" rhyme="6"
                         >Source</group></popculture>, <food>alfredo</food> of <group label="g"
-                    num="6" rhyme="5" repetition="10">course</group></li>
+                    num="6" rhyme="5">course</group></li>
             <li>There I go <group label="g" num="7" rhyme="8 9">again</group>, <group label="g"
                     num="8" rhyme="7 9">steppin</group> out of line, <group label="g" num="9"
-                    rhyme="7 8">runnin'</group> off <group label="g" num="10" repetition="5"
-                    >course</group></li>
+                    rhyme="7 8">runnin'</group> off course</li>
             <li>I heard <group label="g" num="11" assonance="12 13">reports</group> that it's like
                     <sex>sexual <group label="g" num="12" assonance="11 13"
                     >intercourse</group></sex></li>
@@ -386,7 +384,7 @@
                     num="5" rhyme="6 7">floor</group></li>
             <li><women qual="neg">Bitch</women> we out the <group label="e" num="6" rhyme="5 7"
                     >door</group>, Vroom vroom skuuurrt</li>
-            <li><women qual="neg">Bitch</women> love don't live here no <group label="e" num="7"
+            <li><women qual="neg">Bitch</women> love don't live here no <group label="e" num="7" rhyme="5 6"
                     >more</group></li>
             <li>Cause <women qual="neg">her</women>
                 <fashion>weave</fashion> look faker than her <fashion>Louie <group label="e" num="8"
@@ -660,7 +658,7 @@
             <li>And <violence>little kids are shootin'</violence> <guns>Uzi's</guns> cause its <group label="h" num="14"
                     slantRhyme="15 16 17">given to 'em</group></li>
             <li><group label="h" num="15" slantRhyme="14 16 17"><guns>Little
-                weapon</guns></group>, code name: <group label="h" num="16" slantRhyme="15 17"
+                weapon</guns></group>, code name: <group label="h" num="16" slantRhyme="14 15 17"
                         ><guns>Smith and Wesson</guns></group></li>
             <li>And you'll be quick to <violence>catch a bullet</violence> like an <group label="h" num="17"
                     slantRhyme="14 15 16"><sports>interception</sports></group></li>
@@ -751,16 +749,16 @@
             <li>Tell them niggas <group label="d" num="8" slantRhyme="7 9">keep it steppin'</group>
                 with they<group label="d" num="9" slantRhyme="7 8"> beat
                     selection</group></li>
-            <li>Check the <group label="d" num="10" rhyme="12 13 16" slantRhyme="11"
-                    >melodies</group>, it's so <group label="d" num="11" slantRhyme="10"
+            <li>Check the <group label="d" num="10" rhyme="11 12 13 16"
+                    >melodies</group>, it's so <group label="d" num="11" rhyme="10 12 13 16"
                     >heavenly</group></li>
             <li>That shit'll get your hipster move with no <group label="d" num="12"
-                    rhyme="11 13 16">70s</group></li>
-            <li><drugs>Audi-opium</drugs>, can I bust <group label="d" num="13" rhyme="11 12 16"
+                    rhyme="10 11 13 16">70s</group></li>
+            <li><drugs>Audi-opium</drugs>, can I bust <group label="d" num="13" rhyme="10 11 12 16"
                     >soliloquies</group></li>
             <li>Got that shit <group label="d" num="14" alliteration="15">mix</group> and <group
                     label="d" num="15" alliteration="14">mastered</group> both <group label="d"
-                    num="16" rhyme="11 12 13">remedies</group></li>
+                    num="16" rhyme="10 11 12 13">remedies</group></li>
             <li>Grab a <food>spoonful</food>, we <group label="e" num="1" rhyme="2"
                     >stirrin' up a<food>pot</food></group></li>
             <li>And you know we gotta <group label="e" num="2" rhyme="1">serve it while it's hot</group></li>
@@ -928,12 +926,12 @@
             <li>Trying to <group label="e" num="14" rhyme="13" assimilation="15">share my cells with
                     <women qual="pos">my mate</women></group>, <group label="e" num="15" assimilation="14">not share a cell
                     with mates</group></li>
-            <li><group label="e" num="16" assimilation="17" rhyme="18 19">Wrecking shit</group> with my
-                    <group label="e" num="17" assimilation="16" rhyme="20">recklessness</group></li>
-            <li><weed><group label="e" num="18" rhyme="16 19">The L get
+            <li><group label="e" num="16" alliteration="17" rhyme="18 19 20">Wrecking shit</group> with my
+                    <group label="e" num="17" alliteration="16" rhyme="20">recklessness</group></li>
+            <li><weed><group label="e" num="18" rhyme="16 19 20">The L get
                     lit</group></weed> that’s when I start <group label="e" num="19"
-                    rhyme="16 18">second guessing shit</group></li>
-            <li>Thinking ‘bout Ty and then I <group label="e" num="20" rhyme="16"
+                    rhyme="16 18 20">second guessing shit</group></li>
+            <li>Thinking ‘bout Ty and then I <group label="e" num="20" rhyme="16 18 19"
                     >reminisce</group></li>
             <li>What <haters>you thought you niggas could’ve fuck me <group label="e" num="21" rhyme="22"
                     >over</group></haters></li>
