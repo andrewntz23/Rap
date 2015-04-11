@@ -7,7 +7,7 @@
         <html>
             <head>
                 <title>Joey Bada$$</title>
-                <link href="splash.css" rel="stylesheet" type="text/css"/>
+                <link href="../css/splash.css" rel="stylesheet" type="text/css"/>
                 <link href="http://fonts.googleapis.com/css?family=Rock+Salt|Slabo+27px"
                     rel="stylesheet" type="text/css"/>
             </head>
@@ -35,9 +35,9 @@
     <xsl:template match="song" mode="toc">
         <li>
             <div class="bodyfont">
-                <a href="#{generate-id(@title)}">
+                <a href="#{generate-id(title)}">
                     <q>
-                        <xsl:apply-templates select="@title" mode="toc"/>
+                        <xsl:apply-templates select="title" mode="toc"/>
                     </q>
                     <xsl:text> ft. </xsl:text>
                 </a>
@@ -48,10 +48,17 @@
         <div class="box">
             <div class="bodyfont">
                 <a href="#top">
-                    <h3 id="{generate-id(@title)}">
-                        <xsl:apply-templates select="@title"/>
+                    <h3 id="{generate-id(title)}">
+                        <xsl:apply-templates select="title"/>
                     </h3>
                 </a>
+                <div style="position:relative;width:267px;height:25px;overflow:hidden;">
+                    <div style="position:absolute;top:-276px;left:-5px">
+                        <iframe width="300" height="300" 
+                            src="{audlink}">
+                        </iframe>
+                    </div>
+                </div>
                 <p>
                     <xsl:apply-templates select="stanza"/>
                 </p>
