@@ -1,0 +1,176 @@
+Alliteration
+<?xml version="1.0" encoding="UTF-8"?>
+ B4.DA.$$ 
+ value:  2 3 5 4 
+ sums:  112 33 10 4 
+ overall sum:  159 
+ numGroups:  70 
+ average:  2.2714285714285714 
+ 1999 
+ value:  2 3 4 
+ sums:  110 51 8 
+ overall sum:  169 
+ numGroups:  74 
+ average:  2.2837837837837838 
+ SummerKnights 
+ value:  2 4 3 5 
+ sums:  66 4 39 5 
+ overall sum:  114 
+ numGroups:  48 
+ average:  2.375 
+ Rejex 
+ value:  2 3 
+ sums:  12 18 
+ overall sum:  30 
+ numGroups:  12 
+ average:  2.5
+ 
+ 
+ 
+ 
+ Assonance
+ <?xml version="1.0" encoding="UTF-8"?>
+ B4.DA.$$ 
+ value:  2 6 5 3 
+ sums:  42 6 5 6 
+ overall sum:  59 
+ numGroups:  25 
+ average:  2.36 
+ 1999 
+ value:  2 3 4 
+ sums:  100 51 4 
+ overall sum:  155 
+ numGroups:  68 
+ average:  2.2794117647058822 
+ SummerKnights 
+ value:  2 3 5 4 6 
+ sums:  30 21 20 12 6 
+ overall sum:  89 
+ numGroups:  30 
+ average:  2.966666666666667 
+ Rejex 
+ value:  4 2 3 
+ sums:  4 18 6 
+ overall sum:  28 
+ numGroups:  12 
+ average:  2.3333333333333335
+ 
+ 
+ 
+ 
+ Assimilation
+ <?xml version="1.0" encoding="UTF-8"?>
+ B4.DA.$$ 
+ value:  2 
+ sums:  44 
+ overall sum:  44 
+ numGroups:  22 
+ average:  2 
+ 1999 
+ value:  3 2 4 
+ sums:  40 81 16 
+ overall sum:  137 
+ numGroups:  57.833333333333336 
+ average:  2.3688760806916425 
+ SummerKnights 
+ value:  2 4 3 5 
+ sums:  108 4 27 5 
+ overall sum:  144 
+ numGroups:  65 
+ average:  2.2153846153846155 
+ Rejex 
+ value:  2 3 
+ sums:  24 6 
+ overall sum:  30 
+ numGroups:  14 
+ average:  2.142857142857143
+ 
+ 
+ 
+ 
+ Consonance
+ <?xml version="1.0" encoding="UTF-8"?>
+ B4.DA.$$ 
+ value:  4 2 
+ sums:  4 10 
+ overall sum:  14 
+ numGroups:  6 
+ average:  2.3333333333333335 
+ 1999 
+ value:  2 3 
+ sums:  12 9 
+ overall sum:  21 
+ numGroups:  9 
+ average:  2.3333333333333335 
+ SummerKnights 
+ value:  2 
+ sums:  6 
+ overall sum:  6 
+ numGroups:  3 
+ average:  2 
+ Rejex 
+ value:  3 
+ sums:  3 
+ overall sum:  3 
+ numGroups:  1 
+ average:  3
+ 
+ 
+ 
+ 
+ Rhyme
+ <?xml version="1.0" encoding="UTF-8"?>
+ B4.DA.$$ 
+ value:  4 2 3 5 7 8 10 
+ sums:  99 356 150 46 14 8 10 
+ overall sum:  683 
+ numGroups:  265.95 
+ average:  2.5681519082534314 
+ 1999 
+ value:  2 4 5 8 9 3 6 7 
+ sums:  436 112 44 7 1 216 13 7 
+ overall sum:  836 
+ numGroups:  330.95277777777784 
+ average:  2.5260401366425214 
+ SummerKnights 
+ value:  2 5 3 4 6 
+ sums:  450 40 189 92 6 
+ overall sum:  777 
+ numGroups:  320 
+ average:  2.428125 
+ Rejex 
+ value:  3 2 4 7 6 10 11 5 
+ sums:  99 214 68 14 42 10 11 20 
+ overall sum:  478 
+ numGroups:  172 
+ average:  2.7790697674418605
+ 
+ 
+ 
+ 
+ Slant Rhyme
+ <?xml version="1.0" encoding="UTF-8"?>
+ B4.DA.$$ 
+ value:  2 3 4 
+ sums:  254 27 12 
+ overall sum:  293 
+ numGroups:  139 
+ average:  2.1079136690647484 
+ 1999 
+ value:  4 2 3 5 
+ sums:  32 320 54 10 
+ overall sum:  416 
+ numGroups:  188 
+ average:  2.2127659574468086 
+ SummerKnights 
+ value:  2 5 3 4 6 
+ sums:  381 15 45 25 6 
+ overall sum:  472 
+ numGroups:  215.75 
+ average:  2.1877172653534185 
+ Rejex 
+ value:  2 3 
+ sums:  126 21 
+ overall sum:  147 
+ numGroups:  70 
+ average:  2.1
