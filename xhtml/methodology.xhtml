@@ -79,13 +79,13 @@
                                     tense="habitual"&gt;sounds been profound&lt;/AAVE&gt;</code>.
                                 This attribute is accompanied by the tense attribute which describes
                                 one of the tenses used, which are described below: TABLE</p>
-                            <h4 id="negative">Negative</h4>
+                            <h4 id="negative">Negative:</h4>
                             <p>This attribute is used when there is a double negative or a negative
                                 concord. This is commonly seen in phrases like <code>‘Cause it
                                     &lt;AAVE field="syn" type="negative"&gt;ain’t no fun if the
                                     homies don’t get none&lt;/AAVE&gt;</code>. This has no
                                 accompanying attributes</p>
-                            <h4 id="contraction">Contraction</h4>
+                            <h4 id="contraction">Contraction:</h4>
                             <p>This attribute is used when a word is contracted that is abnormal to
                                 SAE. This means that words like ‘it’s’ will not be tagged by words
                                 like ‘tryna’ will be tagged. The tag looks like <code>&lt;AAVE
@@ -128,6 +128,17 @@
                                 flow still allows one to interpret and categorize the type of poetic
                                 device used more accurately than simply reading the lyrics
                                 online.</p>
+                            <h4 id="pointerSystem">Pointer System</h4>
+                            <p>Given the intricate nature of Joey Bada$$'s use of various poetic devices,
+                            the poetic analysis of this project first needed to develop a markup system that would adequately account
+                            for the complex nature of poetry within Joey's lyrical corpus. We settled on giving
+                            each poetic element, within its corresponding poetic device group, a @num attribute,
+                            the value of which is its position within the group. The value of each attribute is numerical,
+                            in order of all tags with which the poetic bond exists. For example, within a group consisting of five tags,
+                            if tag 1 and tag 3 rhyme, tag 1 will have a @rhyme="3" attribute and tag 3 will have a @rhyme="1" attribute.
+                            If tags 1 and 3 also rhyme with tags 6 and 9, tag 1 would have a @rhyme="3 6 9" attribute, tag 3 would
+                            have a @rhyme="1 6 9" attribute, and so on. Sample markup from the project has been provided at the 
+                            bottom of this page.</p>
                             <h4 id="alliteration">Alliteration:</h4>
                             <p>A poetic device in which there is a repetition of the first consonant
                                 in a series of multiple words.<br /> e.g. "pride is higher than the
