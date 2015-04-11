@@ -45,7 +45,7 @@ let $info := (
      )
     for $song in $info 
 (:  Change @rhyme to @theDesiredDevice to get different info :)
-    let $mySeq := $song//group[@rhyme]/@rhyme/string()
+    let $mySeq := $song//group[@slantRhyme]/@slantRhyme/string()
     let $list := local:order-value($mySeq)  (:  $list is the sequence of counts for each group  :)
     let $distinctValues := distinct-values($list)
     let $counts := local:get-counts($list, $distinctValues)  
