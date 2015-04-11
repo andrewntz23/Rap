@@ -1,215 +1,193 @@
-body {
-    background-color: #fafafa; 
+body{
+    background-color:#fafafa;
 }
-div#nav { 
-  background-color: #8c8c8c;
-  position: fixed;
-  left: 0px;
-  width: 100%;
-  top: 0px;
-  z-index:2;
-    } 
-div#navbar { 
-   margin: 0;  
-   width: 100%; 
-   text-align: center; 
-   } 
-div#navbar ul { 
-   list-style: none; 
-   margin: 0; 
-   padding: 0;
-   position: relative
-   } 
-div#navbar ul li { 
-   margin: 0; 
-   padding: 0; 
-   display: inline-block; 
-   font-size: large;
-   font-family: 'Slabo 27px', serif;
-   font-weight: bold;
-    } 
-div#navbar ul li:hover {
-    background-color: #fafafa;
+div#nav{
+    background-color:#8c8c8c;
+    position:fixed;
+    left:0px;
+    width:100%;
+    top:0px;
+    z-index:2;
 }
-div#navbar ul li a,visited {
-    color: #140404;
-    display: block;
-    padding: 15px;
-    text-decoration: none
-    }
+div#navbar{
+    margin:0;
+    width:100%;
+    text-align:center;
+}
+div#navbar ul{
+    list-style:none;
+    margin:0;
+    padding:0;
+    position:relative
+}
+div#navbar ul li{
+    margin:0;
+    padding:0;
+    display:inline-block;
+    font-size:large;
+    font-family:'Slabo 27px', serif;
+    font-weight:bold;
+}
+div#navbar ul li:hover{
+    background-color:#fafafa;
+}
+div#navbar ul li a,
+visited{
+    color:#140404;
+    display:block;
+    padding:15px;
+    text-decoration:none
+}
 div#navbar ul li:hover ul{
-    display: block;
+    display:block;
 }
-div#navbar ul ul {
-    display: none;
-    position: absolute;
-    background-color: #fafafa;
+div#navbar ul ul{
+    display:none;
+    position:absolute;
+    background-color:#fafafa;
 }
-div#navbar ul ul li {
-    display: block;
+div#navbar ul ul li{
+    display:block;
 }
-#homebanner {
-    background: url(../images/Joey.jpg) no-repeat;
-    background-size: cover;
-    width: 100%;
-    height: 100%;
-    left: 0px;
-    position: fixed;
-    top: 20px;
+#homebanner{
+    background:url(../images/Joey.jpg) no-repeat;
+    background-size:cover;
+    width:100%;
+    height:100%;
+    left:0px;
+    position:fixed;
+    top:20px;
 }
 
-#methodbanner {
-    background: url(../images/meditate.jpg) no-repeat;
-    background-size: cover;
-    width: 100%;
-    height: 100%;
-    left: 0px;
-    position: fixed;
-    top: 50px;
+#methodbanner{
+    background:url(../images/meditate.jpg) no-repeat;
+    background-size:cover;
+    width:100%;
+    height:100%;
+    left:0px;
+    position:fixed;
+    top:50px;
 }
-#projectbanner {
-    background: url(../images/drums.jpg) no-repeat;
-    background-size: cover;
-    width: 100%;
-    height: 100%;
-    left: 0px;
-    position: fixed;
-    top: 50px;
+#projectbanner{
+    background:url(../images/drums.jpg) no-repeat;
+    background-size:cover;
+    width:100%;
+    height:100%;
+    left:0px;
+    position:fixed;
+    top:50px;
 }
-#banner1999 {
-    background: url(../images/1999.jpg) no-repeat;
-    background-size: cover;
-    width: 100%;
-    height: 100%;
-    left: 0px;
-    position: fixed;
-    top: 50px;
+#bannerAnalysis{
+    background:url(../images/hands.jpg) no-repeat;
+    background-size:cover;
+    width:100%;
+    height:100%;
+    left:0px;
+    position:fixed;
+    top:50px;
 }
-#rejexbanner {
-    background: url(../images/Joey-Bad.jpg) no-repeat;
-    background-size: cover;
-    width: 100%;
-    height: 100%;
-    left: 0px;
-    position: fixed;
-    top: 50px;
+#banner1999{
+    background:url(../images/1999.jpg) no-repeat;
+    background-size:cover;
+    width:100%;
+    height:100%;
+    left:0px;
+    position:fixed;
+    top:50px;
 }
-#summerbanner {
-    background: url(../images/skateboard.jpg) no-repeat;
-    background-size: cover;
-    width: 100%;
-    height: 100%;
-    left: 0px;
-    position: fixed;
-    top: 50px;
+#rejexbanner{
+    background:url(../images/Joey-Bad.jpg) no-repeat;
+    background-size:cover;
+    width:100%;
+    height:100%;
+    left:0px;
+    position:fixed;
+    top:50px;
 }
-#B4banner {
-    background: url(../images/splashheader.png) no-repeat;
-    background-size: cover;
-    width: 100%;
-    height: 100%;
-    left: 0px;
-    position: fixed;
-    top: 50px;
+#summerbanner{
+    background:url(../images/skateboard.jpg) no-repeat;
+    background-size:cover;
+    width:100%;
+    height:100%;
+    left:0px;
+    position:fixed;
+    top:50px;
 }
-#content {
-    width: 95%;
-    margin: auto;
-    position: relative;
-    top: 650px;
-    padding: 20px;
-    background: rgba(245,245,245,.9);
-    height: 100%;
-    border-radius: 10px;
-    box-shadow: v-shadow blur;
+#B4banner{
+    background:url(../images/splashheader.png) no-repeat;
+    background-size:cover;
+    width:100%;
+    height:100%;
+    left:0px;
+    position:fixed;
+    top:50px;
 }
-.headfont {
-    font-family: 'Rock Salt', cursive;
+#content{
+    width:95%;
+    margin:auto;
+    position:relative;
+    top:650px;
+    padding:20px;
+    background:rgba(245, 245, 245, .9);
+    height:100%;
+    border-radius:10px;
+    
+}
+.headfont{
+    font-family:'Rock Salt', cursive;
     font-size:x-large;
-    text-shadow: -1px 0 gray, 0 1px gray, 1px 0 gray, 0 -1px gray;
-    color: #140404;
-    text-align: center;
-    margin: 5px auto;
+    text-shadow:-1px 0 gray, 0 1px gray, 1px 0 gray, 0 -1px gray;
+    color:#140404;
+    text-align:center;
+    margin:5px auto;
 }
-.bodyfont {
-    font-family: 'Slabo 27px', serif;
-    color: white;
-    text-align: center;
-    margin: 0px;
+.bodyfont{
+    font-family:'Slabo 27px', serif;
+    color:white;
+    text-align:center;
+    margin:0px;
     text-decoration:none;
     list-style:none;
 }
-.leftfont {
-    font-family: 'Slabo 27px', serif;
-    color: white;
-    text-align: left;
-    margin: 10px;
+.leftfont{
+    font-family:'Slabo 27px', serif;
+    color:white;
+    text-align:left;
+    margin:10px;
     text-decoration:none;
     list-style:none;
 }
-.box {
-    padding: 20px;
-    background-color: #8c8c8c;
-    border-radius: 10px;
-    width: 700px;
-    margin: 50px auto;
+.box{
+    padding:20px;
+    background-color:#8c8c8c;
+    border-radius:10px;
+    width:700px;
+    margin:50px auto;
 }
-.bio {
-    background-color: #8c8c8c;
-    border-radius: 10px;
-    display: inline-block;
-    vertical-align: top;
-    padding: 7px;
-    width: 200px;
-    height: 375px;
-    margin: 10px;
+.bio{
+    background-color:#8c8c8c;
+    border-radius:10px;
+    display:inline-block;
+    vertical-align:top;
+    padding:7px;
+    width:200px;
+    height:375px;
+    margin:10px;
 }
-hr {
-    border-color: maroon;
-    border-style: dashed
+hr{
+    border-color:maroon;
+    border-style:dashed
 }
-.social {
-    display: inline-block;
-    width: 35px;
-    height: auto;
-    margin: 5px;
+.social{
+    display:inline-block;
+    width:35px;
+    height:auto;
+    margin:5px;
 }
-div#methodnav { 
-   margin: 0;  
-   width: 100%; 
-   text-align: center; 
-   } 
-div#methodnav ul { 
-   list-style: none; 
-   margin: 0; 
-   padding: 0;
-   position: relative
-   } 
-div#methodnav ul li { 
-   margin: 0; 
-   padding: 0; 
-   display: inline-block; 
-   font-size: large;
-   font-family: 'Slabo 27px', serif;
-   font-weight: bold;
-    } 
-div#mthodnav ul li:hover {
-    background-color: #fafafa;
+
+iframe{
+    display:inline-block;
+    height:500px;
+    width:100%;
 }
-div#methodnav ul li a,visited {
-    color: #140404;
-    display: block;
-    padding: 15px;
-    text-decoration: none
-    }
-div#methodnav ul li:hover ul{
-    display: block;
-}
-div#methodnav ul ul {
-    display: none;
-    position: absolute;
-    background-color: #fafafa;
-}
-div#methodnav ul ul li {
-    display: block;
-}
+

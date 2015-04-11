@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+    <head>
+        <title>Joey Bada$$</title>
+        <link href="../css/iframe_css.css" rel="stylesheet" type="text/css" />
+        <link href="../css/splash.css" rel="stylesheet" type="text/css" />
+        <!-- font links -->
+        <link href="http://fonts.googleapis.com/css?family=Rock+Salt%7cSlabo+27px" rel="stylesheet"
+            type="text/css" />
+        <script type="text/javascript">
+            window.onload = function(){
+            var graphbox = document.getElementById("graphbox");
+            var radios = document.getElementsByTagName("input");
+            for (var i = 0; i != radios.length; i++){
+                radios[i].setAttribute("onclick", "changeContent(this)")
+            }
+            
+            }
+            
+            function changeContent(el){
+                var newThing = el.getAttribute("data-href");
+                var graphbox = document.getElementById("graphbox");
+                graphbox.setAttribute("style", "border:none");
+                graphbox.setAttribute("src", newThing)
+            }
+            
+        </script>
+    </head>
+    <body>
+        <div id="container">
+            <!--#include virtual="../inc/menu.xhtml" -->
+            <div id="bannerAnalysis">
+                <div class="headfont">
+                    <h1>Analysis</h1>
+                </div>
+            </div><!-- banner end -->
+            <div id="content">
+                <div class="box">
+                <h2 class="headfont">Motifs</h2>
+                <div class="bodyfont">
+                <form>
+                    <label><input name="graphRadio" type="radio" data-href="Rejex.xhtml"/>w3</label>
+                    <label><input name="graphRadio" type="radio" data-href="SummerKnights.xhtml"/>svg</label>
+                </form>
+                <p>Test Frame</p>
+                <a href="http://www.w3schools.com" target="target">this should change iframe contents</a>
+                <div><iframe id="graphbox" name="target" src="Rejex.xhtml"></iframe></div>
+                </div><!-- end bodyfont -->
+            </div><!-- ends box -->
+            </div><!-- ends content -->
+        </div><!-- container end -->
+    </body>
+</html>
