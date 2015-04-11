@@ -49,21 +49,21 @@
                                 attribute marks the linguistic category that the text falls into.
                                 Below describes the type tag and the tags that follow the tag
                                 depending on category:</p>
-                            <h4>dropping:</h4>
+                            <h4 id="dropping">Dropping:</h4>
                             <p>This attribute is used when a sound is dropped from a word. For
                                 example, the word somthin’ would be tagged as <code>&lt;AAVE
                                     field="phon" type="dropping" sound="g" position="initial"
                                     &gt;somthin’&lt;/AAVE&gt;</code>. The tag also includes a sound
                                 attribute that describes the sound that is being dropped as well as
                                 the position of that sound.</p>
-                            <h4>tense:</h4>
+                            <h4 id="tense">Tense:</h4>
                             <p>This attribute is used when the wrong tense is used in a phrase. For
                                 instance ‘We wasn’t on the grind’ would be tagged as <code>We
                                     &lt;AAVE field="syn" type="tense" person="first
                                     plural"&gt;wasn't&lt;/AAVE&gt; on the grind</code>. This is
                                 accompanied by the attribute person which is marked as the person
                                 that the word should be, in this case first person plural.</p>
-                            <h4>deletion:</h4>
+                            <h4 id="deletion">Deletion:</h4>
                             <p>This attribute is used when a word is deleted from a sentence. It is
                                 like dropping but on a sentence level. The tag is typically used for
                                 copula deletion (the deletion of to be words) and is always an empty
@@ -72,20 +72,20 @@
                                 attribute which describes the word class of the missing word. It can
                                 be one of the following: "copula", "preposition", "auxiliary", "to",
                                 "object".</p>
-                            <h4>aspect:</h4>
+                            <h4 id="aspect">Aspect:</h4>
                             <p>This attribute is used when a phrase uses tense/aspect in a manner
                                 that is different than Standard American English (SAE) The tag is
                                 typically used as follows: <code>&lt;AAVE field="syn" type="aspect"
                                     tense="habitual"&gt;sounds been profound&lt;/AAVE&gt;</code>.
                                 This attribute is accompanied by the tense attribute which describes
                                 one of the tenses used, which are described below: TABLE</p>
-                            <h4>negative</h4>
+                            <h4 id="negative">Negative</h4>
                             <p>This attribute is used when there is a double negative or a negative
                                 concord. This is commonly seen in phrases like <code>‘Cause it
                                     &lt;AAVE field="syn" type="negative"&gt;ain’t no fun if the
                                     homies don’t get none&lt;/AAVE&gt;</code>. This has no
                                 accompanying attributes</p>
-                            <h4>contraction</h4>
+                            <h4 id="contraction">Contraction</h4>
                             <p>This attribute is used when a word is contracted that is abnormal to
                                 SAE. This means that words like ‘it’s’ will not be tagged by words
                                 like ‘tryna’ will be tagged. The tag looks like <code>&lt;AAVE
@@ -128,40 +128,40 @@
                                 flow still allows one to interpret and categorize the type of poetic
                                 device used more accurately than simply reading the lyrics
                                 online.</p>
-                            <h4>Alliteration:</h4>
+                            <h4 id="alliteration">Alliteration:</h4>
                             <p>A poetic device in which there is a repetition of the first consonant
                                 in a series of multiple words.<br /> e.g. "pride is higher than the
                                 prices on your Pradas"</p>
-                            <h4>Assimilation:</h4>
+                            <h4 id="assimilation">Assimilation:</h4>
                             <p>A poetic device in which one word becomes more phonologically similar
                                 to at least one other word, esentially the rappers delivery of the
                                 words produces a transformation in which the previously dissimilar
                                 words now seem to rhyme.<br /> e.g. And I know the landlord fed up
                                 with our lies<br /> So we pray to the Gods, the Jahs, and the
                                 Allahs<br /> To keep us safe and watch our lives.<br /></p>
-                            <h4>Assonance:</h4>
+                            <h4 id="assonance">Assonance:</h4>
                             <p>A poetic device in which words near each other have a repetition of a
                                 vowel in nonrhyming stressed syllables.<br /> e.g. Tend this racket
                                 while I'm cracking a Serena.</p>
-                            <h4>Consonance:</h4>
+                            <h4 id="consonance">Consonance:</h4>
                             <p>A poetic device in which words near each other have a repetition of a
                                 consonants in nonrhyming stressed syllables.<br /> e.g. Show's too
                                 turnt out return home burnt out</p>
-                            <h4>Rhyme:</h4>
+                            <h4 id="rhyme">Rhyme:</h4>
                             <p>A poetic device in which there is a correspondence of sound between
                                 words or the endings of words.<br /> e.g.I know she always think of
                                 little me, but now I got big literally<br /> Worldwide and
                                 physically<br /> I'm saying I used to take walks around Little
                                 Italy<br /> Now I roam 'round Sicily<br /> And I'm plotting on a
                                 milli<br /></p>
-                            <h4>Slant Rhyme:</h4>
+                            <h4 id="slantRhyme">Slant Rhyme:</h4>
                             <p>A poetic device in which a rhyme is formed by words with similar but
                                 not identical sounds. Typically, either the vowels are different
                                 while the consonants are identical, or the consonants are different
                                 while the vowels are identical.<br /> e.g. But it's definite I spit
                                 more than speech impediments<br /> Brooklyn's the residence, the
                                 best and it's evident<br /></p>
-                            <h4>Example Poetic Markup:</h4>
+                            <h4 id="examplePoeticMarkup">Example Poetic Markup:</h4>
                             <code>&lt;li&gt;It's all a &lt;group label="a" num="1" alliteration="2"
                                 &gt;hidden&lt;/group&gt; &lt;group label="a" num="2"
                                 alliteration="1" rhyme="3 4 6" &gt;history&lt;/group&gt;, and
