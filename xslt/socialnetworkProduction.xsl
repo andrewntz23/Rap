@@ -7,7 +7,7 @@
         <xsl:variable name="doc" select="/"/>
         <xsl:for-each select="//song">
             <xsl:value-of select="'Joey Bada$$'"/>
-            <xsl:value-of select="', 1999, '"/>
+            <xsl:value-of select="', B4DA$$, '"/>
             <xsl:value-of select="./@production"/>
             <xsl:value-of select="'&#10;'"/>
             
