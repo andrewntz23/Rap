@@ -94,17 +94,20 @@
        </span>
     </xsl:template>
     <xsl:template match="AAVE">
-        <span class="{@type}">
+        <span class="ling">
             <xsl:if test="@type eq 'deletion'">
+                <xsl:attribute name="data-type" select="@type"/>
                 <xsl:attribute name="data-field" select="@field"/>
                 <xsl:attribute name="data-class" select="@class"/>
             </xsl:if>
             <xsl:if test="@type eq 'dropping'">
+                <xsl:attribute name="data-type" select="@type"/>
                 <xsl:attribute name="data-field" select="@field"/>
                 <xsl:attribute name="data-sound" select="@sound"/>
                 <xsl:attribute name="data-position" select="@position"/>
             </xsl:if>
             <xsl:if test="@type eq 'contraction'">
+                <xsl:attribute name="data-type" select="@type"/>
                 <xsl:attribute name="data-field" select="@field"/>
                 <xsl:attribute name="data-word1" select="@word1"/>
                 <xsl:attribute name="data-word2" select="@word2"/>
@@ -113,13 +116,16 @@
                 </xsl:if>
             </xsl:if>
             <xsl:if test="@type eq 'negative'">
+                <xsl:attribute name="data-type" select="@type"/>
                 <xsl:attribute name="data-field" select="@field"/>
             </xsl:if>
             <xsl:if test="@type eq 'tense'">
+                <xsl:attribute name="data-type" select="@type"/>
                 <xsl:attribute name="data-field" select="@field"/>
                 <xsl:attribute name="data-person" select="@person"/>
             </xsl:if>
             <xsl:if test="@type eq 'aspect'">
+                <xsl:attribute name="data-type" select="@type"/>
                 <xsl:attribute name="data-field" select="@field"/>
                 <xsl:attribute name="data-tense" select="@tense"/>
             </xsl:if>
@@ -127,7 +133,7 @@
         </span>
     </xsl:template>
     <xsl:template match="compound">
-        <span class="compound" data-head="{@head}" data-stem="{@stem}" data-type="{@type}"></span>
+        <span class="ling" data-head="{@head}" data-stem="{@stem}" data-ctype="{@type}" data-type="compound"><xsl:apply-templates/></span>
     </xsl:template>
     <xsl:template
         match="oldschool|success|women|fashion|struggle|food|money|alcohol|hiphop|haters|guns|popculture|weed|sports|geo">
