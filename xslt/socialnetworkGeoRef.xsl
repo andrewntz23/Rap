@@ -7,7 +7,7 @@
         <xsl:variable name="doc" select="/"/>
         <xsl:for-each select="//geo">
             <xsl:value-of select="'Joey Bada$$'"/>
-            <xsl:value-of select="', geoReference, '"/>
+            <xsl:value-of select="', B4DA$$, '"/>
             <xsl:value-of select="./@ref"/>
             <xsl:value-of select="'&#10;'"/>
             

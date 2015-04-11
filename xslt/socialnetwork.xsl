@@ -17,7 +17,7 @@
                 <xsl:for-each select="for $i in 1 to $count return $i">                    
                     <xsl:value-of select="$thisSpeaker"/>
                   <!--  <xsl:value-of select="',', $count"/>-->
-                    <xsl:value-of select="',rappedTogether,'"/>
+                    <xsl:value-of select="', B4DA$$, '"/>
                     <xsl:value-of select="$otherSpeaker"/>
                     <xsl:value-of select="'&#10;'"/>
                 </xsl:for-each>
