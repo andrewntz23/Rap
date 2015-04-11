@@ -4,7 +4,7 @@ declare function local:order-value ($rhymeStrings as xs:string*)
     as xs:integer* {
     let $rhymeSeq := ()
     for $rhymeString in $rhymeStrings
-    let $rhymeCount := count(tokenize($rhymeString, " " )) +1
+    let $rhymeCount := count(tokenize($rhymeString, "\s+" )) +1
     let $rhymeSeq := insert-before($rhymeSeq, 1, $rhymeCount)
     return $rhymeSeq
 };

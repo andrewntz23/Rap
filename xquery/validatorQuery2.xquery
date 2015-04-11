@@ -23,7 +23,7 @@ What I want to do is find any and all groups that this points to, and ensure tha
 if not, return those groups. :)
 declare function local:check-attributes($group as element(group), $attributeName as xs:string, $attributeValues as xs:string)
 as element(group)* {
-    let $valuesToCheck := tokenize($attributeValues, "\s")
+    let $valuesToCheck := tokenize($attributeValues, "\s+")
     let $ourNum := $group/@num
     for $valueToCheck in $valuesToCheck
     let $otherGroups := $group/ancestor::stanza//group[@label=$group/@label][@num = $valueToCheck]
@@ -38,12 +38,11 @@ as element(group)* {
 
 let $info := (
 
-     doc("../xml/B4DA$$.xml") 
-     (:
-     doc("../xml/1999.xml"),
+     doc("../xml/1999.xml")
+     (:doc("../xml/B4DA$$.xml"),
      doc("../xml/SummerKnights.xml") , 
-     doc("../xml/Rejex.xml")
-     :)
+     doc("../xml/Rejex.xml"):)
+     
      
      )
      
