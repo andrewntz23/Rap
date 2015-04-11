@@ -190,4 +190,10 @@ iframe{
     height:500px;
     width:100%;
 }
-
+.box{
+    padding:20px;
+    background-color:#8c8c8c;
+    border-radius:10px;
+    width:90%;
+    margin:50px auto;
+}
