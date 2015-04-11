@@ -1,5 +1,4 @@
 Alliteration
-<?xml version="1.0" encoding="UTF-8"?>
  B4.DA.$$ 
  value:  2 3 5 4 
  sums:  112 33 10 4 
@@ -26,10 +25,7 @@ Alliteration
  average:  2.5
  
  
- 
- 
  Assonance
- <?xml version="1.0" encoding="UTF-8"?>
  B4.DA.$$ 
  value:  2 6 5 3 
  sums:  42 6 5 6 
@@ -56,10 +52,7 @@ Alliteration
  average:  2.3333333333333335
  
  
- 
- 
  Assimilation
- <?xml version="1.0" encoding="UTF-8"?>
  B4.DA.$$ 
  value:  2 
  sums:  44 
@@ -86,10 +79,7 @@ Alliteration
  average:  2.142857142857143
  
  
- 
- 
  Consonance
- <?xml version="1.0" encoding="UTF-8"?>
  B4.DA.$$ 
  value:  4 2 
  sums:  4 10 
@@ -116,10 +106,7 @@ Alliteration
  average:  3
  
  
- 
- 
  Rhyme
- <?xml version="1.0" encoding="UTF-8"?>
  B4.DA.$$ 
  value:  4 2 3 5 7 8 10 
  sums:  99 356 150 46 14 8 10 
@@ -146,10 +133,7 @@ Alliteration
  average:  2.7790697674418605
  
  
- 
- 
  Slant Rhyme
- <?xml version="1.0" encoding="UTF-8"?>
  B4.DA.$$ 
  value:  2 3 4 
  sums:  254 27 12 
