@@ -9,7 +9,7 @@
     </meta>
     <song production="StatikSelektah">
         <title>Save The Children</title>
-        <audlink>www.youtube.com/watch?v=KsI12GFZlgI</audlink>
+        <audlink>www.youtube.com/embed/KsI12GFZlgI</audlink>
         <stanza type="verse" speaker="JoeyBada$$">
             <li>It's all a <history><group label="a" num="1" alliteration="2">hidden</group> <group label="a" num="2" alliteration="1" rhyme="3 4 6">history</group></history>, and <group label="a" num="3" rhyme="2 4 6">mysteries</group></li>
             <li>I see <group label="a" num="4" rhyme="2 3 6">vividly</group>, <group label="a" num="5" slantRhyme="7">hysteria</group></li>
@@ -145,7 +145,7 @@
     </song>
     <song production="LeeBannon">
         <title>Greenbax (Interlude)</title>
-        <audlink>www.youtube.com/watch?v=yhYubqIc4zs</audlink>
+        <audlink>www.youtube.com/embed/yhYubqIc4zs</audlink>
         <stanza type="verse" speaker="KirkKnight">
             <li>I'm <AAVE field="phon" type="dropping" sound="g" position="final">tryin'</AAVE> to
                 get that <money qual="pursuit">green <group label="a" num="1" slantRhyme="2">back</group></money></li>
@@ -162,7 +162,7 @@
     </song>
     <song production="DJPremier">
         <title>Paper Trail$</title>
-        <audlink>www.youtube.com/watch?v=_XrnL1EeoIs</audlink>
+        <audlink>www.youtube.com/embed/_XrnL1EeoIs</audlink>
         <stanza type="hook" speaker="JoeyBada$$">
             <li><money qual="pursuit">Before the money</money>, there was love</li>
             <li><struggle>But <money qual="pursuit">before the money</money>, it was <group label="a" num="1" rhyme="2">tough</group></struggle></li>
@@ -259,7 +259,7 @@
     </song>
     <song production="FreddieJoachim ">
         <title>Piece Of Mind</title>
-        <audlink>www.youtube.com/watch?v=ieJftIv-xKg</audlink>
+        <audlink>www.youtube.com/embed/ieJftIv-xKg</audlink>
         <stanza type="skit" speaker="JoeyBada$$">
             <li>Hello?</li>
             <li>Yeah I hear you bro, I hear you</li>
@@ -399,7 +399,7 @@
     </song>
     <song  production="KirkKnight">
         <title>Big Dusty</title>
-        <audlink>www.youtube.com/watch?v=S0YSL7UdFWg</audlink>
+        <audlink>www.youtube.com/embed/S0YSL7UdFWg</audlink>
         <stanza type="hook" speaker="JoeyBada$$">
             <li>Check my style, check, check, check it out</li>
             <li>Check my style, check, check, check it out</li>
@@ -521,7 +521,7 @@
     </song>
     <song production="KirkKnight">
         <title>Hazeus View</title>
-        <audlink>www.youtube.com/watch?v=jMqGeRMjmz0</audlink>
+        <audlink>www.youtube.com/embed/jMqGeRMjmz0</audlink>
         <stanza type="intro" speaker="JoeyBada$$">
             <li>Will I see you through my <religion><weed>Hazeus</weed></religion> View?</li>
             <li>Will I see you through my <group label="a" num="1" assonance="2"><religion><weed>Hazeus</weed></religion></group> <group label="a" num="2" assonance="1">View</group>?</li>
@@ -616,7 +616,7 @@
     </song>
     <song production="JDilla TheRoots">
         <title>Like Me</title>
-        <audlink>www.youtube.com/watch?v=vfh5VVVQFKY</audlink>
+        <audlink>www.youtube.com/embed/vfh5VVVQFKY</audlink>
         <stanza type="intro" speaker="JoeyBada$$">
             <li>One time what's the word</li>
             <li>What's the word</li>
@@ -774,7 +774,7 @@
     </song>
     <song production="Hit-Boy">
         <title>Belly Of The Beast</title>
-        <audlink>www.youtube.com/watch?v=qpkp8NDAs0k</audlink>
+        <audlink>www.youtube.com/embed/qpkp8NDAs0k</audlink>
         <stanza type="intro" speaker="JoeyBada$$">
             <li><violence>Dangerous, <group label="a" num="1" assimilation="2">dangerous</group></violence></li>
             <li>These niggas can't <group label="a" num="2" assimilation="1">hang with us</group> hang with us</li>
@@ -878,7 +878,7 @@
     </song>
     <song production="StatikSelektah">
         <title>No. 99</title>
-        <audlink>www.youtube.com/watch?v=DSmwW2ehP30</audlink>
+        <audlink>www.youtube.com/embed/DSmwW2ehP30</audlink>
         <stanza type="hook" speaker="JoeyBada$$">
             <li>What's my name? What's my name?</li>
             <li><hiphop ref="JoeyBada$$">Badmon</hiphop></li>
@@ -1003,7 +1003,7 @@
     </song>
     <song production="Basquiat">
         <title>Christ Conscious</title>
-        <audlink>www.youtube.com/watch?v=J_poBhEdb8E</audlink>
+        <audlink>www.youtube.com/embed/J_poBhEdb8E</audlink>
         <stanza type="intro" speaker="JoeyBada$$">
             <li><women qual="pos">Mother</women>, <compound head="sucker" stem="mother" type="exo">mothersucker</compound>,
                 yeah, oh, this is what you want, huh?</li>
@@ -1093,7 +1093,7 @@
     </song>
     <song production="FreddieJoachim">
         <title>On and On</title>
-        <audlink>www.youtube.com/watch?v=oLyEWuTlIiM</audlink>
+        <audlink>www.youtube.com/embed/oLyEWuTlIiM</audlink>
         <stanza type="intro" speaker="JoeyBada$$">
             <li><women qual="pos">Mama</women> <success qual="pursuit">I just booked a first class ticket to my destiny</success> by the way</li>
             <li>Yeah</li>
@@ -1251,7 +1251,7 @@
     </song>
     <song title="Escape120" production="ChuckStrangers">
         <title>Escape 120</title>
-        <audlink>www.youtube.com/watch?v=UkWhpHx-hS4</audlink>
+        <audlink>www.youtube.com/embed/UkWhpHx-hS4</audlink>
         <stanza type="hook" speaker="JoeyBada$$">
             <li>An ode to <struggle>the worst of my <group label="a" num="1" rhyme="2 3 4"> days</group></struggle></li>
             <li>I've been working <group label="a" num="2" rhyme="1 3 4"> away</group></li>
@@ -1368,7 +1368,7 @@
     </song>
     <song production="ChuckStrangers">
         <title>Black Beetles</title>
-        <audlink>www.youtube.com/watch?v=MNZ8FPnnoAE</audlink>
+        <audlink>www.youtube.com/embed/MNZ8FPnnoAE</audlink>
         <stanza type="hook" speaker="JoeyBada$$">
             <li><struggle>Low on self-esteem</struggle>, <AAVE field="syn" type="aspect" tense="past"><haters>fools</haters> been
                     out</AAVE> for me</li>
@@ -1465,7 +1465,7 @@
     </song>
     <song production="Samiyam TheSoulRebels">
         <title>OCB</title>
-        <audlink>www.youtube.com/watch?v=NDQ6RnxboiQ</audlink>
+        <audlink>www.youtube.com/embed/NDQ6RnxboiQ</audlink>
         <stanza type="hook" speaker="JoeyBada$$">
             <li>These are the only <group label="a" num="1" rhyme="2">child blues</group></li>
             <li>The only child blues</li>
@@ -1573,7 +1573,7 @@
     </song>
     <song production="StatikSelektah">
         <title>Curry Chicken</title>
-        <audlink>www.youtube.com/watch?v=yA8reUsNJC0</audlink>
+        <audlink>www.youtube.com/embed/yA8reUsNJC0</audlink>
         <stanza type="skit" speaker="JoeyBada$$">
             <li><struggle>Like "Oh he's broke! I told you he was broke!</struggle></li>
             <li>I told you <AAVE field="syn" type="negative">he <AAVE field="syn" type="contraction"
@@ -1677,7 +1677,7 @@
     </song>
     <song production="StatikSelektah">
         <title>Run Up On Ya</title>
-        <audlink>www.youtube.com/watch?v=kvOqEqhpuf8</audlink>
+        <audlink>www.youtube.com/embed/kvOqEqhpuf8</audlink>
         <stanza type="intro" speaker="JoeyBada$$">
             <li>Yeah, run up on <women qual="neg"><AAVE field="phon" type="dropping" sound="r" position="final"
                     >ya</AAVE> bitch</women> like</li>
@@ -1798,7 +1798,7 @@
     </song>
     <song production="ChuckStrangers">
         <title>Teach Me</title>
-        <audlink>www.youtube.com/watch?v=cY088JoFIKs</audlink>
+        <audlink>www.youtube.com/embed/cY088JoFIKs</audlink>
         <stanza type="bridge" speaker="JoeyBada$$">
             <li>Won't you teach me how to dance, how to dance</li>
             <li>Won't you teach me how to dance, teach how to dance</li>

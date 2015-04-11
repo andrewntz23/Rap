@@ -9,7 +9,7 @@
     </meta>
     <song production="KirkKnight">
         <title>Alowha</title>
-        <audlink>www.youtube.com/watch?v=3CKCOwWq40M</audlink>
+        <audlink>www.youtube.com/embed/3CKCOwWq40M</audlink>
         <stanza speaker="JoeyBada$$ QueenLatifah" type="intro">
             <li><success qual="possession">And the champion</success></li>
             <li> Reigning that is</li>
@@ -176,7 +176,7 @@
     </song>
     <song production="LeeBannon">
         <title>Hilary $wank</title>
-        <audlink>www.youtube.com/watch?v=lo7Cvs_aQWo</audlink>
+        <audlink>www.youtube.com/embed/lo7Cvs_aQWo</audlink>
         <stanza speaker="JoeyBada$$" type="intro">
             <li>We don't say swag no more we say <compound head="swag" stem="swank" type="endo"
                     >swank</compound></li>
@@ -341,7 +341,7 @@
     </song>
     <song production="ChuckStrangers">
         <title>My Yout</title>
-        <audlink>www.youtube.com/watch?v=-qIFvtv92ss</audlink>
+        <audlink>www.youtube.com/embed/-qIFvtv92ss</audlink>
         <stanza speaker="JoeyBada$$" type="intro">
             <li>Badman Ting</li>
         </stanza>
@@ -583,7 +583,7 @@
     </song>
     <song production="BruceLeekix">
         <title>Death of YOLO</title>
-        <audlink>www.youtube.com/watch?v=u0Zt8CuNT1w</audlink>
+        <audlink>www.youtube.com/embed/u0Zt8CuNT1w</audlink>
         <stanza speaker="JoeyBada$$" type="hook">
             <li> This <AAVE field="syn" type="deletion" class="copula"/>the song I wrote if <group
                     label="a" num="1" assonance="2 3 4">I</group>
@@ -849,7 +849,7 @@
     </song>
     <song production="KirkKnight">
         <title>Right On Time</title>
-        <audlink>www.youtube.com/watch?v=vNhHcKUc0uw</audlink>
+        <audlink>www.youtube.com/embed/vNhHcKUc0uw</audlink>
         <stanza speaker="T'nahApex" type="intro">
             <li> My eyes have never seen someone so beautiful</li>
             <li> So much charm</li>
@@ -995,7 +995,7 @@
     </song>
     <song production="NavieD">
         <title>Sweet Dreams</title>
-        <audlink>www.youtube.com/watch?v=an9O6DoVW8U</audlink>
+        <audlink>www.youtube.com/embed/an9O6DoVW8U</audlink>
         <stanza speaker="JoeyBada$$" type="verse">
             <li> First I wake up, <group label="a" num="1" rhyme="2">wake up</group>, thinking of a
                 plan to get my <group label="a" num="2" rhyme="1"><money qual="pursuit"><food>cake</food></money>
@@ -1178,7 +1178,7 @@
     </song>
     <song production="LeeBannon">
         <title>47 Goonz</title>
-        <audlink>www.youtube.com/watch?v=Ew2ICWuTrYI</audlink>
+        <audlink>www.youtube.com/embed/Ew2ICWuTrYI</audlink>
         <stanza speaker="JoeyBada$$" type="verse">
 
             <li> Yo, <hiphop ref="JoeyBada$$">Badass</hiphop> don't <group label="a" num="1"
@@ -1333,7 +1333,7 @@
     </song>
     <song production="StatikSelektah">
         <title>Word Is Bond</title>
-        <audlink>www.youtube.com/watch?v=4y1DpQ5GvsA</audlink>
+        <audlink>www.youtube.com/embed/4y1DpQ5GvsA</audlink>
         <stanza speaker="JoeyBada$$" type="verse">
             <li> Got the <sports><weed>reggies from the <group label="a" num="1" rhyme="2 3"
                             >Bush</group></weed></sports></li>
@@ -1494,7 +1494,7 @@
     </song>
     <song production="NavieD">
         <title>Sit N' Prey</title>
-        <audlink>www.youtube.com/watch?v=TynPlb6IDAg</audlink>
+        <audlink>www.youtube.com/embed/TynPlb6IDAg</audlink>
         <stanza speaker="DessyHinds" type="intro">
             <li> After that day my nigga</li>
             <li> I remember when he came back to school 3 weeks after</li>
@@ -1760,7 +1760,7 @@
     </song>
     <song production="TheAlchemist">
         <title>Trap Door</title>
-        <audlink>www.youtube.com/watch?v=1TSjuZ09L6I</audlink>
+        <audlink>www.youtube.com/embed/1TSjuZ09L6I</audlink>
         <stanza speaker="JoeyBada$$" type="intro">
             <li> I went over to <women qual="pos">her</women> house on Sunday morning</li>
             <li>
@@ -1882,7 +1882,7 @@
     </song>
     <song production="LeeBannon">
         <title>Satellite</title>
-        <audlink>www.youtube.com/watch?v=NIAoGifO_I0</audlink>
+        <audlink>www.youtube.com/embed/NIAoGifO_I0</audlink>
         <stanza speaker="JoeyBada$$" type="verse">
             <li> And I guess <success qual="pursuit">it's my turn to <group label="a" num="1" slantRhyme="2"
                         >shine</group></success></li>
@@ -2112,7 +2112,7 @@
     </song>
     <song production="LeeBannon">
         <title>95 Til Infinity</title>
-        <audlink>www.youtube.com/watch?v=GshME7yTEG</audlink>
+        <audlink>www.youtube.com/embed/GshME7yTEG</audlink>
         <stanza speaker="JoeyBada$$" type="verse">
             <li> And <weed>we <AAVE type="deletion" field="syn" class="copula"/><group label="a" num="1"
                     rhyme="2">smoking</group>, <group label="a" num="2" rhyme="1"
@@ -2332,7 +2332,7 @@
     </song>
     <song production="MFDoom">
         <title>Amethyst Rockstar</title>
-        <audlink>www.youtube.com/watch?v=E8hPYYQAXXI</audlink>
+        <audlink>www.youtube.com/embed/E8hPYYQAXXI</audlink>
         <stanza speaker="SaulWilliams" type="intro">
             <li>(Fuck You!)</li>
             <li> <drugs>I stand on the corner of the <group label="a" num="1" rhyme="2 5">block</group>
@@ -2544,7 +2544,7 @@
     </song>
     <song production="ChuckStrangers">
         <title>Reign</title>
-        <audlink>www.youtube.com/watch?v=T-GWS99JIBg</audlink>
+        <audlink>www.youtube.com/embed/T-GWS99JIBg</audlink>
         <stanza speaker="JoeyBada$$" type="hook">
             <li> When it <group label="a" num="1" slantRhyme="2">rains it pours down</group></li>
             <li> <success qual="pursuit">Used to wanna be king</success> said the <group label="a" num="2" slantRhyme="1">reign is on
@@ -2772,7 +2772,7 @@
     </song>
     <song production="Oddisee">
         <title>Sorry Bonita</title>
-        <audlink>www.youtube.com/watch?v=z_kyOZxYhLA</audlink>
+        <audlink>www.youtube.com/embed/z_kyOZxYhLA</audlink>
         <stanza speaker="DyemondLewis" type="verse">
             <li> It’s all <group label="a" num="1" slantRhyme="2" rhyme="3">illusions</group>, fixed
                 gear <group label="a" num="2" slantRhyme="1">cruising</group></li>
@@ -3039,7 +3039,7 @@
     </song>
     <song production="KirkKnight">
         <title>#LongLiveSteelo</title>
-        <audlink>www.youtube.com/watch?v=9cPaNtwul4A</audlink>
+        <audlink>www.youtube.com/embed/9cPaNtwul4A</audlink>
         <stanza speaker="JoeyBada$$" type="verse">
             <li> Ayo I don't really <group label="a" num="1" rhyme="2">cry</group>, ask <group
                     label="a" num="2" rhyme="1">why</group></li>
@@ -3135,7 +3135,7 @@
     </song>
     <song production="DJPremier">
         <title>Unorthodox</title>
-        <audlink>www.youtube.com/watch?v=u9alAjHkACM</audlink>
+        <audlink>www.youtube.com/embed/u9alAjHkACM</audlink>
         <stanza speaker="JoeyBada$$" type="intro">
 
             <li> <AAVE type="album" field="syn" tense="past">We done came up</AAVE></li>
