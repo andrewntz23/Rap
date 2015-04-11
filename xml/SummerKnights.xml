@@ -2,7 +2,7 @@
 <?xml-model href="schema1.rnc" type="application/relax-ng-compact-syntax"?>
 <album type="mixtape">
     <meta>
-        <albumTitle>SummerKnights</albumTitle>
+        <albumTitle>Summer Knights</albumTitle>
         <source>genius.com</source>
         <year>2013</year>
         <accessDate>2/04/2015</accessDate>
