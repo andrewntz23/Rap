@@ -21,13 +21,13 @@ window.onload = function(){
 
 function setButtons(){
     //create a button which will show all p tags, and then hide all p tags. 
-    var boxes = document.querySelectorAll('.box');
+    var tags = document.querySelectorAll('a[href="#top"]');
     for (var i = 0; i < tags.length; i++){
         var newButton = document.createElement("button");
         var newText = document.createTextNode("show lyrics");
         newButton.appendChild(newText);
         newButton.setAttribute("onclick", "showHide(this)");
-        boxes[i].firstChild.insertBefore(newButton, boxes[i].firstChild.querySelectorAll("div")[0].nextSibling);
+        tags[i].parentNode.insertBefore(newButton, tags[i].nextSibling.nextSibling);
         showHide(newButton);
     }
     
