@@ -1,5 +1,5 @@
 let $doc := 
-doc(methodology.xhtml)
+doc("../xhtml/methodology.xhtml")
 let $h4 := $doc//h4 
 for $thinginh4 in $h4
 let $id := $thinginh4/@id
