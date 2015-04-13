@@ -26,14 +26,14 @@
                             has grown as an artist since the release of his first mixtape to the
                             release of his first studio album. In determining how he has grown and
                             evolved, we have decided to look at three areas of study. The first area
-                            of study is poetics; with this we hoped to see what poetic devises Joey
-                            uses most prominently and if these devices changes over time. The second
+                            of study is poetics; with this we hoped to see what poetic devices Joey
+                            uses most prominently, and if the use of these devices changed over time. The second
                             area we looked at is linguistics, with this we tracked the use of
-                            compounds and how/if they evolved as well as the use of African American
+                            compounds and how/if their use evolved. Additionally, we tracked the use of African American
                             Vernacular English (AAVE) and how the use of the AAVE dialect changes as
-                            he becomes more mainstream. Finally we looked at motifs, and how various
+                            Joey Bada$$ becomes more a more prominent figure in hip-hop. Finally we looked at motifs, and how various
                             themes present themselves in various songs and projects as Joey
-                            grows.</p>
+                            grows and progresses.</p>
                     </div>
                 </div>
                 <div id="ling" class="box">
@@ -102,7 +102,105 @@
                             <h2>Motifs</h2>
                         </div>
                         <div class="leftfont">
+                            <h3>Motif Markup</h3>
                             <p>This will contain info on Motif markup</p>
+                            <h4 id="Alcohol">Alcohol</h4>
+                            <p>References to: brands of alcohol, consumption of alcohol, drinking games, effects of alcohol, and colloquial terms for types of alcohol.</p>
+                            <p>Example: <code>&lt;alcohol&gt;Moet&lt;/alcohol&gt;</code></p>
+                            <h4 id="Criticism">Criticism</h4>
+                            <p>Criticism of the rap game and of phony rappers.</p>
+                            <p>Example: <code>&lt;criticism&gt;Slipping like fishes, choking when you hit the cypher&lt;/criticism&gt;</code></p>
+                            <h4 id="Drugs">Drugs</h4>
+                            <p>References to: drugs, the use and sale of drugs, and users of drugs. Marijuana is not included in this category.</p>
+                            <p>Example: <code>&lt;drugs&gt;the crack, they overdose&lt;/drugs&gt;</code></p>
+                            <h4 id="Fashion">Fashion</h4>
+                            <p>References to fashion designers and brands, as well as references to articles of clothing.</p>
+                            <p>Example: <code>&lt;fashion&gt;lo, like Ralph&lt;/fashion&gt;</code></p>
+                            <h4 id="Food">Food</h4>
+                            <p>Any mention of food, in any form. Also, mentions of consumption of food.</p>
+                            <p>Example: <code>&lt;food&gt;kiwi&lt;/food&gt;</code></p>
+                            <h4 id="GeographicalLocations">Geographical Locations</h4>
+                            <p>All references to geographical locations, whether explicit or implicit. The ref attribute contains the official name of the reference, due to the fact that some references are nicknames or abbreviations.</p>
+                            <p>Example: <code>&lt;geo ref="Brooklyn"&gt;Brooklyn&lt;/geo&gt;</code></p>
+                            <h4 id="Guns">Guns</h4>
+                            <p>References to guns, both direct and indirect.</p>
+                            <p>Example: <code>&lt;guns&gt;the heater&lt;/guns&gt;</code></p>
+                            <h4 id="Haters">Haters</h4>
+                            <p>This tag denotes those who do not enjoy Joey's music or who do not support him. Also refers to those who are only interested in being around Joey due to his fame and fortune.</p>
+                            <p>Example: <code>&lt;haters&gt;Closed-minded men&lt;/haters&gt;</code></p>
+                            
+                            <h4 id="HipHop">Hip-Hop</h4>
+                            <p>The hip hop tag always refers to a rapper or rap group, but these references occur in several ways:</p>
+                            <p>directly referencing a song or artist name (this example refers to a song by rapper Rick Ross entitled BMF: Blowing Money Fast);</p>
+                            <p>Example: <code>&lt;hiphop ref="RickRoss"&gt;BMF like Ross man&lt;/hiphop&gt;</code></p>
+                            <p>indirectly referencing a figure in hip hop using symbolism and figurative language (this example refers to Joey's hip hop collective Pro Era, which has 47 closeknit members);</p>
+                            <p>Example: <code>&lt;hiphop ref="ProEra"&gt;47 friends in my circumference&lt;/hiphop&gt;</code></p>
+                            <p>and references to figures in hip hop by quoting or paraphrasing another rapper's raps (this example shows Joey rapping lyrics from Jay-Z's Song Cry).</p>
+                            <p>Example: <code>&lt;hiphop ref="Jay-Z"&gt;I couldn't see it coming down my eye&lt;/hiphop&gt;</code><br/><code>&lt;hiphop ref="Jay-Z"&gt;So I hat to make the song cry&lt;/hiphop&gt;</code></p>
+                            
+                            <h4 id="History">History</h4>
+                            <p>This tag denotes a reference to a historical event or figure (including figures in ancient mythology).</p>
+                            <p>Example: <code>&lt;history&gt;Underground Railroad&lt;/history&gt;</code></p>
+                            <h4 id="Money">Money</h4>
+                            <p>This tag is used to mark any references to money, divided into two qualifications, pursuit of money and possession of money.</p>
+                            <p>example of pursuit of money:</p>
+                            <p>Example: <code>&lt;money qual="pursuit"&gt;plotting on that dime&lt;/money&gt;</code></p>
+                            <p>example of possession of money:</p>
+                            <p>Example: <code>&lt;money qual="possession"&gt;pockets healthy&lt;/money&gt;</code></p>
+                            <h4 id="Oldschool">Oldschool</h4>
+                            <p>This tag marks a reference or phrase indicating that Joey is talking about things that invoke nostalgia and hearken back to past times.</p>
+                            <p>Example: <code>&lt;oldschool&gt;back in the days&lt;/oldschool&gt;</code></p>
+                            <h4 id="Popculture">Pop Culture</h4>
+                            <p>The popculture tag denotes a reference to a pop culture entity,</p>
+                            <p>whether blatantly:</p>
+                            <p>Example: <code>&lt;popculture ref="Twitter"&gt;Twitter&lt;/popculture&gt;</code></p>
+                            <p>or indirectly:</p>
+                            <p>Example: <code>&lt;popculture ref="JackSparrow"&gt;jack the booty like I'm Sparrow&lt;/popculture&gt;</code></p>
+                            <h4 id="Power">Power</h4>
+                            <p>The power tag marks figures and ideas that have power/control in society,</p>
+                            <p>such as police:</p>
+                            <p>Example: <code>&lt;power&gt;jakes&lt;/power&gt;</code></p>
+                            <p>or racism:</p>
+                            <p>Example: <code>&lt;power&gt;Jim Crow Laws&lt;/power&gt;</code></p>
+                            <h4 id="Religion">Religion</h4>
+                            <p>The religion tag here is reflective of the spiritual beliefs found in the lyrics of our corpus.</p>
+                            <p>In some cases this refers to Christian ideas:</p>
+                            <p>Example: <code>&lt;religion&gt;God bless the heaven&lt;/religion&gt;</code></p>
+                            <p>while in other cases this tag marks references to third eye spiritualism:</p>
+                            <p>Example: <code>&lt;religion&gt;on some third eye shit&lt;/religion&gt;</code></p>
+                            <h4 id="Sex">Sex</h4>
+                            <p>This tag marks references to a sexual act, whether tacit and blatant.</p>
+                            <p>Example: <code>&lt;sex&gt;bacchanalian&lt;/sex&gt;</code></p>
+                            <p>This example, bacchanalian, is a word for 'drunken orgy' that comes from an ancient Greek festival celebrating Bacchus, god of wine.</p>
+                            <h4 id="Sports">Sports</h4>
+                            <p>This tag marks all sports references.</p>
+                            <p>The sports tag can refer to an athlete or sports figure:</p>
+                            <p>Example: <code>&lt;sports&gt;Al Pujols&lt;/sports&gt;</code></p>
+                            <p>as well as to general sports-related terms and objects:</p>
+                            <p>Example: <code>&lt;sports&gt;hoops&lt;/sports&gt;</code></p>
+                            <h4 id="Struggle">Struggle</h4>
+                            <p>The purpose of this tag is to indicate any raps that talk about the difficulties of life at various stages of life and wealth.</p>
+                            <p>Example: <code>&lt;struggle&gt;And I'm from the blocks where they sell&lt;/struggle&gt;</code></p>
+                            
+                            <h4 id="Success">Success</h4>
+                            <p>This tag indicates either Joey's pursuit of or possession of success. This comes in a variety of colorful expressions that are all quite varied.</p>
+                            <p>an example of possession of success is the boast:</p>
+                            <p>Example: <code>&lt;success qual="possession"&gt;I'm killin' this shit&lt;/success&gt;</code></p>
+                            <p>while an example of pursuit of success is the statement that Joey will continue to work hard until he gets to the point where he is famous enough to be on Jay-Z's radar,
+                                and wealthy enough to afford to purchase a Range Rover for his mother.</p>
+                            <p>Example: <code>&lt;success qual="pursuit"&gt;Won't stop 'til I meet Hova and my momma's in a Rover&lt;/success&gt;</code></p>
+                            <h4 id="Violence">Violence</h4>
+                            <p>The violence tag is used to denote any indication of violent behavior, both from Joey and his people and simply generally in the hood.</p>
+                            <p>Example: <code>&lt;violence&gt;Rip your lips off your mouth&lt;/violence&gt;</code></p>
+                            <h4 id="Weed">Weed</h4>
+                            <p>This tag is used to mark any instance where Joey discusses marijuana-related activities.</p>
+                            <p>Example: <code>&lt;weed&gt;exotic piff&lt;/weed&gt;</code></p>
+                            <h4 id="Women">Women</h4>
+                            <p>This tag marks references to women, and is divided into two groups using qualifiers positive and negative, which label the connotation of the marked word or phrase.</p>
+                            <p>an example of women negative:</p>
+                            <p>Example: <code>&lt;women qual="neg"&gt;bitches&lt;/women&gt;</code></p>
+                            <p>an example of women positive:</p>
+                            <p>Example: <code>&lt;women qual="pos"&gt;Mama&lt;/women&gt;</code></p>
                         </div>
                     </div>
                 </div>

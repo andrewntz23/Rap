@@ -4,7 +4,7 @@
     <xsl:output method="xml" indent="yes"/>
     <xsl:variable name="barWidth" select="25"/>
     <xsl:variable name="barInterval" select="$barWidth + 17"/>
-    <xsl:variable name="barHeight" select="300"/>
+    <xsl:variable name="barHeight" select="400"/>
     <xsl:variable name="barShift" select="$barInterval + 1"/>
     <xsl:variable name="motif"
         select="//li/descendant::*[not(self::group)][not(self::AAVE)][not(self::compound)]"/>
@@ -43,7 +43,12 @@
                 <text x="10" y="{5-240}" text-anchor="end">120</text>
                 <text x="10" y="{5-260}" text-anchor="end">130</text>
                 <text x="10" y="{5-280}" text-anchor="end">140</text>
-                <text x="10" y="{5 - $barHeight}" text-anchor="end">150</text>
+                <text x="10" y="{5-300}" text-anchor="end">150</text>
+                <text x="10" y="{5-320}" text-anchor="end">160</text>
+                <text x="10" y="{5-340}" text-anchor="end">170</text>
+                <text x="10" y="{5-360}" text-anchor="end">180</text>
+                <text x="10" y="{5-380}" text-anchor="end">190</text>
+                <text x="10" y="{5 - $barHeight}" text-anchor="end">200</text>
                 <xsl:apply-templates select="//album"/>
             </g>
         </svg>
