@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root><h4 id="dropping">Dropping:</h4>
+<p>This attribute is used when a sound is dropped from a word. For
+    example, the word somthin’ would be tagged as <code>&lt;AAVE
+        field="phon" type="dropping" sound="g" position="initial"
+        &gt;somthin’&lt;/AAVE&gt;</code>. The tag also includes a sound
+    attribute that describes the sound that is being dropped as well as
+    the position of that sound.</p>
+<h4 id="tense">Tense:</h4>
+<p>This attribute is used when the wrong tense is used in a phrase. For
+    instance ‘We wasn’t on the grind’ would be tagged as <code>We
+        &lt;AAVE field="syn" type="tense" person="first
+        plural"&gt;wasn't&lt;/AAVE&gt; on the grind</code>. This is
+    accompanied by the attribute person which is marked as the person
+    that the word should be, in this case first person plural.</p>
+<h4 id="deletion">Deletion:</h4>
+<p>This attribute is used when a word is deleted from a sentence. It is
+    like dropping but on a sentence level. The tag is typically used for
+    copula deletion (the deletion of to be words) and is always an empty
+    tag that looks like this <code>&lt;AAVE field="syn" type="deletion"
+        class="copula"/AAVE&gt;</code>. It is accompanied by the class
+    attribute which describes the word class of the missing word. It can
+    be one of the following: "copula", "preposition", "auxiliary", "to",
+    "object".</p>
+<h4 id="aspect">Aspect:</h4>
+<p>This attribute is used when a phrase uses tense/aspect in a manner
+    that is different than Standard American English (SAE) The tag is
+    typically used as follows: <code>&lt;AAVE field="syn" type="aspect"
+        tense="habitual"&gt;sounds been profound&lt;/AAVE&gt;</code>.
+    This attribute is accompanied by the tense attribute which describes
+    one of the tenses used, which are described below: TABLE</p>
+<h4 id="negative">Negative:</h4>
+<p>This attribute is used when there is a double negative or a negative
+    concord. This is commonly seen in phrases like <code>‘Cause it
+        &lt;AAVE field="syn" type="negative"&gt;ain’t no fun if the
+        homies don’t get none&lt;/AAVE&gt;</code>. This has no
+    accompanying attributes</p>
+<h4 id="contraction">Contraction:</h4>
+<p>This attribute is used when a word is contracted that is abnormal to
+    SAE. This means that words like ‘it’s’ will not be tagged by words
+    like ‘tryna’ will be tagged. The tag looks like <code>&lt;AAVE
+        field="phon" type="contraction" word1="trying" word2="to"
+        &gt;tryna&lt;/AAVE&gt;</code>. The attribute is accompanied with
+    the word1, word2, and an optional word3 attribute. These describe
+    the non-concatenated words.</p>
+
+<h4 id="Alcohol">Alcohol</h4><p> References to:
+    brands of alcohol, consumption of alcohol, drinking games, effects
+    of alcohol, and colloquial terms for types of alcohol. Example:
+    <code>&lt;alcohol&gt;Moet&lt;/alcohol&gt;</code>
+</p><h4 id="Criticism">Criticism</h4><p> Criticism of the rap game and
+    of phony rappers. Example: <code>&lt;criticism&gt;Slipping like
+        fishes, choking when you hit the cypher&lt;/criticism&gt;</code>
+</p><h4 id="Drugs">Drugs</h4><p> References to: drugs, the use and sale
+    of drugs, and users of drugs. Marijuana is not included in this
+    category. Example: <code>&lt;drugs&gt;the crack, they
+        overdose&lt;/drugs&gt;</code>
+</p><h4 id="Fashion">Fashion</h4><p> References to fashion designers and
+    brands, as well as references to articles of clothing. Example:
+    <code>&lt;fashion&gt;lo, like Ralph&lt;/fashion&gt;</code>
+</p><h4 id="Food">Food</h4><p> Any mention of food, in any form. Also,
+    mentions of consumption of food. Example:
+    <code>&lt;food&gt;kiwi&lt;/food&gt;</code>
+</p><h4 id="GeographicalLocations">Geographical Locations</h4><p> All
+    references to geographical locations, whether explicit or implicit.
+    The ref attribute contains the official name of the reference, due
+    to the fact that some references are nicknames or abbreviations.
+    Example: <code>&lt;geo ref="Brooklyn"&gt;Brooklyn&lt;/geo&gt;</code>
+</p><h4 id="Guns">Guns</h4><p> References to guns, both direct and
+    indirect. Example: <code>&lt;guns&gt;the heater&lt;/guns&gt;</code>
+</p><h4 id="Haters">Haters</h4><p> This tag denotes those who do not
+    enjoy Joey's music or who do not support him. Also refers to those
+    who are only interested in being around Joey due to his fame and
+    fortune. Example: <code>&lt;haters&gt;Closed-minded
+        men&lt;/haters&gt;</code>
+</p><h4 id="HipHop">Hip-Hop</h4><p> The hip hop tag always refers to a
+    rapper or rap group, but these references occur in several ways:
+    directly referencing a song or artist name (this example refers to a
+    song by rapper Rick Ross entitled BMF: Blowing Money Fast); Example:
+    <code>&lt;hiphop ref="RickRoss"&gt;BMF like Ross
+        man&lt;/hiphop&gt;</code> indirectly referencing a figure in hip
+    hop using symbolism and figurative language (this example refers to
+    Joey's hip hop collective Pro Era, which has 47 closeknit members);
+    Example: <code>&lt;hiphop ref="ProEra"&gt;47 friends in my
+        circumference&lt;/hiphop&gt;</code> and references to figures in
+    hip hop by quoting or paraphrasing another rapper's raps (this
+    example shows Joey rapping lyrics from Jay-Z's Song Cry). Example:
+    <code>&lt;hiphop ref="Jay-Z"&gt;I couldn't see it coming down my
+        eye&lt;/hiphop&gt;</code><br /><code>&lt;hiphop
+            ref="Jay-Z"&gt;So I hat to make the song
+            cry&lt;/hiphop&gt;</code>
+</p><h4 id="History">History</h4><p> This tag denotes a reference to a
+    historical event or figure (including figures in ancient mythology).
+    Example: <code>&lt;history&gt;Underground
+        Railroad&lt;/history&gt;</code>
+</p><h4 id="Money">Money</h4><p> This tag is used to mark any references
+    to money, divided into two qualifications, pursuit of money and
+    possession of money. example of pursuit of money: Example:
+    <code>&lt;money qual="pursuit"&gt;plotting on that
+        dime&lt;/money&gt;</code> example of possession of money:
+    Example: <code>&lt;money qual="possession"&gt;pockets
+        healthy&lt;/money&gt;</code>
+</p><h4 id="Oldschool">Oldschool</h4><p> This tag marks a reference or
+    phrase indicating that Joey is talking about things that invoke
+    nostalgia and hearken back to past times. Example:
+    <code>&lt;oldschool&gt;back in the days&lt;/oldschool&gt;</code>
+</p><h4 id="Popculture">Pop Culture</h4><p> The popculture tag denotes a
+    reference to a pop culture entity, whether blatantly: Example:
+    <code>&lt;popculture
+        ref="Twitter"&gt;Twitter&lt;/popculture&gt;</code> or
+    indirectly: Example: <code>&lt;popculture ref="JackSparrow"&gt;jack
+        the booty like I'm Sparrow&lt;/popculture&gt;</code>
+</p><h4 id="Power">Power</h4><p> The power tag marks figures and ideas
+    that have power/control in society, such as police: Example:
+    <code>&lt;power&gt;jakes&lt;/power&gt;</code> or racism:
+    Example: <code>&lt;power&gt;Jim Crow Laws&lt;/power&gt;</code>
+</p><h4 id="Religion">Religion</h4><p> The religion tag here is
+    reflective of the spiritual beliefs found in the lyrics of our
+    corpus. In some cases this refers to Christian ideas: Example:
+    <code>&lt;religion&gt;God bless the
+        heaven&lt;/religion&gt;</code> while in other cases this tag
+    marks references to third eye spiritualism: Example:
+    <code>&lt;religion&gt;on some third eye
+        shit&lt;/religion&gt;</code>
+</p><h4 id="Sex">Sex</h4><p> This tag marks references to a sexual act,
+    whether tacit and blatant. Example:
+    <code>&lt;sex&gt;bacchanalian&lt;/sex&gt;</code> This example,
+    bacchanalian, is a word for 'drunken orgy' that comes from an
+    ancient Greek festival celebrating Bacchus, god of wine. </p><h4
+        id="Sports">Sports</h4><p> This tag marks all sports references. The
+            sports tag can refer to an athlete or sports figure: Example:
+            <code>&lt;sports&gt;Al Pujols&lt;/sports&gt;</code> as well as
+            to general sports-related terms and objects: Example:
+            <code>&lt;sports&gt;hoops&lt;/sports&gt;</code>
+        </p><h4 id="Struggle">Struggle</h4><p> The purpose of this tag is to
+            indicate any raps that talk about the difficulties of life at
+            various stages of life and wealth. Example:
+            <code>&lt;struggle&gt;And I'm from the blocks where they
+                sell&lt;/struggle&gt;</code>
+        </p><h4 id="Success">Success</h4><p> This tag indicates either Joey's
+            pursuit of or possession of success. This comes in a variety of
+            colorful expressions that are all quite varied. an example of
+            possession of success is the boast: Example: <code>&lt;success
+                qual="possession"&gt;I'm killin' this
+                shit&lt;/success&gt;</code> while an example of pursuit of
+            success is the statement that Joey will continue to work hard until
+            he gets to the point where he is famous enough to be on Jay-Z's
+            radar, and wealthy enough to afford to purchase a Range Rover for
+            his mother. Example: <code>&lt;success qual="pursuit"&gt;Won't stop
+                'til I meet Hova and my momma's in a
+                Rover&lt;/success&gt;</code>
+        </p><h4 id="Violence">Violence</h4><p> The violence tag is used to
+            denote any indication of violent behavior, both from Joey and his
+            people and simply generally in the hood. Example:
+            <code>&lt;violence&gt;Rip your lips off your
+                mouth&lt;/violence&gt;</code>
+        </p><h4 id="Weed">Weed</h4><p> This tag is used to mark any instance
+            where Joey discusses marijuana-related activities. Example:
+            <code>&lt;weed&gt;exotic piff&lt;/weed&gt;</code>
+        </p><h4 id="Women">Women</h4><p> This tag marks references to women, and
+            is divided into two groups using qualifiers positive and negative,
+            which label the connotation of the marked word or phrase. an example
+            of women negative: Example: <code>&lt;women
+                qual="neg"&gt;bitches&lt;/women&gt;</code> an example of women
+            positive: Example: <code>&lt;women
+                qual="pos"&gt;Mama&lt;/women&gt;</code></p>
+
+<h4 id="pointerSystem">Pointer System</h4>
+<p>Given the intricate nature of Joey Bada$$'s use of various poetic
+    devices, the poetic analysis of this project first needed to develop a
+    markup system that would adequately account for the complex nature of
+    poetry within Joey's lyrical corpus. We settled on giving each poetic
+    element, within its corresponding poetic device group, a @num attribute,
+    the value of which is its position within the group. The value of each
+    attribute is numerical, in order of all tags with which the poetic bond
+    exists. For example, within a group consisting of five tags, if tag 1
+    and tag 3 rhyme, tag 1 will have a @rhyme="3" attribute and tag 3 will
+    have a @rhyme="1" attribute. If tags 1 and 3 also rhyme with tags 6 and
+    9, tag 1 would have a @rhyme="3 6 9" attribute, tag 3 would have a
+    @rhyme="1 6 9" attribute, and so on. Sample markup from the project has
+    been provided at the bottom of this page.</p>
+<h4 id="alliteration">Alliteration:</h4>
+<p>A poetic device in which there is a repetition of the first consonant in
+    a series of multiple words.<br /> e.g. "<em>pride</em> is higher than
+    the <em>prices</em> on your <em>Pradas</em>"</p>
+<h4 id="assimilation">Assimilation:</h4>
+<p>A poetic device in which one word becomes more phonologically similar to
+    at least one other word, esentially the rappers delivery of the words
+    produces a transformation in which the previously dissimilar words now
+    seem to rhyme.<br /> e.g. And I know the landlord fed up with <em>our
+        lies</em><br /> So we pray to the Gods, the Jahs, and the
+    <em>Allahs</em><br /> To keep us safe and watch <em>our
+        lives</em>.<br /></p>
+<h4 id="assonance">Assonance:</h4>
+<p>A poetic device in which words near each other have a repetition of a
+    vowel in nonrhyming stressed syllables.<br /> e.g. Tend this
+    <em>racket</em> while I'm <em>cracking</em> a Serena.</p>
+<h4 id="consonance">Consonance:</h4>
+<p>A poetic device in which words near each other have a repetition of a
+    consonants in nonrhyming stressed syllables.<br /> e.g. Show's
+    <em>too</em>
+    <em>turnt</em>
+    <em>out</em>
+    <em>return</em> home <em>burnt</em>
+    <em>out</em></p>
+<h4 id="rhyme">Rhyme:</h4>
+<p>A poetic device in which there is a correspondence of sound between words
+    or the endings of words.<br /> e.g. I know she always think of little
+    me, but now I got big <em>literally</em><br /> Worldwide and
+    <em>physically</em><br /> I'm saying I used to take walks around
+    <em>Little Italy</em><br /> Now I roam 'round <em>Sicily</em><br />
+    And I'm plotting on a <em>milli</em><br /></p>
+<h4 id="slantRhyme">Slant Rhyme:</h4>
+<p>A poetic device in which a rhyme is formed by words with similar but not
+    identical sounds. Typically, either the vowels are different while the
+    consonants are identical, or the consonants are different while the
+    vowels are identical.<br /> e.g. But it's <em>definite</em> I spit more
+    than speech <em>impediments</em><br /> Brooklyn's the
+    <em>residence</em>, the best and it's <em>evident</em><br /></p>
+<h4 id="examplePoeticMarkup">Example Poetic Markup:</h4>
+</root>
