@@ -1149,8 +1149,8 @@
         </stanza>
         <stanza type="verse" speaker="JoeyBada$$">
             <li><popculture ref="MartinLutherKingJr">I had a dream</popculture> <AAVE field="syn" type="aspect" tense="past">I seen my name</AAVE> on
-                the gravel <group label="e" num="">stone</group></li>
-            <li>And read here lies a G followed by a <group label="e" num="1" slantRhyme="2">poem</group></li>
+                the gravel <group label="e" num="0" rhyme="2">stone</group></li>
+            <li>And read here lies a G followed by a <group label="e" num="1" slantRhyme="2" rhyme="0">poem</group></li>
             <li>I couldn't see the words but I'm sure what's in his <group label="e" num="2" slantRhyme="1">own</group></li>
             <li>Funny that I write most when I know my feeling's <group label="e" num="3" slantRhyme="4">wrong</group></li>
             <li>With both shoulders that my head is always <group label="e" num="4" slantRhyme="3">on</group></li>
@@ -1249,7 +1249,7 @@
             <li>One day we will fly away (Fly away, fly away)</li>
         </stanza>
     </song>
-    <song title="Escape120" production="ChuckStrangers">
+    <song production="ChuckStrangers">
         <title>Escape 120</title>
         <audlink>www.youtube.com/embed/UkWhpHx-hS4</audlink>
         <stanza type="hook" speaker="JoeyBada$$">
