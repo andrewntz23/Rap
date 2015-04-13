@@ -21,7 +21,7 @@ window.onload = function(){
 
 function setButtons(){
     //create a button which will show all p tags, and then hide all p tags. 
-    var tags = document.querySelectorAll('a[href="#top"]');
+    /*var tags = document.querySelectorAll('a[href="#top"]');
     for (var i = 0; i < tags.length; i++){
         var newButton = document.createElement("button");
         var newText = document.createTextNode("show lyrics");
@@ -29,7 +29,15 @@ function setButtons(){
         newButton.setAttribute("onclick", "showHide(this)");
         tags[i].parentNode.insertBefore(newButton, tags[i].nextSibling.nextSibling);
         showHide(newButton);
+    }*/ 
+    //can use your buttons or mine. 
+    var buttons = document.querySelectorAll('button');
+    for (var i = 0; i<buttons.length; i++){
+        buttons[i].setAttribute("onclick", "showHide(this)");
+        showHide(buttons[i]);
     }
+    
+    
     
 }
 
