@@ -1,3 +1,4 @@
+window.onload = function(){overlay()}
 function overlay(){
     var key = document.querySelector("#key");
     
