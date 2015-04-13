@@ -1,6 +1,6 @@
 /*overall thing to do: the page will have a radio with 4 options somewhere near the top, allowing you to switch between the views. The radios will be overall, poetic, motif, linguistic. Clicking one of 
 will launch this javascript. First thing it should do is change the css of the file. Then, based on what is highlighted, grab the spans that we want. Create a box with radio options for different types
-of tag or attribute in the case of the thing. On clicking one of those, go through and only keep highlighted those that match it. On hover of a span, if text color!=black, change the contents in the 
+of tag or attribute in the case of the thing. On clicking one of those, go through and only keep highlighted those that match it. On hover of a span, if text color!=white, change the contents in the 
 little information box at the bottom. make sure setting everything to lowercase.*/
 
 //changes that need to go into the xslt: make the radios. see if we can add a class for markup type, or a data-tagtype="something". 
@@ -59,14 +59,14 @@ function showHide(elmt){
 
 function createBoxes(spans){
        //delete boxes if they exist, and if not, create some
-       if (document.getElementById("container") != null){
-            document.getElementById("container").parentNode.removeChild(document.getElementById("container"));
+       if (document.getElementById("deviceRadios") != null){
+            document.getElementById("deviceRadios").parentNode.removeChild(document.getElementById("deviceRadios"));
        }
             
-       var container = document.createElement("form");  
-       container.setAttribute("id", "container");
-       container.setAttribute("action", "");
-       document.body.appendChild(container);
+       var deviceRadios = document.createElement("form");  
+       deviceRadios.setAttribute("id", "deviceRadios");
+       deviceRadios.setAttribute("action", "");
+       document.body.appendChild(deviceRadios);
        var distinctSpans = [];
        for (var i = 0; i < spans.length; i++){
             if (distinctSpans.indexOf(spans[i].getAttribute('data-type')) == -1 ){
@@ -85,20 +85,20 @@ function createBoxes(spans){
                 newLabel.setAttribute("class", spans[i].getAttribute("class"));
                 newLabel.name = spans[i].getAttribute("class");
                 newLabel.appendChild(newText);
-                container.appendChild(newRadio);
-                container.appendChild(newLabel);
+                deviceRadios.appendChild(newRadio);
+                deviceRadios.appendChild(newLabel);
             }
        } 
 }
 
 function createBoxesPoetic(){
-    if (document.getElementById("container") != null){
-            document.getElementById("container").parentNode.removeChild(document.getElementById("container"));
+    if (document.getElementById("deviceRadios") != null){
+            document.getElementById("deviceRadios").parentNode.removeChild(document.getElementById("deviceRadios"));
     }
-    var container = document.createElement("form");  
-   container.setAttribute("id", "container");
-   container.setAttribute("action", "");
-   document.body.appendChild(container);
+    var deviceRadios = document.createElement("form");  
+   deviceRadios.setAttribute("id", "deviceRadios");
+   deviceRadios.setAttribute("action", "");
+   document.body.appendChild(deviceRadios);
    var devices = ["all", "alliteration", "assimilation", "assonance", "consonance", "repetition", "rhyme", "slantrhyme"];
    for (var i = 0; i < devices.length; i++){
        var device = devices[i];
@@ -110,18 +110,18 @@ function createBoxesPoetic(){
        newRadio.name = "poetics";
        newRadio.id = device;
        newRadio.setAttribute("onclick", "setColorsPoetic()");
-       container.appendChild(newRadio);
+       deviceRadios.appendChild(newRadio);
        newRadio.setAttribute("onclick", "setColorsPoetic()");
        newLabel.setAttribute("onclick", "setColorsPoetic()");
        newLabel.appendChild(newText);
-       container.appendChild(newLabel);
+       deviceRadios.appendChild(newLabel);
    }
 }
 
 function dooverall(){
   //  changeLink("overall.css");
-    if (document.getElementById("container") != null){
-            document.getElementById("container").parentNode.removeChild(document.getElementById("container"));
+    if (document.getElementById("deviceRadios") != null){
+            document.getElementById("deviceRadios").parentNode.removeChild(document.getElementById("deviceRadios"));
        }
    
     clearMouseOver();
@@ -220,7 +220,7 @@ function clearColors(){ //this could move faster if I passed it only the spans t
     var spans = document.getElementsByTagName("span");
     
     for (var i = 0; i < spans.length ; i++){
-        spans[i].setAttribute("style", "color:black");
+        spans[i].setAttribute("style", "color:white");
     }
     
     
