@@ -197,3 +197,9 @@ iframe{
     width:90%;
     margin:50px auto;
 }
+iframe {
+    background-color:#fafafa;
+    width: 100%;
+    border-color: maroon;
+    border-style: groove;
+}

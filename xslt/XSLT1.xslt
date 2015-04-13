@@ -75,7 +75,7 @@
         <br/>
     </xsl:template>
     <xsl:template match="group">
-        <span class="poetics">
+        <span class="poetics" data-num="{@num}">
         <xsl:if test="@alliteration">
             <xsl:attribute name="data-alliteration" select="@alliteration"/>
         </xsl:if>
