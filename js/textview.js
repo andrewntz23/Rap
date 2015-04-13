@@ -242,26 +242,70 @@ function clearColors(){ //this could move faster if I passed it only the spans t
 }
 
 function setColorsPoetic(){
-    var radioVal = document.querySelector('input[name="poetics"]:checked').getAttribute('id');
-    clearColors();
     var spans = document.querySelectorAll("span.poetics");
-    for (var i = 0; i < spans.length ; i++){
-        var span = spans[i];
-        if (span.hasAttribute('data-'.concat(radioVal)))
-            span.setAttribute("style", "color:red");
+    if (document.querySelector('input[name="poetics"]:checked'))
+        {var radioVal = document.querySelector('input[name="poetics"]:checked').getAttribute('id');
+        clearColors();
+        for (var i = 0; i < spans.length ; i++){
+            var span = spans[i];
+            if (span.hasAttribute('data-'.concat(radioVal)))
+                span.setAttribute("style", "color:red");
+        }
+    }
+    else {
+        for (var i = 0; i < spans.length ; i++){
+            var span = spans[i];
+                span.setAttribute("style", "color:red");
+        }
     }
 }
 
 function popups(elmt){
-    var radioVal = document.querySelector('input[name="poetics"]:checked').getAttribute('id');
-    var pointers = elmt.getAttribute("data-".concat(radioVal)).trim().split("/\s+/");
-    console.log(pointers);
-    for (var i = 0; i < pointers.length; i++){
-        //I need the data-num values to be there to go any further with this. 
+    if (document.querySelector('input[name="poetics"]:checked') && elmt.getAttribute("style") != "color:white"){
+        clearColors();
+        var radioVal = document.querySelector('input[name="poetics"]:checked').getAttribute('id');
+        var pointers = elmt.getAttribute("data-".concat(radioVal)).trim().split("/\s+/");
+        console.log(pointers);
+        var song = getClosest(elmt, ".bodyfont");
+        //add group back in. I need this to make sure that I am not getting extra values where i shouldn't be. 
+        //finish this off tomorrow. 
+        var spans = song.querySelectorAll("span");
+        for (var i = 0; i < pointers.length; i++){
+            if (spans[i].getAttribute("data-num") == pointers[i])
+                spans[i].setAttribute("style", "color:red");
+        }
     }
-    
 } //popups will clear colors, and then only do the ones that match on hover. On hover out, just run setColorPoetic, since the radio values will not have changed. 
 
 //popups takes this argument, so use that to find things to match and then run setColorsPoetic on coming out. 
 
+var getClosest = function (elem, selector) {
+    var firstChar = selector.charAt(0);
+    // Get closest match
+    for (; elem && elem !== document; elem = elem.parentNode) {
+        // If selector is a class
+        if (firstChar === '.') {
+            if (elem.classList.contains(selector.substr(1))) {
+                return elem;
+            }
+        }
+        // If selector is an ID
+        if (firstChar === '#') {
+            if (elem.id === selector.substr(1)) {
+                return elem;
+            }
+        }
+        // If selector is a data attribute
+        if (firstChar === '[') {
+            if (elem.hasAttribute(selector.substr(1, selector.length - 2))) {
+                return elem;
+            }
+        }
+        // If selector is a tag
+        if (elem.tagName.toLowerCase() === selector) {
+            return elem;
+        }
+    }
+    return false;
+};
 
