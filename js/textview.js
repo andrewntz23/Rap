@@ -272,7 +272,7 @@ function popups(elmt){
         var spans = song.querySelectorAll("span");
         for (var i = 0; i < pointers.length; i++){
             if (spans[i].getAttribute("data-num") == pointers[i])
-                spans[i].setAttribute("style", "color:red");
+                spans[i].setAttribute("style", "color:green");
         }
     }
 } //popups will clear colors, and then only do the ones that match on hover. On hover out, just run setColorPoetic, since the radio values will not have changed. 
