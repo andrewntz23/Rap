@@ -2,19 +2,19 @@
 <xsl:stylesheet xmlns:xsl="http://www.w3.org/1999/XSL/Transform" xmlns="http://www.w3.org/2000/svg"
     version="2.0" xmlns:xs="http://www.w3.org/2001/XMLSchema" exclude-result-prefixes="#all">
     <xsl:output method="xml" indent="yes"/>
-    <xsl:variable name="barWidth" select="25"/>
+    <xsl:variable name="barWidth" select="30"/>
     <xsl:variable name="barInterval" select="$barWidth + 17"/>
     <xsl:variable name="barHeight" select="400"/>
     <xsl:variable name="barShift" select="$barInterval + 1"/>
     <xsl:variable name="motif"
-        select="//li/descendant::*[not(self::group)][not(self::AAVE)][not(self::compound)]"/>
+        select="//li/descendant::*[not(self::group)][not(self::AAVE)][not(self::compound)][not(self::language)]"/>
     <xsl:variable name="distMotif" select="distinct-values($motif/name())"/>
     <xsl:variable name="motifNum" select="count($distMotif)"/>
     <xsl:variable name="doc" select="/"/>
     <xsl:variable name="lineWidth" select="$motifNum * $barInterval + 50"/>
     <xsl:template match="/">
         <svg height="100%" width="100%">
-            <g transform="translate(40, 350)">
+            <g transform="translate(40, 450)">
                 <text x="{$lineWidth div 2}" y="-{$barHeight + 20}" text-anchor="middle" font-size="20px">
                     <xsl:apply-templates select="//albumTitle"/>
                 </text>
@@ -55,13 +55,14 @@
     </xsl:template>
     <xsl:template match="album">
         <xsl:for-each select="$distMotif">
+            <xsl:sort select="."/>
             <xsl:variable name="motifPos" select="position()-1"/>
             <xsl:variable name="xPosition" select="$motifPos * $barInterval"/>
             <xsl:variable name="currentMotif" select="."/>
             <xsl:variable name="motifCount" select="count($doc//*[name()=$currentMotif])"/>
             <rect x="{$xPosition + $barShift}" y="-{$motifCount * 2}" stroke="black"
                 stroke-width=".5" fill="gray" width="{$barWidth}" height="{$motifCount * 2}"/>
-            <text style="writing-mode: tb;" x="{$xPosition + $barWidth div 2 + $barShift}" y="7" text-anchor="right" font-size="13px">
+            <text x="{$xPosition + $barWidth div 2 + $barShift}" y="20" text-anchor="middle" font-size="11px">
                 <xsl:value-of select="."/>
             </text>
         </xsl:for-each>

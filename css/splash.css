@@ -178,6 +178,37 @@ hr{
     border-color:maroon;
     border-style:dashed
 }
+.leftfont h4 {
+    font-family:'Slabo 27px', serif;
+    color:#140404;
+    text-align:left;
+    margin:0px;
+    text-decoration:none;
+    list-style:none;
+}
+.leftfont h3 {
+    font-family:'Slabo 27px', serif;
+    font-weight:bold;
+    color:#140404;
+    text-align:left;
+    margin:0px;
+    text-decoration:underline;
+    list-style:none;
+}
+.leftfont code {
+  font-family: "Andale Mono", "Courier New", monospace;
+  font-size: 95%;
+}
+.codeblock {
+  font-family: "Andale Mono", "Courier New", monospace;
+  font-size: 95%;
+  line-height: 1.1em;
+  border: 1px dashed maroon;
+  background-color: #fafafa;
+  color: black;
+  margin: 1em;
+  padding: 1em;
+}
 .social{
     display:inline-block;
     width:35px;
