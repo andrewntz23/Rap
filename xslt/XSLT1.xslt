@@ -59,6 +59,7 @@
                         </iframe>
                     </div>
                 </div>
+                <button>Lyrics</button>
                 <p>
                     <xsl:apply-templates select="stanza"/>
                 </p>
@@ -141,6 +142,9 @@
     </xsl:template>
     <xsl:template match="compound">
         <span class="ling" data-head="{@head}" data-stem="{@stem}" data-ctype="{@type}" data-type="compound"><xsl:apply-templates/></span>
+    </xsl:template>
+    <xsl:template match="language">
+        <span class="ling" data-lang="{@lang}" data-trans="{@trans}"><xsl:apply-templates/></span>
     </xsl:template>
     <xsl:template
         match="oldschool|success|women|fashion|struggle|food|money|alcohol|hiphop|haters|guns|popculture|weed|sports|geo">
