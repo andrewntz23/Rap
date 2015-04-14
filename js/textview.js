@@ -7,12 +7,12 @@ little information box at the bottom. make sure setting everything to lowercase.
 
 //set up all the action listeners.
 window.onload = function(){
+    setButtons();
     var radios = document.getElementsByTagName("input");
     for (var i = 0; i < radios.length; i++){
         var funString = "do".concat(radios[i].getAttribute("id"), "()");
         radios[i].setAttribute("onclick", funString);
     }
-    setButtons();
     infoBox = document.createElement("div");
     infoBox.id = "infoBox";
     document.body.appendChild(infoBox);
