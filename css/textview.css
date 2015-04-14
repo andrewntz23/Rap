@@ -1,12 +1,19 @@
-#infobox {
-    position: fixed;
-    top: 90%;
+#infoBox {
+    position:fixed;
+    bottom: 1%;
     left: 50%;
     background-color:#fafafa;
-    margin-top: -50px;
-    margin-left: -250px;
-    width: 500px;
-    border-style: solid;
+    margin-left: -300px;
+    margin-right: auto;
+    width: 600px;
+    height: auto;
+    padding: 10px;
+    border-color:#140404;
+    border-width:thin;
+    border-style:solid;
+    border-radius: 4px;
+    font-family:'Slabo 27px', serif;
+    color: #140404;
     z-index: 9;
 }
 form {
@@ -14,9 +21,8 @@ form {
   position: fixed;
   background-color: #fafafa;
   padding: 15px 10px;
-  border: black;
-  border-width: thin;
-  border-style: solid;
+  border: #140404;
+  border-style: double;
   border-radius: 4px;
   z-index: 8;
 }
