@@ -63,7 +63,7 @@
             <rect x="{$xPosition + $barShift}" y="-{$motifCount * 2}" stroke="black"
                 stroke-width=".5" fill="gray" width="{$barWidth}" height="{$motifCount * 2}"/>
             <text x="{$xPosition + $barWidth div 2 + $barShift}" y="20" text-anchor="middle" font-size="11px">
-                <a href="../xhtml/methodology.xhtml#{.}"><xsl:value-of select="."/></a>
+                <xsl:value-of select="."/>
             </text>
         </xsl:for-each>
     </xsl:template>

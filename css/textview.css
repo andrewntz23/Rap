@@ -1,0 +1,33 @@
+#infobox {
+    position: fixed;
+    top: 90%;
+    left: 50%;
+    background-color:#fafafa;
+    margin-top: -50px;
+    margin-left: -250px;
+    width: 500px;
+    border-style: solid;
+    z-index: 9;
+}
+form {
+  display: inline;
+  position: fixed;
+  background-color: #fafafa;
+  padding: 15px 10px;
+  border: black;
+  border-width: thin;
+  border-style: solid;
+  border-radius: 4px;
+  z-index: 8;
+}
+label {
+    display: block;
+    font-family:'Slabo 27px', serif;
+    color: #140404;
+}
+button {
+  background-color: #fafafa;
+  border-style: dashed;
+  border-width: thin;
+  border-color: #8c8c8c;
+}
