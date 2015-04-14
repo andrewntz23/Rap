@@ -132,7 +132,7 @@ function dooverall(){
             document.getElementById("deviceRadios").parentNode.removeChild(document.getElementById("deviceRadios"));
        }
    
-    clearMouseOver();
+    clearMouseOver("yes");
 }
 
 //these names wil have to be changed to the correct thing. 
@@ -140,7 +140,7 @@ function domotif(){
   //  changeLink("overall.css");
     var spans = document.querySelectorAll("span.motif");
     createBoxes(spans);
-    clearMouseOver();
+    clearMouseOver("yes");
     clearColors();
     for (var i = 0; i < spans.length; i++){
         if (spans[i].tagName.toLowerCase() == "span")
@@ -156,7 +156,7 @@ function dopoetic(){
    // changeLink("overall.css");
     var spans = document.querySelectorAll("span.poetics");
     createBoxesPoetic();
-    clearMouseOver();
+    clearMouseOver("yes");
     clearColors();
     for (var i = 0; i < spans.length; i++){
         if (spans[i].tagName.toLowerCase() == "span")
@@ -170,7 +170,7 @@ function doling(){
  //   changeLink("overall.css");
     var spans = document.querySelectorAll("span.ling");
     createBoxes(spans);
-    clearMouseOver();
+    clearMouseOver("yes");
     clearColors();
     for (var i = 0; i < spans.length; i++){
          if (spans[i].tagName.toLowerCase() == "span")
@@ -181,7 +181,7 @@ function doling(){
 
 //paige's will have information from the thing. Ben's will be the motif descriptions. 
 
-function clearMouseOver(){
+function clearMouseOver(destroy){ //if destroy is yes, remove all children of infoBox. param set so that i can choose to not remove when changing colors. should I? 
     var spans = document.getElementsByTagName("span")
     for (var i = 0; i < spans.length; i++){
         if (spans[i].hasAttribute("onmouseover")){
@@ -189,14 +189,19 @@ function clearMouseOver(){
         }
         
     }
-    while (infoBox.hasChildNodes())
-            infoBox.removeChild(infoBox.lastChild);
+    if (destroy=="yes"){
+        while (infoBox.hasChildNodes())
+                infoBox.removeChild(infoBox.lastChild);
+        }
     
 }
 
 function changeBox(elmt){ //clear all of the other spans before doing this. 
         var myClass = elmt.getAttribute("class");
         // if linguistic or motif, just get the data-type. If poetic, have to get the radio, and only create if radio is selected. 
+        var infoBox = document.getElementById("infoBox");
+        while (infoBox.hasChildNodes())
+            infoBox.removeChild(infoBox.lastChild);
         if (myClass == "poetics"){
             if (document.querySelector('input[name="poetics"]:checked')){
                 var infoSelector = document.querySelector('input[name="poetics"]:checked').getAttribute("id");
@@ -207,9 +212,11 @@ function changeBox(elmt){ //clear all of the other spans before doing this.
         else
             var infoSelector = elmt.getAttribute('data-type');
         var descrip = document.querySelector('#meta #'.concat(infoSelector)).cloneNode(true);
-        newP = document.createElement("p");
+        infoBox.appendChild(descrip);
+        
         if (myClass == "ling")
             {
+                newP = document.createElement("p");
                 //first get the description. Then,
                 for (var att, i = 0, atts = elmt.attributes, n = atts.length; i < n; i++){
                     att = atts[i];
@@ -221,23 +228,17 @@ function changeBox(elmt){ //clear all of the other spans before doing this.
                         newP.appendChild(myBreak)
                     }
                 }
+                infoBox.appendChild(newP);
             }
-        else 
-            {                //go through and find the information about this thing contained in the meta. 
-                newText = document.createTextNode(myClass);
-                newP.appendChild(newText);
-            }
+       //create the link to methodology#id
         
-        var infoBox = document.getElementById("infoBox");
-        while (infoBox.hasChildNodes())
-            infoBox.removeChild(infoBox.lastChild);
-        infoBox.appendChild(descrip);
-        infoBox.appendChild(newP);
+        
+        
+        
     }
     
 function clearColors(){ //this could move faster if I passed it only the spans that need to be changed. If performance starts to be an issue, do this. 
     var spans = document.getElementsByTagName("span");
-    
     for (var i = 0; i < spans.length ; i++){
         spans[i].setAttribute("style", "color:white");
     }
@@ -251,11 +252,13 @@ function clearColors(){ //this could move faster if I passed it only the spans t
     var newText = document.createTextNode(radio_1.concat(radio_2));
     //go through and for all spans if they match this, set color. 
     clearColors();
+    clearMouseOver("no");
     var spans = document.getElementsByTagName("span");
     for (var i = 0; i < spans.length ; i++){
         var span = spans[i];
         if (span.getAttribute("class") == radio_1 && span.getAttribute('data-type') == radio_2)
             span.setAttribute("style", "color:red");
+        //    span.setAttribute("onmouseover", "changeBox(this)");
     }
 
 }
@@ -280,7 +283,7 @@ function setColorsPoetic(){
 }
 
 function popups(elmt){
-    if (document.querySelector('input[name="poetics"]:checked') && elmt.getAttribute("style") != "color:white"){
+/*    if (document.querySelector('input[name="poetics"]:checked') && elmt.getAttribute("style") != "color:white"){
         clearColors();
         var radioVal = document.querySelector('input[name="poetics"]:checked').getAttribute('id');
         var pointers = elmt.getAttribute("data-".concat(radioVal)).trim().split("/\s+/");
@@ -293,8 +296,9 @@ function popups(elmt){
             if (spans[i].getAttribute("data-num") == pointers[i])
                 spans[i].setAttribute("style", "color:green");
         }
-    }
-} //popups will clear colors, and then only do the ones that match on hover. On hover out, just run setColorPoetic, since the radio values will not have changed. 
+    }*/
+} 
+//popups will clear colors, and then only do the ones that match on hover. On hover out, just run setColorPoetic, since the radio values will not have changed. 
 
 //popups takes this argument, so use that to find things to match and then run setColorsPoetic on coming out. 
 
