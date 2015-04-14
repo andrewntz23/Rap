@@ -20,6 +20,9 @@ div#navbar ul{
     padding:0;
     position:relative
 }
+#meta{
+    display:none
+}
 div#navbar ul li{
     margin:0;
     padding:0;
