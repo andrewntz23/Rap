@@ -281,7 +281,7 @@
                 <div style="position:relative;width:267px;height:25px;overflow:hidden;">
                     <div style="position:absolute;top:-276px;left:-5px">
                         <iframe width="300" height="300"
-                            src="{audlink}?enablejsapi=1&origin='http://joey.obdurodon.org';">
+                            src="{audlink}" origin="http://joey.obdurodon.org" enablejsapi="1">
                         </iframe>
                     </div>
                 </div>
