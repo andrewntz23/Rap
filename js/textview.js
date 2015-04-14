@@ -196,6 +196,17 @@ function clearMouseOver(){
 
 function changeBox(elmt){ //clear all of the other spans before doing this. 
         var myClass = elmt.getAttribute("class");
+        // if linguistic or motif, just get the data-type. If poetic, have to get the radio, and only create if radio is selected. 
+        if (myClass == "poetics"){
+            if (document.querySelector('input[name="poetics"]:checked')){
+                var infoSelector = document.querySelector('input[name="poetics"]:checked').getAttribute("id");
+            }
+            else
+                return false;
+        }
+        else
+            var infoSelector = elmt.getAttribute('data-type');
+        var descrip = document.querySelector('#meta #'.concat(infoSelector)).cloneNode(true);
         newP = document.createElement("p");
         if (myClass == "ling")
             {
@@ -212,8 +223,7 @@ function changeBox(elmt){ //clear all of the other spans before doing this.
                 }
             }
         else 
-            {
-                //go through and find the information about this thing contained in the meta. 
+            {                //go through and find the information about this thing contained in the meta. 
                 newText = document.createTextNode(myClass);
                 newP.appendChild(newText);
             }
@@ -221,6 +231,7 @@ function changeBox(elmt){ //clear all of the other spans before doing this.
         var infoBox = document.getElementById("infoBox");
         while (infoBox.hasChildNodes())
             infoBox.removeChild(infoBox.lastChild);
+        infoBox.appendChild(descrip);
         infoBox.appendChild(newP);
     }
     
