@@ -281,11 +281,11 @@
                 <div style="position:relative;width:267px;height:25px;overflow:hidden;">
                     <div style="position:absolute;top:-276px;left:-5px">
                         <iframe width="300" height="300"
-                            src="{audlink}">
+                            src="{audlink}?enablejsapi=1&origin='http://joey.obdurodon.org';">
                         </iframe>
                     </div>
                 </div>
-                <button>Lyrics</button>
+                <button style="display: none;">Lyrics</button>
                 <p>
                     <xsl:apply-templates select="stanza"/>
                 </p>
@@ -302,7 +302,7 @@
         <br/>
     </xsl:template>
     <xsl:template match="group">
-        <span class="poetics" data-num="{@num}">
+        <span class="poetics" data-num="{@num}" data-group="{@label}">
         <xsl:if test="@alliteration">
             <xsl:attribute name="data-alliteration" select="@alliteration"/>
         </xsl:if>
