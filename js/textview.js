@@ -187,6 +187,9 @@ function clearMouseOver(destroy){ //if destroy is yes, remove all children of in
         if (spans[i].hasAttribute("onmouseover")){
             spans[i].removeAttribute("onmouseover");
         }
+        if (spans[i].hasAttribute("onmouseout")){
+            spans[i].removeAttribute("onmouseout");
+        }
         
     }
     if (destroy=="yes"){
@@ -256,9 +259,10 @@ function clearColors(){ //this could move faster if I passed it only the spans t
     var spans = document.getElementsByTagName("span");
     for (var i = 0; i < spans.length ; i++){
         var span = spans[i];
-        if (span.getAttribute("class") == radio_1 && span.getAttribute('data-type') == radio_2)
+        if (span.getAttribute("class") == radio_1 && span.getAttribute('data-type') == radio_2){
             span.setAttribute("style", "color:red");
-        //    span.setAttribute("onmouseover", "changeBox(this)");
+            span.setAttribute("onmouseover", "changeBox(this)");
+            }
     }
 
 }
@@ -282,20 +286,21 @@ function setColorsPoetic(){
     }
 }
 
-function popups(elmt){
-/*    if (document.querySelector('input[name="poetics"]:checked') && elmt.getAttribute("style") != "color:white"){
+function popups(elmt){ //popups not working properly right now. need to fix these. probably need groups back. 
+  /*  if (document.querySelector('input[name="poetics"]:checked') && elmt.getAttribute("style") != "color:white"){
         clearColors();
         var radioVal = document.querySelector('input[name="poetics"]:checked').getAttribute('id');
         var pointers = elmt.getAttribute("data-".concat(radioVal)).trim().split("/\s+/");
-        console.log(pointers);
         var song = getClosest(elmt, ".bodyfont");
-        //add group back in. I need this to make sure that I am not getting extra values where i shouldn't be. 
-        //finish this off tomorrow. 
+        
         var spans = song.querySelectorAll("span");
-        for (var i = 0; i < pointers.length; i++){
-            if (spans[i].getAttribute("data-num") == pointers[i])
-                spans[i].setAttribute("style", "color:green");
+        for (var i = 0; i < spans.length; i++){
+            var num = spans[i].getAttribute('data-num');
+            if (pointers.indexOf(num) > -1){ //not working right. There is a problem with pointing system. Might need groups back? 
+                spans[i].setAttribute("style", "color:red");
+            }
         }
+        
     }*/
 } 
 //popups will clear colors, and then only do the ones that match on hover. On hover out, just run setColorPoetic, since the radio values will not have changed. 
