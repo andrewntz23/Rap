@@ -20,9 +20,6 @@ div#navbar ul{
     padding:0;
     position:relative
 }
-#meta{
-    display:none
-}
 div#navbar ul li{
     margin:0;
     padding:0;
@@ -236,4 +233,24 @@ iframe {
     width: 100%;
     border-color: maroon;
     border-style: groove;
+}
+a:link {
+    text-decoration: none;
+    color:#140404;
+}
+a:visited {
+    text-decoration: none;
+    color:#140404;
+}
+a:hover {
+    text-decoration: none;
+    font-weight:bold;
+    color: black;
+}
+a:active {
+    text-decoration:none;
+    color:#140404;
+}
+#meta{
+    display:none;
 }
