@@ -7,7 +7,7 @@ div#nav{
     left:0px;
     width:100%;
     top:0px;
-    z-index:2;
+    z-index:10;
 }
 div#navbar{
     margin:0;
