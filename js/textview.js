@@ -169,7 +169,7 @@ function domotif(){
     for (var i = 0; i < spans.length; i++){
         if (spans[i].tagName.toLowerCase() == "span")
             spans[i].setAttribute("onmouseover", "changeBox(this)");
-            spans[i].setAttribute("style", "color:red");
+            spans[i].setAttribute("style", "color:rgb(144,6,6)");
     }
     
     
@@ -185,7 +185,7 @@ function dopoetic(){
     //    if (spans[i].tagName.toLowerCase() == "span")
             spans[i].setAttribute("onmouseover", "popups(this);changeBox(this)");
             spans[i].setAttribute("onmouseout", "setColorsPoetic()");
-            spans[i].setAttribute("style", "color:red");
+            spans[i].setAttribute("style", "color:rgb(144,6,6)");
     }
 }
 
@@ -198,7 +198,7 @@ function doling(){
     for (var i = 0; i < spans.length; i++){
         // if (spans[i].tagName.toLowerCase() == "span")
             spans[i].setAttribute("onmouseover", "changeBox(this)");
-            spans[i].setAttribute("style", "color:red");
+            spans[i].setAttribute("style", "color:rgb(144,6,6)");
     }
 }
 
@@ -294,7 +294,7 @@ function clearColors(){ //this could move faster if I passed it only the spans t
     for (var i = 0; i < spans.length ; i++){
         var span = spans[i];
         if (span.getAttribute("class") == radio_1 && (span.getAttribute('data-type') == radio_2 || radio_2 == "all")){
-            span.setAttribute("style", "color:red");
+            span.setAttribute("style", "color:rgb(144,6,6)");
             span.setAttribute("onmouseover", "changeBox(this)");
             }
     }
@@ -309,13 +309,13 @@ function setColorsPoetic(){
         for (var i = 0; i < spans.length ; i++){
             var span = spans[i];
             if (span.hasAttribute('data-'.concat(radioVal)))
-                span.setAttribute("style", "color:red");
+                span.setAttribute("style", "color:rgb(144,6,6)");
         }
     }
     else {
         for (var i = 0; i < spans.length ; i++){
             var span = spans[i];
-                span.setAttribute("style", "color:red");
+                span.setAttribute("style", "color:rgb(144,6,6)");
         }
     }
 }
@@ -334,7 +334,7 @@ function popups(elmt){ //popups not working properly right now. need to fix thes
         for (var i = 0; i < spans.length; i++){
             var num = spans[i].getAttribute('data-num');
             if (pointers.indexOf(num) > -1 && spans[i].getAttribute('data-group') == group){ //not working right. There is a problem with pointing system. Might need groups back? 
-                spans[i].setAttribute("style", "color:red");
+                spans[i].setAttribute("style", "color:rgb(144,6,6)");
             }
         }
         
