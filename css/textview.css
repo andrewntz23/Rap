@@ -30,7 +30,7 @@ form {
 }
 form#deviceRadios {
   display: inline-block;
-  top: 135px;
+  top: 205px;
   height:auto;
   vertical-align: top;
   position: fixed;
@@ -44,6 +44,7 @@ form#deviceRadios {
 }
 form#deviceRadios input {
     float:left;
+    
 }
 label {
   display: block;
@@ -78,5 +79,7 @@ a:active {
 }
 ul {
     list-style-type: none;
-    
+}
+li {
+    text-align: center;
 }

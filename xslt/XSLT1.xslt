@@ -279,7 +279,7 @@
     </xsl:template>
     <xsl:template match="song">
         <div class="box">
-            <div class="leftfont">
+            <div class="bodyfont">
                 <a href="#top">
                     <h3 id="{generate-id(title)}">
                         <xsl:apply-templates select="title"/>
@@ -288,7 +288,7 @@
                 <div style="position:relative;width:267px;height:25px;overflow:hidden;">
                     <div style="position:absolute;top:-276px;left:-5px">
                         <iframe width="300" height="300"
-                            src="{audlink}" origin="http://joey.obdurodon.org" enablejsapi="1">
+                            src="{audlink}?enablejsapi=1&origin=http://joey.obdurodon.org">
                         </iframe>
                     </div>
                 </div>
