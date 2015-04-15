@@ -14,6 +14,12 @@
                 <script type="text/javascript" src="../js/textview.js">/**/</script>
             </head>
             <body>
+                <form>
+                    <label><input id="overall" name="cssRadio" type="radio" data-href="css_file"/>overall</label>
+                    <label><input id="poetic" name="cssRadio" type="radio" data-href="css_file"/>poetic</label>
+                    <label><input id="ling" name="cssRadio" type="radio" data-href="css_file"/>linguistic</label>
+                    <label><input id="motif" name="cssRadio" type="radio" data-href="css_file"/>motif</label>
+                </form>
                 <div id="meta"><p id="dropping">This attribute is used when a sound is dropped from a word. For
                     example, the word somthin’ would be tagged as <code>&lt;AAVE
                         field="phon" type="dropping" sound="g" position="initial"
