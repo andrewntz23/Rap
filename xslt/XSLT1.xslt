@@ -8,9 +8,10 @@
             <head>
                 <title>Joey Bada$$</title>
                 <link href="../css/splash.css" rel="stylesheet" type="text/css"/>
+                <link href="../css/textview.css" rel="stylesheet" type="text/css"/>
                 <link href="http://fonts.googleapis.com/css?family=Rock+Salt|Slabo+27px"
                     rel="stylesheet" type="text/css"/>
-                <script type="text/javascript" src="../js/lyrics.js">/**/</script>
+                <script type="text/javascript" src="../js/textview.js">/**/</script>
             </head>
             <body>
                 <div id="meta"><p id="dropping">This attribute is used when a sound is dropped from a word. For
@@ -265,7 +266,7 @@
                     <q>
                         <xsl:apply-templates select="title" mode="toc"/>
                     </q>
-                    <xsl:text> ft. </xsl:text>
+                    <!-- get featured artists -->
                 </a>
             </div>
         </li>
@@ -285,8 +286,8 @@
                         </iframe>
                     </div>
                 </div>
-                <button style="display: none;">Lyrics</button>
-                <p>
+                <button>Lyrics</button>
+                <p style="display: none;">
                     <xsl:apply-templates select="stanza"/>
                 </p>
             </div>

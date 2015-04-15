@@ -19,6 +19,7 @@
 form {
   display: inline-block;
   position: fixed;
+  top: 70px;
   background-color: #fafafa;
   padding: 15px 10px;
   border: #140404;
@@ -57,4 +58,25 @@ button {
   border-color: #8c8c8c;
   font-family:'Slabo 27px', serif;
   color: #140404;
+}
+a:link {
+    text-decoration: none;
+    color:#140404;
+}
+a:visited {
+    text-decoration: none;
+    color:#140404;
+}
+a:hover {
+    text-decoration: none;
+    font-weight:bold;
+    color: black;
+}
+a:active {
+    text-decoration:none;
+    color:#140404;
+}
+ul {
+    list-style-type: none;
+    
 }
