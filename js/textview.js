@@ -15,6 +15,7 @@ window.onload = function(){
     }
     infoBox = document.createElement("div");
     infoBox.id = "infoBox";
+    infoBox.setAttribute("style", "display:none");
     document.body.appendChild(infoBox);
      
 }
@@ -33,6 +34,7 @@ function setButtons(){
     //can use your buttons or mine. 
     var buttons = document.querySelectorAll('button');
     for (var i = 0; i<buttons.length; i++){
+        buttons[i].setAttribute("style", "display:inline");
         buttons[i].setAttribute("onclick", "showHide(this)");
         showHide(buttons[i]);
     }
@@ -70,14 +72,33 @@ function createBoxes(spans){
        if (document.getElementById("deviceRadios") != null){
             document.getElementById("deviceRadios").parentNode.removeChild(document.getElementById("deviceRadios"));
        }
-            
+       document.getElementById("infoBox").setAttribute("style", "display:none");     
        var deviceRadios = document.createElement("form");  
        deviceRadios.setAttribute("id", "deviceRadios");
        deviceRadios.setAttribute("action", "");
+       //do for all
+       var newRadio = document.createElement("input");
+        newRadio.type = "radio";
+        newRadio.name = spans[0].getAttribute("class");
+        newRadio.setAttribute("class", spans[0].getAttribute("class"));
+        newRadio.setAttribute("onclick", "setColors()");
+        newRadio.id = "all"
+        newRadio.checked = true;
+        var newLabel = document.createElement("label")
+        var newText = document.createTextNode("all");
+        newLabel.id = "all"
+        newLabel.setAttribute("onclick", "setColors()");
+        newLabel.appendChild(newRadio);
+        newLabel.setAttribute("class", spans[0].getAttribute("class"));
+        newLabel.name = spans[0].getAttribute("class");
+        newLabel.appendChild(newText);
+        deviceRadios.appendChild(newRadio);
+        deviceRadios.appendChild(newLabel);
+       //end for all
        document.body.appendChild(deviceRadios);
        var distinctSpans = [];
        for (var i = 0; i < spans.length; i++){
-            if (distinctSpans.indexOf(spans[i].getAttribute('data-type')) == -1 ){
+            if (distinctSpans.indexOf(spans[i].getAttribute('data-type')) == -1 && spans[i].getAttribute('data-type') != null){
                 distinctSpans.push(spans[i].getAttribute('data-type'));
                 var newRadio = document.createElement("input");
                 newRadio.type = "radio";
@@ -100,6 +121,7 @@ function createBoxes(spans){
 }
 
 function createBoxesPoetic(){
+    document.getElementById("infoBox").setAttribute("style", "display:none");     
     if (document.getElementById("deviceRadios") != null){
             document.getElementById("deviceRadios").parentNode.removeChild(document.getElementById("deviceRadios"));
     }
@@ -117,6 +139,8 @@ function createBoxesPoetic(){
        newRadio.setAttribute("type", "radio");
        newRadio.name = "poetics";
        newRadio.id = device;
+       if (i == 0)
+        newRadio.checked = true;
        newRadio.setAttribute("onclick", "setColorsPoetic()");
        deviceRadios.appendChild(newRadio);
        newRadio.setAttribute("onclick", "setColorsPoetic()");
@@ -127,11 +151,11 @@ function createBoxesPoetic(){
 }
 
 function dooverall(){
-  //  changeLink("overall.css");
     if (document.getElementById("deviceRadios") != null){
             document.getElementById("deviceRadios").parentNode.removeChild(document.getElementById("deviceRadios"));
        }
-   
+    clearColors();
+    document.getElementById("infoBox").setAttribute("style", "display:none");    
     clearMouseOver("yes");
 }
 
@@ -153,13 +177,12 @@ function domotif(){
 }
 
 function dopoetic(){
-   // changeLink("overall.css");
     var spans = document.querySelectorAll("span.poetics");
     createBoxesPoetic();
     clearMouseOver("yes");
     clearColors();
     for (var i = 0; i < spans.length; i++){
-        if (spans[i].tagName.toLowerCase() == "span")
+    //    if (spans[i].tagName.toLowerCase() == "span")
             spans[i].setAttribute("onmouseover", "popups(this);changeBox(this)");
             spans[i].setAttribute("onmouseout", "setColorsPoetic()");
             spans[i].setAttribute("style", "color:red");
@@ -173,7 +196,7 @@ function doling(){
     clearMouseOver("yes");
     clearColors();
     for (var i = 0; i < spans.length; i++){
-         if (spans[i].tagName.toLowerCase() == "span")
+        // if (spans[i].tagName.toLowerCase() == "span")
             spans[i].setAttribute("onmouseover", "changeBox(this)");
             spans[i].setAttribute("style", "color:red");
     }
@@ -200,6 +223,13 @@ function clearMouseOver(destroy){ //if destroy is yes, remove all children of in
 }
 
 function changeBox(elmt){ //clear all of the other spans before doing this. 
+        if (document.getElementById("infoBox") != null){
+            document.getElementById("infoBox").parentNode.removeChild(document.getElementById("infoBox"));
+            }
+        infoBox = document.createElement("div");
+        infoBox.id = "infoBox";
+        document.body.appendChild(infoBox);
+        
         var myClass = elmt.getAttribute("class");
         // if linguistic or motif, just get the data-type. If poetic, have to get the radio, and only create if radio is selected. 
         var infoBox = document.getElementById("infoBox");
@@ -208,6 +238,10 @@ function changeBox(elmt){ //clear all of the other spans before doing this.
         if (myClass == "poetics"){
             if (document.querySelector('input[name="poetics"]:checked')){
                 var infoSelector = document.querySelector('input[name="poetics"]:checked').getAttribute("id");
+                if (infoSelector == "all"){
+                    infoBox.setAttribute("style", "display:none");
+                    return false;
+                    }
             }
             else
                 return false;
@@ -259,7 +293,7 @@ function clearColors(){ //this could move faster if I passed it only the spans t
     var spans = document.getElementsByTagName("span");
     for (var i = 0; i < spans.length ; i++){
         var span = spans[i];
-        if (span.getAttribute("class") == radio_1 && span.getAttribute('data-type') == radio_2){
+        if (span.getAttribute("class") == radio_1 && (span.getAttribute('data-type') == radio_2 || radio_2 == "all")){
             span.setAttribute("style", "color:red");
             span.setAttribute("onmouseover", "changeBox(this)");
             }
@@ -269,7 +303,7 @@ function clearColors(){ //this could move faster if I passed it only the spans t
 
 function setColorsPoetic(){
     var spans = document.querySelectorAll("span.poetics");
-    if (document.querySelector('input[name="poetics"]:checked'))
+    if (document.querySelector('input[name="poetics"]:checked') && document.querySelector('input[name="poetics"]:checked').getAttribute("id") != "all")
         {var radioVal = document.querySelector('input[name="poetics"]:checked').getAttribute('id');
         clearColors();
         for (var i = 0; i < spans.length ; i++){
@@ -287,21 +321,24 @@ function setColorsPoetic(){
 }
 
 function popups(elmt){ //popups not working properly right now. need to fix these. probably need groups back. 
-  /*  if (document.querySelector('input[name="poetics"]:checked') && elmt.getAttribute("style") != "color:white"){
+    if (document.querySelector('input[name="poetics"]:checked') && elmt.getAttribute("style") != "color:white"){
         clearColors();
         var radioVal = document.querySelector('input[name="poetics"]:checked').getAttribute('id');
         var pointers = elmt.getAttribute("data-".concat(radioVal)).trim().split("/\s+/");
         var song = getClosest(elmt, ".bodyfont");
-        
-        var spans = song.querySelectorAll("span");
+        song.setAttribute("style", "display:none");
+       // var group = '[data-group="' + elmt.getAttribute('data-group') + '"]';
+        var group = elmt.getAttribute('data-group');
+        console.log(group);
+        var spans = song.getElementsByTagName("span");
         for (var i = 0; i < spans.length; i++){
             var num = spans[i].getAttribute('data-num');
-            if (pointers.indexOf(num) > -1){ //not working right. There is a problem with pointing system. Might need groups back? 
+            if (pointers.indexOf(num) > -1 && spans[i].getAttribute('data-group') == group){ //not working right. There is a problem with pointing system. Might need groups back? 
                 spans[i].setAttribute("style", "color:red");
             }
         }
         
-    }*/
+    }
 } 
 //popups will clear colors, and then only do the ones that match on hover. On hover out, just run setColorPoetic, since the radio values will not have changed. 
 
