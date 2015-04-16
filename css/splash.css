@@ -104,7 +104,7 @@ div#navbar ul ul li{
     position:fixed;
     top:50px;
 }
-#summerbanner{
+#skbanner{
     background:url(../images/skateboard.jpg) no-repeat;
     background-size:cover;
     width:100%;
@@ -140,6 +140,9 @@ div#navbar ul ul li{
     color:#140404;
     text-align:center;
     margin:5px auto;
+}
+.headfont h1 {
+    font-size: 45px;
 }
 .bodyfont{
     font-family:'Slabo 27px', serif;
@@ -187,6 +190,14 @@ hr{
     list-style:none;
 }
 .leftfont h3 {
+    font-family:'Slabo 27px', serif;
+    font-weight:bold;
+    color:#140404;
+    text-align:left;
+    margin:0px;
+    list-style:none;
+}
+h3 {
     font-family:'Slabo 27px', serif;
     font-weight:bold;
     color:#140404;
