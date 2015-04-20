@@ -3138,7 +3138,7 @@
         <audlink>www.youtube.com/embed/u9alAjHkACM</audlink>
         <stanza speaker="JoeyBada$$" type="intro">
 
-            <li> <AAVE type="album" field="syn" tense="past">We done came up</AAVE></li>
+            <li> <AAVE type="aspect" field="syn" tense="past">We done came up</AAVE></li>
             <li> <success qual="possession">Everybody love <AAVE field="phon" type="dropping" sound="th" position="initial">em</AAVE></success></li>
 
             <li> On the regular</li>

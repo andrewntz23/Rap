@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" height="100%" width="100%">
    <g transform="translate(40, 450)">
-      <text x="213" y="-420" text-anchor="middle" font-size="20px">B4.DA.$$</text>
+      <text x="166" y="-420" text-anchor="middle" font-size="20px">Rejex</text>
       <line x1="20"
             x2="20"
             y1="0"
@@ -9,13 +9,13 @@
             stroke="black"
             stroke-width="1"/>
       <line x1="20"
-            x2="426"
+            x2="332"
             y1="0"
             y2="0"
             stroke="black"
             stroke-width="1"/>
       <line x1="20"
-            x2="426"
+            x2="332"
             y1="-100"
             y2="-100"
             stroke="black"
@@ -23,7 +23,7 @@
             stroke-dasharray="8 4"
             stroke-width="1"/>
       <line x1="20"
-            x2="426"
+            x2="332"
             y1="-200"
             y2="-200"
             stroke="black"
@@ -31,7 +31,7 @@
             stroke-dasharray="8 4"
             stroke-width="1"/>
       <line x1="20"
-            x2="426"
+            x2="332"
             y1="-300"
             y2="-300"
             stroke="black"
@@ -39,7 +39,7 @@
             stroke-dasharray="8 4"
             stroke-width="1"/>
       <line x1="20"
-            x2="426"
+            x2="332"
             y1="-400"
             y2="-400"
             stroke="black"
@@ -68,36 +68,36 @@
       <text x="10" y="-375" text-anchor="end">190</text>
       <text x="10" y="-395" text-anchor="end">200</text>
       <rect x="48"
+            y="-38"
+            stroke="black"
+            stroke-width=".5"
+            fill="gray"
+            width="30"
+            height="38"/>
+      <text x="63" y="20" text-anchor="middle" font-size="11px">aspect</text>
+      <rect x="95"
             y="-80"
             stroke="black"
             stroke-width=".5"
             fill="gray"
             width="30"
             height="80"/>
-      <text x="63" y="20" text-anchor="middle" font-size="11px">aspect</text>
-      <rect x="95"
-            y="-216"
-            stroke="black"
-            stroke-width=".5"
-            fill="gray"
-            width="30"
-            height="216"/>
       <text x="110" y="20" text-anchor="middle" font-size="11px">contraction</text>
       <rect x="142"
-            y="-186"
+            y="-128"
             stroke="black"
             stroke-width=".5"
             fill="gray"
             width="30"
-            height="186"/>
+            height="128"/>
       <text x="157" y="20" text-anchor="middle" font-size="11px">deletion</text>
       <rect x="189"
-            y="-306"
+            y="-176"
             stroke="black"
             stroke-width=".5"
             fill="gray"
             width="30"
-            height="306"/>
+            height="176"/>
       <text x="204" y="20" text-anchor="middle" font-size="11px">dropping</text>
       <rect x="236"
             y="-12"
@@ -108,28 +108,12 @@
             height="12"/>
       <text x="251" y="20" text-anchor="middle" font-size="11px">negative</text>
       <rect x="283"
-            y="-84"
+            y="-36"
             stroke="black"
             stroke-width=".5"
             fill="gray"
             width="30"
-            height="84"/>
+            height="36"/>
       <text x="298" y="20" text-anchor="middle" font-size="11px">tense</text>
-      <rect x="331"
-            y="-20"
-            stroke="black"
-            stroke-width=".5"
-            fill="gray"
-            width="30"
-            height="20"/>
-      <text x="346" y="20" text-anchor="middle" font-size="11px">compound</text>
-      <rect x="378"
-            y="-42"
-            stroke="black"
-            stroke-width=".5"
-            fill="gray"
-            width="30"
-            height="42"/>
-      <text x="393" y="20" text-anchor="middle" font-size="11px">language</text>
    </g>
 </svg>
