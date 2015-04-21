@@ -79,7 +79,34 @@
                                 typically used as follows: <code>&lt;AAVE field="syn" type="aspect"
                                     tense="habitual"&gt;sounds been profound&lt;/AAVE&gt;</code>.
                                 This attribute is accompanied by the tense attribute which describes
-                                one of the tenses used, which are described below: TABLE</p>
+                                one of the tenses used, which are described below:</p>
+                            <table>
+                                <caption>Aspect of AAVE</caption>
+                                <tr>
+                                    <th>Tense</th>
+                                    <th>Example</th>
+                                </tr>
+                                <tr>
+                                    <th>Past</th>
+                                    <td><i>I been/done/did flown it</i></td>
+                                </tr>
+                                <tr>
+                                    <th>Progressive</th>
+                                    <td><i>He been working</i></td>
+                                </tr>
+                                <tr>
+                                    <th>Habitual</th>
+                                    <td><i>He be working Tuesdays</i></td>
+                                </tr>
+                                <tr>
+                                    <th>Present</th>
+                                    <td><i>He be working it</i></td>
+                                </tr>
+                                <tr>
+                                    <th>Future</th>
+                                    <td><i>I'mma/ I gonna fly it</i></td>
+                                </tr>
+                            </table>
                             <h4 id="negative">Negative:</h4>
                             <p>This attribute is used when there is a double negative or a negative
                                 concord. This is commonly seen in phrases like <code>‘Cause it
@@ -94,6 +121,25 @@
                                     &gt;tryna&lt;/AAVE&gt;</code>. The attribute is accompanied with
                                 the word1, word2, and an optional word3 attribute. These describe
                                 the non-concatenated words.</p>
+                            <h3>Compound:</h3>
+                            <p>We use the word compound to desribe when two words are compounded to
+                                form new meaning. For instance, mailman is compound of the word mail
+                                and the word man and is considered an endocentric compound because
+                                the stem, mail, motifies the head, man. There are also exocentric
+                                compounds. For example, the word redhead combines the word red and
+                                the word head, but creates whole new meaning. While endocentric
+                                compounds get their meaning from the head, exocentric compounds
+                                create new meaning from the words. In marking up the compounds we
+                                identify the head, stem, and type (exocentric or endocentric) of the
+                                compound.</p>
+                            <h3>Language:</h3>
+                            <p>Joey has a tendency to steal from ohter languages in his lyrics. Most
+                                notably is his use of Spanish and Jamaican Creole. We have marked up
+                                his uses of other languages by identifying the language that is used
+                                with a lang attribute and a translation of the word with a trans
+                                attribute. Many of the translations are slightly manipulated to give
+                                a better understand of what he means to say rather than a direct
+                                translation of the text. </p>
                         </div>
                     </div>
                 </div>
@@ -103,14 +149,15 @@
                             <h2>Motifs</h2>
                         </div>
                         <div class="leftfont">
-                            <h3>Motif Markup</h3> <p>Joey Bada$$'s raps contain common themes
-                            throughout the corpus; these are motifs. Joey's use of a wide range of
-                            subject matter, in addition to his lyrical complexity and skill, help to
-                            make his music endearing and engaging to his fans. Tracking the
-                            frequency of use of certain motifs across the corpus may reveal
-                            surprising results.</p> <h4 id="Alcohol">Alcohol</h4><p> References to:
-                                brands of alcohol, consumption of alcohol, drinking games, effects
-                                of alcohol, and colloquial terms for types of alcohol. Example:
+                            <h3>Motif Markup</h3>
+                            <p>Joey Bada$$'s raps contain common themes throughout the corpus; these
+                                are motifs. Joey's use of a wide range of subject matter, in
+                                addition to his lyrical complexity and skill, help to make his music
+                                endearing and engaging to his fans. Tracking the frequency of use of
+                                certain motifs across the corpus may reveal surprising results.</p>
+                            <h4 id="Alcohol">Alcohol</h4><p> References to: brands of alcohol,
+                                consumption of alcohol, drinking games, effects of alcohol, and
+                                colloquial terms for types of alcohol. Example:
                                     <code>&lt;alcohol&gt;Moet&lt;/alcohol&gt;</code>
                             </p><h4 id="criticism">Criticism</h4><p> Criticism of the rap game and
                                 of phony rappers. Example: <code>&lt;criticism&gt;Slipping like
@@ -125,11 +172,11 @@
                             </p><h4 id="food">Food</h4><p> Any mention of food, in any form. Also,
                                 mentions of consumption of food. Example:
                                     <code>&lt;food&gt;kiwi&lt;/food&gt;</code>
-                            </p><h4 id="geo">Geographical Locations</h4><p> All
-                                references to geographical locations, whether explicit or implicit.
-                                The ref attribute contains the official name of the reference, due
-                                to the fact that some references are nicknames or abbreviations.
-                                Example: <code>&lt;geo ref="Brooklyn"&gt;Brooklyn&lt;/geo&gt;</code>
+                            </p><h4 id="geo">Geographical Locations</h4><p> All references to
+                                geographical locations, whether explicit or implicit. The ref
+                                attribute contains the official name of the reference, due to the
+                                fact that some references are nicknames or abbreviations. Example:
+                                    <code>&lt;geo ref="Brooklyn"&gt;Brooklyn&lt;/geo&gt;</code>
                             </p><h4 id="guns">Guns</h4><p> References to guns, both direct and
                                 indirect. Example: <code>&lt;guns&gt;the heater&lt;/guns&gt;</code>
                             </p><h4 id="haters">Haters</h4><p> This tag denotes those who do not
