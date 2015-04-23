@@ -263,6 +263,9 @@ iframe {
     border-color: maroon;
     border-style: groove;
 }
+iframe.video {
+    height:auto;
+}
 a:link {
     text-decoration: none;
     color:#140404;
