@@ -1,7 +1,7 @@
 start = album
 album = element album { type, meta, song+ }
 meta = element meta { albumTitle, source, year, accessDate }
-albumTitle = element albumTitle { "1999" | "B4.DA.$$" | "SummerKnights" | "Rejex" }
+albumTitle = element albumTitle { "1999" | "B4.DA.$$" | "Summer Knights" | "Rejex" }
 source = element source { text }
 year = element year { text }
 accessDate = element accessDate { text }

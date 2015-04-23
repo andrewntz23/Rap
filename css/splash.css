@@ -246,22 +246,22 @@ h3 {
 }
 
 iframe{
+    overflow: scroll;
     display:inline-block;
     height:500px;
     width:100%;
+    background-color:#fafafa;
+    border-color: maroon;
+    border-style: groove;
+    -moz-transform: scale(0.75);
+    -moz-transform-origin: 0 0;
 }
 .iframe_box{
     padding:20px;
     background-color:#8c8c8c;
     border-radius:10px;
-    width:90%;
+    width:auto;
     margin:50px auto;
-}
-iframe {
-    background-color:#fafafa;
-    width: 100%;
-    border-color: maroon;
-    border-style: groove;
 }
 iframe.video {
     width: 300px;

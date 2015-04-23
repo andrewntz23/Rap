@@ -23,7 +23,7 @@
             <div id="content">
                 <div class="iframe_box">
                     <h2 id="motifs" class="headfont">Motifs</h2>
-                    <div class="bodyfont">
+                    <div class="leftfont">
                         <p>Select one of the albums to see the motif counts</p>
                         <form>
                             <label><input name="graphRadio" type="radio"
@@ -36,8 +36,7 @@
                                     data-href="../svg/B4motifs.svg" /><a href="B4DAmoney.xhtml">B4.DA.$$</a></label>
                         </form><br />
                         <div>
-                            <iframe id="graphbox" name="target" src="../svg/1999motifs.svg"
-                            ></iframe>
+                            <iframe id="graphbox" name="target" src="../svg/1999motifs.svg"/>
                         </div>
                         <p>Motif Graph (Overall) Writeup
                             The bar representing the ‘women’ tag is quite high due to the fact that each instance of “she” and “her” is tagged throughout the corpus, inflating the results (as compared to where they would be if each instance of a woman being referenced was marked rather than every word indicating a woman); additionally, certain songs (“That Gushy,” for instance) contain a count of ‘women’ references that is above average.
@@ -47,7 +46,6 @@
                             Religion was a strong part of Joey’s upbringing, and currently holds profound beliefs involving third-eye mysticism, and this is reflected in the number of occurrences of the ‘religion’ tag.
                             Sex is a somewhat obvious topic of discussion for a young, newly successful rap star..
                         </p>
-                    </div><!-- end bodyfont -->
                     <p>We utilized Cytoscape, a tool that is used for generating Social Network Graphs, in order to graphically display our data in an engaging and interesting way. We generated three social network graphs, each of which use the albums as nodes and their relationship with other nodes as edges. Using xslt we gathered the data on (respectively) artists, producers, and hip hop references, and developed the following three graphs tracking the frequency of appearance of these elements.</p>
                     <h3>Artists who Rapped Together on the Same Song in the Corpus</h3>
                     <iframe src="../svg/FinalRappedTogether.svg"/>
@@ -69,7 +67,7 @@
                             to red by frequency of appearance, with green being lowest and red being
                             highest.</p>
                     </div>
-                    
+                    </div><!-- end leftfont -->
                 </div><!-- ends motif box -->
                 <div class="box">
                     <h2 id="ling" class="headfont">Linguistics</h2>

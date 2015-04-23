@@ -25,40 +25,54 @@
                         />motif</label>
                 </form>
                 <div id="meta">
-                    <p id="dropping">This attribute is used when a sound is dropped from a word. For
-                        example, the word somthin’ would be tagged as <code>&lt;AAVE field="phon"
-                            type="dropping" sound="g" position="initial"
-                            &gt;somthin’&lt;/AAVE&gt;</code>. The tag also includes a sound
+                    <p id="dropping">This attribute is used when a sound is dropped from a word.  The tag also includes a sound
                         attribute that describes the sound that is being dropped as well as the
                         position of that sound.</p>
                     <p id="tense">This attribute is used when the wrong tense is used in a phrase.
-                        For instance ‘We wasn’t on the grind’ would be tagged as <code>We &lt;AAVE
-                            field="syn" type="tense" person="first plural"&gt;wasn't&lt;/AAVE&gt; on
-                            the grind</code>. This is accompanied by the attribute person which is
+                        For instance ‘We wasn’t on the grind’ would be tagged.  This is accompanied by the attribute person which is
                         marked as the person that the word should be, in this case first person
                         plural.</p>
                     <p id="deletion">This attribute is used when a word is deleted from a sentence.
-                        It is like dropping but on a sentence level. The tag is typically used for
-                        copula deletion (the deletion of to be words) and is always an empty tag
-                        that looks like this <code>&lt;AAVE field="syn" type="deletion"
-                            class="copula"/AAVE&gt;</code>. It is accompanied by the class attribute
+                        It is like dropping but on a word level rather than sound. The tag is typically used for
+                        copula deletion (the deletion of to be words) and is always an empty tag.
+                         It is accompanied by the class attribute
                         which describes the word class of the missing word. It can be one of the
                         following: "copula", "preposition", "auxiliary", "to", "object".</p>
                     <p id="aspect">This attribute is used when a phrase uses tense/aspect in a
-                        manner that is different than Standard American English (SAE) The tag is
-                        typically used as follows: <code>&lt;AAVE field="syn" type="aspect"
-                            tense="habitual"&gt;sounds been profound&lt;/AAVE&gt;</code>. This
+                        manner that is different than Standard American English (SAE)  This
                         attribute is accompanied by the tense attribute which describes one of the
-                        tenses used, which are described below: TABLE</p>
+                        tenses used, which are described below: <table border="1" align="right">
+                            <caption>Aspect of AAVE</caption>
+                            <tr>
+                                <th>Tense</th>
+                                <th>Example</th>
+                            </tr>
+                            <tr>
+                                <th>Past</th>
+                                <td><i>I been/done/did flown it</i></td>
+                            </tr>
+                            <tr>
+                                <th>Progressive</th>
+                                <td><i>He been working</i></td>
+                            </tr>
+                            <tr>
+                                <th>Habitual</th>
+                                <td><i>He be working Tuesdays</i></td>
+                            </tr>
+                            <tr>
+                                <th>Present</th>
+                                <td><i>He be working it</i></td>
+                            </tr>
+                            <tr>
+                                <th>Future</th>
+                                <td><i>I'mma/ I gonna fly it</i></td>
+                            </tr>
+                        </table></p>
                     <p id="negative">This attribute is used when there is a double negative or a
-                        negative concord. This is commonly seen in phrases like <code>‘Cause it
-                            &lt;AAVE field="syn" type="negative"&gt;ain’t no fun if the homies don’t
-                            get none&lt;/AAVE&gt;</code>. This has no accompanying attributes</p>
+                        negative concord.  This has no accompanying attributes</p>
                     <p id="contraction">This attribute is used when a word is contracted that is
-                        abnormal to SAE. This means that words like ‘it’s’ will not be tagged by
-                        words like ‘tryna’ will be tagged. The tag looks like <code>&lt;AAVE
-                            field="phon" type="contraction" word1="trying" word2="to"
-                            &gt;tryna&lt;/AAVE&gt;</code>. The attribute is accompanied with the
+                        abnormal to SAE. This means that words like "it’s" will not be tagged by
+                        words like "tryna" will be tagged. The attribute is accompanied with the
                         word1, word2, and an optional word3 attribute. These describe the
                         non-concatenated words.</p>
                     <p id="alcohol"> References to: brands of alcohol, consumption of alcohol,

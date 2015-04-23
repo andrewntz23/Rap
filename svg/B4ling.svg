@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <svg xmlns="http://www.w3.org/2000/svg" height="100%" width="100%">
    <g transform="translate(40, 450)">
-      <text x="213" y="-420" text-anchor="middle" font-size="20px">B4.DA.$$</text>
+      <text x="213" y="-320" text-anchor="middle" font-size="20px">B4.DA.$$</text>
       <line x1="20"
             x2="20"
             y1="0"
-            y2="-420"
+            y2="-320"
             stroke="black"
             stroke-width="1"/>
       <line x1="20"
@@ -16,16 +16,24 @@
             stroke-width="1"/>
       <line x1="20"
             x2="426"
-            y1="-100"
-            y2="-100"
+            y1="-75"
+            y2="-75"
             stroke="black"
             opacity="0.5"
             stroke-dasharray="8 4"
             stroke-width="1"/>
       <line x1="20"
             x2="426"
-            y1="-200"
-            y2="-200"
+            y1="-150"
+            y2="-150"
+            stroke="black"
+            opacity="0.5"
+            stroke-dasharray="8 4"
+            stroke-width="1"/>
+      <line x1="20"
+            x2="426"
+            y1="-225"
+            y2="-225"
             stroke="black"
             opacity="0.5"
             stroke-dasharray="8 4"
@@ -38,98 +46,85 @@
             opacity="0.5"
             stroke-dasharray="8 4"
             stroke-width="1"/>
-      <line x1="20"
-            x2="426"
-            y1="-400"
-            y2="-400"
-            stroke="black"
-            opacity="0.5"
-            stroke-dasharray="8 4"
-            stroke-width="1"/>
       <text x="10" y="0" text-anchor="end">0</text>
-      <text x="10" y="-15" text-anchor="end">10</text>
-      <text x="10" y="-35" text-anchor="end">20</text>
-      <text x="10" y="-55" text-anchor="end">30</text>
-      <text x="10" y="-75" text-anchor="end">40</text>
-      <text x="10" y="-95" text-anchor="end">50</text>
-      <text x="10" y="-115" text-anchor="end">60</text>
-      <text x="10" y="-135" text-anchor="end">70</text>
-      <text x="10" y="-155" text-anchor="end">80</text>
-      <text x="10" y="-175" text-anchor="end">90</text>
-      <text x="10" y="-195" text-anchor="end">100</text>
-      <text x="10" y="-215" text-anchor="end">110</text>
-      <text x="10" y="-235" text-anchor="end">120</text>
-      <text x="10" y="-255" text-anchor="end">130</text>
-      <text x="10" y="-275" text-anchor="end">140</text>
-      <text x="10" y="-295" text-anchor="end">150</text>
-      <text x="10" y="-315" text-anchor="end">160</text>
-      <text x="10" y="-335" text-anchor="end">170</text>
-      <text x="10" y="-355" text-anchor="end">180</text>
-      <text x="10" y="-375" text-anchor="end">190</text>
-      <text x="10" y="-395" text-anchor="end">200</text>
+      <text x="10" y="-15" text-anchor="end">20</text>
+      <text x="10" y="-35" text-anchor="end">40</text>
+      <text x="10" y="-55" text-anchor="end">60</text>
+      <text x="10" y="-75" text-anchor="end">80</text>
+      <text x="10" y="-95" text-anchor="end">100</text>
+      <text x="10" y="-115" text-anchor="end">120</text>
+      <text x="10" y="-135" text-anchor="end">140</text>
+      <text x="10" y="-155" text-anchor="end">160</text>
+      <text x="10" y="-175" text-anchor="end">180</text>
+      <text x="10" y="-195" text-anchor="end">200</text>
+      <text x="10" y="-215" text-anchor="end">220</text>
+      <text x="10" y="-235" text-anchor="end">240</text>
+      <text x="10" y="-255" text-anchor="end">260</text>
+      <text x="10" y="-275" text-anchor="end">280</text>
+      <text x="10" y="-295" text-anchor="end">300</text>
       <rect x="48"
-            y="-80"
+            y="-40"
             stroke="black"
             stroke-width=".5"
             fill="gray"
             width="30"
-            height="80"/>
+            height="40"/>
       <text x="63" y="20" text-anchor="middle" font-size="11px">aspect</text>
       <rect x="95"
-            y="-216"
+            y="-108"
             stroke="black"
             stroke-width=".5"
             fill="gray"
             width="30"
-            height="216"/>
+            height="108"/>
       <text x="110" y="20" text-anchor="middle" font-size="11px">contraction</text>
       <rect x="142"
-            y="-186"
+            y="-93"
             stroke="black"
             stroke-width=".5"
             fill="gray"
             width="30"
-            height="186"/>
+            height="93"/>
       <text x="157" y="20" text-anchor="middle" font-size="11px">deletion</text>
       <rect x="189"
-            y="-306"
+            y="-153"
             stroke="black"
             stroke-width=".5"
             fill="gray"
             width="30"
-            height="306"/>
+            height="153"/>
       <text x="204" y="20" text-anchor="middle" font-size="11px">dropping</text>
       <rect x="236"
-            y="-12"
+            y="-6"
             stroke="black"
             stroke-width=".5"
             fill="gray"
             width="30"
-            height="12"/>
+            height="6"/>
       <text x="251" y="20" text-anchor="middle" font-size="11px">negative</text>
       <rect x="283"
-            y="-84"
-            stroke="black"
-            stroke-width=".5"
-            fill="gray"
-            width="30"
-            height="84"/>
-      <text x="298" y="20" text-anchor="middle" font-size="11px">tense</text>
-      <rect x="331"
-            y="-20"
-            stroke="black"
-            stroke-width=".5"
-            fill="gray"
-            width="30"
-            height="20"/>
-      <text x="346" y="20" text-anchor="middle" font-size="11px">compound</text>
-      <rect x="378"
             y="-42"
             stroke="black"
             stroke-width=".5"
             fill="gray"
             width="30"
             height="42"/>
+      <text x="298" y="20" text-anchor="middle" font-size="11px">tense</text>
+      <rect x="331"
+            y="-10"
+            stroke="black"
+            stroke-width=".5"
+            fill="gray"
+            width="30"
+            height="10"/>
+      <text x="346" y="20" text-anchor="middle" font-size="11px">compound</text>
+      <rect x="378"
+            y="-21"
+            stroke="black"
+            stroke-width=".5"
+            fill="gray"
+            width="30"
+            height="21"/>
       <text x="393" y="20" text-anchor="middle" font-size="11px">language</text>
    </g>
 </svg>

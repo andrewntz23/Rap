@@ -9,7 +9,6 @@ let $AAVE := $info//li/AAVE
 let $Ccount := count($AAVE[@class='copula'])
 let $Acount := count($AAVE[@class='auxiliary'])
 let $Tcount := count($AAVE[@class='to'])
-let $Ocount := count($AAVE[@class='object'])
 let $Pcount := count($AAVE[@class='preposition'])
 return 
 <table>
@@ -24,7 +23,6 @@ return
     <th>{$Ccount}</th>
     <th>{$Acount}</th>
     <th>{$Tcount}</th>
-    <th>{$Ocount}</th>
     <th>{$Pcount}</th>
     </tr>
 </table>
