@@ -264,7 +264,8 @@ iframe {
     border-style: groove;
 }
 iframe.video {
-    height:auto;
+    width: 300px;
+    height: 300px;
 }
 a:link {
     text-decoration: none;

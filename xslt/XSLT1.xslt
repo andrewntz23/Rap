@@ -294,7 +294,6 @@
     <xsl:template match="stanza">
         <xsl:apply-templates/>
         <br/>
-        <xsl:apply-templates select="li"/>
     </xsl:template>
     <xsl:template match="li">
         <xsl:apply-templates/>
