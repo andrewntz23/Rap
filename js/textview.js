@@ -222,7 +222,7 @@ function clearMouseOver(destroy){ //if destroy is yes, remove all children of in
     
 }
 
-function changeBox(elmt){ //clear all of the other spans before doing this. 
+function changeBox(elmt){ 
         if (document.getElementById("infoBox") != null){
             document.getElementById("infoBox").parentNode.removeChild(document.getElementById("infoBox"));
             }
@@ -249,7 +249,12 @@ function changeBox(elmt){ //clear all of the other spans before doing this.
         else
             var infoSelector = elmt.getAttribute('data-type');
         var descrip = document.querySelector('#meta #'.concat(infoSelector)).cloneNode(true);
+        var link = document.createElement("a");
+        link.href = "../xhtml/methodology.xhtml#".concat(infoSelector);
+        var linkText = document.createTextNode("For more information about this tag, click here.");
+        link.appendChild(linkText);
         infoBox.appendChild(descrip);
+        infoBox.appendChild(link);
         
         if (myClass == "ling")
             {
@@ -277,7 +282,8 @@ function changeBox(elmt){ //clear all of the other spans before doing this.
 function clearColors(){ //this could move faster if I passed it only the spans that need to be changed. If performance starts to be an issue, do this. 
     var spans = document.getElementsByTagName("span");
     for (var i = 0; i < spans.length ; i++){
-        spans[i].setAttribute("style", "color:white");
+      //  spans[i].setAttribute("style", "color:white");
+        spans[i].removeAttribute("style");
     }
     
     
@@ -308,8 +314,16 @@ function setColorsPoetic(){
         clearColors();
         for (var i = 0; i < spans.length ; i++){
             var span = spans[i];
-            if (span.hasAttribute('data-'.concat(radioVal)))
+            if (span.hasAttribute('data-'.concat(radioVal)) ){
+            //deal with problem of child spans overwriting this information
+              /*  var childSpans = span.getElementsByTagName("span");
+               if (childSpans.length >= 1){
+                    for (var j = 0; j < childSpans.length; j++){
+                        childSpans[j].removeAttribute("style");
+                        }
+                }*/ 
                 span.setAttribute("style", "color:rgb(144,6,6)");
+                }
         }
     }
     else {
@@ -326,14 +340,15 @@ function popups(elmt){ //popups not working properly right now. need to fix thes
         var radioVal = document.querySelector('input[name="poetics"]:checked').getAttribute('id');
         var pointers = elmt.getAttribute("data-".concat(radioVal)).trim().split("/\s+/");
         var song = getClosest(elmt, ".bodyfont");
-        song.setAttribute("style", "display:none");
+     //   song.setAttribute("style", "display:none");
        // var group = '[data-group="' + elmt.getAttribute('data-group') + '"]';
         var group = elmt.getAttribute('data-group');
-        console.log(group);
-        var spans = song.getElementsByTagName("span");
+        var spans = document.getElementsByTagName("span");
         for (var i = 0; i < spans.length; i++){
             var num = spans[i].getAttribute('data-num');
-            if (pointers.indexOf(num) > -1 && spans[i].getAttribute('data-group') == group){ //not working right. There is a problem with pointing system. Might need groups back? 
+            //console.log(group);
+            //console.log(pointers);
+            if (pointers.indexOf(num) > -1 && spans[i].getAttribute('data-group') == group){ 
                 spans[i].setAttribute("style", "color:rgb(144,6,6)");
             }
         }
