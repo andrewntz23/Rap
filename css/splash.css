@@ -245,16 +245,27 @@ h3 {
     margin:5px;
 }
 
-iframe{
+iframe#graphbox {
     overflow: scroll;
     display:inline-block;
     height:500px;
     width:100%;
     background-color:#fafafa;
+}
+iframe.img {
+    height: 450px;
+    width: 700px;
+    display:inline-block;
     border-color: maroon;
     border-style: groove;
-    -moz-transform: scale(0.75);
-    -moz-transform-origin: 0 0;
+    margin: auto;
+}
+iframe.lingGraph {
+    height: 400px;
+    width: 500px;
+    display: inline-block;
+    margin: 25px 25px;
+    background-color: #fafafa;
 }
 .iframe_box{
     padding:20px;
