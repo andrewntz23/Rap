@@ -221,7 +221,6 @@ h3 {
     color:#140404;
     text-align:left;
     margin:0px;
-    text-decoration:underline;
     list-style:none;
 }
 .leftfont code {
@@ -259,6 +258,7 @@ iframe.img {
     border-color: maroon;
     border-style: groove;
     margin: auto;
+    
 }
 iframe.lingGraph {
     height: 400px;
