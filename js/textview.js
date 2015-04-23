@@ -136,15 +136,17 @@ function dooverall(){
             document.getElementById("deviceRadios").parentNode.removeChild(document.getElementById("deviceRadios"));
        }
     clearColors();
+    setDeletionText()
     document.getElementById("infoBox").setAttribute("style", "display:none");    
-    clearMouseOver("yes");
+    clearMouseOver();
 }
 
 function domotif(){
     var spans = document.querySelectorAll("span.motif");
     createBoxes(spans);
-    clearMouseOver("yes");
+    clearMouseOver();
     clearColors();
+    setDeletionText()
     for (var i = 0; i < spans.length; i++){
             spans[i].setAttribute("onmouseover", "changeBox(this)");
             spans[i].setAttribute("style", "color:rgb(144,6,6)");
@@ -157,8 +159,9 @@ function domotif(){
 function dopoetic(){
     var spans = document.querySelectorAll("span.poetics");
     createBoxesPoetic();
-    clearMouseOver("yes");
+    clearMouseOver();
     clearColors();
+    setDeletionText()
     for (var i = 0; i < spans.length; i++){
             spans[i].setAttribute("style", "color:rgb(144,6,6)");
     }
@@ -167,8 +170,9 @@ function dopoetic(){
 function doling(){
     var spans = document.querySelectorAll("span.ling");
     createBoxes(spans);
-    clearMouseOver("yes");
+    clearMouseOver();
     clearColors();
+    setDeletionText();
     for (var i = 0; i < spans.length; i++){
             spans[i].setAttribute("onmouseover", "changeBox(this)");
             spans[i].setAttribute("style", "color:rgb(144,6,6)");
@@ -265,7 +269,8 @@ function clearColors(){ //this could move faster if I passed it only the spans t
     var newText = document.createTextNode(radio_1.concat(radio_2));
     //go through and for all spans if they match this, set color. 
     clearColors();
-    clearMouseOver("no");
+    clearMouseOver();
+    setDeletionText()
     var spans = document.getElementsByTagName("span");
     for (var i = 0; i < spans.length ; i++){
         var span = spans[i];
@@ -277,9 +282,31 @@ function clearColors(){ //this could move faster if I passed it only the spans t
 
 }
 
+function setDeletionText(){
+    var spans = document.querySelectorAll('span[data-type="deletion"]');
+    var radio_1 = document.querySelector('input[name="cssRadio"]:checked').getAttribute('id');
+    //clear all first
+    for (var i = 0; i < spans.length; i++){
+        while (spans[i].hasChildNodes())
+           spans[i].removeChild(spans[i].lastChild); 
+    }
+    //break if overall
+    if (radio_1 != "ling")
+        return;
+    var radio_2 = document.querySelector('input[name="'.concat(radio_1, '"]:checked')).getAttribute('id');   
+    if (radio_2 == "all" || radio_2 == "deletion"){
+        for (var i = 0; i < spans.length; i++){
+            var newText = document.createTextNode("[".concat(spans[i].getAttribute('data-class'), "] "));
+            spans[i].appendChild(newText);
+        }
+    }
+}
+
 function setColorsPoetic(){
+    
     var spans = document.querySelectorAll("span.poetics");
     clearMouseOver();
+    setDeletionText();
     if (document.querySelector('input[name="poetics"]:checked') && document.querySelector('input[name="poetics"]:checked').getAttribute("id") != "all")
         {var radioVal = document.querySelector('input[name="poetics"]:checked').getAttribute('id');
         clearColors();
@@ -293,7 +320,7 @@ function setColorsPoetic(){
         }
     }
     else {
-        for (var i = 0; i < spans.length ; i++){
+        for (var i = 0; i < spans.length; i++){
             var span = spans[i];
                 span.setAttribute("style", "color:rgb(144,6,6)");
         }
