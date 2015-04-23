@@ -1,9 +1,7 @@
 /*overall thing to do: the page will have a radio with 4 options somewhere near the top, allowing you to switch between the views. The radios will be overall, poetic, motif, linguistic. Clicking one of 
-will launch this javascript. First thing it should do is change the css of the file. Then, based on what is highlighted, grab the spans that we want. Create a box with radio options for different types
-of tag or attribute in the case of the thing. On clicking one of those, go through and only keep highlighted those that match it. On hover of a span, if text color!=white, change the contents in the 
+will launch this javascript. Grab the spans that we want. Create a box with radio options for different types
+of tag or attribute in the case of the thing. On clicking one of those, go through and only keep highlighted those that match it. On hover of a span, change the contents in the 
 little information box at the bottom. make sure setting everything to lowercase.*/
-
-//changes that need to go into the xslt: make the radios. see if we can add a class for markup type, or a data-tagtype="something". 
 
 //set up all the action listeners.
 window.onload = function(){
@@ -21,17 +19,6 @@ window.onload = function(){
 }
 
 function setButtons(){
-    //create a button which will show all p tags, and then hide all p tags. 
-    /*var tags = document.querySelectorAll('a[href="#top"]');
-    for (var i = 0; i < tags.length; i++){
-        var newButton = document.createElement("button");
-        var newText = document.createTextNode("show lyrics");
-        newButton.appendChild(newText);
-        newButton.setAttribute("onclick", "showHide(this)");
-        tags[i].parentNode.insertBefore(newButton, tags[i].nextSibling.nextSibling);
-        showHide(newButton);
-    }*/ 
-    //can use your buttons or mine. 
     var buttons = document.querySelectorAll('button');
     for (var i = 0; i<buttons.length; i++){
         buttons[i].setAttribute("style", "display:inline");
@@ -60,12 +47,6 @@ function showHide(elmt){
         }
     }
 }
-
-/*function changeLink(newLink){
-    var findlink = document.getElementById("secondaryCss");
-    findlink.setAttribute('href', newLink);
-}
-*/
 
 function createBoxes(spans){
        //delete boxes if they exist, and if not, create some
@@ -159,15 +140,12 @@ function dooverall(){
     clearMouseOver("yes");
 }
 
-//these names wil have to be changed to the correct thing. 
 function domotif(){
-  //  changeLink("overall.css");
     var spans = document.querySelectorAll("span.motif");
     createBoxes(spans);
     clearMouseOver("yes");
     clearColors();
     for (var i = 0; i < spans.length; i++){
-        if (spans[i].tagName.toLowerCase() == "span")
             spans[i].setAttribute("onmouseover", "changeBox(this)");
             spans[i].setAttribute("style", "color:rgb(144,6,6)");
     }
@@ -182,21 +160,16 @@ function dopoetic(){
     clearMouseOver("yes");
     clearColors();
     for (var i = 0; i < spans.length; i++){
-    //    if (spans[i].tagName.toLowerCase() == "span")
-            spans[i].setAttribute("onmouseover", "popups(this);changeBox(this)");
-            spans[i].setAttribute("onmouseout", "setColorsPoetic()");
             spans[i].setAttribute("style", "color:rgb(144,6,6)");
     }
 }
 
 function doling(){
- //   changeLink("overall.css");
     var spans = document.querySelectorAll("span.ling");
     createBoxes(spans);
     clearMouseOver("yes");
     clearColors();
     for (var i = 0; i < spans.length; i++){
-        // if (spans[i].tagName.toLowerCase() == "span")
             spans[i].setAttribute("onmouseover", "changeBox(this)");
             spans[i].setAttribute("style", "color:rgb(144,6,6)");
     }
@@ -204,7 +177,7 @@ function doling(){
 
 //paige's will have information from the thing. Ben's will be the motif descriptions. 
 
-function clearMouseOver(destroy){ //if destroy is yes, remove all children of infoBox. param set so that i can choose to not remove when changing colors. should I? 
+function clearMouseOver(){ //if destroy is yes, remove all children of infoBox. param set so that i can choose to not remove when changing colors. should I? 
     var spans = document.getElementsByTagName("span")
     for (var i = 0; i < spans.length; i++){
         if (spans[i].hasAttribute("onmouseover")){
@@ -215,10 +188,7 @@ function clearMouseOver(destroy){ //if destroy is yes, remove all children of in
         }
         
     }
-    if (destroy=="yes"){
-        while (infoBox.hasChildNodes())
-                infoBox.removeChild(infoBox.lastChild);
-        }
+
     
 }
 
@@ -309,20 +279,16 @@ function clearColors(){ //this could move faster if I passed it only the spans t
 
 function setColorsPoetic(){
     var spans = document.querySelectorAll("span.poetics");
+    clearMouseOver();
     if (document.querySelector('input[name="poetics"]:checked') && document.querySelector('input[name="poetics"]:checked').getAttribute("id") != "all")
         {var radioVal = document.querySelector('input[name="poetics"]:checked').getAttribute('id');
         clearColors();
         for (var i = 0; i < spans.length ; i++){
             var span = spans[i];
             if (span.hasAttribute('data-'.concat(radioVal)) ){
-            //deal with problem of child spans overwriting this information
-              /*  var childSpans = span.getElementsByTagName("span");
-               if (childSpans.length >= 1){
-                    for (var j = 0; j < childSpans.length; j++){
-                        childSpans[j].removeAttribute("style");
-                        }
-                }*/ 
                 span.setAttribute("style", "color:rgb(144,6,6)");
+                span.setAttribute("onmouseover", "popups(this);changeBox(this)");
+                span.setAttribute("onmouseout", "setColorsPoetic()");
                 }
         }
     }
@@ -334,30 +300,25 @@ function setColorsPoetic(){
     }
 }
 
-function popups(elmt){ //popups not working properly right now. need to fix these. probably need groups back. 
+function popups(elmt){ //for some reason seems to be working only with single pointer groups. or maybe it has to do with being contained in other tags?
     if (document.querySelector('input[name="poetics"]:checked') && elmt.getAttribute("style") != "color:white"){
         clearColors();
+        elmt.setAttribute("style", "color:rgb(144,6,6)");
         var radioVal = document.querySelector('input[name="poetics"]:checked').getAttribute('id');
-        var pointers = elmt.getAttribute("data-".concat(radioVal)).trim().split("/\s+/");
-        var song = getClosest(elmt, ".bodyfont");
-     //   song.setAttribute("style", "display:none");
-       // var group = '[data-group="' + elmt.getAttribute('data-group') + '"]';
+        var pointers = elmt.getAttribute("data-".concat(radioVal)).split(/\s+/);
+        var song = getClosest(elmt, "p");
         var group = elmt.getAttribute('data-group');
-        var spans = document.getElementsByTagName("span");
+        var spans = song.getElementsByTagName("span");
         for (var i = 0; i < spans.length; i++){
             var num = spans[i].getAttribute('data-num');
-            //console.log(group);
-            //console.log(pointers);
-            if (pointers.indexOf(num) > -1 && spans[i].getAttribute('data-group') == group){ 
+            if (pointers.indexOf(num) != -1 && spans[i].getAttribute('data-group') == group){ 
                 spans[i].setAttribute("style", "color:rgb(144,6,6)");
             }
         }
+
         
     }
 } 
-//popups will clear colors, and then only do the ones that match on hover. On hover out, just run setColorPoetic, since the radio values will not have changed. 
-
-//popups takes this argument, so use that to find things to match and then run setColorsPoetic on coming out. 
 
 var getClosest = function (elem, selector) {
     var firstChar = selector.charAt(0);
