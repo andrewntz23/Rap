@@ -9,7 +9,7 @@
     </meta>
     <song production="ChuckStrangers">
         <title>Intro</title>
-        <audlink>https://www.youtube.com/embed/WI92jrybHPo</audlink>
+        <audlink>//www.youtube.com/embed/WI92jrybHPo</audlink>
         <stanza speaker="JoeyBada$$" type="intro">
             <li><oldschool><criticism>Back when rappers <AAVE field="syn" type="tense"
                             person="third plural">was</AAVE> really
@@ -71,7 +71,7 @@
     </song>
     <song production="Madlib">
         <title>Blooming Blossoms (Flowers Pt.1)</title>
-        <audlink>https://www.youtube.com/embed/6TB23c2xrWs</audlink>
+        <audlink>//www.youtube.com/embed/6TB23c2xrWs</audlink>
         <stanza speaker="JoeyBada$$" type="verse">
             <li>Now</li>
             <li><AAVE field="syn" type="negative">If I <AAVE field="syn" type="contraction"
@@ -211,7 +211,7 @@
     </song>
     <song production="Madlib">
         <title>Catharsis</title>
-        <audlink>https://www.youtube.com/embed/huwJrQemshM</audlink>
+        <audlink>//www.youtube.com/embed/huwJrQemshM</audlink>
         <stanza speaker="JoeyBada$$" type="verse">
             <li><group label="a" num="1" slantRhyme="2">Vigorous</group>, the <group label="a"
                     num="2" slantRhyme="1" rhyme="3 4">illest</group>
@@ -368,7 +368,7 @@
     </song>
     <song production="LordFinesse">
         <title>Indubitable</title>
-        <audlink>https://www.youtube.com/embed/HexdJfHQXSE</audlink>
+        <audlink>//www.youtube.com/embed/HexdJfHQXSE</audlink>
         <stanza speaker="JoeyBada$$" type="verse">
             <li>I'm <group label="a" num="1" rhyme="3 5">Indubitable</group>, spitting <group
                     label="a" num="2" rhyme="4 6">Pharmaceuticals</group></li>
@@ -490,7 +490,7 @@
     </song>
     <song production="Knxwledge">
         <title>OG Killuminati</title>
-        <audlink>https://www.youtube.com/embed/HdmAi823sqA</audlink>
+        <audlink>//www.youtube.com/embed/HdmAi823sqA</audlink>
         <stanza speaker="Sample" type="intro">
             <li>Yes, <food>Strawberries</food>!</li>
         </stanza>
@@ -547,7 +547,7 @@
     </song>
     <song production="Stuyvesant">
         <title>PantiE Raid</title>
-        <audlink>https://www.youtube.com/embed/GJm7Dm75_Ok</audlink>
+        <audlink>//www.youtube.com/embed/GJm7Dm75_Ok</audlink>
         <stanza speaker="JoeyBada$$" type="verse">
             <li>Now age <AAVE field="syn" type="contraction" word1="is" word2="not">ain't</AAVE>
                 nothing but a <group label="a" num="1" rhyme="2 3">digit</group></li>
@@ -658,7 +658,7 @@
     </song>
     <song production="9thWonder">
         <title>That Gushy</title>
-        <audlink>www.youtube.com/embed/naT2EsF5nRg</audlink>
+        <audlink>//www.youtube.com/embed/naT2EsF5nRg</audlink>
         <stanza speaker="JoeyBada$$" type="verse">
             <li>Now you already know why I'm <group label="a" num="1" rhyme="2">here <women
                         qual="pos">girl</women></group></li>
@@ -816,7 +816,7 @@
     </song>
     <song production="KirkKnight">
         <title>Fantom</title>
-        <audlink>www.youtube.com/embed/pCibuW5JqF0</audlink>
+        <audlink>//www.youtube.com/embed/pCibuW5JqF0</audlink>
         <stanza speaker="JoeyBada$$" type="intro">
             <li><popculture ref="StarWars">The force will be with you always</popculture></li>
             <li><criticism>Yo, <hiphop ref="NickiMinaj">Nicki</hiphop> can't even
@@ -912,7 +912,7 @@
     </song>
     <song production="KirkKnight">
         <title>Silent Knight</title>
-        <audlink>www.youtube.com/embed/cYzk2-NrBvU</audlink>
+        <audlink>//www.youtube.com/embed/cYzk2-NrBvU</audlink>
         <stanza speaker="Sample" type="intro">
             <li><popculture ref="StarWars">The force will be with you....always</popculture></li>
         </stanza>
@@ -1063,7 +1063,7 @@
     </song>
     <song production="MFDoom">
         <title>Oh Deer (Beddar Daze)</title>
-        <audlink>www.youtube.com/embed/NadAIg8EaUQ</audlink>
+        <audlink>//www.youtube.com/embed/NadAIg8EaUQ</audlink>
         <stanza speaker="JoeyBada$$" type="verse">
             <li>I see you <success qual="possession">sitting on the top, in your better
                     phase</success></li>
@@ -1164,7 +1164,7 @@
     </song>
     <song production="Bagirba">
         <title>DSL (Da Special List)</title>
-        <audlink>www.youtube.com/embed/Gd3szlYFHAY</audlink>
+        <audlink>//www.youtube.com/embed/Gd3szlYFHAY</audlink>
         <stanza speaker="JoeyBada$$" type="intro">
             <li>(Damn, UH! I make the whole place warm then)</li>
             <li>(Damn, UH! I make the whole place warm then) I make the whole place</li>
@@ -1299,7 +1299,7 @@
     </song>
     <song production="KirkKnight">
         <title>Update</title>
-        <audlink>www.youtube.com/embed/wD41ughGEsE</audlink>
+        <audlink>//www.youtube.com/embed/wD41ughGEsE</audlink>
         <stanza speaker="JoeyBada$$" type="hook">
             <li>We should go out on a date, on a date, on a date, on a <group label="a" num="1"
                     rhyme="2 3 4">(date)</group></li>
@@ -1446,7 +1446,7 @@
     </song>
     <song production="JackThwagger">
         <title>Little Rachel</title>
-        <audlink>www.youtube.com/embed/P6mTtxWFLe8</audlink>
+        <audlink>//www.youtube.com/embed/P6mTtxWFLe8</audlink>
         <stanza speaker="JoeyBada$$" type="intro">
             <li>Uh, I swear this shit <AAVE field="syn" type="contraction" word1="is" word2="not"
                     >ain't</AAVE> right</li>
@@ -1534,7 +1534,7 @@
     </song>
     <song production="Cyne">
         <title>This Feelin'</title>
-        <audlink>www.youtube.com/embed/Oq05icYkEbo</audlink>
+        <audlink>//www.youtube.com/embed/Oq05icYkEbo</audlink>
         <stanza speaker="JoeyBada$$" type="verse">
             <li>Never used to like waking up in the <group label="a" num="1" rhyme="2"
                     >morning</group></li>
