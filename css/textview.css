@@ -52,14 +52,6 @@ label {
   color: #140404;
   
 }
-button {
-  background-color: #fafafa;
-  border-style: dashed;
-  border-width: thin;
-  border-color: #8c8c8c;
-  font-family:'Slabo 27px', serif;
-  color: #140404;
-}
 ul {
     list-style-type: none;
 }

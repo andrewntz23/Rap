@@ -171,12 +171,28 @@ div#navbar ul ul li{
 }
 table {
     border-collapse: collapse;
-    margin: auto;
+    display:inline-block;
+    margin:auto;
+    vertical-align:top;
 }
 
-table, td, th {
+table, td {
     border: thin solid white;
     text-align: center;
+    border: thin solid #140404;
+}
+th {
+    text-align: center;
+    color:#140404;
+    background-color:#fafafa;
+    border: thin solid #140404;
+}
+.alignleft {
+    float: left;
+    width: 70%;
+}
+.alignleft {
+    float: right;
 }
 .box{
     padding:20px;
@@ -258,7 +274,7 @@ iframe.img {
     border-color: maroon;
     border-style: groove;
     margin: auto;
-    
+    background-color:whitesmoke;
 }
 iframe.lingGraph {
     height: 400px;
@@ -266,6 +282,8 @@ iframe.lingGraph {
     display: inline-block;
     margin: 25px 25px;
     background-color: #fafafa;
+    border-color: maroon;
+    border-style: groove;
 }
 .iframe_box{
     padding:20px;
@@ -297,4 +315,12 @@ a:active {
 }
 #meta{
     display:none;
+}
+button {
+  background-color: #fafafa;
+  border-style: dashed;
+  border-width: thin;
+  border-color: #8c8c8c;
+  font-family:'Slabo 27px', serif;
+  color: #140404;
 }
