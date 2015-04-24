@@ -41,7 +41,8 @@
                     <p id="aspect">This attribute is used when a phrase uses tense/aspect in a
                         manner that is different than Standard American English (SAE)  This
                         attribute is accompanied by the tense attribute which describes one of the
-                        tenses used, which are described below: <table border="1" align="right">
+                        tenses used, which are described below:</p> 
+                    <table border="1">
                             <caption>Aspect of AAVE</caption>
                             <tr>
                                 <th>Tense</th>
@@ -67,7 +68,7 @@
                                 <th>Future</th>
                                 <td><i>I'mma/ I gonna fly it</i></td>
                             </tr>
-                        </table></p>
+                        </table>
                     <p id="negative">This attribute is used when there is a double negative or a
                         negative concord.  This has no accompanying attributes</p>
                     <p id="contraction">This attribute is used when a word is contracted that is
